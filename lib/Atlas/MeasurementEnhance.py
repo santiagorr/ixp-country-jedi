@@ -148,8 +148,8 @@ def aslinksplus( data, teh_radix ):
    '''
    aslinks = {'_nodes': set(), '_links': set() }
    has_radix = False
-   if isinstance(teh_radix, Radix):
-      has_radix = True
+   #if isinstance(teh_radix, Radix):
+      #has_radix = True
    if 'result' in data:
       res = data['result']
       last_resp_hop_nr = None
@@ -159,7 +159,8 @@ def aslinksplus( data, teh_radix ):
          ips = __ipsetforhop( hop )
          this_hop_ases = set()
          for ip in ips:
-            if has_radix and teh_radix.search_best( ip ):
+            #if has_radix and teh_radix.search_best( ip ):
+            if teh_radix.search_best( ip ):
                node = teh_radix.search_best( ip )
                nodename = node.data['name']
                ## prepend with '_' to be able to disambiguate from 'AS'
