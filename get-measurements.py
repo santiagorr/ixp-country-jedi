@@ -130,7 +130,23 @@ def main():
          data = filter_cruft( data )
          assert 'edst' not in repr( data ), data
          tr = ripe.atlas.sagan.TracerouteResult( data )
+         ip_list = tr.ip_path
+         hops = []
+         for i in ip_list:
+             hops.append(i[0])
+         outdatatraixroute = []
+         outdatatraixroute.append( {'msm_id': msm_id,
+             'ip_path' : hops
+         } )
+         outfortraixroute = "%s/msmtraix.%s.json" % (RESULTDIR, msm_id )
+         with open(outfortraixroute,'w') as outfile:
+             json.dump(outdatatraixroute, outfile)
+
          tracetxt = MeasurementPrint.trace2txt( data )
+         #hops_ips = []
+
+         #print ("tracetxt: " + tracetxt)
+         
          src_prb_id = data['prb_id']
          src_prb = probes_by_id[ src_prb_id ]
          dst_prb_id = None
