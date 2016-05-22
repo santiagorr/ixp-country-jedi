@@ -1,3 +1,19 @@
+# This ixp-country-jedi integrates traIXroute
+
+Follow the same directions until the get-measurements step. This version will
+create a traixroute.json file inside the working directory, that will have to
+be used as input for traIXroute. You can get a ixp-country-jedi-able traIXroute
+version at:
+
+[https://github.com/slowr/traIXroute](https://github.com/slowr/traIXroute)
+
+follow the instructions in its README.md
+
+After traIXroute completes, continue with the original ixp-country-jedi steps.
+
+
+
+
 
 Probe mesh measurements
 
