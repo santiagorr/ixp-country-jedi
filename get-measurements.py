@@ -136,10 +136,8 @@ def main():
          ip_list = tr.ip_path
          hops = []
          for i in ip_list:
-            if(i[0] != None):
+            if len(i) > 1:
                hops.append(i[0])
-            else:
-               hops.append("0")
 
          tracetxt = MeasurementPrint.trace2txt( data )
          #hops_ips = []
