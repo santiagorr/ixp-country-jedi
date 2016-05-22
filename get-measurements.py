@@ -133,7 +133,8 @@ def main():
          ip_list = tr.ip_path
          hops = []
          for i in ip_list:
-             hops.append(i[0])
+            if len(i) > 1:
+               hops.append(i[0])
          outdatatraixroute = []
          outdatatraixroute.append( {'msm_id': msm_id,
              'ip_path' : hops
