@@ -116,6 +116,9 @@ def main():
    MeasurementEnhance.setCacheOnly( True )
    if not os.path.exists(RESULTDIR):
       os.makedirs(RESULTDIR)
+   
+   outdatatraixroute = []
+
    def process_msm( msm_spec, protocol ):
       # msm_spec has msm_id
       msm_id = msm_spec['msm_id']
@@ -133,14 +136,10 @@ def main():
          ip_list = tr.ip_path
          hops = []
          for i in ip_list:
-             hops.append(i[0])
-         outdatatraixroute = []
-         outdatatraixroute.append( {'msm_id': msm_id,
-             'ip_path' : hops
-         } )
-         outfortraixroute = "%s/msmtraix.%s.json" % (RESULTDIR, msm_id )
-         with open(outfortraixroute,'w') as outfile:
-             json.dump(outdatatraixroute, outfile)
+            if(i[0] != None):
+               hops.append(i[0])
+            else:
+               hops.append("0")
 
          tracetxt = MeasurementPrint.trace2txt( data )
          #hops_ips = []
@@ -195,6 +194,10 @@ def main():
             'tracetxt': tracetxt,
             'locations': list(locs)
          } )
+
+         outdatatraixroute.append( {'msm_id': msm_id,'ip_path' : hops, 'src_prb_id' : src_prb_id, 'dst_prb_id': dst_prb_id } )
+   
+
       with open(outfilename,'w') as outfile:
          json.dump( outdata, outfile, indent=2 )
    ## loop over measurements
@@ -204,6 +207,10 @@ def main():
         process_msm(m,4)
    for m in msms['v6']:
         process_msm(m,6)
+
+   with open("traixroute.json",'w') as outfile:
+       json.dump(outdatatraixroute, outfile, indent=2 )
+
 #   msm_list = msms['v4'] + msms['v6']
 #   for m in msm_list:
 #   child_pid = os.fork()
