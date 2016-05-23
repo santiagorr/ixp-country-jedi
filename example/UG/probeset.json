@@ -1,0 +1,168 @@
+[
+  {
+    "country_code": "UG", 
+    "dists": {
+      "Kampala,UG": 2.977609503231084
+    }, 
+    "tags": [
+      "core", 
+      "no-nat", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable"
+    ], 
+    "lat": 0.3175, 
+    "asn_v4": 3491, 
+    "asn_v6": null, 
+    "lon": 32.5995, 
+    "address_v6": null, 
+    "probe_id": 14951, 
+    "address_v4": "63.223.24.74"
+  }, 
+  {
+    "country_code": "UG", 
+    "dists": {
+      "Kampala,UG": 3.0124985646621703
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable"
+    ], 
+    "lat": 0.3195, 
+    "asn_v4": 36997, 
+    "asn_v6": null, 
+    "lon": 32.5995, 
+    "address_v6": null, 
+    "probe_id": 10855, 
+    "address_v4": "41.190.138.12"
+  }, 
+  {
+    "country_code": "UG", 
+    "dists": {
+      "Kampala,UG": 0.6246646759921767
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 0.3175, 
+    "asn_v4": 36997, 
+    "asn_v6": null, 
+    "lon": 32.5775, 
+    "address_v6": null, 
+    "probe_id": 24311, 
+    "address_v4": "41.190.131.54"
+  }, 
+  {
+    "country_code": "UG", 
+    "dists": {
+      "Kampala,UG": 1.5880336518858256
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 0.3275, 
+    "asn_v4": 327687, 
+    "asn_v6": null, 
+    "lon": 32.5675, 
+    "address_v6": null, 
+    "probe_id": 14900, 
+    "address_v4": "196.43.135.1"
+  }, 
+  {
+    "country_code": "UG", 
+    "dists": {
+      "Kampala,UG": 0.974105747449963
+    }, 
+    "tags": [
+      "home", 
+      "wimax", 
+      "system-v3", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 0.3085, 
+    "asn_v4": 29032, 
+    "asn_v6": null, 
+    "lon": 32.5795, 
+    "address_v6": null, 
+    "probe_id": 10843, 
+    "address_v4": "41.220.10.74"
+  }, 
+  {
+    "country_code": "UG", 
+    "dists": {
+      "Kampala,UG": 1.165731481814389
+    }, 
+    "tags": [
+      "nat", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 0.3215, 
+    "asn_v4": 37063, 
+    "asn_v6": null, 
+    "lon": 32.5805, 
+    "address_v6": null, 
+    "probe_id": 12168, 
+    "address_v4": "41.77.73.213"
+  }, 
+  {
+    "country_code": "UG", 
+    "dists": {
+      "Kampala,UG": 1.13095484653919
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 0.3075, 
+    "asn_v4": 37063, 
+    "asn_v6": null, 
+    "lon": 32.5805, 
+    "address_v6": null, 
+    "probe_id": 23471, 
+    "address_v4": "41.77.73.213"
+  }, 
+  {
+    "country_code": "UG", 
+    "dists": {
+      "Kampala,UG": 3.728009325549463
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable"
+    ], 
+    "lat": 0.3475, 
+    "asn_v4": 37100, 
+    "asn_v6": 37100, 
+    "lon": 32.5775, 
+    "address_v6": "2c0f:feb0:4:2::2e", 
+    "probe_id": 24600, 
+    "address_v4": "105.21.64.46"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "countries": [
+    "UG"
+  ], 
+  "locations": {
+    "Kampala,UG": {
+      "lat": 0.314269, 
+      "lon": 32.5729
+    }
+  }, 
+  "measurement-types": [
+    "probe-mesh"
+  ], 
+  "country-stats": {
+    "UG": {
+      "routed_asns": 26
+    }
+  }, 
+  "ixps": {
+    "UIXP": {
+      "peeringlans": [
+        "196.223.25.0/25", 
+        "2001:43f8:130::/64"
+      ]
+    }
+  }, 
+  "targets": []
+}
