@@ -204,8 +204,8 @@ path.domain {
          .radius(100)
          .distortion(3); */
       function cellcolor( d ) {
-        if(d.data.traixroute){
-          if( d.data.traixroute[0].in_country ) { return "green"; }
+        if(d.data.traixroute){ //need to remove d.data.in_country
+          if( d.data.traixroute[0].in_country || d.data.in_country ) { return "green"; }
           if( ! d.data.traixroute[0].in_country ) { return "blue"; }
 
         }
