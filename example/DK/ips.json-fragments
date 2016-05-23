@@ -1,0 +1,1071 @@
+{"ip": "194.255.42.65", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "192.168.248.42", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "87.104.246.130", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 35376}
+{"ip": "87.104.246.131", "hostname": "tengiga.arcen-pop-0102-a-01.profibernet.dk", "lon": null, "location": "", "lat": null, "asn": 35376}
+{"ip": "2001:6c8:40::10", "hostname": "arcnqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2001:6c8:40::11", "hostname": "alb2nqp7.dk.ip.tdc.net", "lon": null, "location": null, "lat": null, "asn": 3292}
+{"ip": "194.255.57.50", "hostname": "cpe.serial6-1.dk-ejb-a14.ejby.dk.telia.net", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "2001:7f8:1f:0:3:1027:59:0", "hostname": "", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "195.184.124.105", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 9167}
+{"ip": "77.243.32.237", "hostname": "ae2-0.cr1.kold.gc-net.eu", "lon": 9.47216, "location": "Kolding,South Denmark,DK", "lat": 55.4904, "asn": 42525}
+{"ip": "2a01:2b0:0:20::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12552}
+{"ip": "2a01:2b0:0:11::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12552}
+{"ip": "93.176.95.21", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "80.71.128.235", "hostname": "n-xchg.parknet.dk", "lon": null, "location": "", "lat": null, "asn": 197301}
+{"ip": "93.176.95.23", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "93.176.95.22", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "185.31.76.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 60422}
+{"ip": "2001:16d8:dd40:16:fa1a:67ff:fe4d:7255", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16150}
+{"ip": "152.115.64.73", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "152.115.64.72", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2a01:2b0:0:44::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12552}
+{"ip": "80.91.252.113", "hostname": "kbn-bb4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "213.248.70.30", "hostname": "altibox-ic-311091-kbn-b3.c.telia.net", "lon": null, "location": "", "lat": null, "asn": 1299}
+{"ip": "83.88.10.182", "hostname": "ae1-0.hrttv1nqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "152.115.64.75", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "152.115.64.74", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "81.228.94.33", "hostname": "ld-h-c3-link.se.telia.net", "lon": 13.19321, "location": "Lund,Sk\u00e5ne,SE", "lat": 55.70584, "asn": 3301}
+{"ip": "192.38.59.48", "hostname": "te0-2-0.edge2.aau.dk", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "2a03:5440:1:1613::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "77.243.32.175", "hostname": "10ge4-5.ar3.kold.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2a01:7e8:1:200::29", "hostname": "ae4-0.ipv6.taas11cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "83.136.89.253", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "77.233.230.162", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "86.58.227.97", "hostname": "te0-0-0-0.core.alb-1.jay.net", "lon": null, "location": "", "lat": null, "asn": 16095}
+{"ip": "77.233.230.161", "hostname": "gc-peer.kbh.ip.nianet.dk", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "10.6.255.254", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "83.88.18.53", "hostname": "ae0-0.vbynqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"lat": null, "ip": "195.95.241.1", "lon": null, "location": "", "asn": 42355}
+{"ip": "80.91.253.231", "hostname": "kbn-bb4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "94.126.176.26", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "2a01:2b0:0:43::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12552}
+{"ip": "62.115.114.166", "hostname": "s-bb3-link.telia.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 1299}
+{"ip": "192.38.7.26", "hostname": "ge-dix.gc-net.eu", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "193.89.252.6", "hostname": "cpe.xe-2-1-0-922.hrnqe10.dk.customer.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "172.28.60.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "193.163.102.206", "hostname": "anchor.dk-hostmaster.dk", "lon": 12.36328, "location": "Ballerup,Capital Region,DK", "lat": 55.73165, "asn": 39839}
+{"ip": "62.242.207.122", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "91.195.58.3", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 21060}
+{"ip": "80.196.98.213", "hostname": "ae11-0.kdnqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2001:7f8:1::a501:2552:1", "hostname": "nlams0001-rc1.ip-only.net", "lon": 4.88969, "location": "Amsterdam,North Holland,NL", "lat": 52.37403, "asn": 1200}
+{"ip": "2001:16d8:1:1368::1", "hostname": "ae6.se.sto.dch.cr0.port80.se", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 16150}
+{"ip": "2001:6c8:40::12", "hostname": "boanqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "80.71.64.215", "hostname": "hun0-0-0-0.core01.gl3.seas-nve.net", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "77.68.247.114", "hostname": "hjo0101-mpls-pe-01_hjo0401-accn-as-02.bbnnet.dk", "lon": null, "location": "", "lat": null, "asn": 42355}
+{"ip": "62.115.139.74", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "2001:2000:3080:94::2", "hostname": "haproxy-ic-312321-las-b21.c.telia.net", "lon": null, "location": "", "lat": null, "asn": 1299}
+{"ip": "62.115.139.76", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "146.172.105.22", "hostname": "ti3218b400-ae1-0.ti.telenor.net", "lon": null, "location": null, "lat": null, "asn": 2119}
+{"ip": "213.242.108.33", "hostname": "fiberby.bar1.copenhagen1.level3.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 3356}
+{"ip": "62.115.139.72", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "10.0.50.141", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "83.88.22.194", "hostname": "ae1-0.vbrnqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "130.117.50.22", "hostname": "be2708.rcr12.bll01.atlas.cogentco.com", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "62.115.139.78", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "62.115.139.79", "hostname": "m-b-peer4-link.telia.net", "lon": 13.00073, "location": "Malmo,Sk\u00e5ne,SE", "lat": 55.60587, "asn": 1299}
+{"ip": "77.243.32.85", "hostname": "10ge5-1.cr1.taas.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2a01:7e8:1:200::2e", "hostname": "ae1-0.ipv6.taas1cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "178.155.254.138", "hostname": "b29bfe8a.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "212.98.126.29", "hostname": "10ge5-2.cr1.kold.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2a01:7e8:1:200::2a", "hostname": "ae3-0.ipv6.cr1.kold.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "93.176.95.20", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2001:6c8:41:100:0:94:8000:2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "192.168.110.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "77.243.32.89", "hostname": "ae4-0.taas11cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2001:16d8:1:1375::2", "hostname": "tengi3-2.dk.cph.sydv.cr0.port80.se", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 16150}
+{"ip": "2001:7f8:1f::6939:38:0", "hostname": "", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "213.248.95.30", "hostname": "netgroup-ic-119828-kbn-b3.c.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "62.115.139.174", "hostname": "s-bb4-link.telia.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 1299}
+{"ip": "2001:7f8:d:fc::187", "hostname": "10gigabitethernet1-2.core1.sto1.he.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": ""}
+{"ip": "83.88.30.105", "hostname": "ae0-0.vbrnqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "213.248.74.47", "hostname": "nianet-ic-317437-kbn-b3.c.telia.net", "lon": null, "location": "", "lat": null, "asn": 1299}
+{"ip": "87.116.2.161", "hostname": "gw-bolignet.ip.nianet.dk", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "81.228.88.169", "hostname": "ld-h-c2-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "94.144.2.118", "hostname": "ae15-0.dr01-sj538.ip.telenor.dk", "lon": null, "location": "", "lat": null, "asn": 9158}
+{"ip": "62.115.139.167", "hostname": "kbn-bb3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "80.91.253.245", "hostname": "kbn-b4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "80.91.253.244", "hostname": "kbn-bb4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "130.226.100.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "62.61.140.17", "hostname": "dix1-cr0.dk-tv.net", "lon": null, "location": "", "lat": null, "asn": 15516}
+{"ip": "2001:16d8:1:1357::72", "hostname": "po40.dk.cph.sydv.cr0.port80.se", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 16150}
+{"ip": "62.115.114.68", "hostname": "kbn-bb4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "62.115.114.69", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "62.115.114.67", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "77.243.32.142", "hostname": "ae0-0.taas1cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "79.142.233.17", "hostname": "79.142.233.17.static.router4.bolignet.dk", "lon": null, "location": "", "lat": null, "asn": 44134}
+{"ip": "10.0.50.133", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "4.68.110.66", "hostname": "aol-level3-1g.losangeles.level3.net", "lon": null, "location": null, "lat": null, "asn": 3356}
+{"ip": "10.0.50.130", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "10.0.50.137", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "149.6.136.49", "hostname": "te0-1-0-1.rcr21.cph01.atlas.cogentco.com", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "77.243.32.229", "hostname": "77-243-32-229.taas1mp1dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "93.176.95.8", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2001:16d8:1:1306::73", "hostname": "vl1306.se.mlm.wtc.cr0.port80.se", "lon": 13.00073, "location": "Malmo,Sk\u00e5ne,SE", "lat": 55.60587, "asn": 16150}
+{"ip": "4.69.203.50", "hostname": "ae-2-3609.ear1.stockholm2.level3.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 3356}
+{"ip": "93.176.95.169", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "77.243.32.90", "hostname": "ae3-0.cr1.kold.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "10.161.29.126", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "93.176.92.252", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2001:16d8:dd00:d5::1", "hostname": "gw-214.cph-01.dk.sixxs.net", "lon": null, "location": "", "lat": null, "asn": 16150}
+{"ip": "93.176.92.254", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "90.185.4.241", "hostname": "ae7.mr1.vby.dk.ip.fullrate.dk", "lon": null, "location": "", "lat": null, "asn": 39554}
+{"ip": "90.185.4.240", "hostname": "ae2.mr5.hoer.dk.ip.fullrate.dk", "lon": null, "location": "", "lat": null, "asn": 39554}
+{"ip": "10.0.50.11", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "185.10.220.238", "hostname": "ve608.boapr1.ip.fiberby.net", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "185.10.220.239", "hostname": "ve608.vbrpr1.ip.fiberby.net", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "213.248.95.42", "hostname": "solido-ic-301044-kbn-b3.c.telia.net", "lon": null, "location": null, "lat": null, "asn": 1299}
+{"ip": "2001:2000:3080:96::1", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "185.10.220.236", "hostname": "ve607.vbypr1.ip.fiberby.net", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "185.10.220.237", "hostname": "ve607.vgcpr1.ip.fiberby.net", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "2a01:2b0:0:46::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12552}
+{"ip": "130.117.3.237", "hostname": "be2306.ccr42.ham01.atlas.cogentco.com", "lon": 10.01534, "location": "Hamburg,Hamburg,DE", "lat": 53.57532, "asn": 174}
+{"ip": "185.10.220.232", "hostname": "ve605.inxpr1.ip.fiberby.net", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "185.10.220.233", "hostname": "ve605.boapr1.ip.fiberby.net", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "2001:948:1:e::3", "hostname": "nl-sar.nordu.net", "lon": 4.88969, "location": "Amsterdam,North Holland,NL", "lat": 52.37403, "asn": 2603}
+{"ip": "2001:7f8:1f:0:1:2552:68:0", "hostname": "", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "109.105.102.41", "hostname": "dk-ore.nordu.net", "lon": 12.50378, "location": "Kongens Lyngby,Capital Region,DK", "lat": 55.77044, "asn": 2603}
+{"lat": null, "ip": "2001:470:28:8b2:6666:b3ff:feb0:ef80", "lon": null, "location": "", "asn": 6939}
+{"ip": "109.105.102.42", "hostname": "ndn-gw.fsknet.dk", "lon": null, "location": "", "lat": null, "asn": 2603}
+{"ip": "::ffff:93.176.92.28", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "212.98.68.238", "hostname": "212-98-68-238.hoer1cr1dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2a01:4f0:2:2::1", "hostname": "bolignet.crt01.dix.zensystems.net", "lon": null, "location": null, "lat": null, "asn": 28717}
+{"ip": "83.88.12.143", "hostname": "ae1-0.vbynqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "77.233.240.49", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "93.176.95.132", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "93.176.95.134", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2a01:630:0:80::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 39839}
+{"ip": "87.72.140.129", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 15516}
+{"ip": "93.176.95.163", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "79.160.112.244", "hostname": "244.79-160-112.customer.lyse.net", "lon": null, "location": null, "lat": null, "asn": 29695}
+{"ip": "195.69.118.41", "hostname": "", "lon": 13.00073, "location": "Malmo,Sk\u00e5ne,SE", "lat": 55.60587, "asn": ""}
+{"ip": "93.176.95.60", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "79.142.224.10", "hostname": "router4_1.prod.bolignet.dk", "lon": null, "location": "", "lat": null, "asn": 44134}
+{"ip": "192.38.7.44", "hostname": "", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "77.243.33.201", "hostname": "ge2-19.cr1.taas.gc-net.eu", "lon": null, "location": null, "lat": null, "asn": 42525}
+{"ip": "93.176.94.191", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "5.103.23.108", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "80.91.249.217", "hostname": "s-b5-link.telia.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 1299}
+{"ip": "109.238.53.30", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12617}
+{"ip": "2a01:2b0:0:3b::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12552}
+{"ip": "2001:7f8:1f:0:5:9469:18:0", "hostname": "", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "85.89.248.136", "hostname": "gi0-1.ir08.ejb2.ip.as25384.net", "lon": null, "location": "", "lat": null, "asn": 25384}
+{"ip": "85.89.248.135", "hostname": "gi0-1.ir07.prv2.ip.as25384.net", "lon": null, "location": "", "lat": null, "asn": 25384}
+{"ip": "62.116.194.3", "hostname": "62-116-194-3-static.equipment.wnb.dk", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "80.249.209.203", "hostname": "nl-sar.nordu.net", "lon": 4.88969, "location": "Amsterdam,North Holland,NL", "lat": 52.37403, "asn": 1200}
+{"ip": "213.248.66.145", "hostname": "kbn-b1-geth2-3.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "2.107.72.122", "hostname": "2-107-72-122-static.dk.customer.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "213.248.66.146", "hostname": "telia-dk-106842-kbn-b1.c.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "77.243.33.185", "hostname": "ge2-12-cr1.taas.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "62.115.136.36", "hostname": "s-bb4-link.telia.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 1299}
+{"ip": "185.24.168.229", "hostname": "185.24.168.229.ip4.gigabit.dk", "lon": null, "location": "", "lat": null, "asn": 60876}
+{"ip": "83.88.23.197", "hostname": "ae0-0.boanqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2001:948:2:17::1", "hostname": "dk-ore.nordu.net", "lon": 12.50378, "location": "Kongens Lyngby,Capital Region,DK", "lat": 55.77044, "asn": 2603}
+{"ip": "152.115.70.86", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "152.115.70.85", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "195.215.109.51", "hostname": "telia.xe-7-3-1-10.boanqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2001:1448:a:8300::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "2001:2000:3080:994::2", "hostname": "globalconnect-ic-305232-kbn-b3.c.telia.net", "lon": null, "location": null, "lat": null, "asn": 1299}
+{"ip": "2001:978:2:d::d:2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "62.61.128.22", "hostname": "gi4-11.1000m.rc00-hor.aplus.dk", "lon": null, "location": "", "lat": null, "asn": 15516}
+{"ip": "10.12.8.254", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "2001:6c8:200:900:220:4aff:fec5:5b06", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2a01:7e8:1:200::1d", "hostname": "ae3.ipv6.cr1.hamb.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2001:7f8:3d::1b1b:0:1", "hostname": "10ge15-8.core1.ham1.he.net", "lon": 10.01534, "location": "Hamburg,Hamburg,DE", "lat": 53.57532, "asn": ""}
+{"ip": "216.66.83.102", "hostname": "gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net", "lon": null, "location": "", "lat": null, "asn": 6939}
+{"ip": "80.71.64.180", "hostname": "ten0-3-1-3.core01.taa4.seas-nve.net", "lon": 12.29216, "location": "Taastrup,Capital Region,DK", "lat": 55.65173, "asn": 44869}
+{"ip": "90.185.5.41", "hostname": "ae0.mr1.hoer.dk.ip.fullrate.dk", "lon": null, "location": "", "lat": null, "asn": 39554}
+{"ip": "216.66.83.101", "hostname": "10ge1-2.core1.cph1.he.net", "lon": null, "location": "", "lat": null, "asn": 6939}
+{"ip": "83.88.26.35", "hostname": "ae1-0.arcnqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "148.122.9.26", "hostname": "cybercity-2.ti.telenor.net", "lon": null, "location": "", "lat": null, "asn": 2119}
+{"ip": "148.122.9.25", "hostname": "ti3218b400-ae2-0.ti.telenor.net", "lon": null, "location": "", "lat": null, "asn": 2119}
+{"ip": "81.166.123.112", "hostname": "112.81-166-123.customer.lyse.net", "lon": null, "location": null, "lat": null, "asn": 29695}
+{"ip": "83.88.26.33", "hostname": "ae0-0.arcnqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "93.160.57.81", "hostname": "xe-2-0-0-105.vbynqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2a03:a480:ffff:ff35::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "4.68.71.10", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3356}
+{"ip": "62.115.139.173", "hostname": "kbn-bb4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "86.52.0.79", "hostname": "5634004f.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "93.160.57.82", "hostname": "93-160-57-82.ip.computopic.dk", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "77.243.32.246", "hostname": "ae1-0.ar5.taas.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "77.243.32.245", "hostname": "ae4-0.cr1.taas.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "46.21.38.165", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "46.21.38.164", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "10.124.0.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "213.155.141.253", "hostname": "s-b3-link.telia.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 1299}
+{"ip": "77.233.230.154", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "130.225.242.237", "hostname": "10g-ly2.ly0.core.fsknet.dk", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "213.155.141.254", "hostname": "hurricane-ic-134866-s-b3.c.telia.net", "lon": null, "location": "", "lat": null, "asn": 1299}
+{"ip": "46.21.35.238", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "46.21.35.239", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "130.225.242.238", "hostname": "10g-ly0.ly2.core.fsknet.dk", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "149.6.136.18", "hostname": "tm-networks.demarc.cogentco.com", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "194.255.216.14", "hostname": "0xc2ffd80e.linknet.dk.telia.net", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "81.228.72.27", "hostname": "hlm2-td2-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "212.73.252.14", "hostname": "viaplay-ab.edge3.stockholm2.level3.net", "lon": null, "location": "", "lat": null, "asn": 3356}
+{"ip": "93.176.94.47", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "109.232.79.221", "hostname": "tengigabitethernet5-4.c6509-mpls-ab-net2.herning.dk", "lon": null, "location": "", "lat": null, "asn": 49010}
+{"ip": "194.255.216.13", "hostname": "0xc2ffd80d.linknet.dk.telia.net", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "87.54.8.197", "hostname": "xe-3-2-0-0.alb2nqp7.dk.ip.tdc.net", "lon": 12.36381, "location": "Albertslund,Capital Region,DK", "lat": 55.65691, "asn": 3292}
+{"ip": "2001:16d8:dd6f:1:6666:b3ff:fe93:ce52", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16150}
+{"ip": "10.10.3.50", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "94.101.208.166", "hostname": "94-101-208-166.cr1.kold.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2a02:2190:1004:da::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 65101}
+{"ip": "2a02:2190:1004:da::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 65101}
+{"ip": "62.115.40.165", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "2a03:a480:ffff:ff49::3", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "2a03:a480:ffff:ff49::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "87.72.229.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 15516}
+{"ip": "80.196.98.214", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "194.255.169.221", "hostname": "0xc2ffa9dd.linknet.dk.telia.net", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "194.255.169.220", "hostname": "0xc2ffa9dc.linknet.dk.telia.net", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "194.255.169.223", "hostname": "0xc2ffa9df.linknet.dk.telia.net", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "194.255.169.222", "hostname": "0xc2ffa9de.linknet.dk.telia.net", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "195.215.109.190", "hostname": "telenor-dk.xe-5-2-0-0.alb2nqp7.dk.ip.tdc.net", "lon": null, "location": null, "lat": null, "asn": 3292}
+{"ip": "62.115.112.54", "hostname": "kbn-bb4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "5.56.159.245", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "5.56.159.246", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "89.186.160.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "109.105.97.1", "hostname": "se-fre.nordu.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 2603}
+{"ip": "83.88.29.67", "hostname": "ae1-0.abnqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "212.10.15.200", "hostname": "d40a0fc8.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "83.88.29.65", "hostname": "ae2-0.aegnqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "77.243.32.158", "hostname": "ae1-0.taas1cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "94.144.2.146", "hostname": "aa15-0.dr01-sj011.ip.telenor.dk", "lon": null, "location": "", "lat": null, "asn": 9158}
+{"ip": "212.98.127.86", "hostname": "212-98-127-86.taas1cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "109.105.97.9", "hostname": "se-tug.nordu.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 2603}
+{"ip": "2001:16d8:dd40:16::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16150}
+{"ip": "2001:16d8:dd6f:1::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16150}
+{"ip": "192.168.1.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "149.6.136.50", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "62.198.40.1", "hostname": "0x3ec62801.inet.dsl.telianet.dk", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "62.61.140.18", "hostname": "hor2-cr6.dk-tv.net", "lon": null, "location": "", "lat": null, "asn": 15516}
+{"ip": "77.243.33.233", "hostname": "ae3-0.taas1cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "93.176.95.179", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2001:948:0:f052::2", "hostname": "tge-nordunet.ly1.ok.fsknet.dk", "asn": 2603}
+{"ip": "86.58.226.21", "hostname": "te0-1-0-1.core.asr-2.glo.jay.net", "lon": null, "location": "", "lat": null, "asn": 16095}
+{"ip": "193.106.165.1", "hostname": "6165001-cl69.boa.fiberby.dk", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "93.176.95.174", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "86.58.226.25", "hostname": "te0-0-0-1.core.asr-2.glo.jay.net", "lon": null, "location": "", "lat": null, "asn": 16095}
+{"ip": "2001:2000:1080:16::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "2001:2000:1080:16::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "::ffff:93.176.90.112", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "2001:1900:4:3::10e", "hostname": "tdcdenmark-level3.copenhagen1.level3.net", "lon": null, "location": "", "lat": null, "asn": 3356}
+{"ip": "77.243.32.174", "hostname": "10ge4-5.ar5.taas.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "93.176.95.61", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "10.0.42.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "2a01:7e8:1:200::4a", "hostname": "ae1-0.ipv6.hamb1cr1de.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "81.228.93.103", "hostname": "ld-h-c3-link.se.telia.net", "lon": 13.19321, "location": "Lund,Sk\u00e5ne,SE", "lat": 55.70584, "asn": 3301}
+{"ip": "62.115.40.166", "hostname": "globalconnect-ic-305232-kbn-b3.c.telia.net", "lon": null, "location": null, "lat": null, "asn": 1299}
+{"ip": "2a01:7e8:1:200::4e", "hostname": "ae1-0.ipv6.hoer1cr1dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2a01:7e8:1:200::4d", "hostname": "ae2-0.ipv6.cr1.kold.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "188.180.105.9", "hostname": "xe-3-1-0-100.alb2nqe10.dk.ip.tdc.net", "lon": 12.36381, "location": "Albertslund,Capital Region,DK", "lat": 55.65691, "asn": 3292}
+{"ip": "2001:16d8:1:136a::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16150}
+{"ip": "2001:16d8:1:136a::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16150}
+{"ip": "2a02:9d0:93::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12617}
+{"ip": "93.176.94.94", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2a02:9d0:93::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12617}
+{"ip": "77.243.33.21", "hostname": "ge1-15.cr1.kold.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "212.98.127.109", "hostname": "ae6-0.taas1cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "77.243.33.22", "hostname": "77-243-33-22.cr1.kold.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "212.10.15.106", "hostname": "d40a0f6a.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "2001:7f8:1f:0:4:2525:26:1", "hostname": "", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "80.71.81.35", "hostname": "jaynet.1g.bord01.gl3.seas-nve.net", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "4.69.162.69", "hostname": "ae-116-3502.bar1.copenhagen2.level3.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 3356}
+{"ip": "212.10.15.108", "hostname": "d40a0f6c.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "130.117.3.161", "hostname": "be2303.ccr41.ham01.atlas.cogentco.com", "lon": 10.01534, "location": "Hamburg,Hamburg,DE", "lat": 53.57532, "asn": 174}
+{"ip": "81.228.88.24", "hostname": "ld-h-c2-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "2001:2000:3080:3a3::2", "hostname": "iponly-ic-316341-kbn-b4.c.telia.net", "lon": null, "location": "", "lat": null, "asn": 1299}
+{"ip": "83.88.22.34", "hostname": "ae2-0.vbynqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "212.242.8.53", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 9158}
+{"ip": "83.88.0.196", "hostname": "ae6-0.hrnqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "81.228.88.87", "hostname": "m-b-peer4-link.se.telia.net", "lon": 13.00073, "location": "Malmo,Sk\u00e5ne,SE", "lat": 55.60587, "asn": 3301}
+{"ip": "62.115.141.202", "hostname": "s-bb3-link.telia.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 1299}
+{"ip": "87.116.2.162", "hostname": "bgp1-nianet.prod.bolignet.dk", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "80.71.64.214", "hostname": "hun0-0-0-0.core01.taa4.seas-nve.net", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "213.155.135.88", "hostname": "hbg-bb4-link.telia.net", "lon": 10.01534, "location": "Hamburg,Hamburg,DE", "lat": 53.57532, "asn": 1299}
+{"ip": "188.120.84.97", "hostname": "97.84.120.188.andels.net", "lon": null, "location": "", "lat": null, "asn": 28717}
+{"ip": "95.128.31.249", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 198455}
+{"ip": "109.105.102.37", "hostname": "dk-uni.nordu.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 2603}
+{"ip": "109.105.102.38", "hostname": "ndn-gw.fsknet.dk", "lon": null, "location": "", "lat": null, "asn": 2603}
+{"ip": "213.155.135.82", "hostname": "hbg-bb1-link.telia.net", "lon": 10.01534, "location": "Hamburg,Hamburg,DE", "lat": 53.57532, "asn": 1299}
+{"ip": "185.15.72.208", "asn": 203953}
+{"ip": "2001:6c8:200:900::1", "hostname": "eskv-gw1-inet.lyngbol.dk", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "213.155.135.86", "hostname": "hbg-bb4-link.telia.net", "lon": 10.01534, "location": "Hamburg,Hamburg,DE", "lat": 53.57532, "asn": 1299}
+{"ip": "87.104.246.128", "hostname": "ten1-1-101.arcen-core-a-pe-01.profibernet.dk", "lon": null, "location": null, "lat": null, "asn": 35376}
+{"ip": "77.243.33.169", "hostname": "ge2-13-cr1.taas.gc-net.eu", "lon": 12.29216, "location": "Taastrup,Capital Region,DK", "lat": 55.65173, "asn": 42525}
+{"ip": "176.22.248.249", "hostname": "xe-7-2-0-0.alb2nqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"lat": null, "ip": "2001:470:28:8b2::ac10:ff", "lon": null, "location": "", "asn": 6939}
+{"ip": "62.115.139.75", "hostname": "m-b-peer4-link.telia.net", "lon": 13.00073, "location": "Malmo,Sk\u00e5ne,SE", "lat": 55.60587, "asn": 1299}
+{"ip": "80.71.128.225", "hostname": "br1-taastrup-xchg.parknet.dk", "lon": 12.29216, "location": "Taastrup,Capital Region,DK", "lat": 55.65173, "asn": 197301}
+{"ip": "2a01:7e8:1:800::1b9", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "176.22.248.246", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2001:7f8:d:200::41", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "77.243.33.165", "hostname": "ge1-13-taas11cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "176.22.248.245", "hostname": "xe-11-1-1-0.alb2nqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2a01:7e8:1:200::165", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "62.115.139.77", "hostname": "m-b-peer4-link.telia.net", "lon": 13.00073, "location": "Malmo,Sk\u00e5ne,SE", "lat": 55.60587, "asn": 1299}
+{"ip": "217.116.254.58", "hostname": "netgroup.r2.dk-hostmaster.dk", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "77.68.255.118", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42355}
+{"ip": "2a01:7e8:1:200::49", "hostname": "ae1.ipv6.cr1.kold.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2a03:5440:1:1601::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "2a03:5440:1:1601::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "80.71.64.182", "hostname": "ten0-1-0-0.dist01.kbhn1.seas-nve.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 44869}
+{"ip": "193.3.157.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 39839}
+{"ip": "93.176.94.45", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "93.176.94.44", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "93.176.81.86", "hostname": "nianet.r2.dk-hostmaster.dk", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "146.172.105.1", "hostname": "ti3004c400-ae1-0.ti.telenor.net", "lon": null, "location": "", "lat": null, "asn": 2119}
+{"ip": "83.88.28.198", "hostname": "ae3-0.bynxu50.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "89.239.204.1", "hostname": "dhcp-89-239-204-1.seas-nve.net", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "77.68.255.237", "hostname": "hobro02-pi-01.bbnnet.dk", "lon": null, "location": "", "lat": null, "asn": 42355}
+{"ip": "77.68.255.239", "hostname": "aalbo02-pi-01.bbnnet.dk", "lon": 9.9187, "location": "Aalborg,North Denmark,DK", "lat": 57.048, "asn": 42355}
+{"ip": "130.226.100.65", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "62.115.139.73", "hostname": "m-b-peer4-link.telia.net", "lon": 13.00073, "location": "Malmo,Sk\u00e5ne,SE", "lat": 55.60587, "asn": 1299}
+{"ip": "93.176.94.49", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "94.126.177.134", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "62.115.142.213", "hostname": "kbn-b4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "83.88.18.54", "hostname": "ae8-0.vbrnqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2a03:a480:1000:3713::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "2a01:4260:28:fffe::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "77.233.238.134", "hostname": "hq0.chainbox.dk", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "79.142.233.18", "hostname": "79.142.233.18.static.router4.bolignet.dk", "lon": null, "location": "", "lat": null, "asn": 44134}
+{"ip": "192.38.7.36", "hostname": "xe-1/0/0.br1-soex.ip.cybercity.dk", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "192.38.7.37", "hostname": "xe-3/1/0.br1-albx.ip.cybercity.dk", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "77.233.238.129", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "178.155.254.199", "hostname": "b29bfec7.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "178.155.254.198", "hostname": "b29bfec6.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "192.38.7.30", "hostname": "", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "192.38.7.31", "hostname": "", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "178.155.254.195", "hostname": "b29bfec3.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "195.69.117.187", "hostname": "netnod-ix-com-1500.he.net", "lon": 13.00073, "location": "Malmo,Sk\u00e5ne,SE", "lat": 55.60587, "asn": ""}
+{"ip": "109.105.97.132", "hostname": "dk-ore.nordu.net", "lon": 12.50378, "location": "Kongens Lyngby,Capital Region,DK", "lat": 55.77044, "asn": 2603}
+{"ip": "178.155.254.196", "hostname": "b29bfec4.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "80.71.64.181", "hostname": "ten0-0-0-0.dist01.kbhn1.seas-nve.net", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "178.155.254.190", "hostname": "b29bfebe.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "192.38.7.38", "hostname": "", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "109.105.97.137", "hostname": "nl-sar.nordu.net", "lon": 4.88969, "location": "Amsterdam,North Holland,NL", "lat": 52.37403, "asn": 2603}
+{"ip": "2001:470:0:2ad::2", "hostname": "10ge3-1.core1.cph1.he.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 6939}
+{"ip": "2a02:188:2503:10:c24a:ff:fecc:6ac6", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "83.221.128.124", "hostname": "ix01.cust.ngdc.net", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "2001:470:0:2ad::1", "hostname": "10ge1-1.core1.sto1.he.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 6939}
+{"ip": "212.98.126.37", "hostname": "10ge5-4.cr1.kold.gc-net.eu", "lon": 9.47216, "location": "Kolding,South Denmark,DK", "lat": 55.4904, "asn": 42525}
+{"ip": "79.160.112.245", "hostname": "245.79-160-112.customer.lyse.net", "lon": null, "location": null, "lat": null, "asn": 29695}
+{"ip": "93.176.95.9", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "10.42.112.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "80.249.208.233", "hostname": "ams-ix.ip.nianet.net", "lon": 4.88969, "location": "Amsterdam,North Holland,NL", "lat": 52.37403, "asn": 1200}
+{"ip": "2a03:a480:1000:3714::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "213.155.134.196", "hostname": "kbn-bb3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "2a03:a480:1000:3714::3", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "80.239.132.2", "hostname": "tsd-ic-310075-kbn-b3.c.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "10.10.0.34", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "10.10.0.33", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "188.120.84.166", "hostname": "166.84.120.188.andels.net", "lon": null, "location": "", "lat": null, "asn": 28717}
+{"ip": "2001:878:0:e000:82:e2:f9:bd", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "93.176.95.119", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "93.176.95.126", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "192.168.10.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "93.176.95.180", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "81.228.88.86", "hostname": "ld-h-c2-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "62.115.139.176", "hostname": "s-bb4-link.telia.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 1299}
+{"ip": "192.168.40.9", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "212.98.126.38", "hostname": "212-98-126-38.cr1.kold.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "93.176.94.95", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "149.6.136.29", "hostname": "te0-0-1-1.nr11.b015758-1.cph01.atlas.cogentco.com", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "62.115.139.163", "hostname": "ld-h-peer4-link.telia.net", "lon": 13.19321, "location": "Lund,Sk\u00e5ne,SE", "lat": 55.70584, "asn": 1299}
+{"ip": "62.115.139.162", "hostname": "kbn-b4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "149.6.136.21", "hostname": "be4238.rcr21.cph01.atlas.cogentco.com", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 174}
+{"ip": "149.6.136.22", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "194.19.204.22", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "212.73.252.29", "hostname": "ae53.bar1.stockholm1.level3.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 3356}
+{"ip": "2001:7f8:1::a504:2541:1", "hostname": "", "lon": 4.88969, "location": "Amsterdam,North Holland,NL", "lat": 52.37403, "asn": 1200}
+{"ip": "212.98.127.85", "hostname": "xe-2-0-4-0.taas1cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2a01:4260:28:fffe::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "109.232.79.219", "hostname": "tengigabitethernet4-3.c6509-mpls-torvet.herning.dk", "lon": null, "location": "", "lat": null, "asn": 49010}
+{"ip": "192.168.42.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "94.101.208.196", "hostname": "ge1-10.ar5.taas.gc-net.eu", "lon": 12.29216, "location": "Taastrup,Capital Region,DK", "lat": 55.65173, "asn": 42525}
+{"ip": "62.115.142.216", "hostname": "kbn-bb3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "10.0.0.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "93.176.95.181", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "10.10.0.5", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "10.10.0.6", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "10.10.0.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "10.10.0.2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "81.228.87.3", "hostname": "hlm2-td2-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "77.243.32.230", "hostname": "77-243-32-230.taas1mp1dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "62.115.112.52", "hostname": "kbn-bb4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "91.102.91.30", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12617}
+{"lat": null, "ip": "2a01:7e8:48:1337:ea94:f6ff:fe48:5162", "lon": null, "location": "", "asn": 42525}
+{"ip": "2a01:2b0:0:10::2", "hostname": "segot0001-rc3.ip-only.net", "lon": 11.96679, "location": "Gothenburg,V\u00e4stra G\u00f6taland,SE", "lat": 57.70716, "asn": 12552}
+{"ip": "195.69.117.216", "hostname": "netnod-ix-com-1500.solido.net", "lon": 13.00073, "location": "Malmo,Sk\u00e5ne,SE", "lat": 55.60587, "asn": ""}
+{"ip": "10.0.50.129", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "77.243.32.238", "hostname": "ae1-0.hoer1cr1dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "80.71.64.183", "hostname": "ten0-0-0-0.dist01.kbho1.seas-nve.net", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "62.115.142.212", "hostname": "kbn-bb3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "217.209.228.242", "hostname": "tdc-song-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "213.155.134.204", "hostname": "kbn-bb4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "212.10.13.157", "hostname": "d40a0d9d.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "195.190.128.5", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 25352}
+{"ip": "185.27.112.30", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "195.190.128.6", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 25352}
+{"ip": "4.69.162.65", "hostname": "ae-115-3501.bar1.copenhagen2.level3.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 3356}
+{"ip": "4.69.142.213", "hostname": "ae-1-8.bar2.hamburg1.level3.net", "lon": null, "location": "", "lat": null, "asn": 3356}
+{"ip": "188.228.89.252", "hostname": "188.228.89.252.dynamic.altibox.net", "lon": null, "location": "", "lat": null, "asn": 29695}
+{"ip": "2a00:b920:3:1337::252", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 60422}
+{"ip": "185.10.220.229", "hostname": "ve603.vbypr1.ip.fiberby.net", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "185.10.220.228", "hostname": "ve603.tgcpr1.ip.fiberby.net", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "109.105.98.65", "hostname": "se-fre.nordu.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 2603}
+{"ip": "109.105.98.66", "hostname": "fre-peer3-link.se.telia.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 2603}
+{"ip": "212.98.68.19", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "212.98.68.18", "hostname": "xe-0-2-1-0.hoer1cr1dk.gc-net.eu", "lon": 8.61607, "location": "Holstebro,Central Jutland,DK", "lat": 56.36009, "asn": 42525}
+{"ip": "81.228.73.28", "hostname": "g-ra-c5-link.se.telia.net", "lon": 11.96679, "location": "Gothenburg,V\u00e4stra G\u00f6taland,SE", "lat": 57.70716, "asn": 3301}
+{"ip": "185.10.220.225", "hostname": "ve601.tgccr1.ip.fiberby.net", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "185.10.220.224", "hostname": "ve601.tgcpr1.ip.fiberby.net", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "149.14.112.10", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "213.248.74.46", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "2001:878:0:e000:82:e1:f4:d9", "hostname": "10g-or1.ly3.core.fsknet.dk", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "90.185.56.3", "hostname": "4004ds1-aboes.0.fullrate.ninja", "lon": null, "location": "", "lat": null, "asn": 39554}
+{"ip": "212.10.13.176", "hostname": "d40a0db0.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "93.176.95.124", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "194.255.186.125", "hostname": "0xc2ffba7d.linknet.dk.telia.net", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "86.58.226.13", "hostname": "te0-0-0-1.core.asr-1.glo.jay.net", "lon": null, "location": "", "lat": null, "asn": 16095}
+{"ip": "86.58.226.14", "hostname": "te1-1-1.distr.cat6.glo.jay.net", "lon": null, "location": "", "lat": null, "asn": 16095}
+{"ip": "80.91.246.6", "hostname": "hbg-bb1-link.telia.net", "lon": 10.01534, "location": "Hamburg,Hamburg,DE", "lat": 53.57532, "asn": 1299}
+{"ip": "62.115.139.80", "hostname": "kbn-b4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "77.233.240.50", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "62.115.142.214", "hostname": "kbn-bb3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "77.233.240.53", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "77.233.240.54", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "10.10.2.49", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "212.10.13.155", "hostname": "d40a0d9b.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "93.176.95.79", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "87.72.140.132", "hostname": "ve4031.hvipd1.ip.cxnet.dk", "lon": null, "location": "", "lat": null, "asn": 15516}
+{"ip": "::ffff:93.176.90.3", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "2001:6c8:81:100::c2", "hostname": "gr-1-0-0-10.aegnqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "212.98.126.70", "hostname": "212-98-126-70.cr1.taas.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2001:6c8:81:100::c5", "hostname": "xe-4-3-0-0.alb2nqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2001:6c8:81:100::c6", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "185.128.73.151", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 203646}
+{"ip": "185.128.73.150", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 203646}
+{"ip": "185.128.73.153", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 203646}
+{"ip": "185.128.73.152", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 203646}
+{"ip": "185.128.73.155", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 203646}
+{"ip": "185.128.73.154", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 203646}
+{"ip": "185.128.73.157", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 203646}
+{"ip": "185.128.73.156", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 203646}
+{"ip": "91.143.118.218", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 28717}
+{"ip": "2001:2000:3080:71f::1", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "212.10.15.176", "hostname": "d40a0fb0.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "2001:2000:3080:71f::2", "hostname": "solido-ic-301044-kbn-b3.c.telia.net", "lon": null, "location": null, "lat": null, "asn": 1299}
+{"ip": "130.226.249.122", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "130.226.249.121", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "62.115.136.20", "hostname": "s-bb3-link.telia.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 1299}
+{"ip": "185.10.220.252", "hostname": "ve615.vbrpr1.ip.fiberby.net", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "185.10.220.253", "hostname": "ve615.sbgpr5.ip.fiberby.net", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "185.10.220.250", "hostname": "ve614.tgccr1.ip.fiberby.net", "asn": 42541}
+{"ip": "185.10.220.251", "hostname": "ve614.inxpr1.ip.fiberby.net", "asn": 42541}
+{"ip": "195.215.109.49", "hostname": "telia.xe-1-3-1-10.kdnqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "90.184.72.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 39554}
+{"ip": "78.72.23.188", "hostname": "78-72-23-188-no191.tbcn.telia.com", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "2001:878:0:e000:82:e1:f4:da", "hostname": "10g-ly3.or1.core.fsknet.dk", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "130.185.140.114", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "212.242.27.54", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 9158}
+{"ip": "2001:470:1:423::1", "hostname": "gigabitethernet2-2.core1.cph1.he.net", "lon": null, "location": "", "lat": null, "asn": 6939}
+{"ip": "62.115.142.208", "hostname": "kbn-bb4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "2001:978:3::101", "hostname": "hu0-5-0-0.rcr21.cph01.atlas.cogentco.com", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 174}
+{"ip": "2a02:188:100:6::2", "hostname": "bgp1-nianet.prod.bolignet.dk", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "62.115.11.78", "hostname": "nordunet-ic-157529-kbn-b4.c.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "212.242.27.53", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 9158}
+{"ip": "172.16.0.3", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "213.150.60.75", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 9167}
+{"ip": "62.115.142.207", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "93.176.74.82", "hostname": "vlan191.ten1-4.dr2.ker1.nefnet.dk", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "93.176.94.46", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "178.157.200.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 43557}
+{"ip": "93.176.94.61", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "93.165.155.74", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "93.165.155.73", "hostname": "ae10-0.arcnqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "154.25.1.45", "hostname": "te0-2-0-5.rcr21.cph01.atlas.cogentco.com", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 174}
+{"ip": "93.162.200.150", "hostname": "93-162-200-150-static.dk.customer.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "154.25.1.46", "hostname": "te0-0-1-0.nr11.b015758-1.cph01.atlas.cogentco.com", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 174}
+{"ip": "46.32.128.61", "hostname": "128.61.customer.kjaergaard.dk", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "80.91.245.158", "hostname": "kbn-bb3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "62.115.139.83", "hostname": "ld-h-peer4-link.telia.net", "lon": 13.19321, "location": "Lund,Sk\u00e5ne,SE", "lat": 55.70584, "asn": 1299}
+{"ip": "80.160.0.4", "hostname": "gr-1-0-0-10.aegnqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "85.89.248.150", "hostname": "gi0-1.ir22.ejb2.ip.as25384.net", "lon": null, "location": "", "lat": null, "asn": 25384}
+{"ip": "2001:470:0:2d4::1", "hostname": "100ge6-1.core1.ams1.he.net", "lon": 4.88969, "location": "Amsterdam,North Holland,NL", "lat": 52.37403, "asn": 6939}
+{"ip": "81.228.83.67", "hostname": "hlm2-td2-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "87.116.38.122", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2001:16d8:aaaa:5::2", "hostname": "sixxs-cph-demarc0.cust.ip6.p80.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 16150}
+{"ip": "80.161.105.170", "hostname": "170.128-255.105.161.80.in-addr.arpa", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2a01:4260:28:4201:ea94:f6ff:feba:e7b6", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "2a00:7660:202:0:c24a:ff:fe09:309e", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 60876}
+{"ip": "2a02:2190:f000:cf0f::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 65101}
+{"ip": "5.186.150.59", "hostname": "dhcp-5-186-150-59.ip.fibianet.dk", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "2001:470:0:30e::2", "hostname": "10ge16-1.core1.ham1.he.net", "lon": 10.01534, "location": "Hamburg,Hamburg,DE", "lat": 53.57532, "asn": 6939}
+{"ip": "2001:470:0:30e::1", "hostname": "10ge1-4.core1.cph1.he.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 6939}
+{"ip": "2001:470:0:2f7::1", "hostname": "10ge10-10.core1.fra1.he.net", "lon": 8.68417, "location": "Frankfurt am Main,Hesse,DE", "lat": 50.11552, "asn": 6939}
+{"ip": "130.117.50.178", "hostname": "be2707.rcr12.bll01.atlas.cogentco.com", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "80.91.245.159", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "2001:470:0:2f7::2", "hostname": "10ge3-4.core1.sto1.he.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 6939}
+{"ip": "81.228.87.5", "hostname": "hlm2-td2-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "188.228.0.22", "hostname": "188.228.0.22.dynamic.altibox.net", "lon": null, "location": "", "lat": null, "asn": 29695}
+{"ip": "80.91.249.202", "hostname": "hbg-bb4-link.telia.net", "lon": 10.01534, "location": "Hamburg,Hamburg,DE", "lat": 53.57532, "asn": 1299}
+{"ip": "188.228.0.25", "hostname": "188.228.0.25.dynamic.altibox.net", "lon": null, "location": "", "lat": null, "asn": 29695}
+{"ip": "81.228.87.2", "hostname": "ld-h-c3-link.se.telia.net", "lon": 13.19321, "location": "Lund,Sk\u00e5ne,SE", "lat": 55.70584, "asn": 3301}
+{"ip": "83.88.13.97", "hostname": "ae1-0.kdnqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "87.54.29.189", "hostname": "xe-7-3-0-0.alb2nqp7.dk.ip.tdc.net", "lon": null, "location": null, "lat": null, "asn": 3292}
+{"ip": "146.172.105.45", "hostname": "ti3003c400-ae5-0.ti.telenor.net", "lon": null, "location": "", "lat": null, "asn": 2119}
+{"ip": "217.209.228.241", "hostname": "m-b-peer3-link.se.telia.net", "lon": 13.00073, "location": "Malmo,Sk\u00e5ne,SE", "lat": 55.60587, "asn": 3301}
+{"ip": "83.88.27.92", "hostname": "ae3-0.hrnxu40.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2001:7f8:1f:0:4:4134:30:0", "hostname": "", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "216.66.87.201", "hostname": "ge2-2.core1.cph1.he.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 6939}
+{"ip": "91.209.190.17", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 198452}
+{"ip": "2001:7f8:d:200::187", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "172.28.0.200", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "10.10.3.49", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "88.131.143.115", "hostname": "xe-1-0-0-0.bgt-peer1.mmx.se.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "77.68.255.101", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42355}
+{"ip": "2001:2000:1080:3::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "2a03:5440:1:1607::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "91.143.118.217", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 28717}
+{"ip": "2001:6c8:81:100::3", "hostname": "nianet.xe-4-3-0-0.arcnqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2001:6c8:81:100::4", "hostname": "xe-1-2-0-0.boanqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "80.91.254.3", "hostname": "kbn-bb4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "80.71.72.4", "hostname": "be2.core01.gl3.seas-nve.net", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "2001:6c8:81:100::7", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "178.155.254.209", "hostname": "b29bfed1.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "89.150.163.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 39554}
+{"ip": "2a01:7e8:1:200::6", "hostname": "10ge6-3.ipv6.taas11cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2a02:188:2503:10::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "212.10.15.210", "hostname": "d40a0fd2.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "194.255.42.69", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "80.62.237.233", "hostname": "xe-3-0-0-652.vbrnqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "178.155.254.207", "hostname": "b29bfecf.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "86.58.226.17", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16095}
+{"ip": "2a01:7e8:1:200::22e", "hostname": "ae1-0.ipv6.ar5.taas.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "149.6.136.170", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "2001:878:0:e000:82:e1:f4:fd", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "212.98.69.65", "hostname": "212-98-69-65.cr1.taas.gc-net.eu", "lon": 12.29216, "location": "Taastrup,Capital Region,DK", "lat": 55.65173, "asn": 42525}
+{"ip": "2001:878:0:e000:82:e1:f4:fe", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "79.142.224.1", "hostname": "bgp1-dix.prod.bolignet.dk", "lon": null, "location": "", "lat": null, "asn": 44134}
+{"ip": "77.243.32.86", "hostname": "10ge8-3.taas11cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "193.104.135.57", "hostname": "4135057-cl69.boa.fiberby.dk", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 42541}
+{"ip": "193.104.135.58", "hostname": "4135058-cl69.boa.fiberby.dk", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "93.176.95.161", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "80.62.237.234", "hostname": "cpe.xe-3-0-0-652.vbrnqe10.dk.customer.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2a03:5440:100:42::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "93.176.95.165", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2001:470:1:657::2", "hostname": "gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net", "lon": null, "location": "", "lat": null, "asn": 6939}
+{"ip": "86.58.226.18", "hostname": "te2-1-1.distr.cat6.glo.jay.net", "lon": null, "location": "", "lat": null, "asn": 16095}
+{"ip": "10.100.100.253", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "5.179.89.214", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "77.243.32.166", "hostname": "10ge6-3.taas11cr2dk.gc-net.eu", "lon": 12.29216, "location": "Taastrup,Capital Region,DK", "lat": 55.65173, "asn": 42525}
+{"ip": "5.179.89.213", "hostname": "seas-nve-gw.taas.cust.ip.nianet.dk", "lon": 12.29216, "location": "Taastrup,Capital Region,DK", "lat": 55.65173, "asn": 31027}
+{"ip": "77.243.32.165", "hostname": "10ge6-3.cr1.taas.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2a02:188:100:10::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2a02:188:100:10::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "77.243.32.193", "hostname": "ae1.cr1.kold.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "81.228.72.26", "hostname": "hlm-d2-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "212.10.13.198", "hostname": "d40a0dc6.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "95.130.208.25", "hostname": "r1.dk-hostmaster.dk", "lon": null, "location": "", "lat": null, "asn": 39839}
+{"ip": "2a02:9d0:3000:1::21", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12617}
+{"ip": "212.10.13.193", "hostname": "d40a0dc1.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "212.10.13.191", "hostname": "d40a0dbf.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "212.10.13.196", "hostname": "d40a0dc4.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "93.176.95.175", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "212.10.13.194", "hostname": "d40a0dc2.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "93.176.92.233", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"lat": null, "ip": "195.95.241.59", "lon": null, "location": "", "asn": 42355}
+{"ip": "89.233.20.233", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 9167}
+{"ip": "77.243.33.202", "hostname": "globalconnect.r1.dk-hostmaster.dk", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2001:7f8:1f::1835:1:0", "hostname": "te-dix.ly0.core.fsknet.dk", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "188.228.33.1", "hostname": "188.228.33.1.dynamic.altibox.net", "lon": null, "location": "", "lat": null, "asn": 29695}
+{"ip": "94.101.208.105", "hostname": "ge1-11.taas11cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "87.53.75.210", "hostname": "cpe.xe-2-1-1-103.abnqe10.dk.customer.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2001:7f8:d:200::244", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "94.144.1.131", "hostname": "lo0-1.bb01-sj011.ip.telenor.dk", "lon": null, "location": "", "lat": null, "asn": 9158}
+{"ip": "77.243.32.194", "hostname": "ae1-0.hamb1cr1de.gc-net.eu", "lon": 10.01534, "location": "Hamburg,Hamburg,DE", "lat": 53.57532, "asn": 42525}
+{"ip": "2a01:7e8:1:800::1ba", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "77.66.55.130", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "77.66.55.131", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "77.66.55.32", "hostname": "te0-0-0-0.asr0.taa.cph.ngdc.net", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "188.180.68.133", "hostname": "xe-4-3-0-0.arcnqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "212.10.13.254", "hostname": "d40a0dfe.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "2a03:a480:1000:3113::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "93.176.95.118", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "188.180.68.134", "hostname": "nianet.xe-4-3-0-0.arcnqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2a03:a480:1000:3113::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "93.176.95.115", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "90.184.74.58", "hostname": "3408ds2-vbr.0.fullrate.ninja", "lon": null, "location": "", "lat": null, "asn": 39554}
+{"ip": "93.176.95.117", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "93.176.95.116", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "62.115.142.209", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "212.242.149.168", "hostname": "port351.ds1-op.adsl.cybercity.dk", "lon": null, "location": "", "lat": null, "asn": 9158}
+{"ip": "93.176.95.113", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "192.168.248.22", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "77.243.33.170", "hostname": "77-243-33-170.cr1.taas.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "93.184.194.2", "hostname": "fhrp1.vlan31a.ker1.nefnet.dk", "lon": null, "location": "", "lat": null, "asn": 47304}
+{"ip": "176.22.248.250", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2001:7f8:1f:0:3:1027:58:0", "hostname": "dix.ip.nianet.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "62.115.139.82", "hostname": "kbn-b4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "2a02:7c00::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 21060}
+{"ip": "195.215.109.158", "hostname": "cpe.xe-3-0-0-594.alb2nqe10.dk.customer.tdc.net", "lon": null, "location": null, "lat": null, "asn": 3292}
+{"ip": "86.58.240.193", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16095}
+{"ip": "195.215.109.157", "hostname": "xe-3-0-0-594.alb2nqe10.dk.ip.tdc.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 3292}
+{"ip": "2001:6c8:40::116", "hostname": "alb2nqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "195.215.109.5", "hostname": "xe-4-2-0-0.alb2nqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "195.215.109.6", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "212.10.15.109", "hostname": "d40a0f6d.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "93.176.94.36", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "93.176.94.37", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "93.176.94.38", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "80.71.72.5", "hostname": "po2.dist01.gis.energifyn.net", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "2001:878:0:e264:220:4aff:febf:fc74", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "2a02:2190:1:1::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 65101}
+{"ip": "86.58.227.142", "hostname": "te1-1.core.dix-1.jay.net", "lon": null, "location": "", "lat": null, "asn": 16095}
+{"ip": "213.155.135.179", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "213.155.135.175", "hostname": "kbn-b4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "213.155.135.174", "hostname": "kbn-bb4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "149.14.112.2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "93.176.92.253", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "109.238.49.105", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12617}
+{"ip": "178.155.254.188", "hostname": "b29bfebc.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "109.238.49.106", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12617}
+{"ip": "fe80::c671:feff:fe02:3600", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "213.242.108.77", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3356}
+{"ip": "213.242.108.78", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3356}
+{"ip": "89.239.204.44", "hostname": "dhcp-89-239-204-44.seas-nve.net", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "2001:2000:3018:12::1", "hostname": "kbn-b4-v6.telia.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 1299}
+{"ip": "178.155.254.186", "hostname": "b29bfeba.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "2a02:9d0:0:ff47::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12617}
+{"ip": "178.155.254.184", "hostname": "b29bfeb8.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "80.249.212.84", "hostname": "amsix.tgccr1.ip.fiberby.net", "lon": 4.88969, "location": "Amsterdam,North Holland,NL", "lat": 52.37403, "asn": 1200}
+{"ip": "2001:6c8:40::1c5", "hostname": "aegnqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2a02:188:137:3::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "95.128.31.250", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 198455}
+{"ip": "62.115.142.98", "hostname": "kbn-bb3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "4.68.110.222", "hostname": "telia-level3-10g.copenhagen2.level3.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 3356}
+{"ip": "2001:470:27:8b2::1", "hostname": "stderr-2.tunnel.tserv24.sto1.ipv6.he.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 6939}
+{"ip": "2001:470:27:8b2::2", "hostname": "remote.stderr-2.tunnel.tserv24.sto1.ipv6.he.net", "lon": null, "location": "", "lat": null, "asn": 6939}
+{"ip": "90.185.4.15", "hostname": "te1-1-0.mr1.hoer.dk.ip.fullrate.dk", "lon": null, "location": "", "lat": null, "asn": 39554}
+{"ip": "90.185.4.14", "hostname": "te0-0-0.mr1.abc.dk.ip.fullrate.dk", "lon": null, "location": "", "lat": null, "asn": 39554}
+{"ip": "81.228.88.88", "hostname": "ld-h-c2-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "172.25.23.254", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "87.104.178.227", "hostname": "87-104-178-227-dynamic-customer.profibernet.dk", "lon": null, "location": "", "lat": null, "asn": 35376}
+{"ip": "77.243.32.118", "hostname": "ae1-0.kold1cr2dk.gc-net.eu", "lon": 9.47216, "location": "Kolding,South Denmark,DK", "lat": 55.4904, "asn": 42525}
+{"ip": "2001:470:0:11e::1", "hostname": "ge2-20.core1.sto1.he.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 6939}
+{"ip": "2001:550:0:1000::8275:3a1", "hostname": "be2303.ccr41.ham01.atlas.cogentco.com", "lon": 10.01534, "location": "Hamburg,Hamburg,DE", "lat": 53.57532, "asn": 174}
+{"ip": "83.88.21.227", "hostname": "ae1-0.sknqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2a03:a480:ffff:ff50::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "2a03:a480:ffff:ff50::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "2.105.149.33", "hostname": "ge-1-3-0-1109.strnqu1.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2a01:2b0:0:2c::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12552}
+{"ip": "213.248.95.41", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "149.6.136.221", "hostname": "be4496.rcr21.cph01.atlas.cogentco.com", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "81.228.87.4", "hostname": "ld-h-c3-link.se.telia.net", "lon": 13.19321, "location": "Lund,Sk\u00e5ne,SE", "lat": 55.70584, "asn": 3301}
+{"ip": "212.98.126.46", "hostname": "212-98-126-46.hoer1cr1dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "149.6.136.226", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "149.6.136.225", "hostname": "te0-0-2-2.nr11.b015758-1.cph01.atlas.cogentco.com", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 174}
+{"ip": "212.98.126.45", "hostname": "ae-0-0.hoer1cr1dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "192.168.241.69", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "10.0.50.186", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "92.246.0.153", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 43557}
+{"ip": "212.130.253.38", "hostname": "solido.xe-4-3-0-0.alb2nqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "10.0.50.185", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "212.130.253.37", "hostname": "xe-4-3-0-0.alb2nqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2001:550:0:1000::9a19:12d", "hostname": "te0-2-0-5.rcr21.cph01.atlas.cogentco.com", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 174}
+{"ip": "2001:550:0:1000::9a19:12e", "hostname": "te0-0-1-0.nr11.b015758-1.cph01.atlas.cogentco.com", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 174}
+{"ip": "81.228.88.89", "hostname": "m-b-peer4-link.se.telia.net", "lon": 13.00073, "location": "Malmo,Sk\u00e5ne,SE", "lat": 55.60587, "asn": 3301}
+{"ip": "149.6.136.30", "hostname": "solido.demarc.cogentco.com", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "192.38.7.50", "hostname": "dk-uni.nordu.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "2a02:188:137:1::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "212.73.252.38", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3356}
+{"ip": "212.242.27.57", "hostname": "ge-2-0-0.br1-soex.ip.cybercity.dk", "lon": null, "location": "", "lat": null, "asn": 9158}
+{"ip": "83.88.12.73", "hostname": "ae2-0.bynqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "213.248.70.9", "hostname": "kbn-b4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "2a02:188:101:6::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "192.38.7.58", "hostname": "dix.ip.nianet.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "192.38.7.59", "hostname": "gig3-4.br2.hors.ip.nianet.dk", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "212.73.252.30", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3356}
+{"ip": "78.111.162.241", "hostname": "bolignet.crt01.dix.zensystems.net", "lon": null, "location": null, "lat": null, "asn": 28717}
+{"ip": "212.73.252.37", "hostname": "ae59.bar1.copenhagen2.level3.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 3356}
+{"ip": "77.243.33.166", "hostname": "77-243-33-166.cr2.taas.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "78.111.162.242", "hostname": "bgp1-zen.prod.bolignet.dk", "lon": null, "location": "", "lat": null, "asn": 28717}
+{"ip": "80.71.64.69", "hostname": "hu0-0-0-0.bord01.gl3.seas-nve.net", "lon": null, "location": null, "lat": null, "asn": 44869}
+{"ip": "80.71.64.68", "hostname": "hu0-1-0-0.core01.gl3.seas-nve.net", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "2001:978:2:8::2:2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "2a02:188:137:1::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2a01:7e8:1:200::52", "hostname": "xe-2-0-0-0.ipv6.cr1.arhu.gc-net.eu", "lon": 10.21076, "location": "Aarhus,Central Jutland,DK", "lat": 56.15674, "asn": 42525}
+{"ip": "212.10.13.252", "hostname": "d40a0dfc.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "109.232.79.195", "hostname": "ethernet1-3.n7k-2-absalonsvej.herning.dk", "lon": null, "location": "", "lat": null, "asn": 49010}
+{"ip": "80.71.64.60", "hostname": "hu0-1-0-0.core01.taa4.seas-nve.net", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "109.232.79.197", "hostname": "ethernet1-3.n7k-1-absalonsvej.herning.dk", "lon": null, "location": "", "lat": null, "asn": 49010}
+{"ip": "2a02:188:100:6::1", "hostname": "gw-bolignet.ip.nianet.dk", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "109.232.79.191", "hostname": "ethernet1-2.n7k-1-absalonsvej.herning.dk", "lon": null, "location": "", "lat": null, "asn": 49010}
+{"ip": "109.232.79.193", "hostname": "ethernet1-2.n7k-2-absalonsvej.herning.dk", "lon": null, "location": "", "lat": null, "asn": 49010}
+{"ip": "212.162.18.174", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3356}
+{"ip": "4.69.162.73", "hostname": "ae-117-3503.bar1.copenhagen2.level3.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 3356}
+{"ip": "2001:2000:3080:e0a::2", "hostname": "nianet-ic-317437-kbn-b3.c.telia.net", "lon": null, "location": "", "lat": null, "asn": 1299}
+{"ip": "2001:2000:3080:e0a::1", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "83.88.21.81", "hostname": "ae0-0.alb2nqp7.dk.ip.tdc.net", "lon": 12.36381, "location": "Albertslund,Capital Region,DK", "lat": 55.65691, "asn": 3292}
+{"ip": "192.38.7.93", "hostname": "dixptr.ngdc.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "83.88.21.83", "hostname": "ae1-0.alb2nqp7.dk.ip.tdc.net", "lon": 12.36381, "location": "Albertslund,Capital Region,DK", "lat": 55.65691, "asn": 3292}
+{"ip": "62.115.11.77", "hostname": "kbn-b4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "2001:470:27:321::1", "hostname": "kralian-2.tunnel.tserv24.sto1.ipv6.he.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 6939}
+{"ip": "2001:470:27:321::2", "hostname": "kralian-2-pt.tunnel.tserv24.sto1.ipv6.he.net", "lon": null, "location": "", "lat": null, "asn": 6939}
+{"ip": "4.69.203.54", "hostname": "ae-2-3610.ear1.stockholm2.level3.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 3356}
+{"ip": "2a01:7e8:1:200::166", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2a01:2b0:0:3c::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12552}
+{"ip": "2a03:5440:1:1613::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "2001:16d8:1:1351::70", "hostname": "tengi2-3.nl.ams.tc2.cr0.port80.se", "lon": 4.88969, "location": "Amsterdam,North Holland,NL", "lat": 52.37403, "asn": 16150}
+{"ip": "185.27.112.25", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "4.69.162.77", "hostname": "ae-118-3504.bar1.copenhagen2.level3.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 3356}
+{"ip": "2001:67c:3c0:13::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 197495}
+{"ip": "81.228.88.90", "hostname": "ld-h-c2-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "212.10.15.4", "hostname": "pvja.pvja.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "212.10.15.7", "hostname": "d40a0f07.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "212.10.15.6", "hostname": "dmf-aarhus.dmfmusic.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "10.84.100.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "212.10.15.0", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "212.10.15.2", "hostname": "pool.dmfmusic.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "78.111.162.46", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 28717}
+{"ip": "87.72.229.39", "hostname": "ip2.c58.alb283.cust.comxnet.dk", "lon": null, "location": "", "lat": null, "asn": 15516}
+{"ip": "2a02:188:800:3::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2001:948:0:f040::1", "hostname": "dk-ore.nordu.net", "lon": 12.50378, "location": "Kongens Lyngby,Capital Region,DK", "lat": 55.77044, "asn": 2603}
+{"ip": "2001:948:0:f040::2", "hostname": "tge-nordunet.ly3.ok.fsknet.dk", "asn": 2603}
+{"ip": "2a02:188:800:3::1", "hostname": "gc-peer.kbh.ip.nianet.dk", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "94.126.176.27", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "2a01:2b0:2000:43::6", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12552}
+{"ip": "92.246.0.154", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 43557}
+{"ip": "62.107.15.207", "hostname": "3e6b0fcf.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "78.111.162.45", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 28717}
+{"ip": "83.88.18.51", "hostname": "ae1-0.aegnqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "46.30.120.10", "hostname": "gw.dlx.dk", "lon": null, "location": "", "lat": null, "asn": 47527}
+{"ip": "2001:978:2:d::7:1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "195.215.109.233", "hostname": "xe-3-2-0-0.arcnqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "10.10.2.50", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "195.215.109.234", "hostname": "globalconnect.xe-3-2-0-0.arcnqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "93.176.95.150", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "192.168.152.225", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "62.198.156.236", "hostname": "0x3ec69cec.inet.dsl.telianet.dk", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "93.176.95.157", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2a01:4260:28:4201::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "2a01:7e8:1:800::115", "hostname": "xe-0-2-1-0.ipv6.hoer1cr1dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "77.243.32.117", "hostname": "ae1.cr1.kold.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2a00:7660::254", "hostname": "unassigned.gigabit.dk", "lon": null, "location": "", "lat": null, "asn": 60876}
+{"ip": "2a01:7e8:1:200::51", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "213.155.135.125", "hostname": "kbn-bb3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "46.32.128.57", "hostname": "128.57.customer.kjaergaard.dk", "lon": null, "location": null, "lat": null, "asn": 3308}
+{"ip": "213.155.135.121", "hostname": "kbn-bb4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "212.98.112.34", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "80.71.78.182", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "2001:470:0:11e::2", "hostname": "tserv1.sto1.he.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 6939}
+{"ip": "80.71.78.183", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "193.106.165.65", "hostname": "6165065-cl69.boa.fiberby.dk", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "2001:7f8:d:fb::41", "hostname": "", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": ""}
+{"ip": "2001:6c8:81:100::25", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "62.115.33.109", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "2001:7f8:1f:0:1:6245:93:0", "hostname": "dixptr6.ngdc.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "185.24.169.1", "hostname": "ballerup-core1-v201-ballerup.net.gigabit.dk", "lon": 12.36328, "location": "Ballerup,Capital Region,DK", "lat": 55.73165, "asn": 60876}
+{"ip": "93.176.69.166", "hostname": "herningkommune.cust.arhj7.ip.nianet.dk", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "185.10.220.241", "hostname": "ve609.vbrpr1.ip.fiberby.net", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "185.10.220.240", "hostname": "ve609.vgcpr1.ip.fiberby.net", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "4.69.210.210", "hostname": "ae-1-11.bar1.copenhagen1.level3.net", "lon": null, "location": "", "lat": null, "asn": 3356}
+{"ip": "146.172.105.9", "hostname": "ti9000b400-ae0-0.ti.telenor.net", "lon": null, "location": "", "lat": null, "asn": 2119}
+{"ip": "2a01:7e8:1:200::3d", "hostname": "ae1.ipv6.cr1.kold.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2a01:7e8:1:200::3e", "hostname": "ae1-0.ipv6.kold1cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "130.117.14.34", "hostname": "telia.cph01.atlas.cogentco.com", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 174}
+{"ip": "86.58.240.218", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16095}
+{"ip": "2a01:2b0:0:15::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12552}
+{"ip": "83.88.10.234", "hostname": "ae6-0.alb2nqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2001:2000:1080:7::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "93.176.92.255", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "212.98.126.33", "hostname": "10ge5-3.cr1.kold.gc-net.eu", "lon": 9.47216, "location": "Kolding,South Denmark,DK", "lat": 55.4904, "asn": 42525}
+{"ip": "2001:470:0:30d::1", "hostname": "10ge11-6.core1.ams1.he.net", "lon": 4.88969, "location": "Amsterdam,North Holland,NL", "lat": 52.37403, "asn": 6939}
+{"ip": "2001:470:0:30d::2", "hostname": "10ge15-1.core1.ham1.he.net", "lon": 10.01534, "location": "Hamburg,Hamburg,DE", "lat": 53.57532, "asn": 6939}
+{"ip": "212.98.126.30", "hostname": "212-98-126-30.cr1.kold.gc-net.eu", "lon": null, "location": null, "lat": null, "asn": 42525}
+{"ip": "194.255.57.49", "hostname": "dk-ejb-a14-serial6-1-access.ejby.dk.telia.net", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "212.10.13.38", "hostname": "d40a0d26.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "212.98.126.34", "hostname": "212-98-126-34.cr1.kold.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "62.115.142.211", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "212.10.13.34", "hostname": "d40a0d22.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "2001:7f8:d:200::60", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "212.10.13.36", "hostname": "d40a0d24.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "62.115.142.215", "hostname": "kbn-b4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "192.168.168.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "194.19.204.21", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "194.19.204.20", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "77.66.55.36", "hostname": "te0-1-0-0.asr1.taa.cph.ngdc.net", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "77.66.55.37", "hostname": "te0-1-0-0.asr0.gl.cph.ngdc.net", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "2a01:2b0:0:40::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12552}
+{"ip": "77.66.55.33", "hostname": "te0-0-0-0.asr1.taa.cph.ngdc.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 16245}
+{"ip": "2001:1900:5:1::211", "hostname": "vl-4060.edge4.frankfurt1.level3.net", "lon": 8.68417, "location": "Frankfurt am Main,Hesse,DE", "lat": 50.11552, "asn": 3356}
+{"ip": "81.228.83.66", "hostname": "ld-h-c3-link.se.telia.net", "lon": 13.19321, "location": "Lund,Sk\u00e5ne,SE", "lat": 55.70584, "asn": 3301}
+{"ip": "2001:7f8:d:fe::187", "hostname": "10gigabitethernet1-3.core1.sto1.he.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": ""}
+{"ip": "2a01:7e8:1:200::8e", "hostname": "ae5.ipv6.cr1.hamb.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2a01:7e8:1:200::8d", "hostname": "ae3-0.ipv6.taas1cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "195.215.109.129", "hostname": "xe-3-0-0-0.alb2nqp7.dk.ip.tdc.net", "lon": null, "location": null, "lat": null, "asn": 3292}
+{"ip": "80.91.252.23", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "10.231.254.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "77.68.255.216", "hostname": "aalbo02-pn-01.bbnnet.dk", "lon": null, "location": "", "lat": null, "asn": 42355}
+{"ip": "77.68.255.217", "hostname": "aalbo02-pe-03.bbnnet.dk", "lon": null, "location": "", "lat": null, "asn": 42355}
+{"ip": "93.176.74.81", "hostname": "vlan191.ten7-2.dr1.odef7.man.nianet.dk", "lon": null, "location": null, "lat": null, "asn": 31027}
+{"ip": "2001:2000:3018:13::1", "hostname": "ffm-b2-v6.telia.net", "lon": 8.68417, "location": "Frankfurt am Main,Hesse,DE", "lat": 50.11552, "asn": 1299}
+{"ip": "2001:2012:3ec6:9cec:c66e:1fff:fe5b:caa6", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "2a02:2190:1:1::a", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 65101}
+{"ip": "2001:16d8:aaaa:5::1", "hostname": "vl3229.dk.cph.sydv.cr0.port80.se", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 16150}
+{"ip": "80.161.105.161", "hostname": "161.128-255.105.161.80.in-addr.arpa", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2a01:2b0:0:2d::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12552}
+{"ip": "85.89.248.149", "hostname": "gi0-1.ir21.prv2.ip.as25384.net", "lon": null, "location": "", "lat": null, "asn": 25384}
+{"ip": "62.115.139.60", "hostname": "kbn-bb3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "80.91.253.225", "hostname": "kbn-bb4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "4.68.110.221", "hostname": "ae12.bar1.copenhagen2.level3.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 3356}
+{"ip": "192.38.7.18", "hostname": "", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "2001:470:28:321::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 6939}
+{"ip": "2001:1900:5:1::281", "hostname": "vl-4042.edge3.dusseldorf1.level3.net", "lon": 6.77616, "location": "D\u00fcsseldorf,North Rhine-Westphalia,DE", "lat": 51.22172, "asn": 3356}
+{"ip": "4.68.110.226", "hostname": "telia-level3-100g.stockholm.level3.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 3356}
+{"ip": "188.228.0.14", "hostname": "188.228.0.14.dynamic.altibox.net", "lon": null, "location": "", "lat": null, "asn": 29695}
+{"ip": "192.38.7.17", "hostname": "dix-rtr.dk-hostmaster.dk", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "87.54.29.190", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "83.91.81.109", "hostname": "83-91-81-109-static.dk.customer.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "130.225.244.253", "hostname": "10g-or1.ly2.core.fsknet.dk", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "192.38.59.230", "hostname": "te2-3.aau-core2.aau.dk", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "83.91.81.105", "hostname": "xe-2-0-0-905.hrttv1nqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "78.111.162.209", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 28717}
+{"ip": "172.27.28.34", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "149.6.142.30", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "184.105.223.205", "hostname": "10ge1-1.core1.sto1.he.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 6939}
+{"ip": "88.131.152.6", "hostname": "telia-tdc-got.se.ip.tdc.net", "lon": 11.96679, "location": "Gothenburg,V\u00e4stra G\u00f6taland,SE", "lat": 57.70716, "asn": 3292}
+{"ip": "184.105.223.206", "hostname": "10ge3-1.core1.cph1.he.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 6939}
+{"ip": "212.98.103.122", "hostname": "122.120/29.103.98.212.in-addr.arpa", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "212.98.103.121", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2001:7f8:1f::3292:39:0", "hostname": "xe-1-3-0-0.boanqp7.dk.ip.tdc.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "146.172.105.38", "hostname": "ti9000b400-ae1-0.ti.telenor.net", "lon": null, "location": "", "lat": null, "asn": 2119}
+{"ip": "192.168.213.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "89.184.134.58", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 39642}
+{"ip": "2a02:2190:f000:cf0f:280:a3ff:fe91:441a", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 65101}
+{"ip": "213.242.108.34", "hostname": "level3.tgccr1.ip.fiberby.net", "lon": null, "location": "", "lat": null, "asn": 3356}
+{"ip": "195.69.117.244", "hostname": "", "lon": 13.00073, "location": "Malmo,Sk\u00e5ne,SE", "lat": 55.60587, "asn": ""}
+{"ip": "213.155.137.13", "hostname": "kbn-bb3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "188.120.84.100", "hostname": "100.84.120.188.andels.net", "lon": null, "location": "", "lat": null, "asn": 28717}
+{"ip": "130.226.249.69", "hostname": "10g-or0.ly0.core.fsknet.dk", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "2a01:2b0:2000:43::5", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12552}
+{"ip": "2001:7f8:1::a500:6939:1", "hostname": "30gigabitethernet1-3.core1.ams1.he.net", "lon": 4.88969, "location": "Amsterdam,North Holland,NL", "lat": 52.37403, "asn": 1200}
+{"ip": "46.30.120.2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 47527}
+{"ip": "2a01:7e8:1:800::116", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "217.116.254.61", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "178.155.254.141", "hostname": "b29bfe8d.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "2a01:2b0:0:2f::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12552}
+{"ip": "109.105.98.117", "hostname": "dk-ore.nordu.net", "lon": 12.50378, "location": "Kongens Lyngby,Capital Region,DK", "lat": 55.77044, "asn": 2603}
+{"ip": "87.72.99.229", "hostname": "eth51.ambpd1.ip.cxnet.dk", "lon": null, "location": "", "lat": null, "asn": 15516}
+{"ip": "178.155.254.213", "hostname": "b29bfed5.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "178.155.254.211", "hostname": "b29bfed3.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "2001:2012:3ec6:9cec::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "78.72.17.1", "hostname": "gw2-no191.tbcn.telia.com", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "62.115.139.181", "hostname": "ld-h-peer4-link.telia.net", "lon": 13.19321, "location": "Lund,Sk\u00e5ne,SE", "lat": 55.70584, "asn": 1299}
+{"ip": "62.115.139.180", "hostname": "kbn-b4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "109.105.98.118", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 2603}
+{"ip": "87.72.99.225", "hostname": "ve4031.albcr2.ip.cxnet.dk", "lon": null, "location": "", "lat": null, "asn": 15516}
+{"ip": "83.88.21.77", "hostname": "xe-6-0-0-0.strnqu1.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2a03:5440:1:1603::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "2a03:5440:1:1603::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "149.6.136.169", "hostname": "te0-0-2-1.nr11.b015758-1.cph01.atlas.cogentco.com", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "192.168.0.8", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "213.155.135.84", "hostname": "hbg-bb4-link.telia.net", "lon": 10.01534, "location": "Hamburg,Hamburg,DE", "lat": 53.57532, "asn": 1299}
+{"ip": "213.248.100.197", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "93.176.95.191", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "212.73.252.45", "hostname": "ae51.bar1.copenhaguen2.level3.net", "lon": null, "location": "", "lat": null, "asn": 3356}
+{"ip": "185.21.234.16", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 199289}
+{"ip": "212.10.13.200", "hostname": "d40a0dc8.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "77.243.32.157", "hostname": "ae1.taas11cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "77.243.32.154", "hostname": "ae0-0.hamb1cr1de.gc-net.eu", "lon": 10.01534, "location": "Hamburg,Hamburg,DE", "lat": 53.57532, "asn": 42525}
+{"ip": "212.98.127.90", "hostname": "212-98-127-90.taas11cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "213.248.100.198", "hostname": "globalconnect-ic-304991-kbn-b3.c.telia.net", "lon": null, "location": null, "lat": null, "asn": 1299}
+{"ip": "89.186.160.0", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "62.198.144.1", "hostname": "0x3ec69001.inet.dsl.telianet.dk", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "81.228.74.113", "hostname": "ld-h-c3-link.se.telia.net", "lon": 13.19321, "location": "Lund,Sk\u00e5ne,SE", "lat": 55.70584, "asn": 3301}
+{"ip": "94.126.177.130", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "2a03:a480:ffff:ff35::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "2001:7f8:d:fb::22", "hostname": "", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": ""}
+{"ip": "94.126.176.29", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "81.228.72.31", "hostname": "ld-h-c3-link.se.telia.net", "lon": 13.19321, "location": "Lund,Sk\u00e5ne,SE", "lat": 55.70584, "asn": 3301}
+{"ip": "81.228.72.30", "hostname": "hlm2-td2-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "212.10.13.161", "hostname": "d40a0da1.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "212.10.15.122", "hostname": "jensbohoeghrasmussen.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "212.10.15.124", "hostname": "d40a0f7c.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "2001:7f8:1::a501:6150:1", "hostname": "ams-ix.tc2-ams.nl.p80.net", "lon": 4.88969, "location": "Amsterdam,North Holland,NL", "lat": 52.37403, "asn": 1200}
+{"ip": "212.10.15.126", "hostname": "d40a0f7e.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "188.228.0.52", "hostname": "188.228.0.52.dynamic.altibox.net", "lon": null, "location": "", "lat": null, "asn": 29695}
+{"ip": "81.228.83.174", "hostname": "ld-h-c3-link.se.telia.net", "lon": 13.19321, "location": "Lund,Sk\u00e5ne,SE", "lat": 55.70584, "asn": 3301}
+{"ip": "2a02:188:100:3::1", "hostname": "gw1.dk-hostmaster.ip.nianet.dk", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 31027}
+{"ip": "77.233.226.126", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42355}
+{"ip": "2a02:188:100:3::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2001:16d8:1:1356::96", "hostname": "ae0.se.sto.dch.cr0.port80.se", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 16150}
+{"ip": "87.104.212.66", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 35376}
+{"ip": "83.88.27.93", "hostname": "ae1-0.strnqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "213.248.65.145", "hostname": "kbn-bb3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "94.126.177.102", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "77.66.55.125", "hostname": "te1-4.poi0.ba.cph.ngdc.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 16245}
+{"ip": "77.66.55.124", "hostname": "te0-0-0-2.asr1.taa.cph.ngdc.net", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "87.53.75.209", "hostname": "xe-2-1-1-103.abnqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "83.88.28.99", "hostname": "ae1-0.alb2nqe10.dk.ip.tdc.net", "lon": null, "location": null, "lat": null, "asn": 3292}
+{"ip": "2001:948:1:29::3", "hostname": "dk-uni.nordu.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 2603}
+{"ip": "83.136.89.254", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2a01:2b0:0:3e::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12552}
+{"ip": "2001:2000:3080:1b9::1", "hostname": "adm-sara-s1-link.telia.net", "lon": 4.88969, "location": "Amsterdam,North Holland,NL", "lat": 52.37403, "asn": 1299}
+{"ip": "2001:2000:1080:6::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "93.176.94.39", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "80.249.208.96", "hostname": "ams-ix.gc-net.eu", "lon": 4.88969, "location": "Amsterdam,North Holland,NL", "lat": 52.37403, "asn": 1200}
+{"ip": "46.32.128.22", "hostname": "128.22.customer.kjaergaard.dk", "lon": null, "location": null, "lat": null, "asn": 3308}
+{"ip": "46.32.128.23", "hostname": "128.23.customer.kjaergaard.dk", "lon": null, "location": "", "lat": null, "asn": 3308}
+{"ip": "93.176.95.11", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "93.176.95.10", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "87.73.96.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 15516}
+{"ip": "2001:7f8:1::a500:2603:1", "hostname": "nl-sar.nordu.net", "lon": 4.88969, "location": "Amsterdam,North Holland,NL", "lat": 52.37403, "asn": 1200}
+{"ip": "91.221.196.178", "hostname": "challenger.contix.dk", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 197495}
+{"ip": "93.176.81.82", "hostname": "nianet.r1.dk-hostmaster.dk", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "93.176.81.81", "hostname": "gw1.dk-hostmaster.ip.nianet.dk", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 31027}
+{"ip": "93.184.194.185", "hostname": "1572389562.dhcp.nefnet.dk", "lon": null, "location": "", "lat": null, "asn": 47304}
+{"ip": "95.130.208.27", "hostname": "dixrtr.dk-hostmaster.dk", "lon": null, "location": "", "lat": null, "asn": 39839}
+{"ip": "2a03:a480:1000:3713::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "83.88.12.77", "hostname": "ae0-0.bynqu1.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "81.228.86.40", "hostname": "hy-c2-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "77.233.230.158", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "77.233.230.157", "hostname": "telenor-peer-b.arh.ip.nianet.dk", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "192.66.4.1", "hostname": "eskv-gw1-0-0-0-900.lyngbol.dk", "lon": null, "location": "", "lat": null, "asn": 2109}
+{"ip": "130.225.245.74", "hostname": "sap-c.fsknet.forskningsnettet.dk", "asn": 1835}
+{"ip": "77.233.230.153", "hostname": "telenor-peer-a.arh.ip.nianet.dk", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "192.66.4.5", "hostname": "dhcp-guest-vlan900-192-66-4-5.lyngbol.dk", "lon": null, "location": "", "lat": null, "asn": 2109}
+{"ip": "94.144.1.134", "hostname": "lo0-1.bb02-sj538.ip.telenor.dk", "lon": null, "location": "", "lat": null, "asn": 9158}
+{"ip": "192.38.7.6", "hostname": "", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "80.71.64.61", "hostname": "hu0-0-0-0.bord01.taa4.seas-nve.net", "lon": 12.29216, "location": "Taastrup,Capital Region,DK", "lat": 55.65173, "asn": 44869}
+{"ip": "192.38.7.2", "hostname": "", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "77.68.255.229", "hostname": "stovr01-pe-01.bbnnet.dk", "lon": null, "location": "", "lat": null, "asn": 42355}
+{"ip": "192.38.7.1", "hostname": "te-dix.ly0.core.fsknet.dk", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "2a02:188:12e:4::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2a02:188:12e:4::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "80.71.64.63", "hostname": "gig9-24.dist01.has.seas-nve.net", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "87.116.38.121", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2a01:2b0:0:51::3b", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12552}
+{"ip": "217.116.254.57", "hostname": "netgroup.r1.dk-hostmaster.dk", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "80.71.64.62", "hostname": "gig0-0.rr01.has.seas-nve.net", "lon": null, "location": "", "lat": null, "asn": 44869}
+{"ip": "109.232.72.250", "hostname": "109-232-72-250.ip.herning.dk", "lon": null, "location": "", "lat": null, "asn": 49010}
+{"ip": "90.185.4.5", "hostname": "te0-1-0.cex1.vbr.dk.ip.fullrate.dk", "lon": null, "location": "", "lat": null, "asn": 39554}
+{"ip": "87.73.100.100", "hostname": "p116.probes.atlas.ripe.net", "lon": null, "location": "", "lat": null, "asn": 15516}
+{"ip": "2001:7f8:1f::2603:50:0", "hostname": "dk-uni.nordu.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "178.155.254.179", "hostname": "b29bfeb3.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "148.122.9.37", "hostname": "ti6000b400-ae2-0.ti.telenor.net", "lon": null, "location": "", "lat": null, "asn": 2119}
+{"ip": "2001:470:0:168::1", "hostname": "10gigabitethernet9.switch2.fra1.he.net", "lon": 8.68417, "location": "Frankfurt am Main,Hesse,DE", "lat": 50.11552, "asn": 6939}
+{"ip": "2001:470:0:168::2", "hostname": "as1299.gige-g2-9.core1.fra1.he.net", "lon": 8.68417, "location": "Frankfurt am Main,Hesse,DE", "lat": 50.11552, "asn": 6939}
+{"ip": "77.243.33.186", "hostname": "77-243-33-186.cr1.taas.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "148.122.9.38", "hostname": "cybercity-3.ti.telenor.net", "lon": null, "location": "", "lat": null, "asn": 2119}
+{"ip": "2001:470:0:22f::2", "hostname": "10ge4-1.core1.sto1.he.net", "lon": 18.0649, "location": "Stockholm,Stockholm,SE", "lat": 59.33258, "asn": 6939}
+{"ip": "2a01:630:0:80::206", "hostname": "anchor.dk-hostmaster.dk", "lon": 12.36328, "location": "Ballerup,Capital Region,DK", "lat": 55.73165, "asn": 39839}
+{"ip": "130.117.50.14", "hostname": "be2673.rcr11.bll01.atlas.cogentco.com", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "2001:470:0:22f::1", "hostname": "10ge12-6.core1.ams1.he.net", "lon": 4.88969, "location": "Amsterdam,North Holland,NL", "lat": 52.37403, "asn": 6939}
+{"ip": "130.117.50.18", "hostname": "be2691.rcr11.bll01.atlas.cogentco.com", "lon": null, "location": "", "lat": null, "asn": 174}
+{"ip": "212.98.127.110", "hostname": "212-98-127-110.taas1cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "85.81.112.102", "hostname": "0x55517066.adsl.cybercity.dk", "lon": null, "location": "", "lat": null, "asn": 9158}
+{"ip": "2.106.108.33", "hostname": "ge-1-1-0-1109.bynqu1.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "81.228.86.36", "hostname": "hy-c2-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "81.228.86.37", "hostname": "fre-peer4-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "148.122.8.186", "hostname": "telia-3.ti.telenor.net", "lon": null, "location": "", "lat": null, "asn": 2119}
+{"ip": "2001:6c8:81:100::36", "hostname": "globalconnect.xe-3-2-0-0.arcnqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "148.122.8.185", "hostname": "ti3218b400-xe7-3-1.ti.telenor.net", "lon": 13.00073, "location": "Malmo,Sk\u00e5ne,SE", "lat": 55.60587, "asn": 2119}
+{"ip": "2001:948:2:17::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 2603}
+{"ip": "2001:878:0:e000:82:e1:f2:ee", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "81.228.75.246", "hostname": "hy-c2-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "178.155.254.197", "hostname": "b29bfec5.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "195.69.117.60", "hostname": "netnod-ix-com-1500.fiberby.dk", "lon": 13.00073, "location": "Malmo,Sk\u00e5ne,SE", "lat": 55.60587, "asn": ""}
+{"ip": "94.126.176.28", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "2001:470:1:423::3", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 6939}
+{"ip": "2a01:7e8:1:200::2d", "hostname": "ae1.ipv6.taas11cr2dk.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "91.102.91.21", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12617}
+{"ip": "91.221.196.188", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 197495}
+{"ip": "2001:16d8:dd00:6d::1", "hostname": "gw-110.cph-01.dk.sixxs.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 16150}
+{"ip": "2001:16d8:dd00:6d::2", "hostname": "cl-110.cph-01.dk.sixxs.net", "lon": null, "location": "", "lat": null, "asn": 16150}
+{"ip": "2a02:7c00::220:4aff:fec8:23a8", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 21060}
+{"ip": "192.38.7.64", "hostname": "rc00-dix.danskkabeltv.dk", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "178.155.254.193", "hostname": "b29bfec1.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "185.21.235.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 199289}
+{"ip": "2a00:b920:2:1337::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 60422}
+{"ip": "2a02:9d0:3000:1::1", "hostname": "gw3000.solido.net", "lon": null, "location": "", "lat": null, "asn": 12617}
+{"ip": "192.38.7.39", "hostname": "xe-1-3-0-0.boanqp7.dk.ip.tdc.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1835}
+{"ip": "188.228.0.49", "hostname": "188.228.0.49.dynamic.altibox.net", "lon": null, "location": "", "lat": null, "asn": 29695}
+{"ip": "195.215.109.50", "hostname": "telia-dk.xe-3-1-0-10.alb2nqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2001:1448:a:22c::2c", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "83.88.23.199", "hostname": "ae1-0.boanqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "77.233.226.122", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42355}
+{"ip": "85.89.228.92", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 25384}
+{"ip": "85.89.228.90", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 25384}
+{"ip": "10.42.1.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "86.58.227.98", "hostname": "te0-0-0-3.core.asr-1.glo.jay.net", "lon": null, "location": "", "lat": null, "asn": 16095}
+{"ip": "2a02:188:113:3::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2001:7f8:1::a503:1027:1", "hostname": "ams-ix.ip.nianet.net", "lon": 4.88969, "location": "Amsterdam,North Holland,NL", "lat": 52.37403, "asn": 1200}
+{"ip": "2a01:2b0:0:2b::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 12552}
+{"ip": "195.215.109.189", "hostname": "xe-11-1-0-0.alb2nqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "195.215.170.53", "hostname": "xe-9-1-1-0.alb2nqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "91.195.58.12", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 21060}
+{"ip": "10.1.16.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "195.215.170.54", "hostname": "globalconnect.xe-9-1-1-0.alb2nqp7.dk.ip.tdc.net", "lon": null, "location": null, "lat": null, "asn": 3292}
+{"ip": "62.115.142.82", "hostname": "kbn-bb3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "185.31.79.252", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 60422}
+{"ip": "2001:67c:3c0:13::188", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 197495}
+{"ip": "2a02:188:113:3::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "2a01:4260:28:ffff::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "2a01:4260:28:ffff::1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 59469}
+{"ip": "2a03:5440:100:42:fa1a:67ff:fe4d:71ee", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "2001:1900:5:3::24e", "hostname": "telia-level3-10g.frankfurt.level3.net", "lon": 8.68417, "location": "Frankfurt am Main,Hesse,DE", "lat": 50.11552, "asn": 3356}
+{"ip": "2001:1900:5:1::116", "hostname": "vl-4081.edge4.dusseldorf1.level3.net", "lon": 6.77616, "location": "D\u00fcsseldorf,North Rhine-Westphalia,DE", "lat": 51.22172, "asn": 3356}
+{"ip": "4.68.71.9", "hostname": "ae12.bar1.copenhagen1.level3.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 3356}
+{"ip": "80.91.247.229", "hostname": "kbn-bb4-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "83.88.22.177", "hostname": "ae0-0.hrnqe10.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2001:1448:0:102::58", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "185.24.169.2", "hostname": "185.24.169.2.ip4.gigabit.dk", "lon": null, "location": "", "lat": null, "asn": 60876}
+{"ip": "77.243.32.141", "hostname": "ae2.cr1.taas.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "86.58.227.42", "hostname": "te0-1-0-0.core.alb-1.jay.net", "lon": null, "location": "", "lat": null, "asn": 16095}
+{"ip": "2001:1448:a:282::2c", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "2001:1448:0:102::57", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "195.215.109.226", "hostname": "nianet.xe-1-2-0-0.boanqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "2001:2000:3080:7e1::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 1299}
+{"ip": "195.215.109.225", "hostname": "xe-1-2-0-0.boanqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "212.10.13.153", "hostname": "d40a0d99.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "178.155.254.194", "hostname": "b29bfec2.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "2001:7f8:d:200::216", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "213.248.70.29", "hostname": "kbn-b3-link.telia.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 1299}
+{"ip": "10.90.0.1", "hostname": "fake-gw.ripe.net", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "79.160.112.239", "hostname": "239.79-160-112.customer.lyse.net", "lon": null, "location": "", "lat": null, "asn": 29695}
+{"ip": "212.10.13.159", "hostname": "d40a0d9f.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "90.185.4.179", "hostname": "ge0-1-0.cex1.aboes.dk.ip.fullrate.dk", "lon": null, "location": "", "lat": null, "asn": 39554}
+{"ip": "90.185.4.178", "hostname": "ge1-0-4.mr1.abc.dk.ip.fullrate.dk", "lon": null, "location": null, "lat": null, "asn": 39554}
+{"ip": "93.176.95.149", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 31027}
+{"ip": "81.228.88.92", "hostname": "ld-h-c2-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"ip": "2001:1900:5:2:2::3c99", "hostname": "xe-4-3-3.bar1.copenhagen1.level3.net", "lon": null, "location": "", "lat": null, "asn": 3356}
+{"ip": "2a01:7e8:1:200::1e", "hostname": "ae0-0.ipv6.hamb1cr1de.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "2001:878:0:e000:82:e2:f9:91", "hostname": "10g-aau.or0.core.fsknet.dk", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "81.228.88.94", "hostname": "ld-h-c2-link.se.telia.net", "lon": null, "location": "", "lat": null, "asn": 3301}
+{"lat": null, "ip": "2a01:7e8:48:1337::1", "lon": null, "location": "", "asn": 42525}
+{"ip": "83.88.13.99", "hostname": "ae0-0.kdnqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "212.10.15.111", "hostname": "d40a0f6f.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "212.10.15.110", "hostname": "d40a0f6e.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "212.10.15.113", "hostname": "d40a0f71.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "212.10.15.112", "hostname": "d40a0f70.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "212.10.15.115", "hostname": "d40a0f73.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "212.10.15.114", "hostname": "d40a0f72.rev.stofanet.dk", "lon": null, "location": "", "lat": null, "asn": 197288}
+{"ip": "2001:878:0:e000:82:e1:f4:7d", "hostname": "po2.ly0.core.fsknet.dk", "lon": null, "location": "", "lat": null, "asn": 1835}
+{"ip": "90.185.5.40", "hostname": "ae4.mr5.hoer.dk.ip.fullrate.dk", "lon": null, "location": null, "lat": null, "asn": 39554}
+{"ip": "10.10.50.1", "hostname": "", "lon": null, "location": "", "lat": null, "asn": ""}
+{"ip": "2001:6c8:81:100::35", "hostname": "xe-3-2-0-0.arcnqp7.dk.ip.tdc.net", "lon": null, "location": "", "lat": null, "asn": 3292}
+{"ip": "188.228.32.4", "hostname": "188.228.32.4.dynamic.altibox.net", "lon": null, "location": "", "lat": null, "asn": 29695}
+{"ip": "188.228.32.5", "hostname": "188.228.32.5.dynamic.altibox.net", "lon": null, "location": "", "lat": null, "asn": 29695}
+{"ip": "2a03:5440:1:1607::2", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 42541}
+{"ip": "62.115.33.113", "hostname": "hbg-b1-link.telia.net", "lon": 10.01534, "location": "Hamburg,Hamburg,DE", "lat": 53.57532, "asn": 1299}
+{"ip": "62.115.33.110", "hostname": "globalconnect-ic-310378-kbn-b3.c.telia.net", "lon": null, "location": "", "lat": null, "asn": 1299}
+{"ip": "2001:470:28:321:220:4aff:fee0:2342", "hostname": "", "lon": null, "location": "", "lat": null, "asn": 6939}
+{"ip": "88.131.143.118", "hostname": "xe-1-0-0-0.ign-peer1.got.se.ip.tdc.net", "lon": 11.96679, "location": "Gothenburg,V\u00e4stra G\u00f6taland,SE", "lat": 57.70716, "asn": 3292}
+{"ip": "77.66.55.114", "hostname": "te0-0-0-3.asr0.gl.cph.ngdc.net", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "77.66.55.115", "hostname": "te1-4.poi0.gl.cph.ngdc.net", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "77.66.55.118", "hostname": "te0-0-0-5.asr0.taa.cph.ngdc.net", "lon": 12.56553, "location": "Copenhagen,Capital Region,DK", "lat": 55.67594, "asn": 16245}
+{"ip": "77.66.55.119", "hostname": "te1-5.poi0.gl.cph.ngdc.net", "lon": null, "location": "", "lat": null, "asn": 16245}
+{"ip": "2a01:7e8:1:200::206", "hostname": "10ge4-5.ipv6.ar3.kold.gc-net.eu", "lon": null, "location": "", "lat": null, "asn": 42525}
+{"ip": "90.185.4.4", "hostname": "ae2.mr1.vby.dk.ip.fullrate.dk", "lon": null, "location": "", "lat": null, "asn": 39554}

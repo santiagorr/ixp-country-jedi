@@ -136,12 +136,8 @@ def main():
          ip_list = tr.ip_path
          hops = []
          for i in ip_list:
-             if len(i) > 0:
-                if(i[0] != None):
-                   hops.append(i[0])
-                else:
-                   hops.append("0")
-
+            if len(i) > 0:
+               hops.append(i[0])
          tracetxt = MeasurementPrint.trace2txt( data )
          #hops_ips = []
 
@@ -196,7 +192,12 @@ def main():
             'locations': list(locs)
          } )
 
-         outdatatraixroute.append( {'msm_id': msm_id,'ip_path' : hops, 'src_prb_id' : src_prb_id, 'dst_prb_id': dst_prb_id } )
+         outdatatraixroute.append( {
+            'msm_id': msm_id,
+            'ip_path' : hops, 
+            'src_prb_id' : src_prb_id, 
+            'dst_prb_id': dst_prb_id 
+         } )
    
 
       with open(outfilename,'w') as outfile:
