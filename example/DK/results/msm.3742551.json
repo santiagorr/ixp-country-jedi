@@ -1,0 +1,5176 @@
+[
+  {
+    "dst_rtts": [
+      35.651, 
+      32.643, 
+      34.444
+    ], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [
+        "AS12552", 
+        "AS60422", 
+        "AS16150", 
+        "_DIX", 
+        "AS42525"
+      ], 
+      "links": [
+        {
+          "src": "AS12552", 
+          "dst": "_DIX", 
+          "type": "i"
+        }, 
+        {
+          "src": "AS16150", 
+          "dst": "AS12552", 
+          "type": "d"
+        }, 
+        {
+          "src": "_DIX", 
+          "dst": "AS42525", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS42525", 
+          "dst": "AS60422", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Aarhus,Central Jutland,DK", 
+      "Copenhagen,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742551 prb_id:11289 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:08:29 -00:00\n1 (AS16150) 2001:16d8:dd40:16::1 [0.841, 0.862, 4.518] ||\n2 (AS16150) gw-110.cph-01.dk.sixxs.net [4.267, 4.811, 8.109] |Copenhagen,Capital Region,DK|\n3 (AS16150) sixxs-cph-demarc0.cust.ip6.p80.net [5.075, 5.315, 9.875] |Copenhagen,Capital Region,DK|\n4 (AS16150) vl3229.dk.cph.sydv.cr0.port80.se [6.016, 9.669, 10.021] |Copenhagen,Capital Region,DK|\n5 (AS16150) 2001:16d8:1:136a::1 [8.041, 8.275, 9.623] ||\n6 (AS12552) 2a01:2b0:0:2f::1 [31.931, 32.365, 47.107] ||\n7 (AS12552) 2a01:2b0:2000:43::5 [27.014, 28.124, 31.123] ||\n8 () 2001:7f8:d:200::187 [19.728, 22.685, 30.38] ||\n9 (AS1835) 2001:7f8:1f:0:4:2525:26:1 [19.819, 23.553, 29.053] |Copenhagen,Capital Region,DK|\n10 (AS42525) 10ge6-3.ipv6.taas11cr2dk.gc-net.eu [31.207, 44.008, 46.794] ||\n11 (AS42525) xe-2-0-0-0.ipv6.cr1.arhu.gc-net.eu [31.726, 36.8, 41.591] |Aarhus,Central Jutland,DK|\n12 (AS42525) 2a01:7e8:1:800::116 [33.141, 34.552, 35.222] ||\n13 (AS60422) 2a00:b920:3:1337::252 [32.643, 34.444, 35.651] ||\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 4.518, 
+            "ttl": 64, 
+            "from": "2001:16d8:dd40:16::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.862, 
+            "ttl": 64, 
+            "from": "2001:16d8:dd40:16::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.841, 
+            "ttl": 64, 
+            "from": "2001:16d8:dd40:16::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 8.109, 
+            "ttl": 63, 
+            "from": "2001:16d8:dd00:6d::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 4.811, 
+            "ttl": 63, 
+            "from": "2001:16d8:dd00:6d::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 4.267, 
+            "ttl": 63, 
+            "from": "2001:16d8:dd00:6d::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 5.075, 
+            "ttl": 63, 
+            "from": "2001:16d8:aaaa:5::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 9.875, 
+            "ttl": 63, 
+            "from": "2001:16d8:aaaa:5::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 5.315, 
+            "ttl": 63, 
+            "from": "2001:16d8:aaaa:5::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 9.669, 
+            "ttl": 62, 
+            "from": "2001:16d8:aaaa:5::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 10.021, 
+            "ttl": 62, 
+            "from": "2001:16d8:aaaa:5::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 6.016, 
+            "ttl": 62, 
+            "from": "2001:16d8:aaaa:5::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 8.275, 
+            "ttl": 61, 
+            "from": "2001:16d8:1:136a::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 8.041, 
+            "ttl": 61, 
+            "from": "2001:16d8:1:136a::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 9.623, 
+            "ttl": 61, 
+            "from": "2001:16d8:1:136a::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 31.931, 
+            "ttl": 55, 
+            "from": "2a01:2b0:0:2f::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 32.365, 
+            "ttl": 55, 
+            "from": "2a01:2b0:0:2f::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 47.107, 
+            "ttl": 55, 
+            "from": "2a01:2b0:0:2f::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 28.124, 
+            "ttl": 54, 
+            "from": "2a01:2b0:2000:43::5", 
+            "size": 96
+          }, 
+          {
+            "rtt": 31.123, 
+            "ttl": 54, 
+            "from": "2a01:2b0:2000:43::5", 
+            "size": 96
+          }, 
+          {
+            "rtt": 27.014, 
+            "ttl": 54, 
+            "from": "2a01:2b0:2000:43::5", 
+            "size": 96
+          }
+        ], 
+        "hop": 7
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 30.38, 
+            "ttl": 56, 
+            "from": "2001:7f8:d:200::187", 
+            "size": 96
+          }, 
+          {
+            "rtt": 19.728, 
+            "ttl": 56, 
+            "from": "2001:7f8:d:200::187", 
+            "size": 96
+          }, 
+          {
+            "rtt": 22.685, 
+            "ttl": 56, 
+            "from": "2001:7f8:d:200::187", 
+            "size": 96
+          }
+        ], 
+        "hop": 8
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 23.553, 
+            "ttl": 54, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 29.053, 
+            "ttl": 54, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 19.819, 
+            "ttl": 54, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }
+        ], 
+        "hop": 9
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 44.008, 
+            "ttl": 54, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 31.207, 
+            "ttl": 54, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 46.794, 
+            "ttl": 54, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }
+        ], 
+        "hop": 10
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 31.726, 
+            "ttl": 53, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 41.591, 
+            "ttl": 53, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 36.8, 
+            "ttl": 53, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }
+        ], 
+        "hop": 11
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 33.141, 
+            "ttl": 52, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 34.552, 
+            "ttl": 52, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 35.222, 
+            "ttl": 52, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }
+        ], 
+        "hop": 12
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 35.651, 
+            "ttl": 51, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 32.643, 
+            "ttl": 51, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 34.444, 
+            "ttl": 51, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }
+        ], 
+        "hop": 13
+      }
+    ], 
+    "src_prb_id": 11289, 
+    "in_country": true, 
+    "via_ixp": true, 
+    "ixps": [
+      "DIX"
+    ], 
+    "ts": 1462172909, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Copenhagen,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "16150", 
+          "sloc": "Probe", 
+          "sasn": "44869", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.5715", 
+            "55.7115"
+          ], 
+          [
+            "12.56553", 
+            "55.67594"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Aarhus,Central Jutland,DK", 
+          "is_direct": false, 
+          "dasn": "42525", 
+          "sloc": "Copenhagen,Capital Region,DK", 
+          "sasn": "1835", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.56553", 
+            "55.67594"
+          ], 
+          [
+            "10.21076", 
+            "56.15674"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Aarhus,Central Jutland,DK", 
+          "sasn": "42525", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            10.21076, 
+            56.15674
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      18.543, 
+      18.008, 
+      17.911
+    ], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [
+        "AS60422", 
+        "_DIX", 
+        "AS42541", 
+        "AS42525"
+      ], 
+      "links": [
+        {
+          "src": "AS42541", 
+          "dst": "_DIX", 
+          "type": "i"
+        }, 
+        {
+          "src": "_DIX", 
+          "dst": "AS42525", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS42525", 
+          "dst": "AS60422", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Aarhus,Central Jutland,DK", 
+      "Copenhagen,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742551 prb_id:11420 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:08:43 -00:00\n1 (AS42541) 2a03:5440:100:42::1 [0.471, 0.52, 1.406] ||\n2 (AS42541) 2a03:5440:1:1613::1 [0.495, 0.778, 1.019] ||\n3 (AS42541) 2a03:5440:1:1607::1 [0.491, 0.559, 0.616] ||\n4 (AS42541) 2a03:5440:1:1603::1 [0.679, 0.686, 2.108] ||\n5 (AS42541) 2a03:5440:1:1601::2 [0.687, 0.711, 0.727] ||\n6 () 2001:7f8:d:200::187 [0.98, 3.684, 8.801] ||\n7 (AS1835) 2001:7f8:1f:0:4:2525:26:1 [7.597, 14.203, 14.787] |Copenhagen,Capital Region,DK|\n8 (AS42525) 10ge6-3.ipv6.taas11cr2dk.gc-net.eu [14.376, 16.984, 46.483] ||\n9 (AS42525) xe-2-0-0-0.ipv6.cr1.arhu.gc-net.eu [15.921, 15.992, 16.032] |Aarhus,Central Jutland,DK|\n10 (AS42525) 2a01:7e8:1:800::116 [18.591, 18.819, 18.99] ||\n11 (AS60422) 2a00:b920:3:1337::252 [17.911, 18.008, 18.543] ||\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 1.406, 
+            "ttl": 64, 
+            "from": "2a03:5440:100:42::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.52, 
+            "ttl": 64, 
+            "from": "2a03:5440:100:42::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.471, 
+            "ttl": 64, 
+            "from": "2a03:5440:100:42::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 0.778, 
+            "ttl": 63, 
+            "from": "2a03:5440:1:1613::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.495, 
+            "ttl": 63, 
+            "from": "2a03:5440:1:1613::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.019, 
+            "ttl": 63, 
+            "from": "2a03:5440:1:1613::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 0.616, 
+            "ttl": 62, 
+            "from": "2a03:5440:1:1607::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.491, 
+            "ttl": 62, 
+            "from": "2a03:5440:1:1607::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.559, 
+            "ttl": 62, 
+            "from": "2a03:5440:1:1607::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 2.108, 
+            "ttl": 61, 
+            "from": "2a03:5440:1:1603::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.679, 
+            "ttl": 61, 
+            "from": "2a03:5440:1:1603::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.686, 
+            "ttl": 61, 
+            "from": "2a03:5440:1:1603::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 0.727, 
+            "ttl": 60, 
+            "from": "2a03:5440:1:1601::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.711, 
+            "ttl": 60, 
+            "from": "2a03:5440:1:1601::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.687, 
+            "ttl": 60, 
+            "from": "2a03:5440:1:1601::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 8.801, 
+            "ttl": 59, 
+            "from": "2001:7f8:d:200::187", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.98, 
+            "ttl": 59, 
+            "from": "2001:7f8:d:200::187", 
+            "size": 96
+          }, 
+          {
+            "rtt": 3.684, 
+            "ttl": 59, 
+            "from": "2001:7f8:d:200::187", 
+            "size": 96
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 7.597, 
+            "ttl": 55, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 14.203, 
+            "ttl": 55, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 14.787, 
+            "ttl": 55, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }
+        ], 
+        "hop": 7
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 16.984, 
+            "ttl": 55, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 14.376, 
+            "ttl": 55, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 46.483, 
+            "ttl": 55, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }
+        ], 
+        "hop": 8
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 15.921, 
+            "ttl": 54, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 15.992, 
+            "ttl": 54, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 16.032, 
+            "ttl": 54, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }
+        ], 
+        "hop": 9
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 18.99, 
+            "ttl": 53, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 18.819, 
+            "ttl": 53, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 18.591, 
+            "ttl": 53, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }
+        ], 
+        "hop": 10
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 18.543, 
+            "ttl": 52, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 18.008, 
+            "ttl": 52, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 17.911, 
+            "ttl": 52, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }
+        ], 
+        "hop": 11
+      }
+    ], 
+    "src_prb_id": 11420, 
+    "in_country": true, 
+    "via_ixp": true, 
+    "ixps": [
+      "DIX"
+    ], 
+    "ts": 1462172923, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Copenhagen,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "1835", 
+          "sloc": "Probe", 
+          "sasn": "42541", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.5585", 
+            "55.6675"
+          ], 
+          [
+            "12.56553", 
+            "55.67594"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Aarhus,Central Jutland,DK", 
+          "is_direct": false, 
+          "dasn": "42525", 
+          "sloc": "Copenhagen,Capital Region,DK", 
+          "sasn": "1835", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.56553", 
+            "55.67594"
+          ], 
+          [
+            "10.21076", 
+            "56.15674"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Aarhus,Central Jutland,DK", 
+          "sasn": "42525", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            10.21076, 
+            56.15674
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      55.27, 
+      54.978, 
+      55.29
+    ], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [
+        "AS6939", 
+        "_DIX", 
+        "AS60422", 
+        "AS42525"
+      ], 
+      "links": [
+        {
+          "src": "_DIX", 
+          "dst": "AS42525", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS6939", 
+          "dst": "_DIX", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS42525", 
+          "dst": "AS60422", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Stockholm,Stockholm,SE", 
+      "Aarhus,Central Jutland,DK", 
+      "Copenhagen,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742551 prb_id:14355 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:08:47 -00:00\n1 (AS6939) 2001:470:28:8b2::ac10:ff [0.498, 0.516, 0.559] ||\n2 (AS6939) stderr-2.tunnel.tserv24.sto1.ipv6.he.net [33.876, 35.015, 37.592] |Stockholm,Stockholm,SE|\n3 (AS6939) ge2-20.core1.sto1.he.net [30.612, 36.552, 39.626] |Stockholm,Stockholm,SE|\n4 (AS6939) 10ge3-1.core1.cph1.he.net [38.479, 40.921, 46.943] |Copenhagen,Capital Region,DK|\n5 (AS1835) 2001:7f8:1f:0:4:2525:26:1 [43.369, 47.81, 48.906] |Copenhagen,Capital Region,DK|\n6 (AS42525) 10ge6-3.ipv6.taas11cr2dk.gc-net.eu [42.75, 43.275, 84.155] ||\n7 (AS42525) xe-2-0-0-0.ipv6.cr1.arhu.gc-net.eu [52.903, 52.959, 53.068] |Aarhus,Central Jutland,DK|\n8 (AS42525) 2a01:7e8:1:800::116 [55.189, 55.898, 59.107] ||\n9 (AS60422) 2a00:b920:3:1337::252 [54.978, 55.27, 55.29] ||\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 0.559, 
+            "ttl": 64, 
+            "from": "2001:470:28:8b2::ac10:ff", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.516, 
+            "ttl": 64, 
+            "from": "2001:470:28:8b2::ac10:ff", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.498, 
+            "ttl": 64, 
+            "from": "2001:470:28:8b2::ac10:ff", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 37.592, 
+            "ttl": 63, 
+            "from": "2001:470:27:8b2::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 35.015, 
+            "ttl": 63, 
+            "from": "2001:470:27:8b2::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 33.876, 
+            "ttl": 63, 
+            "from": "2001:470:27:8b2::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 30.612, 
+            "ttl": 62, 
+            "from": "2001:470:0:11e::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 36.552, 
+            "ttl": 62, 
+            "from": "2001:470:0:11e::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 39.626, 
+            "ttl": 62, 
+            "from": "2001:470:0:11e::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 46.943, 
+            "ttl": 61, 
+            "from": "2001:470:0:2ad::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 40.921, 
+            "ttl": 61, 
+            "from": "2001:470:0:2ad::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 38.479, 
+            "ttl": 61, 
+            "from": "2001:470:0:2ad::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 48.906, 
+            "ttl": 57, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 43.369, 
+            "ttl": 57, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 47.81, 
+            "ttl": 57, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 42.75, 
+            "ttl": 57, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 84.155, 
+            "ttl": 57, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 43.275, 
+            "ttl": 57, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 52.903, 
+            "ttl": 56, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 52.959, 
+            "ttl": 56, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 53.068, 
+            "ttl": 56, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }
+        ], 
+        "hop": 7
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 59.107, 
+            "ttl": 55, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 55.898, 
+            "ttl": 55, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 55.189, 
+            "ttl": 55, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }
+        ], 
+        "hop": 8
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 55.27, 
+            "ttl": 54, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 54.978, 
+            "ttl": 54, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 55.29, 
+            "ttl": 54, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }
+        ], 
+        "hop": 9
+      }
+    ], 
+    "src_prb_id": 14355, 
+    "in_country": false, 
+    "via_ixp": true, 
+    "ixps": [
+      "DIX"
+    ], 
+    "ts": 1462172927, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Stockholm,Stockholm,SE", 
+          "is_direct": false, 
+          "dasn": "6939", 
+          "sloc": "Probe", 
+          "sasn": "9158", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.5495", 
+            "55.7195"
+          ], 
+          [
+            "18.0649", 
+            "59.33258"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Copenhagen,Capital Region,DK", 
+          "is_direct": true, 
+          "dasn": "6939", 
+          "sloc": "Stockholm,Stockholm,SE", 
+          "sasn": "6939", 
+          "asn": "6939"
+        }, 
+        "coordinates": [
+          [
+            "18.0649", 
+            "59.33258"
+          ], 
+          [
+            "12.56553", 
+            "55.67594"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Aarhus,Central Jutland,DK", 
+          "is_direct": false, 
+          "dasn": "42525", 
+          "sloc": "Copenhagen,Capital Region,DK", 
+          "sasn": "1835", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.56553", 
+            "55.67594"
+          ], 
+          [
+            "10.21076", 
+            "56.15674"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Aarhus,Central Jutland,DK", 
+          "sasn": "42525", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            10.21076, 
+            56.15674
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      62.559, 
+      63.968, 
+      64.214
+    ], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [
+        "AS12552", 
+        "AS60422", 
+        "AS16150", 
+        "_DIX", 
+        "AS42525"
+      ], 
+      "links": [
+        {
+          "src": "AS12552", 
+          "dst": "_DIX", 
+          "type": "i"
+        }, 
+        {
+          "src": "AS16150", 
+          "dst": "AS12552", 
+          "type": "d"
+        }, 
+        {
+          "src": "_DIX", 
+          "dst": "AS42525", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS42525", 
+          "dst": "AS60422", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Aarhus,Central Jutland,DK", 
+      "Copenhagen,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742551 prb_id:14380 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:08:41 -00:00\n1 (AS16150) 2001:16d8:dd6f:1::1 [0.435, 0.469, 0.615] ||\n2 (AS16150) gw-214.cph-01.dk.sixxs.net [37.029, 37.184, 37.207] ||\n3 (AS16150) sixxs-cph-demarc0.cust.ip6.p80.net [37.227, 37.773, 38.761] |Copenhagen,Capital Region,DK|\n4 (AS16150) vl3229.dk.cph.sydv.cr0.port80.se [38.946, 39.01, 39.469] |Copenhagen,Capital Region,DK|\n5 (AS16150) 2001:16d8:1:136a::1 [37.996, 38.712, 39.22] ||\n6 (AS12552) 2a01:2b0:0:2f::1 [65.307, 73.756, 87.942] ||\n7 (AS12552) 2a01:2b0:2000:43::5 [57.701, 60.272, 60.98] ||\n8 () 2001:7f8:d:200::187 [56.026, 61.428, 624.922] ||\n9 (AS1835) 2001:7f8:1f:0:4:2525:26:1 [51.703, 52.188, 63.737] |Copenhagen,Capital Region,DK|\n10 (AS42525) 10ge6-3.ipv6.taas11cr2dk.gc-net.eu [87.951, 89.463, 89.998] ||\n11 (AS42525) xe-2-0-0-0.ipv6.cr1.arhu.gc-net.eu [60.968, 61.01, 74.998] |Aarhus,Central Jutland,DK|\n12 (AS42525) 2a01:7e8:1:800::116 [63.483, 64.82, 65.562] ||\n13 (AS60422) 2a00:b920:3:1337::252 [62.559, 63.968, 64.214] ||\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 0.615, 
+            "ttl": 64, 
+            "from": "2001:16d8:dd6f:1::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.435, 
+            "ttl": 64, 
+            "from": "2001:16d8:dd6f:1::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.469, 
+            "ttl": 64, 
+            "from": "2001:16d8:dd6f:1::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 37.029, 
+            "ttl": 63, 
+            "from": "2001:16d8:dd00:d5::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 37.207, 
+            "ttl": 63, 
+            "from": "2001:16d8:dd00:d5::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 37.184, 
+            "ttl": 63, 
+            "from": "2001:16d8:dd00:d5::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 37.773, 
+            "ttl": 63, 
+            "from": "2001:16d8:aaaa:5::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 37.227, 
+            "ttl": 63, 
+            "from": "2001:16d8:aaaa:5::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 38.761, 
+            "ttl": 63, 
+            "from": "2001:16d8:aaaa:5::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 39.469, 
+            "ttl": 62, 
+            "from": "2001:16d8:aaaa:5::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 39.01, 
+            "ttl": 62, 
+            "from": "2001:16d8:aaaa:5::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 38.946, 
+            "ttl": 62, 
+            "from": "2001:16d8:aaaa:5::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 39.22, 
+            "ttl": 61, 
+            "from": "2001:16d8:1:136a::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 37.996, 
+            "ttl": 61, 
+            "from": "2001:16d8:1:136a::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 38.712, 
+            "ttl": 61, 
+            "from": "2001:16d8:1:136a::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 65.307, 
+            "ttl": 55, 
+            "from": "2a01:2b0:0:2f::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 73.756, 
+            "ttl": 55, 
+            "from": "2a01:2b0:0:2f::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 87.942, 
+            "ttl": 55, 
+            "from": "2a01:2b0:0:2f::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 57.701, 
+            "ttl": 54, 
+            "from": "2a01:2b0:2000:43::5", 
+            "size": 96
+          }, 
+          {
+            "rtt": 60.272, 
+            "ttl": 54, 
+            "from": "2a01:2b0:2000:43::5", 
+            "size": 96
+          }, 
+          {
+            "rtt": 60.98, 
+            "ttl": 54, 
+            "from": "2a01:2b0:2000:43::5", 
+            "size": 96
+          }
+        ], 
+        "hop": 7
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 624.922, 
+            "ttl": 56, 
+            "from": "2001:7f8:d:200::187", 
+            "size": 96
+          }, 
+          {
+            "rtt": 56.026, 
+            "ttl": 56, 
+            "from": "2001:7f8:d:200::187", 
+            "size": 96
+          }, 
+          {
+            "rtt": 61.428, 
+            "ttl": 56, 
+            "from": "2001:7f8:d:200::187", 
+            "size": 96
+          }
+        ], 
+        "hop": 8
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 51.703, 
+            "ttl": 54, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 63.737, 
+            "ttl": 54, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 52.188, 
+            "ttl": 54, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }
+        ], 
+        "hop": 9
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 87.951, 
+            "ttl": 54, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 89.998, 
+            "ttl": 54, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 89.463, 
+            "ttl": 54, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }
+        ], 
+        "hop": 10
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 74.998, 
+            "ttl": 53, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 60.968, 
+            "ttl": 53, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 61.01, 
+            "ttl": 53, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }
+        ], 
+        "hop": 11
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 63.483, 
+            "ttl": 52, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 64.82, 
+            "ttl": 52, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 65.562, 
+            "ttl": 52, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }
+        ], 
+        "hop": 12
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 62.559, 
+            "ttl": 51, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 63.968, 
+            "ttl": 51, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 64.214, 
+            "ttl": 51, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }
+        ], 
+        "hop": 13
+      }
+    ], 
+    "src_prb_id": 14380, 
+    "in_country": true, 
+    "via_ixp": true, 
+    "ixps": [
+      "DIX"
+    ], 
+    "ts": 1462172921, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Copenhagen,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "16150", 
+          "sloc": "Probe", 
+          "sasn": "39554", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "10.0115", 
+            "57.0275"
+          ], 
+          [
+            "12.56553", 
+            "55.67594"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Aarhus,Central Jutland,DK", 
+          "is_direct": false, 
+          "dasn": "42525", 
+          "sloc": "Copenhagen,Capital Region,DK", 
+          "sasn": "1835", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.56553", 
+            "55.67594"
+          ], 
+          [
+            "10.21076", 
+            "56.15674"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Aarhus,Central Jutland,DK", 
+          "sasn": "42525", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            10.21076, 
+            56.15674
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      4.889, 
+      4.726, 
+      4.686
+    ], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [
+        "AS60422", 
+        "AS42525"
+      ], 
+      "links": [
+        {
+          "src": "AS42525", 
+          "dst": "AS60422", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [], 
+    "tracetxt": "## msm_id:3742551 prb_id:18747 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:08:34 -00:00\n1 (AS42525) 2a01:7e8:48:1337::1 [0.472, 0.473, 0.664] ||\n2 (AS42525) 2a01:7e8:1:800::1b9 [2.043, 2.06, 5.118] ||\n3 (AS42525) 2a01:7e8:1:200::165 [1.859, 2.891, 4.935] ||\n4 (AS42525) ae1-0.ipv6.hoer1cr1dk.gc-net.eu [2.774, 2.825, 2.846] ||\n5 (AS42525) 2a01:7e8:1:800::116 [5.427, 5.443, 5.537] ||\n6 (AS60422) 2a00:b920:3:1337::252 [4.686, 4.726, 4.889] ||\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 0.664, 
+            "ttl": 255, 
+            "from": "2a01:7e8:48:1337::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.472, 
+            "ttl": 255, 
+            "from": "2a01:7e8:48:1337::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.473, 
+            "ttl": 255, 
+            "from": "2a01:7e8:48:1337::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 5.118, 
+            "ttl": 63, 
+            "from": "2a01:7e8:1:800::1b9", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.043, 
+            "ttl": 63, 
+            "from": "2a01:7e8:1:800::1b9", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.06, 
+            "ttl": 63, 
+            "from": "2a01:7e8:1:800::1b9", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 4.935, 
+            "ttl": 62, 
+            "from": "2a01:7e8:1:200::165", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.859, 
+            "ttl": 62, 
+            "from": "2a01:7e8:1:200::165", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.891, 
+            "ttl": 62, 
+            "from": "2a01:7e8:1:200::165", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 2.846, 
+            "ttl": 61, 
+            "from": "2a01:7e8:1:200::4e", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.774, 
+            "ttl": 61, 
+            "from": "2a01:7e8:1:200::4e", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.825, 
+            "ttl": 61, 
+            "from": "2a01:7e8:1:200::4e", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 5.537, 
+            "ttl": 60, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 5.427, 
+            "ttl": 60, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 5.443, 
+            "ttl": 60, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 4.889, 
+            "ttl": 59, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 4.726, 
+            "ttl": 59, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 4.686, 
+            "ttl": 59, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }
+        ], 
+        "hop": 6
+      }
+    ], 
+    "src_prb_id": 18747, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172914, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Probe", 
+          "sasn": "42525", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            8.9695, 
+            56.1305
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      12.792, 
+      13.26, 
+      12.767
+    ], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [
+        "AS60422", 
+        "AS31027", 
+        "AS42525"
+      ], 
+      "links": [
+        {
+          "src": "AS31027", 
+          "dst": "AS42525", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS42525", 
+          "dst": "AS60422", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Aarhus,Central Jutland,DK"
+    ], 
+    "tracetxt": "## msm_id:3742551 prb_id:19820 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:08:41 -00:00\n1 (AS31027) 2a02:188:2503:10::2 [0.493, 0.509, 1.361] ||\n2 (AS31027) 2a02:188:12e:4::1 [1.337, 1.35, 1.425] ||\n3 () ::ffff:93.176.90.112 [1.749, 1.904, 1.905] ||\n4 (AS31027) 2a02:188:800:3::2 [1.69, 3.343, 10.649] ||\n5 (AS42525) xe-2-0-0-0.ipv6.cr1.arhu.gc-net.eu [10.812, 10.858, 10.865] |Aarhus,Central Jutland,DK|\n6 (AS42525) 2a01:7e8:1:800::116 [13.613, 13.9, 16.484] ||\n7 (AS60422) 2a00:b920:3:1337::252 [12.767, 12.792, 13.26] ||\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 1.361, 
+            "ttl": 64, 
+            "from": "2a02:188:2503:10::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.509, 
+            "ttl": 64, 
+            "from": "2a02:188:2503:10::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.493, 
+            "ttl": 64, 
+            "from": "2a02:188:2503:10::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 1.425, 
+            "ttl": 63, 
+            "from": "2a02:188:12e:4::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.35, 
+            "ttl": 63, 
+            "from": "2a02:188:12e:4::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.337, 
+            "ttl": 63, 
+            "from": "2a02:188:12e:4::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "ttl": 61, 
+            "rtt": 1.749, 
+            "icmpext": {
+              "rfc4884": 1, 
+              "version": 0, 
+              "obj": [
+                {
+                  "type": 0, 
+                  "class": 0
+                }
+              ]
+            }, 
+            "from": "::ffff:93.176.90.112", 
+            "size": 144
+          }, 
+          {
+            "ttl": 61, 
+            "rtt": 1.905, 
+            "icmpext": {
+              "rfc4884": 1, 
+              "version": 0, 
+              "obj": [
+                {
+                  "type": 0, 
+                  "class": 0
+                }
+              ]
+            }, 
+            "from": "::ffff:93.176.90.112", 
+            "size": 144
+          }, 
+          {
+            "ttl": 61, 
+            "rtt": 1.904, 
+            "icmpext": {
+              "rfc4884": 1, 
+              "version": 0, 
+              "obj": [
+                {
+                  "type": 0, 
+                  "class": 0
+                }
+              ]
+            }, 
+            "from": "::ffff:93.176.90.112", 
+            "size": 144
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 10.649, 
+            "ttl": 61, 
+            "from": "2a02:188:800:3::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 3.343, 
+            "ttl": 61, 
+            "from": "2a02:188:800:3::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.69, 
+            "ttl": 61, 
+            "from": "2a02:188:800:3::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 10.812, 
+            "ttl": 60, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 10.865, 
+            "ttl": 60, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 10.858, 
+            "ttl": 60, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 13.9, 
+            "ttl": 59, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 13.613, 
+            "ttl": 59, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 16.484, 
+            "ttl": 59, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 12.792, 
+            "ttl": 58, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 13.26, 
+            "ttl": 58, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 12.767, 
+            "ttl": 58, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }
+        ], 
+        "hop": 7
+      }
+    ], 
+    "src_prb_id": 19820, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172921, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Aarhus,Central Jutland,DK", 
+          "is_direct": false, 
+          "dasn": "42525", 
+          "sloc": "Probe", 
+          "sasn": "31027", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.5685", 
+            "55.6775"
+          ], 
+          [
+            "10.21076", 
+            "56.15674"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Aarhus,Central Jutland,DK", 
+          "sasn": "42525", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            10.21076, 
+            56.15674
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      33.986, 
+      33.667
+    ], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [
+        "AS60422", 
+        "_DIX", 
+        "AS59469", 
+        "AS42525"
+      ], 
+      "links": [
+        {
+          "src": "AS42525", 
+          "dst": "AS60422", 
+          "type": "d"
+        }, 
+        {
+          "src": "_DIX", 
+          "dst": "AS42525", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS59469", 
+          "dst": "_DIX", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Aarhus,Central Jutland,DK", 
+      "Copenhagen,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742551 prb_id:19933 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:08:47 -00:00\n1 (AS59469) 2a01:4260:28:4201::1 [0.485, 0.511, 1.376] ||\n2 (AS59469) 2a01:4260:28:fffe::1 [20.794, 21.197, 21.243] ||\n3 err:{u'x': u'*'}\n3 (AS59469) 2a01:4260:28:ffff::1 [21.216] ||\n4 err:{u'x': u'*'}\n4 (AS59469) 2a03:a480:1000:3713::1 [21.454, 21.475] ||\n5 err:{u'x': u'*'}\n5 (AS59469) 2a03:a480:ffff:ff35::1 [21.401, 21.415] ||\n6 err:{u'x': u'*'}\n6 (AS1835) 2001:7f8:1f::6939:38:0 [22.177, 22.713] |Copenhagen,Capital Region,DK|\n7 (AS1835) 2001:7f8:1f:0:4:2525:26:1 [22.187, 31.597] |Copenhagen,Capital Region,DK|\n8 (AS42525) 10ge6-3.ipv6.taas11cr2dk.gc-net.eu [33.017, 64.277] ||\n9 (AS42525) xe-2-0-0-0.ipv6.cr1.arhu.gc-net.eu [31.928, 31.992] |Aarhus,Central Jutland,DK|\n10 (AS42525) 2a01:7e8:1:800::116 [34.77, 35.959] ||\n11 (AS60422) 2a00:b920:3:1337::252 [33.667, 33.986] ||\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 1.376, 
+            "ttl": 64, 
+            "from": "2a01:4260:28:4201::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.485, 
+            "ttl": 64, 
+            "from": "2a01:4260:28:4201::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.511, 
+            "ttl": 64, 
+            "from": "2a01:4260:28:4201::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 20.794, 
+            "ttl": 63, 
+            "from": "2a01:4260:28:fffe::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 21.197, 
+            "ttl": 63, 
+            "from": "2a01:4260:28:fffe::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 21.243, 
+            "ttl": 63, 
+            "from": "2a01:4260:28:fffe::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "rtt": 21.216, 
+            "ttl": 62, 
+            "from": "2a01:4260:28:ffff::1", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 21.475, 
+            "ttl": 61, 
+            "from": "2a03:a480:1000:3713::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 21.454, 
+            "ttl": 61, 
+            "from": "2a03:a480:1000:3713::1", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 21.415, 
+            "ttl": 60, 
+            "from": "2a03:a480:ffff:ff35::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 21.401, 
+            "ttl": 60, 
+            "from": "2a03:a480:ffff:ff35::1", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 22.713, 
+            "ttl": 57, 
+            "from": "2001:7f8:1f::6939:38:0", 
+            "size": 96
+          }, 
+          {
+            "rtt": 22.177, 
+            "ttl": 57, 
+            "from": "2001:7f8:1f::6939:38:0", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 31.597, 
+            "ttl": 56, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "rtt": 22.187, 
+            "ttl": 56, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }
+        ], 
+        "hop": 7
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 64.277, 
+            "ttl": 57, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "rtt": 33.017, 
+            "ttl": 57, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }
+        ], 
+        "hop": 8
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 31.928, 
+            "ttl": 56, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "rtt": 31.992, 
+            "ttl": 56, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }
+        ], 
+        "hop": 9
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 35.959, 
+            "ttl": 55, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "rtt": 34.77, 
+            "ttl": 55, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }
+        ], 
+        "hop": 10
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "rtt": 33.986, 
+            "ttl": 54, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 33.667, 
+            "ttl": 54, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }
+        ], 
+        "hop": 11
+      }
+    ], 
+    "src_prb_id": 19933, 
+    "in_country": true, 
+    "via_ixp": true, 
+    "ixps": [
+      "DIX"
+    ], 
+    "ts": 1462172927, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Copenhagen,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "1835", 
+          "sloc": "Probe", 
+          "sasn": "39554", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.5485", 
+            "55.6785"
+          ], 
+          [
+            "12.56553", 
+            "55.67594"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Aarhus,Central Jutland,DK", 
+          "is_direct": false, 
+          "dasn": "42525", 
+          "sloc": "Copenhagen,Capital Region,DK", 
+          "sasn": "1835", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.56553", 
+            "55.67594"
+          ], 
+          [
+            "10.21076", 
+            "56.15674"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Aarhus,Central Jutland,DK", 
+          "sasn": "42525", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            10.21076, 
+            56.15674
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [], 
+      "links": []
+    }, 
+    "locations": [], 
+    "tracetxt": "## msm_id:3742551 prb_id:20009 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:08:35 -00:00\n", 
+    "result": [
+      {
+        "hop": 1, 
+        "error": "connect failed: Network is unreachable"
+      }
+    ], 
+    "src_prb_id": 20009, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172915, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Probe", 
+          "sasn": "60876", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.3775, 
+            55.7315
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      35.701, 
+      35.458, 
+      34.718
+    ], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [
+        "AS1299", 
+        "AS3308", 
+        "AS60422", 
+        "AS42525"
+      ], 
+      "links": [
+        {
+          "src": "AS3308", 
+          "dst": "AS1299", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS1299", 
+          "dst": "AS42525", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS42525", 
+          "dst": "AS60422", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Aarhus,Central Jutland,DK", 
+      "Copenhagen,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742551 prb_id:25337 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:08:42 -00:00\n1 err:{u'x': u'*'}\n1 (AS3308) 2001:2012:3ec6:9cec::1 [0.977, 2.453] ||\n2 (AS3308) 2001:2000:1080:16::2 [11.523, 12.031, 23.985] ||\n3 (AS3308) 2001:2000:1080:16::1 [11.494, 12.461, 12.488] ||\n4 (AS1299) kbn-b3-link.telia.net [11.619, 11.791, 12.957] |Copenhagen,Capital Region,DK|\n5 (AS1299) globalconnect-ic-305232-kbn-b3.c.telia.net [31.911, 40.151, 49.119] ||\n6 (AS42525) xe-2-0-0-0.ipv6.cr1.arhu.gc-net.eu [33.486, 33.584, 33.691] |Aarhus,Central Jutland,DK|\n7 (AS42525) 2a01:7e8:1:800::116 [36.012, 36.484, 37.275] ||\n8 (AS60422) 2a00:b920:3:1337::252 [34.718, 35.458, 35.701] ||\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 0.977, 
+            "ttl": 64, 
+            "from": "2001:2012:3ec6:9cec::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.453, 
+            "ttl": 64, 
+            "from": "2001:2012:3ec6:9cec::1", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 11.523, 
+            "ttl": 63, 
+            "from": "2001:2000:1080:16::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 12.031, 
+            "ttl": 63, 
+            "from": "2001:2000:1080:16::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 23.985, 
+            "ttl": 63, 
+            "from": "2001:2000:1080:16::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 12.488, 
+            "ttl": 62, 
+            "from": "2001:2000:1080:16::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 12.461, 
+            "ttl": 62, 
+            "from": "2001:2000:1080:16::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 11.494, 
+            "ttl": 62, 
+            "from": "2001:2000:1080:16::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 12.957, 
+            "ttl": 59, 
+            "from": "2001:2000:3080:96::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 11.619, 
+            "ttl": 59, 
+            "from": "2001:2000:3080:96::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 11.791, 
+            "ttl": 59, 
+            "from": "2001:2000:3080:96::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 40.151, 
+            "ttl": 54, 
+            "from": "2001:2000:3080:994::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 31.911, 
+            "ttl": 54, 
+            "from": "2001:2000:3080:994::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 49.119, 
+            "ttl": 54, 
+            "from": "2001:2000:3080:994::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 33.584, 
+            "ttl": 53, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 33.486, 
+            "ttl": 53, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 33.691, 
+            "ttl": 53, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 37.275, 
+            "ttl": 52, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 36.484, 
+            "ttl": 52, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 36.012, 
+            "ttl": 52, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }
+        ], 
+        "hop": 7
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 35.701, 
+            "ttl": 51, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 35.458, 
+            "ttl": 51, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 34.718, 
+            "ttl": 51, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }
+        ], 
+        "hop": 8
+      }
+    ], 
+    "src_prb_id": 25337, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172922, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Copenhagen,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "1299", 
+          "sloc": "Probe", 
+          "sasn": "3308", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "11.5585", 
+            "55.4405"
+          ], 
+          [
+            "12.56553", 
+            "55.67594"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Aarhus,Central Jutland,DK", 
+          "is_direct": false, 
+          "dasn": "42525", 
+          "sloc": "Copenhagen,Capital Region,DK", 
+          "sasn": "1299", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.56553", 
+            "55.67594"
+          ], 
+          [
+            "10.21076", 
+            "56.15674"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Aarhus,Central Jutland,DK", 
+          "sasn": "42525", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            10.21076, 
+            56.15674
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      14.088, 
+      13.93, 
+      13.938
+    ], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [
+        "AS60422", 
+        "AS21060", 
+        "AS31027", 
+        "AS42525"
+      ], 
+      "links": [
+        {
+          "src": "AS31027", 
+          "dst": "AS42525", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS21060", 
+          "dst": "AS31027", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS42525", 
+          "dst": "AS60422", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Aarhus,Central Jutland,DK"
+    ], 
+    "tracetxt": "## msm_id:3742551 prb_id:339 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:08:30 -00:00\n1 (AS21060) 2a02:7c00::1 [2.079, 2.08, 2.554] ||\n2 (AS31027) 2a02:188:100:10::1 [2.274, 2.579, 2.707] ||\n3 (AS31027) 2a02:188:800:3::2 [3.141, 6.977, 35.279] ||\n4 (AS42525) xe-2-0-0-0.ipv6.cr1.arhu.gc-net.eu [12.094, 12.114, 12.261] |Aarhus,Central Jutland,DK|\n5 (AS42525) 2a01:7e8:1:800::116 [14.593, 14.708, 14.767] ||\n6 (AS60422) 2a00:b920:3:1337::252 [13.93, 13.938, 14.088] ||\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 2.554, 
+            "ttl": 64, 
+            "from": "2a02:7c00::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.079, 
+            "ttl": 64, 
+            "from": "2a02:7c00::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.08, 
+            "ttl": 64, 
+            "from": "2a02:7c00::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 2.707, 
+            "ttl": 63, 
+            "from": "2a02:188:100:10::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.579, 
+            "ttl": 63, 
+            "from": "2a02:188:100:10::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.274, 
+            "ttl": 63, 
+            "from": "2a02:188:100:10::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 3.141, 
+            "ttl": 61, 
+            "from": "2a02:188:800:3::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 6.977, 
+            "ttl": 61, 
+            "from": "2a02:188:800:3::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 35.279, 
+            "ttl": 61, 
+            "from": "2a02:188:800:3::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 12.114, 
+            "ttl": 60, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 12.261, 
+            "ttl": 60, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 12.094, 
+            "ttl": 60, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 14.767, 
+            "ttl": 59, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 14.708, 
+            "ttl": 59, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 14.593, 
+            "ttl": 59, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 14.088, 
+            "ttl": 58, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 13.93, 
+            "ttl": 58, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 13.938, 
+            "ttl": 58, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }
+        ], 
+        "hop": 6
+      }
+    ], 
+    "src_prb_id": 339, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172910, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Aarhus,Central Jutland,DK", 
+          "is_direct": false, 
+          "dasn": "42525", 
+          "sloc": "Probe", 
+          "sasn": "21060", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.3885", 
+            "55.7315"
+          ], 
+          [
+            "10.21076", 
+            "56.15674"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Aarhus,Central Jutland,DK", 
+          "sasn": "42525", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            10.21076, 
+            56.15674
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      16.755, 
+      15.994, 
+      15.979
+    ], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [
+        "AS60422", 
+        "_DIX", 
+        "AS65101", 
+        "AS42525"
+      ], 
+      "links": [
+        {
+          "src": "AS42525", 
+          "dst": "AS60422", 
+          "type": "d"
+        }, 
+        {
+          "src": "_DIX", 
+          "dst": "AS42525", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS65101", 
+          "dst": "_DIX", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Aarhus,Central Jutland,DK", 
+      "Copenhagen,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742551 prb_id:3468 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:08:50 -00:00\n1 (AS65101) 2a02:2190:f000:cf0f::1 [2.05, 2.051, 2.705] ||\n2 err:{u'x': u'*'}\n2 (AS65101) 2a02:2190:1004:da::1 [4.103, 4.512] ||\n3 (AS65101) 2a02:2190:1:1::1 [13.919, 14.582, 14.603] ||\n4 (AS1835) 2001:7f8:1f::6939:38:0 [12.631, 16.327, 24.682] |Copenhagen,Capital Region,DK|\n5 (AS1835) 2001:7f8:1f:0:4:2525:26:1 [5.904, 17.238, 18.626] |Copenhagen,Capital Region,DK|\n6 (AS42525) 10ge6-3.ipv6.taas11cr2dk.gc-net.eu [4.71, 4.924, 22.426] ||\n7 (AS42525) xe-2-0-0-0.ipv6.cr1.arhu.gc-net.eu [17.605, 17.613, 17.925] |Aarhus,Central Jutland,DK|\n8 (AS42525) 2a01:7e8:1:800::116 [17.93, 21.252, 52.262] ||\n9 (AS60422) 2a00:b920:3:1337::252 [15.979, 15.994, 16.755] ||\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 2.705, 
+            "ttl": 64, 
+            "from": "2a02:2190:f000:cf0f::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.05, 
+            "ttl": 64, 
+            "from": "2a02:2190:f000:cf0f::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.051, 
+            "ttl": 64, 
+            "from": "2a02:2190:f000:cf0f::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 4.512, 
+            "ttl": 63, 
+            "from": "2a02:2190:1004:da::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 4.103, 
+            "ttl": 63, 
+            "from": "2a02:2190:1004:da::1", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 13.919, 
+            "ttl": 62, 
+            "from": "2a02:2190:1:1::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 14.603, 
+            "ttl": 62, 
+            "from": "2a02:2190:1:1::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 14.582, 
+            "ttl": 62, 
+            "from": "2a02:2190:1:1::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 24.682, 
+            "ttl": 57, 
+            "from": "2001:7f8:1f::6939:38:0", 
+            "size": 96
+          }, 
+          {
+            "rtt": 16.327, 
+            "ttl": 57, 
+            "from": "2001:7f8:1f::6939:38:0", 
+            "size": 96
+          }, 
+          {
+            "rtt": 12.631, 
+            "ttl": 57, 
+            "from": "2001:7f8:1f::6939:38:0", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 18.626, 
+            "ttl": 56, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 5.904, 
+            "ttl": 56, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 17.238, 
+            "ttl": 56, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 4.924, 
+            "ttl": 57, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 4.71, 
+            "ttl": 57, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 22.426, 
+            "ttl": 57, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 17.605, 
+            "ttl": 56, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 17.613, 
+            "ttl": 56, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 17.925, 
+            "ttl": 56, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }
+        ], 
+        "hop": 7
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 17.93, 
+            "ttl": 55, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 21.252, 
+            "ttl": 55, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 52.262, 
+            "ttl": 55, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }
+        ], 
+        "hop": 8
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 16.755, 
+            "ttl": 54, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 15.994, 
+            "ttl": 54, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 15.979, 
+            "ttl": 54, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }
+        ], 
+        "hop": 9
+      }
+    ], 
+    "src_prb_id": 3468, 
+    "in_country": true, 
+    "via_ixp": true, 
+    "ixps": [
+      "DIX"
+    ], 
+    "ts": 1462172930, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Copenhagen,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "1835", 
+          "sloc": "Probe", 
+          "sasn": "44134", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.5805", 
+            "55.6115"
+          ], 
+          [
+            "12.56553", 
+            "55.67594"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Aarhus,Central Jutland,DK", 
+          "is_direct": false, 
+          "dasn": "42525", 
+          "sloc": "Copenhagen,Capital Region,DK", 
+          "sasn": "1835", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.56553", 
+            "55.67594"
+          ], 
+          [
+            "10.21076", 
+            "56.15674"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Aarhus,Central Jutland,DK", 
+          "sasn": "42525", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            10.21076, 
+            56.15674
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      19.591, 
+      19.509, 
+      19.804
+    ], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [
+        "AS60422", 
+        "_DIX", 
+        "AS1835", 
+        "AS42525"
+      ], 
+      "links": [
+        {
+          "src": "AS1835", 
+          "dst": "_DIX", 
+          "type": "d"
+        }, 
+        {
+          "src": "_DIX", 
+          "dst": "AS42525", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS42525", 
+          "dst": "AS60422", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Aarhus,Central Jutland,DK", 
+      "Copenhagen,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742551 prb_id:474 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:08:33 -00:00\n1 () fe80::c671:feff:fe02:3600 [2.088, 2.308, 3.027] ||\n2 (AS1835) 2001:878:0:e000:82:e1:f4:fe [2.605, 2.825, 3.032] ||\n3 (AS1835) 10g-or1.ly3.core.fsknet.dk [2.756, 2.885, 2.918] ||\n4 (AS1835) 2001:878:0:e000:82:e2:f9:bd [2.663, 2.687, 2.712] ||\n5 (AS1835) 2001:7f8:1f::6939:38:0 [2.633, 2.862, 2.873] |Copenhagen,Capital Region,DK|\n6 (AS1835) 2001:7f8:1f:0:4:2525:26:1 [8.215, 10.12, 15.409] |Copenhagen,Capital Region,DK|\n7 (AS42525) 10ge6-3.ipv6.taas11cr2dk.gc-net.eu [8.029, 9.03, 47.71] ||\n8 (AS42525) xe-2-0-0-0.ipv6.cr1.arhu.gc-net.eu [17.506, 17.738, 17.745] |Aarhus,Central Jutland,DK|\n9 (AS42525) 2a01:7e8:1:800::116 [20.589, 20.633, 20.755] ||\n10 (AS60422) 2a00:b920:3:1337::252 [19.509, 19.591, 19.804] ||\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 3.027, 
+            "ttl": 64, 
+            "from": "fe80::c671:feff:fe02:3600", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.088, 
+            "ttl": 64, 
+            "from": "fe80::c671:feff:fe02:3600", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.308, 
+            "ttl": 64, 
+            "from": "fe80::c671:feff:fe02:3600", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 3.032, 
+            "ttl": 63, 
+            "from": "2001:878:0:e000:82:e1:f4:fe", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.605, 
+            "ttl": 63, 
+            "from": "2001:878:0:e000:82:e1:f4:fe", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.825, 
+            "ttl": 63, 
+            "from": "2001:878:0:e000:82:e1:f4:fe", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 2.885, 
+            "ttl": 62, 
+            "from": "2001:878:0:e000:82:e1:f4:d9", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.756, 
+            "ttl": 62, 
+            "from": "2001:878:0:e000:82:e1:f4:d9", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.918, 
+            "ttl": 62, 
+            "from": "2001:878:0:e000:82:e1:f4:d9", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 2.712, 
+            "ttl": 63, 
+            "from": "2001:878:0:e000:82:e2:f9:bd", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.663, 
+            "ttl": 63, 
+            "from": "2001:878:0:e000:82:e2:f9:bd", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.687, 
+            "ttl": 63, 
+            "from": "2001:878:0:e000:82:e2:f9:bd", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 2.873, 
+            "ttl": 62, 
+            "from": "2001:7f8:1f::6939:38:0", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.862, 
+            "ttl": 62, 
+            "from": "2001:7f8:1f::6939:38:0", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.633, 
+            "ttl": 62, 
+            "from": "2001:7f8:1f::6939:38:0", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 15.409, 
+            "ttl": 58, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 10.12, 
+            "ttl": 58, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 8.215, 
+            "ttl": 58, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 9.03, 
+            "ttl": 58, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 8.029, 
+            "ttl": 58, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 47.71, 
+            "ttl": 58, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }
+        ], 
+        "hop": 7
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 17.745, 
+            "ttl": 57, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 17.738, 
+            "ttl": 57, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 17.506, 
+            "ttl": 57, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }
+        ], 
+        "hop": 8
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 20.589, 
+            "ttl": 56, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 20.755, 
+            "ttl": 56, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 20.633, 
+            "ttl": 56, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }
+        ], 
+        "hop": 9
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 19.591, 
+            "ttl": 55, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 19.509, 
+            "ttl": 55, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 19.804, 
+            "ttl": 55, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }
+        ], 
+        "hop": 10
+      }
+    ], 
+    "src_prb_id": 474, 
+    "in_country": true, 
+    "via_ixp": true, 
+    "ixps": [
+      "DIX"
+    ], 
+    "ts": 1462172913, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Copenhagen,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "1835", 
+          "sloc": "Probe", 
+          "sasn": "1835", 
+          "asn": "1835"
+        }, 
+        "coordinates": [
+          [
+            "12.5205", 
+            "55.7795"
+          ], 
+          [
+            "12.56553", 
+            "55.67594"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Aarhus,Central Jutland,DK", 
+          "is_direct": false, 
+          "dasn": "42525", 
+          "sloc": "Copenhagen,Capital Region,DK", 
+          "sasn": "1835", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.56553", 
+            "55.67594"
+          ], 
+          [
+            "10.21076", 
+            "56.15674"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Aarhus,Central Jutland,DK", 
+          "sasn": "42525", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            10.21076, 
+            56.15674
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      12.703, 
+      12.661, 
+      12.567
+    ], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [
+        "AS60422", 
+        "_DIX", 
+        "AS59469", 
+        "AS42525"
+      ], 
+      "links": [
+        {
+          "src": "AS42525", 
+          "dst": "AS60422", 
+          "type": "d"
+        }, 
+        {
+          "src": "_DIX", 
+          "dst": "AS42525", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS59469", 
+          "dst": "_DIX", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Aarhus,Central Jutland,DK", 
+      "Copenhagen,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742551 prb_id:6069 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:08:29 -00:00\n1 (AS59469) 2a03:a480:1000:3113::1 [0.297, 0.34, 0.441] ||\n2 (AS1835) 2001:7f8:1f::6939:38:0 [1.084, 1.137, 8.306] |Copenhagen,Capital Region,DK|\n3 (AS1835) 2001:7f8:1f:0:4:2525:26:1 [1.198, 5.292, 12.289] |Copenhagen,Capital Region,DK|\n4 (AS42525) 10ge6-3.ipv6.taas11cr2dk.gc-net.eu [1.162, 2.847, 31.805] ||\n5 (AS42525) xe-2-0-0-0.ipv6.cr1.arhu.gc-net.eu [10.652, 10.697, 10.703] |Aarhus,Central Jutland,DK|\n6 (AS42525) 2a01:7e8:1:800::116 [13.233, 13.261, 13.37] ||\n7 (AS60422) 2a00:b920:3:1337::252 [12.567, 12.661, 12.703] ||\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 0.297, 
+            "ttl": 64, 
+            "from": "2a03:a480:1000:3113::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.441, 
+            "ttl": 64, 
+            "from": "2a03:a480:1000:3113::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.34, 
+            "ttl": 64, 
+            "from": "2a03:a480:1000:3113::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 1.084, 
+            "ttl": 61, 
+            "from": "2001:7f8:1f::6939:38:0", 
+            "size": 96
+          }, 
+          {
+            "rtt": 8.306, 
+            "ttl": 61, 
+            "from": "2001:7f8:1f::6939:38:0", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.137, 
+            "ttl": 61, 
+            "from": "2001:7f8:1f::6939:38:0", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 5.292, 
+            "ttl": 60, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 12.289, 
+            "ttl": 60, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.198, 
+            "ttl": 60, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 2.847, 
+            "ttl": 61, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.162, 
+            "ttl": 61, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 31.805, 
+            "ttl": 61, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 10.703, 
+            "ttl": 60, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 10.697, 
+            "ttl": 60, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 10.652, 
+            "ttl": 60, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 13.37, 
+            "ttl": 59, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 13.261, 
+            "ttl": 59, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 13.233, 
+            "ttl": 59, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 12.703, 
+            "ttl": 58, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 12.661, 
+            "ttl": 58, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 12.567, 
+            "ttl": 58, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }
+        ], 
+        "hop": 7
+      }
+    ], 
+    "src_prb_id": 6069, 
+    "in_country": true, 
+    "via_ixp": true, 
+    "ixps": [
+      "DIX"
+    ], 
+    "ts": 1462172909, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Copenhagen,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "1835", 
+          "sloc": "Probe", 
+          "sasn": "59469", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.3805", 
+            "55.7315"
+          ], 
+          [
+            "12.56553", 
+            "55.67594"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Aarhus,Central Jutland,DK", 
+          "is_direct": false, 
+          "dasn": "42525", 
+          "sloc": "Copenhagen,Capital Region,DK", 
+          "sasn": "1835", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.56553", 
+            "55.67594"
+          ], 
+          [
+            "10.21076", 
+            "56.15674"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Aarhus,Central Jutland,DK", 
+          "sasn": "42525", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            10.21076, 
+            56.15674
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      9.832, 
+      10.104, 
+      10.498
+    ], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [
+        "AS60422", 
+        "_DIX", 
+        "AS42525", 
+        "AS39839"
+      ], 
+      "links": [
+        {
+          "src": "_DIX", 
+          "dst": "AS42525", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS39839", 
+          "dst": "_DIX", 
+          "type": "i"
+        }, 
+        {
+          "src": "AS42525", 
+          "dst": "AS60422", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Aarhus,Central Jutland,DK", 
+      "Copenhagen,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742551 prb_id:6103 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:08:32 -00:00\n1 (AS39839) 2a01:630:0:80::2 [0.327, 0.367, 0.387] ||\n2 () 2001:7f8:d:200::187 [0.426, 0.445, 1.677] ||\n3 (AS1835) 2001:7f8:1f:0:4:2525:26:1 [0.941, 5.948, 11.372] |Copenhagen,Capital Region,DK|\n4 (AS42525) 10ge6-3.ipv6.taas11cr2dk.gc-net.eu [1.051, 4.902, 37.252] ||\n5 (AS42525) xe-2-0-0-0.ipv6.cr1.arhu.gc-net.eu [7.757, 7.78, 7.783] |Aarhus,Central Jutland,DK|\n6 (AS42525) 2a01:7e8:1:800::116 [10.494, 10.548, 10.744] ||\n7 (AS60422) 2a00:b920:3:1337::252 [9.832, 10.104, 10.498] ||\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 0.327, 
+            "ttl": 64, 
+            "from": "2a01:630:0:80::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.367, 
+            "ttl": 64, 
+            "from": "2a01:630:0:80::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.387, 
+            "ttl": 64, 
+            "from": "2a01:630:0:80::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 0.426, 
+            "ttl": 63, 
+            "from": "2001:7f8:d:200::187", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.677, 
+            "ttl": 63, 
+            "from": "2001:7f8:d:200::187", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.445, 
+            "ttl": 63, 
+            "from": "2001:7f8:d:200::187", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 0.941, 
+            "ttl": 63, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 5.948, 
+            "ttl": 63, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 11.372, 
+            "ttl": 63, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 1.051, 
+            "ttl": 62, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 37.252, 
+            "ttl": 62, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 4.902, 
+            "ttl": 62, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 7.783, 
+            "ttl": 62, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 7.757, 
+            "ttl": 62, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 7.78, 
+            "ttl": 62, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 10.494, 
+            "ttl": 61, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 10.548, 
+            "ttl": 61, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 10.744, 
+            "ttl": 61, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 9.832, 
+            "ttl": 60, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 10.104, 
+            "ttl": 60, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 10.498, 
+            "ttl": 60, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }
+        ], 
+        "hop": 7
+      }
+    ], 
+    "src_prb_id": 6103, 
+    "in_country": true, 
+    "via_ixp": true, 
+    "ixps": [
+      "DIX"
+    ], 
+    "ts": 1462172912, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Copenhagen,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "1835", 
+          "sloc": "Probe", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.3775", 
+            "55.7285"
+          ], 
+          [
+            "12.56553", 
+            "55.67594"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Aarhus,Central Jutland,DK", 
+          "is_direct": false, 
+          "dasn": "42525", 
+          "sloc": "Copenhagen,Capital Region,DK", 
+          "sasn": "1835", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.56553", 
+            "55.67594"
+          ], 
+          [
+            "10.21076", 
+            "56.15674"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Aarhus,Central Jutland,DK", 
+          "sasn": "42525", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            10.21076, 
+            56.15674
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      17.329, 
+      17.254, 
+      17.365
+    ], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [
+        "AS6939", 
+        "_DIX", 
+        "AS42525", 
+        "AS60422", 
+        "AS197495"
+      ], 
+      "links": [
+        {
+          "src": "_DIX", 
+          "dst": "AS42525", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS197495", 
+          "dst": "AS6939", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS6939", 
+          "dst": "_DIX", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS42525", 
+          "dst": "AS60422", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Aarhus,Central Jutland,DK", 
+      "Copenhagen,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742551 prb_id:6109 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:08:29 -00:00\n1 (AS197495) 2001:67c:3c0:13::2 [0.321, 0.354, 0.629] ||\n2 (AS6939) gigabitethernet2-2.core1.cph1.he.net [0.698, 1.298, 10.516] ||\n3 (AS1835) 2001:7f8:1f:0:4:2525:26:1 [5.898, 6.565, 13.061] |Copenhagen,Capital Region,DK|\n4 (AS42525) 10ge6-3.ipv6.taas11cr2dk.gc-net.eu [6.905, 14.991, 44.303] ||\n5 (AS42525) xe-2-0-0-0.ipv6.cr1.arhu.gc-net.eu [15.413, 15.444, 16.015] |Aarhus,Central Jutland,DK|\n6 (AS42525) 2a01:7e8:1:800::116 [18.011, 18.013, 18.048] ||\n7 (AS60422) 2a00:b920:3:1337::252 [17.254, 17.329, 17.365] ||\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 0.629, 
+            "ttl": 64, 
+            "from": "2001:67c:3c0:13::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.321, 
+            "ttl": 64, 
+            "from": "2001:67c:3c0:13::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.354, 
+            "ttl": 64, 
+            "from": "2001:67c:3c0:13::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 0.698, 
+            "ttl": 63, 
+            "from": "2001:470:1:423::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 10.516, 
+            "ttl": 63, 
+            "from": "2001:470:1:423::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.298, 
+            "ttl": 63, 
+            "from": "2001:470:1:423::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 5.898, 
+            "ttl": 59, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 6.565, 
+            "ttl": 59, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 13.061, 
+            "ttl": 59, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 14.991, 
+            "ttl": 59, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 44.303, 
+            "ttl": 59, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 6.905, 
+            "ttl": 59, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 15.413, 
+            "ttl": 58, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 15.444, 
+            "ttl": 58, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 16.015, 
+            "ttl": 58, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 18.048, 
+            "ttl": 57, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 18.011, 
+            "ttl": 57, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 18.013, 
+            "ttl": 57, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 17.329, 
+            "ttl": 56, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 17.254, 
+            "ttl": 56, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 17.365, 
+            "ttl": 56, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }
+        ], 
+        "hop": 7
+      }
+    ], 
+    "src_prb_id": 6109, 
+    "in_country": true, 
+    "via_ixp": true, 
+    "ixps": [
+      "DIX"
+    ], 
+    "ts": 1462172909, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Copenhagen,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "1835", 
+          "sloc": "Probe", 
+          "sasn": "197495", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.3775", 
+            "55.7315"
+          ], 
+          [
+            "12.56553", 
+            "55.67594"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Aarhus,Central Jutland,DK", 
+          "is_direct": false, 
+          "dasn": "42525", 
+          "sloc": "Copenhagen,Capital Region,DK", 
+          "sasn": "1835", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.56553", 
+            "55.67594"
+          ], 
+          [
+            "10.21076", 
+            "56.15674"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Aarhus,Central Jutland,DK", 
+          "sasn": "42525", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            10.21076, 
+            56.15674
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      13.322, 
+      14.749, 
+      14.093
+    ], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [
+        "AS60422", 
+        "AS3292", 
+        "AS42525"
+      ], 
+      "links": [
+        {
+          "src": "AS3292", 
+          "dst": "AS42525", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS42525", 
+          "dst": "AS60422", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [], 
+    "tracetxt": "## msm_id:3742551 prb_id:690 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:08:25 -00:00\n1 (AS3292) eskv-gw1-inet.lyngbol.dk [4.991, 5.233, 209.401] ||\n2 (AS3292) gr-1-0-0-10.aegnqe10.dk.ip.tdc.net [9.86, 9.957, 20.553] ||\n3 (AS3292) arcnqp7.dk.ip.tdc.net [12.616, 12.803, 19.339] ||\n4 (AS3292) globalconnect.xe-3-2-0-0.arcnqp7.dk.ip.tdc.net [12.311, 12.43, 12.592] ||\n5 (AS42525) 2a01:7e8:1:800::116 [14.134, 17.292, 18.023] ||\n6 (AS60422) 2a00:b920:3:1337::252 [13.322, 14.093, 14.749] ||\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 209.401, 
+            "ttl": 63, 
+            "from": "2001:6c8:200:900::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 5.233, 
+            "ttl": 63, 
+            "from": "2001:6c8:200:900::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 4.991, 
+            "ttl": 63, 
+            "from": "2001:6c8:200:900::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 20.553, 
+            "ttl": 63, 
+            "from": "2001:6c8:81:100::c2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 9.957, 
+            "ttl": 63, 
+            "from": "2001:6c8:81:100::c2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 9.86, 
+            "ttl": 63, 
+            "from": "2001:6c8:81:100::c2", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 12.616, 
+            "ttl": 62, 
+            "from": "2001:6c8:40::10", 
+            "size": 96
+          }, 
+          {
+            "rtt": 19.339, 
+            "ttl": 62, 
+            "from": "2001:6c8:40::10", 
+            "size": 96
+          }, 
+          {
+            "rtt": 12.803, 
+            "ttl": 62, 
+            "from": "2001:6c8:40::10", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 12.592, 
+            "ttl": 61, 
+            "from": "2001:6c8:81:100::36", 
+            "size": 96
+          }, 
+          {
+            "rtt": 12.311, 
+            "ttl": 61, 
+            "from": "2001:6c8:81:100::36", 
+            "size": 96
+          }, 
+          {
+            "rtt": 12.43, 
+            "ttl": 61, 
+            "from": "2001:6c8:81:100::36", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 18.023, 
+            "ttl": 60, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 14.134, 
+            "ttl": 60, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 17.292, 
+            "ttl": 60, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 13.322, 
+            "ttl": 59, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 14.749, 
+            "ttl": 59, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 14.093, 
+            "ttl": 59, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }
+        ], 
+        "hop": 6
+      }
+    ], 
+    "src_prb_id": 690, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172905, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Probe", 
+          "sasn": "2109", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            10.2315, 
+            56.2275
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      37.969, 
+      37.722, 
+      93.728
+    ], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [
+        "AS6939", 
+        "_DIX", 
+        "AS60422", 
+        "AS42525"
+      ], 
+      "links": [
+        {
+          "src": "_DIX", 
+          "dst": "AS42525", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS6939", 
+          "dst": "_DIX", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS42525", 
+          "dst": "AS60422", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Stockholm,Stockholm,SE", 
+      "Aarhus,Central Jutland,DK", 
+      "Copenhagen,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742551 prb_id:2517 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:09:13 -00:00\n1 (AS6939) 2001:470:28:321::1 [5.714, 5.964] ||\n2 (AS6939) kralian-2.tunnel.tserv24.sto1.ipv6.he.net [17.214, 17.6, 17.648] |Stockholm,Stockholm,SE|\n3 (AS6939) ge2-20.core1.sto1.he.net [13.437, 15.378, 15.69] |Stockholm,Stockholm,SE|\n4 (AS6939) 10ge3-1.core1.cph1.he.net [21.251, 22.66, 33.114] |Copenhagen,Capital Region,DK|\n5 (AS1835) 2001:7f8:1f:0:4:2525:26:1 [26.475, 26.495, 27.395] |Copenhagen,Capital Region,DK|\n6 (AS42525) 10ge6-3.ipv6.taas11cr2dk.gc-net.eu [27.06, 28.214, 34.475] ||\n7 (AS42525) xe-2-0-0-0.ipv6.cr1.arhu.gc-net.eu [35.346, 35.91, 36.07] |Aarhus,Central Jutland,DK|\n8 (AS42525) 2a01:7e8:1:800::116 [39.082, 39.324, 39.461] ||\n9 (AS60422) 2a00:b920:3:1337::252 [37.722, 37.969, 93.728] ||\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "rtt": 5.964, 
+            "ttl": 63, 
+            "from": "2001:470:28:321::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 5.714, 
+            "ttl": 63, 
+            "from": "2001:470:28:321::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 17.648, 
+            "ttl": 63, 
+            "from": "2001:470:27:321::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 17.214, 
+            "ttl": 63, 
+            "from": "2001:470:27:321::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 17.6, 
+            "ttl": 63, 
+            "from": "2001:470:27:321::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 15.69, 
+            "ttl": 62, 
+            "from": "2001:470:0:11e::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 15.378, 
+            "ttl": 62, 
+            "from": "2001:470:0:11e::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 13.437, 
+            "ttl": 62, 
+            "from": "2001:470:0:11e::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 33.114, 
+            "ttl": 61, 
+            "from": "2001:470:0:2ad::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 21.251, 
+            "ttl": 61, 
+            "from": "2001:470:0:2ad::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 22.66, 
+            "ttl": 61, 
+            "from": "2001:470:0:2ad::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 26.495, 
+            "ttl": 57, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 27.395, 
+            "ttl": 57, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 26.475, 
+            "ttl": 57, 
+            "from": "2001:7f8:1f:0:4:2525:26:1", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 28.214, 
+            "ttl": 57, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 27.06, 
+            "ttl": 57, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }, 
+          {
+            "rtt": 34.475, 
+            "ttl": 57, 
+            "from": "2a01:7e8:1:200::6", 
+            "size": 96
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 35.346, 
+            "ttl": 56, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 36.07, 
+            "ttl": 56, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }, 
+          {
+            "rtt": 35.91, 
+            "ttl": 56, 
+            "from": "2a01:7e8:1:200::52", 
+            "size": 96
+          }
+        ], 
+        "hop": 7
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 39.461, 
+            "ttl": 55, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 39.082, 
+            "ttl": 55, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }, 
+          {
+            "rtt": 39.324, 
+            "ttl": 55, 
+            "from": "2a01:7e8:1:800::116", 
+            "size": 96
+          }
+        ], 
+        "hop": 8
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 37.969, 
+            "ttl": 54, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 37.722, 
+            "ttl": 54, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 93.728, 
+            "ttl": 54, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }
+        ], 
+        "hop": 9
+      }
+    ], 
+    "src_prb_id": 2517, 
+    "in_country": false, 
+    "via_ixp": true, 
+    "ixps": [
+      "DIX"
+    ], 
+    "ts": 1462172953, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Stockholm,Stockholm,SE", 
+          "is_direct": false, 
+          "dasn": "6939", 
+          "sloc": "Probe", 
+          "sasn": "198455", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.5175", 
+            "55.7805"
+          ], 
+          [
+            "18.0649", 
+            "59.33258"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Copenhagen,Capital Region,DK", 
+          "is_direct": true, 
+          "dasn": "6939", 
+          "sloc": "Stockholm,Stockholm,SE", 
+          "sasn": "6939", 
+          "asn": "6939"
+        }, 
+        "coordinates": [
+          [
+            "18.0649", 
+            "59.33258"
+          ], 
+          [
+            "12.56553", 
+            "55.67594"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Aarhus,Central Jutland,DK", 
+          "is_direct": false, 
+          "dasn": "42525", 
+          "sloc": "Copenhagen,Capital Region,DK", 
+          "sasn": "1835", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.56553", 
+            "55.67594"
+          ], 
+          [
+            "10.21076", 
+            "56.15674"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Aarhus,Central Jutland,DK", 
+          "sasn": "42525", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            10.21076, 
+            56.15674
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      14.064, 
+      12.637, 
+      12.711
+    ], 
+    "dst_prb_id": 19378, 
+    "protocol": 6, 
+    "msm_id": 3742551, 
+    "as_links": {
+      "nodes": [
+        "AS60422", 
+        "AS59469", 
+        "AS12617"
+      ], 
+      "links": [
+        {
+          "src": "AS12617", 
+          "dst": "AS59469", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS59469", 
+          "dst": "AS60422", 
+          "type": "i"
+        }
+      ]
+    }, 
+    "locations": [], 
+    "tracetxt": "## msm_id:3742551 prb_id:3499 dst:2a00:b920:3:1337::252 ts:2016-05-02 07:09:56 -00:00\n1 (AS12617) gw3000.solido.net [2.075, 2.294, 2.302] ||\n2 (AS12617) 2a02:9d0:93::1 [2.547, 2.68, 2.835] ||\n3 (AS59469) 2a03:a480:ffff:ff50::1 [2.588, 2.894, 3.4] ||\n4 err:{u'x': u'*'}\n5 err:{u'x': u'*'}\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n255 (AS60422) 2a00:b920:3:1337::252 [12.637, 12.711, 14.064] ||\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 2.302, 
+            "ttl": 63, 
+            "from": "2a02:9d0:3000:1::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.294, 
+            "ttl": 63, 
+            "from": "2a02:9d0:3000:1::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.075, 
+            "ttl": 63, 
+            "from": "2a02:9d0:3000:1::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 2.835, 
+            "ttl": 63, 
+            "from": "2a02:9d0:93::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.547, 
+            "ttl": 63, 
+            "from": "2a02:9d0:93::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.68, 
+            "ttl": 63, 
+            "from": "2a02:9d0:93::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 3.4, 
+            "ttl": 62, 
+            "from": "2a03:a480:ffff:ff50::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.588, 
+            "ttl": 62, 
+            "from": "2a03:a480:ffff:ff50::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.894, 
+            "ttl": 62, 
+            "from": "2a03:a480:ffff:ff50::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 7
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 8
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 14.064, 
+            "ttl": 56, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 12.637, 
+            "ttl": 56, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }, 
+          {
+            "rtt": 12.711, 
+            "ttl": 56, 
+            "from": "2a00:b920:3:1337::252", 
+            "size": 48
+          }
+        ], 
+        "hop": 255
+      }
+    ], 
+    "src_prb_id": 3499, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172996, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 60422, 
+          "sloc": "Probe", 
+          "sasn": "12617", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.3815, 
+            55.7315
+          ], 
+          [
+            9.9805, 
+            56.0715
+          ]
+        ]
+      }
+    ]
+  }
+]
