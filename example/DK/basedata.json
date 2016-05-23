@@ -1,0 +1,39 @@
+{
+  "countries": [
+    "DK"
+  ], 
+  "locations": {
+    "Copenhagen,DK": {
+      "lat": 55.6763, 
+      "lon": 12.5681
+    }
+  }, 
+  "measurement-types": [
+    "probe-mesh"
+  ], 
+  "country-stats": {
+    "DK": {
+      "routed_asns": 239
+    }
+  }, 
+  "ixps": {
+    "Content-IX": {
+      "peeringlans": [
+        "193.105.116.0/24"
+      ]
+    }, 
+    "DIX": {
+      "peeringlans": [
+        "192.38.7.0/24", 
+        "2001:7f8:1f::/48"
+      ]
+    }, 
+    "COPHIX": {
+      "peeringlans": [
+        "194.117.52.128/25", 
+        "2001:7f8:5c::/64"
+      ]
+    }
+  }, 
+  "targets": []
+}

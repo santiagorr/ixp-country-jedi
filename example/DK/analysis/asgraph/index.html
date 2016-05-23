@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+</style>
+<link rel="stylesheet" href="../bower_components/alchemyjs/dist/alchemy.css">
+<body>
+<div id="alchemy" class="alchemy"></div>
+<script type="text/javascript" src="../bower_components/alchemyjs/dist/scripts/vendor.js"></script>
+<script type="text/javascript" src="../bower_components/alchemyjs/dist/alchemy.min.js"></script>
+<script>
+  var config = {
+      dataSource: "asgraph.json",
+      nodeCaptionsOnByDefault: true,
+      nodeTypes: {type: ["ixp", "asn"]},
+      nodeStyle: {
+         "ixp": {
+            "color"  : "#EE5511"
+         },
+         "asn": {
+            "color"  : "#EEEEFF"
+         }
+      },
+      nodeCaption: "name"
+  };
+  alchemy.begin( config );
+</script>
+</body>
+</html>

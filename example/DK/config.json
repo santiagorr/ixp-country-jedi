@@ -1,0 +1,25 @@
+{
+  "country": "DK", 
+  "ixps": [
+    {
+      "name": "DIX", 
+      "peeringlans": [
+        "192.38.7.0/24", 
+        "2001:7f8:1f::/48"
+      ]
+    }, 
+    {
+      "name": "COPHIX", 
+      "peeringlans": [
+        "194.117.52.128/25", 
+        "2001:7f8:5c::/64"
+      ]
+    }, 
+    {
+      "name": "Content-IX", 
+      "peeringlans": [
+        "193.105.116.0/24"
+      ]
+    }
+  ]
+}

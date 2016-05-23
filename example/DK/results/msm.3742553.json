@@ -1,0 +1,4039 @@
+[
+  {
+    "dst_rtts": [
+      25.493, 
+      25.187, 
+      23.938
+    ], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [
+        "AS12552", 
+        "AS16150", 
+        "_DIX", 
+        "AS39839"
+      ], 
+      "links": [
+        {
+          "src": "_DIX", 
+          "dst": "AS39839", 
+          "type": "i"
+        }, 
+        {
+          "src": "AS16150", 
+          "dst": "AS12552", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS12552", 
+          "dst": "_DIX", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Ballerup,Capital Region,DK", 
+      "Copenhagen,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742553 prb_id:11289 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:32 -00:00\n1 (AS16150) 2001:16d8:dd40:16::1 [0.803, 1.016, 2.921] ||\n2 (AS16150) gw-110.cph-01.dk.sixxs.net [4.188, 4.788, 6.817] |Copenhagen,Capital Region,DK|\n3 (AS16150) sixxs-cph-demarc0.cust.ip6.p80.net [4.467, 5.232, 6.475] |Copenhagen,Capital Region,DK|\n4 (AS16150) vl3229.dk.cph.sydv.cr0.port80.se [6.259, 8.946, 9.989] |Copenhagen,Capital Region,DK|\n5 (AS16150) 2001:16d8:1:136a::1 [7.543, 9.436, 9.55] ||\n6 (AS12552) 2a01:2b0:0:2f::1 [32.622, 45.857, 51.419] ||\n7 (AS1835) dix.ip.nianet.net [25.385, 26.32, 27.96] |Copenhagen,Capital Region,DK|\n8 err:{u'x': u'*'}\n9 (AS39839) anchor.dk-hostmaster.dk [23.938, 25.187, 25.493] |Ballerup,Capital Region,DK|\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 2.921, 
+            "ttl": 64, 
+            "from": "2001:16d8:dd40:16::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.016, 
+            "ttl": 64, 
+            "from": "2001:16d8:dd40:16::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.803, 
+            "ttl": 64, 
+            "from": "2001:16d8:dd40:16::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 6.817, 
+            "ttl": 63, 
+            "from": "2001:16d8:dd00:6d::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 4.188, 
+            "ttl": 63, 
+            "from": "2001:16d8:dd00:6d::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 4.788, 
+            "ttl": 63, 
+            "from": "2001:16d8:dd00:6d::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 4.467, 
+            "ttl": 63, 
+            "from": "2001:16d8:aaaa:5::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 6.475, 
+            "ttl": 63, 
+            "from": "2001:16d8:aaaa:5::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 5.232, 
+            "ttl": 63, 
+            "from": "2001:16d8:aaaa:5::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 9.989, 
+            "ttl": 62, 
+            "from": "2001:16d8:aaaa:5::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 6.259, 
+            "ttl": 62, 
+            "from": "2001:16d8:aaaa:5::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 8.946, 
+            "ttl": 62, 
+            "from": "2001:16d8:aaaa:5::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 7.543, 
+            "ttl": 61, 
+            "from": "2001:16d8:1:136a::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 9.436, 
+            "ttl": 61, 
+            "from": "2001:16d8:1:136a::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 9.55, 
+            "ttl": 61, 
+            "from": "2001:16d8:1:136a::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 51.419, 
+            "ttl": 55, 
+            "from": "2a01:2b0:0:2f::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 32.622, 
+            "ttl": 55, 
+            "from": "2a01:2b0:0:2f::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 45.857, 
+            "ttl": 55, 
+            "from": "2a01:2b0:0:2f::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 26.32, 
+            "ttl": 54, 
+            "from": "2001:7f8:1f:0:3:1027:58:0", 
+            "size": 96
+          }, 
+          {
+            "rtt": 27.96, 
+            "ttl": 54, 
+            "from": "2001:7f8:1f:0:3:1027:58:0", 
+            "size": 96
+          }, 
+          {
+            "rtt": 25.385, 
+            "ttl": 54, 
+            "from": "2001:7f8:1f:0:3:1027:58:0", 
+            "size": 96
+          }
+        ], 
+        "hop": 7
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 8
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 25.493, 
+            "ttl": 54, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 25.187, 
+            "ttl": 54, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 23.938, 
+            "ttl": 54, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }
+        ], 
+        "hop": 9
+      }
+    ], 
+    "src_prb_id": 11289, 
+    "in_country": true, 
+    "via_ixp": true, 
+    "ixps": [
+      "DIX"
+    ], 
+    "ts": 1462172912, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Copenhagen,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "16150", 
+          "sloc": "Probe", 
+          "sasn": "44869", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.5715", 
+            "55.7115"
+          ], 
+          [
+            "12.56553", 
+            "55.67594"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Ballerup,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "39839", 
+          "sloc": "Copenhagen,Capital Region,DK", 
+          "sasn": "1835", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.56553", 
+            "55.67594"
+          ], 
+          [
+            "12.36328", 
+            "55.73165"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 39839, 
+          "sloc": "Ballerup,Capital Region,DK", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.36328, 
+            55.73165
+          ], 
+          [
+            12.3775, 
+            55.7285
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      1.187, 
+      1.55, 
+      1.342
+    ], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [
+        "AS42541", 
+        "AS39839"
+      ], 
+      "links": [
+        {
+          "src": "AS42541", 
+          "dst": "AS39839", 
+          "type": "i"
+        }
+      ]
+    }, 
+    "locations": [
+      "Ballerup,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742553 prb_id:11420 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:46 -00:00\n1 (AS42541) 2a03:5440:100:42::1 [0.713, 0.75, 7.602] ||\n2 (AS42541) 2a03:5440:1:1613::1 [0.58, 0.641, 0.7] ||\n3 (AS42541) 2a03:5440:1:1607::1 [0.627, 0.688, 1.095] ||\n4 (AS42541) 2a03:5440:1:1603::1 [0.811, 1.017, 6.983] ||\n5 (AS42541) 2a03:5440:1:1601::2 [0.834, 0.896, 1.322] ||\n6 () 2001:7f8:d:200::244 [1.167, 1.338, 9.816] ||\n7 (AS39839) anchor.dk-hostmaster.dk [1.187, 1.342, 1.55] |Ballerup,Capital Region,DK|\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 7.602, 
+            "ttl": 64, 
+            "from": "2a03:5440:100:42::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.75, 
+            "ttl": 64, 
+            "from": "2a03:5440:100:42::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.713, 
+            "ttl": 64, 
+            "from": "2a03:5440:100:42::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 0.7, 
+            "ttl": 63, 
+            "from": "2a03:5440:1:1613::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.641, 
+            "ttl": 63, 
+            "from": "2a03:5440:1:1613::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.58, 
+            "ttl": 63, 
+            "from": "2a03:5440:1:1613::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 0.688, 
+            "ttl": 62, 
+            "from": "2a03:5440:1:1607::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.627, 
+            "ttl": 62, 
+            "from": "2a03:5440:1:1607::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.095, 
+            "ttl": 62, 
+            "from": "2a03:5440:1:1607::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 6.983, 
+            "ttl": 61, 
+            "from": "2a03:5440:1:1603::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.811, 
+            "ttl": 61, 
+            "from": "2a03:5440:1:1603::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.017, 
+            "ttl": 61, 
+            "from": "2a03:5440:1:1603::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 0.896, 
+            "ttl": 60, 
+            "from": "2a03:5440:1:1601::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.322, 
+            "ttl": 60, 
+            "from": "2a03:5440:1:1601::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.834, 
+            "ttl": 60, 
+            "from": "2a03:5440:1:1601::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 1.338, 
+            "ttl": 59, 
+            "from": "2001:7f8:d:200::244", 
+            "size": 96
+          }, 
+          {
+            "rtt": 9.816, 
+            "ttl": 59, 
+            "from": "2001:7f8:d:200::244", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.167, 
+            "ttl": 59, 
+            "from": "2001:7f8:d:200::244", 
+            "size": 96
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 1.187, 
+            "ttl": 58, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 1.55, 
+            "ttl": 58, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 1.342, 
+            "ttl": 58, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }
+        ], 
+        "hop": 7
+      }
+    ], 
+    "src_prb_id": 11420, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172926, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Ballerup,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "39839", 
+          "sloc": "Probe", 
+          "sasn": "42541", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.5585", 
+            "55.6675"
+          ], 
+          [
+            "12.36328", 
+            "55.73165"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 39839, 
+          "sloc": "Ballerup,Capital Region,DK", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.36328, 
+            55.73165
+          ], 
+          [
+            12.3775, 
+            55.7285
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      38.517, 
+      38.096, 
+      38.15
+    ], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [
+        "AS6939", 
+        "AS39839"
+      ], 
+      "links": [
+        {
+          "src": "AS6939", 
+          "dst": "AS39839", 
+          "type": "i"
+        }
+      ]
+    }, 
+    "locations": [
+      "Ballerup,Capital Region,DK", 
+      "Stockholm,Stockholm,SE", 
+      "Copenhagen,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742553 prb_id:14355 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:52 -00:00\n1 (AS6939) 2001:470:28:8b2::ac10:ff [0.377, 0.421] ||\n2 (AS6939) stderr-2.tunnel.tserv24.sto1.ipv6.he.net [33.464, 33.685, 34.677] |Stockholm,Stockholm,SE|\n3 (AS6939) ge2-20.core1.sto1.he.net [30.588, 35.34, 40.535] |Stockholm,Stockholm,SE|\n4 (AS6939) 10ge3-1.core1.cph1.he.net [38.542, 39.179, 48.121] |Copenhagen,Capital Region,DK|\n5 () 2001:7f8:d:200::244 [38.142, 38.539, 41.316] ||\n6 (AS39839) anchor.dk-hostmaster.dk [38.096, 38.15, 38.517] |Ballerup,Capital Region,DK|\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 0.377, 
+            "ttl": 64, 
+            "from": "2001:470:28:8b2::ac10:ff", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "rtt": 0.421, 
+            "ttl": 64, 
+            "from": "2001:470:28:8b2::ac10:ff", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 34.677, 
+            "ttl": 63, 
+            "from": "2001:470:27:8b2::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 33.464, 
+            "ttl": 63, 
+            "from": "2001:470:27:8b2::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 33.685, 
+            "ttl": 63, 
+            "from": "2001:470:27:8b2::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 30.588, 
+            "ttl": 62, 
+            "from": "2001:470:0:11e::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 35.34, 
+            "ttl": 62, 
+            "from": "2001:470:0:11e::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 40.535, 
+            "ttl": 62, 
+            "from": "2001:470:0:11e::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 48.121, 
+            "ttl": 61, 
+            "from": "2001:470:0:2ad::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 38.542, 
+            "ttl": 61, 
+            "from": "2001:470:0:2ad::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 39.179, 
+            "ttl": 61, 
+            "from": "2001:470:0:2ad::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 41.316, 
+            "ttl": 60, 
+            "from": "2001:7f8:d:200::244", 
+            "size": 96
+          }, 
+          {
+            "rtt": 38.142, 
+            "ttl": 60, 
+            "from": "2001:7f8:d:200::244", 
+            "size": 96
+          }, 
+          {
+            "rtt": 38.539, 
+            "ttl": 60, 
+            "from": "2001:7f8:d:200::244", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 38.517, 
+            "ttl": 59, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 38.096, 
+            "ttl": 59, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 38.15, 
+            "ttl": 59, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }
+        ], 
+        "hop": 6
+      }
+    ], 
+    "src_prb_id": 14355, 
+    "in_country": false, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172932, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Stockholm,Stockholm,SE", 
+          "is_direct": false, 
+          "dasn": "6939", 
+          "sloc": "Probe", 
+          "sasn": "9158", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.5495", 
+            "55.7195"
+          ], 
+          [
+            "18.0649", 
+            "59.33258"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Copenhagen,Capital Region,DK", 
+          "is_direct": true, 
+          "dasn": "6939", 
+          "sloc": "Stockholm,Stockholm,SE", 
+          "sasn": "6939", 
+          "asn": "6939"
+        }, 
+        "coordinates": [
+          [
+            "18.0649", 
+            "59.33258"
+          ], 
+          [
+            "12.56553", 
+            "55.67594"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Ballerup,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "39839", 
+          "sloc": "Copenhagen,Capital Region,DK", 
+          "sasn": "6939", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.56553", 
+            "55.67594"
+          ], 
+          [
+            "12.36328", 
+            "55.73165"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 39839, 
+          "sloc": "Ballerup,Capital Region,DK", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.36328, 
+            55.73165
+          ], 
+          [
+            12.3775, 
+            55.7285
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      56.977, 
+      55.974, 
+      56.487
+    ], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [
+        "AS12552", 
+        "AS16150", 
+        "_DIX", 
+        "AS39839"
+      ], 
+      "links": [
+        {
+          "src": "_DIX", 
+          "dst": "AS39839", 
+          "type": "i"
+        }, 
+        {
+          "src": "AS16150", 
+          "dst": "AS12552", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS12552", 
+          "dst": "_DIX", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Ballerup,Capital Region,DK", 
+      "Copenhagen,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742553 prb_id:14380 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:46 -00:00\n1 (AS16150) 2001:16d8:dd6f:1::1 [0.326, 0.381, 0.492] ||\n2 (AS16150) gw-214.cph-01.dk.sixxs.net [36.653, 37.342, 37.375] ||\n3 (AS16150) sixxs-cph-demarc0.cust.ip6.p80.net [36.966, 37.167, 38.024] |Copenhagen,Capital Region,DK|\n4 (AS16150) vl3229.dk.cph.sydv.cr0.port80.se [38.969, 39.194, 39.442] |Copenhagen,Capital Region,DK|\n5 (AS16150) 2001:16d8:1:136a::1 [37.46, 38.196, 38.724] ||\n6 (AS12552) 2a01:2b0:0:2f::1 [62.981, 71.443, 87.732] ||\n7 (AS1835) dix.ip.nianet.net [56.186, 58.61] |Copenhagen,Capital Region,DK|\n8 err:{u'x': u'*'}\n9 (AS39839) anchor.dk-hostmaster.dk [55.974, 56.487, 56.977] |Ballerup,Capital Region,DK|\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 0.492, 
+            "ttl": 64, 
+            "from": "2001:16d8:dd6f:1::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.381, 
+            "ttl": 64, 
+            "from": "2001:16d8:dd6f:1::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.326, 
+            "ttl": 64, 
+            "from": "2001:16d8:dd6f:1::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 37.375, 
+            "ttl": 63, 
+            "from": "2001:16d8:dd00:d5::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 36.653, 
+            "ttl": 63, 
+            "from": "2001:16d8:dd00:d5::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 37.342, 
+            "ttl": 63, 
+            "from": "2001:16d8:dd00:d5::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 38.024, 
+            "ttl": 63, 
+            "from": "2001:16d8:aaaa:5::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 36.966, 
+            "ttl": 63, 
+            "from": "2001:16d8:aaaa:5::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 37.167, 
+            "ttl": 63, 
+            "from": "2001:16d8:aaaa:5::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 39.442, 
+            "ttl": 62, 
+            "from": "2001:16d8:aaaa:5::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 38.969, 
+            "ttl": 62, 
+            "from": "2001:16d8:aaaa:5::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 39.194, 
+            "ttl": 62, 
+            "from": "2001:16d8:aaaa:5::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 37.46, 
+            "ttl": 61, 
+            "from": "2001:16d8:1:136a::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 38.724, 
+            "ttl": 61, 
+            "from": "2001:16d8:1:136a::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 38.196, 
+            "ttl": 61, 
+            "from": "2001:16d8:1:136a::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 62.981, 
+            "ttl": 55, 
+            "from": "2a01:2b0:0:2f::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 71.443, 
+            "ttl": 55, 
+            "from": "2a01:2b0:0:2f::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 87.732, 
+            "ttl": 55, 
+            "from": "2a01:2b0:0:2f::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 56.186, 
+            "ttl": 54, 
+            "from": "2001:7f8:1f:0:3:1027:58:0", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "rtt": 58.61, 
+            "ttl": 54, 
+            "from": "2001:7f8:1f:0:3:1027:58:0", 
+            "size": 96
+          }
+        ], 
+        "hop": 7
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 8
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 56.977, 
+            "ttl": 54, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 55.974, 
+            "ttl": 54, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 56.487, 
+            "ttl": 54, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }
+        ], 
+        "hop": 9
+      }
+    ], 
+    "src_prb_id": 14380, 
+    "in_country": true, 
+    "via_ixp": true, 
+    "ixps": [
+      "DIX"
+    ], 
+    "ts": 1462172926, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Copenhagen,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "16150", 
+          "sloc": "Probe", 
+          "sasn": "39554", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "10.0115", 
+            "57.0275"
+          ], 
+          [
+            "12.56553", 
+            "55.67594"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Ballerup,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "39839", 
+          "sloc": "Copenhagen,Capital Region,DK", 
+          "sasn": "1835", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.56553", 
+            "55.67594"
+          ], 
+          [
+            "12.36328", 
+            "55.73165"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 39839, 
+          "sloc": "Ballerup,Capital Region,DK", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.36328, 
+            55.73165
+          ], 
+          [
+            12.3775, 
+            55.7285
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      5.814, 
+      5.591, 
+      5.646
+    ], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [
+        "AS42525", 
+        "AS39839"
+      ], 
+      "links": [
+        {
+          "src": "AS42525", 
+          "dst": "AS39839", 
+          "type": "i"
+        }
+      ]
+    }, 
+    "locations": [
+      "Ballerup,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742553 prb_id:18747 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:36 -00:00\n1 err:{u'x': u'*'}\n1 (AS42525) 2a01:7e8:48:1337::1 [0.392, 0.486] ||\n2 (AS42525) 2a01:7e8:1:800::1b9 [2.132, 2.506, 12.296] ||\n3 (AS42525) 2a01:7e8:1:200::165 [2.101, 3.168, 3.697] ||\n4 err:{u'x': u'*'}\n5 (AS39839) anchor.dk-hostmaster.dk [5.591, 5.646, 5.814] |Ballerup,Capital Region,DK|\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 0.486, 
+            "ttl": 255, 
+            "from": "2a01:7e8:48:1337::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.392, 
+            "ttl": 255, 
+            "from": "2a01:7e8:48:1337::1", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 12.296, 
+            "ttl": 63, 
+            "from": "2a01:7e8:1:800::1b9", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.132, 
+            "ttl": 63, 
+            "from": "2a01:7e8:1:800::1b9", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.506, 
+            "ttl": 63, 
+            "from": "2a01:7e8:1:800::1b9", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 3.697, 
+            "ttl": 62, 
+            "from": "2a01:7e8:1:200::165", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.101, 
+            "ttl": 62, 
+            "from": "2a01:7e8:1:200::165", 
+            "size": 96
+          }, 
+          {
+            "rtt": 3.168, 
+            "ttl": 62, 
+            "from": "2a01:7e8:1:200::165", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 5.814, 
+            "ttl": 58, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 5.591, 
+            "ttl": 58, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 5.646, 
+            "ttl": 58, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }
+        ], 
+        "hop": 5
+      }
+    ], 
+    "src_prb_id": 18747, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172916, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Ballerup,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "39839", 
+          "sloc": "Probe", 
+          "sasn": "42525", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "8.9695", 
+            "56.1305"
+          ], 
+          [
+            "12.36328", 
+            "55.73165"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 39839, 
+          "sloc": "Ballerup,Capital Region,DK", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.36328, 
+            55.73165
+          ], 
+          [
+            12.3775, 
+            55.7285
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      9.831, 
+      10.244, 
+      9.802
+    ], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [
+        "AS60422", 
+        "AS39839", 
+        "AS42525"
+      ], 
+      "links": [
+        {
+          "src": "AS60422", 
+          "dst": "AS42525", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS42525", 
+          "dst": "AS39839", 
+          "type": "i"
+        }
+      ]
+    }, 
+    "locations": [
+      "Ballerup,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742553 prb_id:19378 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:35 -00:00\n1 (AS60422) 2a00:b920:2:1337::1 [1.087, 1.206, 1.996] ||\n2 (AS42525) xe-0-2-1-0.ipv6.hoer1cr1dk.gc-net.eu [2.211, 2.248, 2.301] ||\n3 (AS42525) ae2-0.ipv6.cr1.kold.gc-net.eu [3.133, 3.225, 11.903] ||\n4 err:{u'x': u'*'}\n5 (AS39839) anchor.dk-hostmaster.dk [9.802, 9.831, 10.244] |Ballerup,Capital Region,DK|\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 1.996, 
+            "ttl": 64, 
+            "from": "2a00:b920:2:1337::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.087, 
+            "ttl": 64, 
+            "from": "2a00:b920:2:1337::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.206, 
+            "ttl": 64, 
+            "from": "2a00:b920:2:1337::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 2.248, 
+            "ttl": 63, 
+            "from": "2a01:7e8:1:800::115", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.301, 
+            "ttl": 63, 
+            "from": "2a01:7e8:1:800::115", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.211, 
+            "ttl": 63, 
+            "from": "2a01:7e8:1:800::115", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 3.133, 
+            "ttl": 62, 
+            "from": "2a01:7e8:1:200::4d", 
+            "size": 96
+          }, 
+          {
+            "rtt": 11.903, 
+            "ttl": 62, 
+            "from": "2a01:7e8:1:200::4d", 
+            "size": 96
+          }, 
+          {
+            "rtt": 3.225, 
+            "ttl": 62, 
+            "from": "2a01:7e8:1:200::4d", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 9.831, 
+            "ttl": 58, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 10.244, 
+            "ttl": 58, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 9.802, 
+            "ttl": 58, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }
+        ], 
+        "hop": 5
+      }
+    ], 
+    "src_prb_id": 19378, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172915, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Ballerup,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "39839", 
+          "sloc": "Probe", 
+          "sasn": "60422", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "9.9805", 
+            "56.0715"
+          ], 
+          [
+            "12.36328", 
+            "55.73165"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 39839, 
+          "sloc": "Ballerup,Capital Region,DK", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.36328, 
+            55.73165
+          ], 
+          [
+            12.3775, 
+            55.7285
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      2.161, 
+      2.285, 
+      2.147
+    ], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [
+        "AS31027", 
+        "AS39839"
+      ], 
+      "links": [
+        {
+          "src": "AS31027", 
+          "dst": "AS39839", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Ballerup,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742553 prb_id:19820 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:51 -00:00\n1 (AS31027) 2a02:188:2503:10::2 [0.504, 0.512, 1.359] ||\n2 (AS31027) 2a02:188:12e:4::1 [1.422, 1.551] ||\n3 () ::ffff:93.176.90.112 [1.702, 1.737, 2.311] ||\n4 (AS31027) 2a02:188:100:3::2 [2.48, 2.595, 2.661] ||\n5 (AS39839) anchor.dk-hostmaster.dk [2.147, 2.161, 2.285] |Ballerup,Capital Region,DK|\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 1.359, 
+            "ttl": 64, 
+            "from": "2a02:188:2503:10::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.512, 
+            "ttl": 64, 
+            "from": "2a02:188:2503:10::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.504, 
+            "ttl": 64, 
+            "from": "2a02:188:2503:10::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "rtt": 1.551, 
+            "ttl": 63, 
+            "from": "2a02:188:12e:4::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.422, 
+            "ttl": 63, 
+            "from": "2a02:188:12e:4::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "ttl": 61, 
+            "rtt": 2.311, 
+            "icmpext": {
+              "rfc4884": 1, 
+              "version": 0, 
+              "obj": [
+                {
+                  "type": 0, 
+                  "class": 0
+                }
+              ]
+            }, 
+            "from": "::ffff:93.176.90.112", 
+            "size": 144
+          }, 
+          {
+            "ttl": 61, 
+            "rtt": 1.737, 
+            "icmpext": {
+              "rfc4884": 1, 
+              "version": 0, 
+              "obj": [
+                {
+                  "type": 0, 
+                  "class": 0
+                }
+              ]
+            }, 
+            "from": "::ffff:93.176.90.112", 
+            "size": 144
+          }, 
+          {
+            "ttl": 61, 
+            "rtt": 1.702, 
+            "icmpext": {
+              "rfc4884": 1, 
+              "version": 0, 
+              "obj": [
+                {
+                  "type": 0, 
+                  "class": 0
+                }
+              ]
+            }, 
+            "from": "::ffff:93.176.90.112", 
+            "size": 144
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 2.595, 
+            "ttl": 60, 
+            "from": "2a02:188:100:3::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.661, 
+            "ttl": 60, 
+            "from": "2a02:188:100:3::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.48, 
+            "ttl": 60, 
+            "from": "2a02:188:100:3::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 2.161, 
+            "ttl": 59, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 2.285, 
+            "ttl": 59, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 2.147, 
+            "ttl": 59, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }
+        ], 
+        "hop": 5
+      }
+    ], 
+    "src_prb_id": 19820, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172931, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Ballerup,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "39839", 
+          "sloc": "Probe", 
+          "sasn": "31027", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.5685", 
+            "55.6775"
+          ], 
+          [
+            "12.36328", 
+            "55.73165"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 39839, 
+          "sloc": "Ballerup,Capital Region,DK", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.36328, 
+            55.73165
+          ], 
+          [
+            12.3775, 
+            55.7285
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [], 
+      "links": []
+    }, 
+    "locations": [], 
+    "tracetxt": "## msm_id:3742553 prb_id:20009 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:35 -00:00\n", 
+    "result": [
+      {
+        "hop": 1, 
+        "error": "connect failed: Network is unreachable"
+      }
+    ], 
+    "src_prb_id": 20009, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172915, 
+    "geojson": []
+  }, 
+  {
+    "dst_rtts": [
+      24.931, 
+      24.162, 
+      25.118
+    ], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [
+        "AS3308", 
+        "AS16245", 
+        "AS3292", 
+        "AS39839"
+      ], 
+      "links": [
+        {
+          "src": "AS3292", 
+          "dst": "AS16245", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS3308", 
+          "dst": "AS3292", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS16245", 
+          "dst": "AS39839", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Ballerup,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742553 prb_id:25337 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:47 -00:00\n1 (AS3308) 2001:2012:3ec6:9cec::1 [0.725, 0.871, 0.974] ||\n2 (AS3308) 2001:2000:1080:16::2 [11.256, 11.292, 11.696] ||\n3 (AS3308) 2001:2000:1080:16::1 [11.437, 11.722, 11.958] ||\n4 (AS3308) 2001:2000:1080:6::2 [11.965, 12.219, 17.945] ||\n5 (AS3292) 2001:6c8:81:100::7 [12.641, 12.707, 14.395] ||\n6 (AS16245) 2001:1448:0:102::57 [24.434, 24.494, 24.884] ||\n7 (AS39839) anchor.dk-hostmaster.dk [24.162, 24.931, 25.118] |Ballerup,Capital Region,DK|\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 0.974, 
+            "ttl": 64, 
+            "from": "2001:2012:3ec6:9cec::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.871, 
+            "ttl": 64, 
+            "from": "2001:2012:3ec6:9cec::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.725, 
+            "ttl": 64, 
+            "from": "2001:2012:3ec6:9cec::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 11.292, 
+            "ttl": 63, 
+            "from": "2001:2000:1080:16::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 11.696, 
+            "ttl": 63, 
+            "from": "2001:2000:1080:16::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 11.256, 
+            "ttl": 63, 
+            "from": "2001:2000:1080:16::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 11.722, 
+            "ttl": 62, 
+            "from": "2001:2000:1080:16::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 11.437, 
+            "ttl": 62, 
+            "from": "2001:2000:1080:16::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 11.958, 
+            "ttl": 62, 
+            "from": "2001:2000:1080:16::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 17.945, 
+            "ttl": 58, 
+            "from": "2001:2000:1080:6::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 12.219, 
+            "ttl": 58, 
+            "from": "2001:2000:1080:6::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 11.965, 
+            "ttl": 58, 
+            "from": "2001:2000:1080:6::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 14.395, 
+            "ttl": 58, 
+            "from": "2001:6c8:81:100::7", 
+            "size": 96
+          }, 
+          {
+            "rtt": 12.641, 
+            "ttl": 58, 
+            "from": "2001:6c8:81:100::7", 
+            "size": 96
+          }, 
+          {
+            "rtt": 12.707, 
+            "ttl": 58, 
+            "from": "2001:6c8:81:100::7", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 24.884, 
+            "ttl": 55, 
+            "from": "2001:1448:0:102::57", 
+            "size": 96
+          }, 
+          {
+            "rtt": 24.434, 
+            "ttl": 55, 
+            "from": "2001:1448:0:102::57", 
+            "size": 96
+          }, 
+          {
+            "rtt": 24.494, 
+            "ttl": 55, 
+            "from": "2001:1448:0:102::57", 
+            "size": 96
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 24.931, 
+            "ttl": 54, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 24.162, 
+            "ttl": 54, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 25.118, 
+            "ttl": 54, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }
+        ], 
+        "hop": 7
+      }
+    ], 
+    "src_prb_id": 25337, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172927, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Ballerup,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "39839", 
+          "sloc": "Probe", 
+          "sasn": "3308", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "11.5585", 
+            "55.4405"
+          ], 
+          [
+            "12.36328", 
+            "55.73165"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 39839, 
+          "sloc": "Ballerup,Capital Region,DK", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.36328, 
+            55.73165
+          ], 
+          [
+            12.3775, 
+            55.7285
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      3.299, 
+      8.824, 
+      3.266
+    ], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [
+        "AS21060", 
+        "AS31027", 
+        "AS39839"
+      ], 
+      "links": [
+        {
+          "src": "AS21060", 
+          "dst": "AS31027", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS31027", 
+          "dst": "AS39839", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Ballerup,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742553 prb_id:339 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:32 -00:00\n1 (AS21060) 2a02:7c00::1 [2.074, 2.08, 2.543] ||\n2 (AS31027) 2a02:188:100:10::1 [4.118, 5.353, 42.082] ||\n3 (AS31027) 2a02:188:100:3::2 [3.343, 3.348, 3.352] ||\n4 (AS39839) anchor.dk-hostmaster.dk [3.266, 3.299, 8.824] |Ballerup,Capital Region,DK|\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 2.543, 
+            "ttl": 64, 
+            "from": "2a02:7c00::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.08, 
+            "ttl": 64, 
+            "from": "2a02:7c00::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.074, 
+            "ttl": 64, 
+            "from": "2a02:7c00::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 5.353, 
+            "ttl": 63, 
+            "from": "2a02:188:100:10::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 4.118, 
+            "ttl": 63, 
+            "from": "2a02:188:100:10::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 42.082, 
+            "ttl": 63, 
+            "from": "2a02:188:100:10::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 3.348, 
+            "ttl": 60, 
+            "from": "2a02:188:100:3::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 3.343, 
+            "ttl": 60, 
+            "from": "2a02:188:100:3::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 3.352, 
+            "ttl": 60, 
+            "from": "2a02:188:100:3::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 3.299, 
+            "ttl": 59, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 8.824, 
+            "ttl": 59, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 3.266, 
+            "ttl": 59, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }
+        ], 
+        "hop": 4
+      }
+    ], 
+    "src_prb_id": 339, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172912, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Ballerup,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "39839", 
+          "sloc": "Probe", 
+          "sasn": "21060", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.3885", 
+            "55.7315"
+          ], 
+          [
+            "12.36328", 
+            "55.73165"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 39839, 
+          "sloc": "Ballerup,Capital Region,DK", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.36328, 
+            55.73165
+          ], 
+          [
+            12.3775, 
+            55.7285
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      5.556, 
+      5.803, 
+      8.831
+    ], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [
+        "AS65101", 
+        "AS31027", 
+        "AS39839"
+      ], 
+      "links": [
+        {
+          "src": "AS31027", 
+          "dst": "AS39839", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS65101", 
+          "dst": "AS31027", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Ballerup,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742553 prb_id:3468 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:56 -00:00\n1 (AS65101) 2a02:2190:f000:cf0f::1 [4.314, 4.818, 4.867] ||\n2 err:{u'x': u'*'}\n2 (AS65101) 2a02:2190:1004:da::1 [6.423, 6.586] ||\n3 (AS65101) 2a02:2190:1:1::1 [3.482, 3.702, 3.834] ||\n4 (AS31027) gw-bolignet.ip.nianet.dk [5.408, 6.679, 764.568] ||\n5 (AS31027) 2a02:188:100:3::2 [5.602, 6.418, 9.502] ||\n6 (AS39839) anchor.dk-hostmaster.dk [5.556, 5.803, 8.831] |Ballerup,Capital Region,DK|\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 4.314, 
+            "ttl": 64, 
+            "from": "2a02:2190:f000:cf0f::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 4.818, 
+            "ttl": 64, 
+            "from": "2a02:2190:f000:cf0f::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 4.867, 
+            "ttl": 64, 
+            "from": "2a02:2190:f000:cf0f::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 6.586, 
+            "ttl": 63, 
+            "from": "2a02:2190:1004:da::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 6.423, 
+            "ttl": 63, 
+            "from": "2a02:2190:1004:da::1", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 3.482, 
+            "ttl": 62, 
+            "from": "2a02:2190:1:1::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 3.702, 
+            "ttl": 62, 
+            "from": "2a02:2190:1:1::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 3.834, 
+            "ttl": 62, 
+            "from": "2a02:2190:1:1::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 764.568, 
+            "ttl": 57, 
+            "from": "2a02:188:100:6::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 6.679, 
+            "ttl": 57, 
+            "from": "2a02:188:100:6::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 5.408, 
+            "ttl": 57, 
+            "from": "2a02:188:100:6::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 9.502, 
+            "ttl": 56, 
+            "from": "2a02:188:100:3::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 6.418, 
+            "ttl": 56, 
+            "from": "2a02:188:100:3::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 5.602, 
+            "ttl": 56, 
+            "from": "2a02:188:100:3::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 5.556, 
+            "ttl": 55, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 5.803, 
+            "ttl": 55, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 8.831, 
+            "ttl": 55, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }
+        ], 
+        "hop": 6
+      }
+    ], 
+    "src_prb_id": 3468, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172936, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Ballerup,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "39839", 
+          "sloc": "Probe", 
+          "sasn": "44134", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.5805", 
+            "55.6115"
+          ], 
+          [
+            "12.36328", 
+            "55.73165"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 39839, 
+          "sloc": "Ballerup,Capital Region,DK", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.36328, 
+            55.73165
+          ], 
+          [
+            12.3775, 
+            55.7285
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      7.577, 
+      7.559, 
+      7.489
+    ], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [
+        "_DIX", 
+        "AS1835", 
+        "AS31027", 
+        "AS39839"
+      ], 
+      "links": [
+        {
+          "src": "_DIX", 
+          "dst": "AS31027", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS1835", 
+          "dst": "_DIX", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS31027", 
+          "dst": "AS39839", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Ballerup,Capital Region,DK", 
+      "Copenhagen,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742553 prb_id:474 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:37 -00:00\n1 () fe80::c671:feff:fe02:3600 [3.428, 3.457, 213.889] ||\n2 (AS1835) 2001:878:0:e000:82:e1:f4:fe [2.473, 2.521, 50.473] ||\n3 (AS1835) 10g-aau.or0.core.fsknet.dk [2.524, 2.611, 2.63] ||\n4 (AS1835) po2.ly0.core.fsknet.dk [2.359, 4.171, 15.557] ||\n5 (AS1835) 2001:7f8:1f:0:3:1027:59:0 [8.722, 8.739, 9.159] |Copenhagen,Capital Region,DK|\n6 (AS31027) gw1.dk-hostmaster.ip.nianet.dk [7.91, 7.91, 8.013] |Copenhagen,Capital Region,DK|\n7 (AS31027) 2a02:188:100:3::2 [7.525, 7.535, 7.553] ||\n8 (AS39839) anchor.dk-hostmaster.dk [7.489, 7.559, 7.577] |Ballerup,Capital Region,DK|\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 213.889, 
+            "ttl": 64, 
+            "from": "fe80::c671:feff:fe02:3600", 
+            "size": 96
+          }, 
+          {
+            "rtt": 3.428, 
+            "ttl": 64, 
+            "from": "fe80::c671:feff:fe02:3600", 
+            "size": 96
+          }, 
+          {
+            "rtt": 3.457, 
+            "ttl": 64, 
+            "from": "fe80::c671:feff:fe02:3600", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 50.473, 
+            "ttl": 63, 
+            "from": "2001:878:0:e000:82:e1:f4:fe", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.521, 
+            "ttl": 63, 
+            "from": "2001:878:0:e000:82:e1:f4:fe", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.473, 
+            "ttl": 63, 
+            "from": "2001:878:0:e000:82:e1:f4:fe", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 2.63, 
+            "ttl": 62, 
+            "from": "2001:878:0:e000:82:e2:f9:91", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.611, 
+            "ttl": 62, 
+            "from": "2001:878:0:e000:82:e2:f9:91", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.524, 
+            "ttl": 62, 
+            "from": "2001:878:0:e000:82:e2:f9:91", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 2.359, 
+            "ttl": 63, 
+            "from": "2001:878:0:e000:82:e1:f4:7d", 
+            "size": 96
+          }, 
+          {
+            "rtt": 4.171, 
+            "ttl": 63, 
+            "from": "2001:878:0:e000:82:e1:f4:7d", 
+            "size": 96
+          }, 
+          {
+            "rtt": 15.557, 
+            "ttl": 63, 
+            "from": "2001:878:0:e000:82:e1:f4:7d", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 8.739, 
+            "ttl": 62, 
+            "from": "2001:7f8:1f:0:3:1027:59:0", 
+            "size": 96
+          }, 
+          {
+            "rtt": 9.159, 
+            "ttl": 62, 
+            "from": "2001:7f8:1f:0:3:1027:59:0", 
+            "size": 96
+          }, 
+          {
+            "rtt": 8.722, 
+            "ttl": 62, 
+            "from": "2001:7f8:1f:0:3:1027:59:0", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 7.91, 
+            "ttl": 61, 
+            "from": "2a02:188:100:3::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 8.013, 
+            "ttl": 61, 
+            "from": "2a02:188:100:3::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 7.91, 
+            "ttl": 61, 
+            "from": "2a02:188:100:3::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 7.535, 
+            "ttl": 61, 
+            "from": "2a02:188:100:3::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 7.525, 
+            "ttl": 61, 
+            "from": "2a02:188:100:3::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 7.553, 
+            "ttl": 61, 
+            "from": "2a02:188:100:3::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 7
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 7.577, 
+            "ttl": 60, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 7.559, 
+            "ttl": 60, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 7.489, 
+            "ttl": 60, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }
+        ], 
+        "hop": 8
+      }
+    ], 
+    "src_prb_id": 474, 
+    "in_country": true, 
+    "via_ixp": true, 
+    "ixps": [
+      "DIX"
+    ], 
+    "ts": 1462172917, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Copenhagen,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "1835", 
+          "sloc": "Probe", 
+          "sasn": "1835", 
+          "asn": "1835"
+        }, 
+        "coordinates": [
+          [
+            "12.5205", 
+            "55.7795"
+          ], 
+          [
+            "12.56553", 
+            "55.67594"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Ballerup,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "39839", 
+          "sloc": "Copenhagen,Capital Region,DK", 
+          "sasn": "31027", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.56553", 
+            "55.67594"
+          ], 
+          [
+            "12.36328", 
+            "55.73165"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 39839, 
+          "sloc": "Ballerup,Capital Region,DK", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.36328, 
+            55.73165
+          ], 
+          [
+            12.3775, 
+            55.7285
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      0.7, 
+      0.693, 
+      0.68
+    ], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [
+        "AS59469", 
+        "AS16245", 
+        "AS3292", 
+        "AS39839"
+      ], 
+      "links": [
+        {
+          "src": "AS59469", 
+          "dst": "AS3292", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS3292", 
+          "dst": "AS16245", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS16245", 
+          "dst": "AS39839", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Ballerup,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742553 prb_id:6069 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:31 -00:00\n1 (AS59469) 2a03:a480:1000:3113::1 [0.325, 0.343, 0.348] ||\n2 (AS3292) xe-4-3-0-0.alb2nqp7.dk.ip.tdc.net [0.393, 0.423, 24.815] ||\n3 (AS3292) 2001:6c8:81:100::7 [1.032, 1.05, 2.232] ||\n4 (AS16245) 2001:1448:0:102::57 [0.642, 0.676, 0.69] ||\n5 (AS39839) anchor.dk-hostmaster.dk [0.68, 0.693, 0.7] |Ballerup,Capital Region,DK|\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 0.348, 
+            "ttl": 64, 
+            "from": "2a03:a480:1000:3113::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.343, 
+            "ttl": 64, 
+            "from": "2a03:a480:1000:3113::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.325, 
+            "ttl": 64, 
+            "from": "2a03:a480:1000:3113::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 24.815, 
+            "ttl": 62, 
+            "from": "2001:6c8:81:100::c5", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.423, 
+            "ttl": 62, 
+            "from": "2001:6c8:81:100::c5", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.393, 
+            "ttl": 62, 
+            "from": "2001:6c8:81:100::c5", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 1.05, 
+            "ttl": 62, 
+            "from": "2001:6c8:81:100::7", 
+            "size": 96
+          }, 
+          {
+            "rtt": 1.032, 
+            "ttl": 62, 
+            "from": "2001:6c8:81:100::7", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.232, 
+            "ttl": 62, 
+            "from": "2001:6c8:81:100::7", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 0.69, 
+            "ttl": 62, 
+            "from": "2001:1448:0:102::57", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.642, 
+            "ttl": 62, 
+            "from": "2001:1448:0:102::57", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.676, 
+            "ttl": 62, 
+            "from": "2001:1448:0:102::57", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 0.7, 
+            "ttl": 61, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 0.693, 
+            "ttl": 61, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 0.68, 
+            "ttl": 61, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }
+        ], 
+        "hop": 5
+      }
+    ], 
+    "src_prb_id": 6069, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172911, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Ballerup,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "39839", 
+          "sloc": "Probe", 
+          "sasn": "59469", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.3805", 
+            "55.7315"
+          ], 
+          [
+            "12.36328", 
+            "55.73165"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 39839, 
+          "sloc": "Ballerup,Capital Region,DK", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.36328, 
+            55.73165
+          ], 
+          [
+            12.3775, 
+            55.7285
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      0.651, 
+      0.619, 
+      0.544
+    ], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [
+        "AS6939", 
+        "AS39839", 
+        "AS197495"
+      ], 
+      "links": [
+        {
+          "src": "AS6939", 
+          "dst": "AS39839", 
+          "type": "i"
+        }, 
+        {
+          "src": "AS197495", 
+          "dst": "AS6939", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Ballerup,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742553 prb_id:6109 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:31 -00:00\n1 (AS197495) 2001:67c:3c0:13::2 [0.278, 0.329, 0.672] ||\n2 (AS6939) gigabitethernet2-2.core1.cph1.he.net [0.544, 0.596, 8.078] ||\n3 () 2001:7f8:d:200::244 [0.578, 0.593, 0.606] ||\n4 (AS39839) anchor.dk-hostmaster.dk [0.544, 0.619, 0.651] |Ballerup,Capital Region,DK|\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 0.672, 
+            "ttl": 64, 
+            "from": "2001:67c:3c0:13::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.329, 
+            "ttl": 64, 
+            "from": "2001:67c:3c0:13::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.278, 
+            "ttl": 64, 
+            "from": "2001:67c:3c0:13::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 0.596, 
+            "ttl": 63, 
+            "from": "2001:470:1:423::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 8.078, 
+            "ttl": 63, 
+            "from": "2001:470:1:423::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.544, 
+            "ttl": 63, 
+            "from": "2001:470:1:423::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 0.593, 
+            "ttl": 62, 
+            "from": "2001:7f8:d:200::244", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.606, 
+            "ttl": 62, 
+            "from": "2001:7f8:d:200::244", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.578, 
+            "ttl": 62, 
+            "from": "2001:7f8:d:200::244", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 0.651, 
+            "ttl": 61, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 0.619, 
+            "ttl": 61, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 0.544, 
+            "ttl": 61, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }
+        ], 
+        "hop": 4
+      }
+    ], 
+    "src_prb_id": 6109, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172911, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Ballerup,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "39839", 
+          "sloc": "Probe", 
+          "sasn": "197495", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.3775", 
+            "55.7315"
+          ], 
+          [
+            "12.36328", 
+            "55.73165"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 39839, 
+          "sloc": "Ballerup,Capital Region,DK", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.36328, 
+            55.73165
+          ], 
+          [
+            12.3775, 
+            55.7285
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      18.636, 
+      19.761, 
+      19.786
+    ], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [
+        "AS16245", 
+        "AS3292", 
+        "AS39839"
+      ], 
+      "links": [
+        {
+          "src": "AS3292", 
+          "dst": "AS16245", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS16245", 
+          "dst": "AS39839", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Ballerup,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742553 prb_id:690 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:28 -00:00\n1 (AS3292) eskv-gw1-inet.lyngbol.dk [2.789, 2.799, 3.991] ||\n2 (AS3292) gr-1-0-0-10.aegnqe10.dk.ip.tdc.net [9.323, 10.015, 10.097] ||\n3 (AS3292) boanqp7.dk.ip.tdc.net [12.953, 13.071, 13.257] ||\n4 (AS3292) 2001:6c8:81:100::25 [13.67, 13.855, 15.03] ||\n5 (AS16245) 2001:1448:0:102::58 [18.956, 19.844, 20.087] ||\n6 (AS39839) anchor.dk-hostmaster.dk [18.636, 19.761, 19.786] |Ballerup,Capital Region,DK|\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 3.991, 
+            "ttl": 63, 
+            "from": "2001:6c8:200:900::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.799, 
+            "ttl": 63, 
+            "from": "2001:6c8:200:900::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 2.789, 
+            "ttl": 63, 
+            "from": "2001:6c8:200:900::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 10.097, 
+            "ttl": 63, 
+            "from": "2001:6c8:81:100::c2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 10.015, 
+            "ttl": 63, 
+            "from": "2001:6c8:81:100::c2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 9.323, 
+            "ttl": 63, 
+            "from": "2001:6c8:81:100::c2", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 12.953, 
+            "ttl": 62, 
+            "from": "2001:6c8:40::12", 
+            "size": 96
+          }, 
+          {
+            "rtt": 13.257, 
+            "ttl": 62, 
+            "from": "2001:6c8:40::12", 
+            "size": 96
+          }, 
+          {
+            "rtt": 13.071, 
+            "ttl": 62, 
+            "from": "2001:6c8:40::12", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 13.67, 
+            "ttl": 61, 
+            "from": "2001:6c8:81:100::25", 
+            "size": 96
+          }, 
+          {
+            "rtt": 13.855, 
+            "ttl": 61, 
+            "from": "2001:6c8:81:100::25", 
+            "size": 96
+          }, 
+          {
+            "rtt": 15.03, 
+            "ttl": 61, 
+            "from": "2001:6c8:81:100::25", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 19.844, 
+            "ttl": 59, 
+            "from": "2001:1448:0:102::58", 
+            "size": 96
+          }, 
+          {
+            "rtt": 18.956, 
+            "ttl": 59, 
+            "from": "2001:1448:0:102::58", 
+            "size": 96
+          }, 
+          {
+            "rtt": 20.087, 
+            "ttl": 59, 
+            "from": "2001:1448:0:102::58", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 18.636, 
+            "ttl": 59, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 19.761, 
+            "ttl": 59, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 19.786, 
+            "ttl": 59, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }
+        ], 
+        "hop": 6
+      }
+    ], 
+    "src_prb_id": 690, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172908, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Ballerup,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "39839", 
+          "sloc": "Probe", 
+          "sasn": "2109", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "10.2315", 
+            "56.2275"
+          ], 
+          [
+            "12.36328", 
+            "55.73165"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 39839, 
+          "sloc": "Ballerup,Capital Region,DK", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.36328, 
+            55.73165
+          ], 
+          [
+            12.3775, 
+            55.7285
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      21.698, 
+      22.048
+    ], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [
+        "AS59469", 
+        "AS16245", 
+        "AS3292", 
+        "AS39839"
+      ], 
+      "links": [
+        {
+          "src": "AS59469", 
+          "dst": "AS3292", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS3292", 
+          "dst": "AS16245", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS16245", 
+          "dst": "AS39839", 
+          "type": "d"
+        }
+      ]
+    }, 
+    "locations": [
+      "Ballerup,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742553 prb_id:19933 dst:2a01:630:0:80::206 ts:2016-05-02 07:09:08 -00:00\n1 (AS59469) 2a01:4260:28:4201::1 [0.534, 0.541, 0.58] ||\n2 (AS59469) 2a01:4260:28:fffe::1 [21.195, 21.283, 21.369] ||\n3 err:{u'x': u'*'}\n4 err:{u'x': u'*'}\n5 err:{u'x': u'*'}\n5 (AS59469) 2a03:a480:ffff:ff35::1 [21.471] ||\n6 err:{u'x': u'*'}\n6 (AS3292) xe-4-3-0-0.alb2nqp7.dk.ip.tdc.net [44.829] ||\n7 err:{u'x': u'*'}\n7 (AS3292) 2001:6c8:81:100::7 [22.705] ||\n8 err:{u'x': u'*'}\n8 (AS16245) 2001:1448:0:102::57 [21.975] ||\n9 (AS39839) anchor.dk-hostmaster.dk [21.698, 22.048] |Ballerup,Capital Region,DK|\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 0.58, 
+            "ttl": 64, 
+            "from": "2a01:4260:28:4201::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.541, 
+            "ttl": 64, 
+            "from": "2a01:4260:28:4201::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 0.534, 
+            "ttl": 64, 
+            "from": "2a01:4260:28:4201::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 21.369, 
+            "ttl": 63, 
+            "from": "2a01:4260:28:fffe::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 21.283, 
+            "ttl": 63, 
+            "from": "2a01:4260:28:fffe::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 21.195, 
+            "ttl": 63, 
+            "from": "2a01:4260:28:fffe::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "rtt": 21.471, 
+            "ttl": 60, 
+            "from": "2a03:a480:ffff:ff35::1", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 44.829, 
+            "ttl": 58, 
+            "from": "2001:6c8:81:100::c5", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "rtt": 22.705, 
+            "ttl": 58, 
+            "from": "2001:6c8:81:100::7", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 7
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "rtt": 21.975, 
+            "ttl": 60, 
+            "from": "2001:1448:0:102::57", 
+            "size": 96
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 8
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 21.698, 
+            "ttl": 59, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "rtt": 22.048, 
+            "ttl": 59, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }
+        ], 
+        "hop": 9
+      }
+    ], 
+    "src_prb_id": 19933, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172948, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Ballerup,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "39839", 
+          "sloc": "Probe", 
+          "sasn": "39554", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.5485", 
+            "55.6785"
+          ], 
+          [
+            "12.36328", 
+            "55.73165"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 39839, 
+          "sloc": "Ballerup,Capital Region,DK", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.36328, 
+            55.73165
+          ], 
+          [
+            12.3775, 
+            55.7285
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      22.8, 
+      21.159, 
+      21.168
+    ], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [
+        "AS6939", 
+        "AS39839"
+      ], 
+      "links": [
+        {
+          "src": "AS6939", 
+          "dst": "AS39839", 
+          "type": "i"
+        }
+      ]
+    }, 
+    "locations": [
+      "Ballerup,Capital Region,DK", 
+      "Stockholm,Stockholm,SE", 
+      "Copenhagen,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742553 prb_id:2517 dst:2a01:630:0:80::206 ts:2016-05-02 07:09:20 -00:00\n1 (AS6939) 2001:470:28:321::1 [5.935, 5.941, 207.378] ||\n2 (AS6939) kralian-2.tunnel.tserv24.sto1.ipv6.he.net [16.612, 17.143, 17.627] |Stockholm,Stockholm,SE|\n3 (AS6939) ge2-20.core1.sto1.he.net [13.486, 13.689, 22.615] |Stockholm,Stockholm,SE|\n4 (AS6939) 10ge3-1.core1.cph1.he.net [21.394, 21.69, 24.407] |Copenhagen,Capital Region,DK|\n5 () 2001:7f8:d:200::244 [21.292, 21.495, 21.8] ||\n6 (AS39839) anchor.dk-hostmaster.dk [21.159, 21.168, 22.8] |Ballerup,Capital Region,DK|\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 207.378, 
+            "ttl": 63, 
+            "from": "2001:470:28:321::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 5.941, 
+            "ttl": 63, 
+            "from": "2001:470:28:321::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 5.935, 
+            "ttl": 63, 
+            "from": "2001:470:28:321::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 17.627, 
+            "ttl": 63, 
+            "from": "2001:470:27:321::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 17.143, 
+            "ttl": 63, 
+            "from": "2001:470:27:321::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 16.612, 
+            "ttl": 63, 
+            "from": "2001:470:27:321::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 13.689, 
+            "ttl": 62, 
+            "from": "2001:470:0:11e::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 22.615, 
+            "ttl": 62, 
+            "from": "2001:470:0:11e::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 13.486, 
+            "ttl": 62, 
+            "from": "2001:470:0:11e::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 21.394, 
+            "ttl": 61, 
+            "from": "2001:470:0:2ad::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 24.407, 
+            "ttl": 61, 
+            "from": "2001:470:0:2ad::2", 
+            "size": 96
+          }, 
+          {
+            "rtt": 21.69, 
+            "ttl": 61, 
+            "from": "2001:470:0:2ad::2", 
+            "size": 96
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 21.8, 
+            "ttl": 60, 
+            "from": "2001:7f8:d:200::244", 
+            "size": 96
+          }, 
+          {
+            "rtt": 21.495, 
+            "ttl": 60, 
+            "from": "2001:7f8:d:200::244", 
+            "size": 96
+          }, 
+          {
+            "rtt": 21.292, 
+            "ttl": 60, 
+            "from": "2001:7f8:d:200::244", 
+            "size": 96
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 22.8, 
+            "ttl": 59, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 21.159, 
+            "ttl": 59, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 21.168, 
+            "ttl": 59, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }
+        ], 
+        "hop": 6
+      }
+    ], 
+    "src_prb_id": 2517, 
+    "in_country": false, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462172960, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Stockholm,Stockholm,SE", 
+          "is_direct": false, 
+          "dasn": "6939", 
+          "sloc": "Probe", 
+          "sasn": "198455", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.5175", 
+            "55.7805"
+          ], 
+          [
+            "18.0649", 
+            "59.33258"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Copenhagen,Capital Region,DK", 
+          "is_direct": true, 
+          "dasn": "6939", 
+          "sloc": "Stockholm,Stockholm,SE", 
+          "sasn": "6939", 
+          "asn": "6939"
+        }, 
+        "coordinates": [
+          [
+            "18.0649", 
+            "59.33258"
+          ], 
+          [
+            "12.56553", 
+            "55.67594"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Ballerup,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "39839", 
+          "sloc": "Copenhagen,Capital Region,DK", 
+          "sasn": "6939", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.56553", 
+            "55.67594"
+          ], 
+          [
+            "12.36328", 
+            "55.73165"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 39839, 
+          "sloc": "Ballerup,Capital Region,DK", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.36328, 
+            55.73165
+          ], 
+          [
+            12.3775, 
+            55.7285
+          ]
+        ]
+      }
+    ]
+  }, 
+  {
+    "dst_rtts": [
+      53.135, 
+      4.391, 
+      5.458
+    ], 
+    "dst_prb_id": 6103, 
+    "protocol": 6, 
+    "msm_id": 3742553, 
+    "as_links": {
+      "nodes": [
+        "AS59469", 
+        "AS16245", 
+        "AS12617", 
+        "AS39839"
+      ], 
+      "links": [
+        {
+          "src": "AS12617", 
+          "dst": "AS59469", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS16245", 
+          "dst": "AS39839", 
+          "type": "d"
+        }, 
+        {
+          "src": "AS59469", 
+          "dst": "AS16245", 
+          "type": "i"
+        }
+      ]
+    }, 
+    "locations": [
+      "Ballerup,Capital Region,DK"
+    ], 
+    "tracetxt": "## msm_id:3742553 prb_id:3499 dst:2a01:630:0:80::206 ts:2016-05-02 07:10:22 -00:00\n1 (AS12617) gw3000.solido.net [21.326, 53.404, 422.973] ||\n2 (AS12617) 2a02:9d0:93::1 [7.029, 30.595, 90.211] ||\n3 (AS59469) 2a03:a480:ffff:ff50::1 [4.386, 5.503, 33.251] ||\n4 err:{u'x': u'*'}\n5 err:{u'x': u'*'}\n6 err:{u'x': u'*'}\n7 (AS16245) 2001:1448:0:102::57 [6.398, 6.463, 14.628] ||\n8 (AS39839) anchor.dk-hostmaster.dk [4.391, 5.458, 53.135] |Ballerup,Capital Region,DK|\n", 
+    "result": [
+      {
+        "result": [
+          {
+            "rtt": 422.973, 
+            "ttl": 63, 
+            "from": "2a02:9d0:3000:1::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 21.326, 
+            "ttl": 63, 
+            "from": "2a02:9d0:3000:1::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 53.404, 
+            "ttl": 63, 
+            "from": "2a02:9d0:3000:1::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 1
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 90.211, 
+            "ttl": 63, 
+            "from": "2a02:9d0:93::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 30.595, 
+            "ttl": 63, 
+            "from": "2a02:9d0:93::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 7.029, 
+            "ttl": 63, 
+            "from": "2a02:9d0:93::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 2
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 33.251, 
+            "ttl": 62, 
+            "from": "2a03:a480:ffff:ff50::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 4.386, 
+            "ttl": 62, 
+            "from": "2a03:a480:ffff:ff50::1", 
+            "size": 96
+          }, 
+          {
+            "rtt": 5.503, 
+            "ttl": 62, 
+            "from": "2a03:a480:ffff:ff50::1", 
+            "size": 96
+          }
+        ], 
+        "hop": 3
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 4
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 5
+      }, 
+      {
+        "result": [
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }, 
+          {
+            "x": "*"
+          }
+        ], 
+        "hop": 6
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 6.463, 
+            "ttl": 61, 
+            "from": "2001:1448:0:102::57", 
+            "size": 96
+          }, 
+          {
+            "rtt": 14.628, 
+            "ttl": 61, 
+            "from": "2001:1448:0:102::57", 
+            "size": 96
+          }, 
+          {
+            "rtt": 6.398, 
+            "ttl": 61, 
+            "from": "2001:1448:0:102::57", 
+            "size": 96
+          }
+        ], 
+        "hop": 7
+      }, 
+      {
+        "result": [
+          {
+            "rtt": 53.135, 
+            "ttl": 60, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 4.391, 
+            "ttl": 60, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }, 
+          {
+            "rtt": 5.458, 
+            "ttl": 60, 
+            "from": "2a01:630:0:80::206", 
+            "size": 48
+          }
+        ], 
+        "hop": 8
+      }
+    ], 
+    "src_prb_id": 3499, 
+    "in_country": true, 
+    "via_ixp": false, 
+    "ixps": [], 
+    "ts": 1462173022, 
+    "geojson": [
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Ballerup,Capital Region,DK", 
+          "is_direct": false, 
+          "dasn": "39839", 
+          "sloc": "Probe", 
+          "sasn": "12617", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            "12.3815", 
+            "55.7315"
+          ], 
+          [
+            "12.36328", 
+            "55.73165"
+          ]
+        ]
+      }, 
+      {
+        "type": "LineString", 
+        "properties": {
+          "dloc": "Probe", 
+          "is_direct": false, 
+          "dasn": 39839, 
+          "sloc": "Ballerup,Capital Region,DK", 
+          "sasn": "39839", 
+          "asn": null
+        }, 
+        "coordinates": [
+          [
+            12.36328, 
+            55.73165
+          ], 
+          [
+            12.3775, 
+            55.7285
+          ]
+        ]
+      }
+    ]
+  }
+]

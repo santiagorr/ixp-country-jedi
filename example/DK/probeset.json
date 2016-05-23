@@ -1,0 +1,1256 @@
+[
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 217.51898777978562
+    }, 
+    "tags": [
+      "nat", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 57.0275, 
+    "asn_v4": 39554, 
+    "asn_v6": 16150, 
+    "lon": 10.0115, 
+    "address_v6": "2001:16d8:dd6f:1:6666:b3ff:fe93:ce52", 
+    "probe_id": 14380, 
+    "address_v4": "90.185.56.3"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 1.2521959775689844
+    }, 
+    "tags": [
+      "dsl", 
+      "nat", 
+      "ipv6-tunnel", 
+      "adsl", 
+      "hackerspace", 
+      "system-v3", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "iwantbcp38compliancetesting", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable", 
+      "system-ipv6-ula", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.6785, 
+    "asn_v4": 39554, 
+    "asn_v6": 59469, 
+    "lon": 12.5485, 
+    "address_v6": "2a01:4260:28:4201:ea94:f6ff:feba:e7b6", 
+    "probe_id": 19933, 
+    "address_v4": "90.184.74.58"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 167.17830930060015
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable"
+    ], 
+    "lat": 56.0715, 
+    "asn_v4": 60422, 
+    "asn_v6": 60422, 
+    "lon": 9.9805, 
+    "address_v6": "2a00:b920:3:1337::252", 
+    "probe_id": 19378, 
+    "address_v4": "185.31.79.252"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 3.116855604983149
+    }, 
+    "tags": [
+      "fibre", 
+      "no-nat", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable"
+    ], 
+    "lat": 55.6485, 
+    "asn_v4": 25352, 
+    "asn_v6": null, 
+    "lon": 12.5615, 
+    "address_v6": null, 
+    "probe_id": 20693, 
+    "address_v4": "195.190.128.6"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 13.242173566798135
+    }, 
+    "tags": [
+      "nat", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.6205, 
+    "asn_v4": 28717, 
+    "asn_v6": null, 
+    "lon": 12.3815, 
+    "address_v6": null, 
+    "probe_id": 14087, 
+    "address_v4": "188.120.84.100"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 0.38608938999076414
+    }, 
+    "tags": [
+      "nat", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-doesnt-work", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable", 
+      "system-ipv6-ula", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.6795, 
+    "asn_v4": 28717, 
+    "asn_v6": null, 
+    "lon": 12.5705, 
+    "address_v6": "fd58:af27:a028:0:a2f3:c1ff:fec4:4b28", 
+    "probe_id": 11975, 
+    "address_v4": "188.120.84.166"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 1.8519763648322185
+    }, 
+    "tags": [
+      "no-nat", 
+      "system-v1", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable"
+    ], 
+    "lat": 55.6605, 
+    "asn_v4": 15516, 
+    "asn_v6": null, 
+    "lon": 12.5775, 
+    "address_v6": null, 
+    "probe_id": 116, 
+    "address_v4": "87.73.100.100"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 26.410940072064154
+    }, 
+    "tags": [
+      "fibre", 
+      "home", 
+      "no-nat", 
+      "ipv4", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable"
+    ], 
+    "lat": 55.6615, 
+    "asn_v4": 15516, 
+    "asn_v6": null, 
+    "lon": 12.1475, 
+    "address_v6": null, 
+    "probe_id": 24509, 
+    "address_v4": "87.72.229.39"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 229.75972878850416
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 56.1305, 
+    "asn_v4": 42525, 
+    "asn_v6": 42525, 
+    "lon": 8.9695, 
+    "address_v6": "2a01:7e8:48:1337:ea94:f6ff:fe48:5162", 
+    "probe_id": 18747, 
+    "address_v4": "212.98.103.122"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 17.0618340527405
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.6595, 
+    "asn_v4": 42525, 
+    "asn_v6": null, 
+    "lon": 12.2975, 
+    "address_v6": null, 
+    "probe_id": 18315, 
+    "address_v4": "212.98.99.131"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 13.269986907974262
+    }, 
+    "tags": [
+      "system-anchor", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable"
+    ], 
+    "lat": 55.7285, 
+    "asn_v4": 39839, 
+    "asn_v6": 39839, 
+    "lon": 12.3775, 
+    "address_v6": "2a01:630:0:80::206", 
+    "probe_id": 6103, 
+    "address_v4": "193.163.102.206"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 173.596088146043
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 56.1495, 
+    "asn_v4": 43557, 
+    "asn_v6": null, 
+    "lon": 9.9115, 
+    "address_v6": null, 
+    "probe_id": 17784, 
+    "address_v4": "178.157.201.235"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 230.26290925487157
+    }, 
+    "tags": [
+      "nat", 
+      "system-v1", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 56.1585, 
+    "asn_v4": 47527, 
+    "asn_v6": null, 
+    "lon": 8.9715, 
+    "address_v6": null, 
+    "probe_id": 982, 
+    "address_v4": "46.30.120.10"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 158.9464850632566
+    }, 
+    "tags": [
+      "cable", 
+      "home", 
+      "nat", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 56.1305, 
+    "asn_v4": 197288, 
+    "asn_v6": null, 
+    "lon": 10.1485, 
+    "address_v6": null, 
+    "probe_id": 26627, 
+    "address_v4": "86.52.0.79"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 223.14118351266146
+    }, 
+    "tags": [
+      "nat", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 57.0305, 
+    "asn_v4": 197288, 
+    "asn_v6": null, 
+    "lon": 9.8915, 
+    "address_v6": null, 
+    "probe_id": 22997, 
+    "address_v4": "62.107.15.207"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 11.848631453602824
+    }, 
+    "tags": [
+      "datacentre", 
+      "academic", 
+      "no-nat", 
+      "ipv4", 
+      "ipv6", 
+      "system-v1", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable"
+    ], 
+    "lat": 55.7795, 
+    "asn_v4": 1835, 
+    "asn_v6": 1835, 
+    "lon": 12.5205, 
+    "address_v6": "2001:878:0:e264:220:4aff:febf:fc74", 
+    "probe_id": 474, 
+    "address_v4": "130.226.100.65"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 217.88810682088106
+    }, 
+    "tags": [
+      "office", 
+      "academic", 
+      "nat", 
+      "system-v1", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 57.0205, 
+    "asn_v4": 1835, 
+    "asn_v6": null, 
+    "lon": 9.9915, 
+    "address_v6": null, 
+    "probe_id": 796, 
+    "address_v4": "130.225.198.224"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 1.1481357664406995
+    }, 
+    "tags": [
+      "fibre", 
+      "core", 
+      "no-nat", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable"
+    ], 
+    "lat": 55.6675, 
+    "asn_v4": 42541, 
+    "asn_v6": 42541, 
+    "lon": 12.5585, 
+    "address_v6": "2a03:5440:100:42:fa1a:67ff:fe4d:71ee", 
+    "probe_id": 11420, 
+    "address_v4": "193.104.135.58"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 2.0969250704420976
+    }, 
+    "tags": [
+      "fibre", 
+      "home", 
+      "nat", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.6675, 
+    "asn_v4": 42541, 
+    "asn_v6": null, 
+    "lon": 12.5385, 
+    "address_v6": null, 
+    "probe_id": 22030, 
+    "address_v4": "193.106.165.65"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 165.4026105404823
+    }, 
+    "tags": [
+      "office", 
+      "nat", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 56.2305, 
+    "asn_v4": 35376, 
+    "asn_v6": null, 
+    "lon": 10.1005, 
+    "address_v6": null, 
+    "probe_id": 11266, 
+    "address_v4": "87.104.212.66"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 155.6125961732846
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable"
+    ], 
+    "lat": 56.1415, 
+    "asn_v4": 35376, 
+    "asn_v6": null, 
+    "lon": 10.2115, 
+    "address_v6": null, 
+    "probe_id": 20788, 
+    "address_v4": "87.104.178.227"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 1.1165759087958538
+    }, 
+    "tags": [
+      "office", 
+      "nat", 
+      "system-v2", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.6675, 
+    "asn_v4": 203953, 
+    "asn_v6": null, 
+    "lon": 12.5595, 
+    "address_v6": null, 
+    "probe_id": 2140, 
+    "address_v4": "185.15.72.208"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 0.13568507987786424
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.6775, 
+    "asn_v4": 31027, 
+    "asn_v6": 31027, 
+    "lon": 12.5685, 
+    "address_v6": "2a02:188:2503:10:c24a:ff:fecc:6ac6", 
+    "probe_id": 19820, 
+    "address_v4": "77.233.238.134"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 257.5877769670366
+    }, 
+    "tags": [
+      "fibre", 
+      "home", 
+      "nat", 
+      "system-v3", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918", 
+      "carrier-grade-nat"
+    ], 
+    "lat": 54.9675, 
+    "asn_v4": 31027, 
+    "asn_v6": null, 
+    "lon": 8.6885, 
+    "address_v6": null, 
+    "probe_id": 26631, 
+    "address_v4": "62.116.194.4"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 3.2209974751050194
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.6515, 
+    "asn_v4": 198452, 
+    "asn_v6": null, 
+    "lon": 12.5415, 
+    "address_v6": null, 
+    "probe_id": 19298, 
+    "address_v4": "91.209.190.17"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 2.50833779294038
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.6915, 
+    "asn_v4": 197301, 
+    "asn_v6": null, 
+    "lon": 12.5385, 
+    "address_v6": null, 
+    "probe_id": 22029, 
+    "address_v4": "80.71.135.112"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 12.004356390358678
+    }, 
+    "tags": [
+      "datacentre", 
+      "nat", 
+      "ipv6-tunnel", 
+      "ipv4", 
+      "ipv6", 
+      "system-v2", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.7805, 
+    "asn_v4": 198455, 
+    "asn_v6": 6939, 
+    "lon": 12.5175, 
+    "address_v6": "2001:470:28:321:220:4aff:fee0:2342", 
+    "probe_id": 2517, 
+    "address_v4": "95.128.31.250"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 157.7444316974203
+    }, 
+    "tags": [
+      "home", 
+      "no-nat", 
+      "system-v1", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable"
+    ], 
+    "lat": 56.2275, 
+    "asn_v4": 2109, 
+    "asn_v6": 3292, 
+    "lon": 10.2315, 
+    "address_v6": "2001:6c8:200:900:220:4aff:fec5:5b06", 
+    "probe_id": 690, 
+    "address_v4": "192.66.4.5"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 12.809936179332402
+    }, 
+    "tags": [
+      "no-nat", 
+      "system-v1", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable"
+    ], 
+    "lat": 55.7315, 
+    "asn_v4": 21060, 
+    "asn_v6": 21060, 
+    "lon": 12.3885, 
+    "address_v6": "2a02:7c00::220:4aff:fec8:23a8", 
+    "probe_id": 339, 
+    "address_v4": "91.195.58.12"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 3.917396139040696
+    }, 
+    "tags": [
+      "home", 
+      "nat", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.7115, 
+    "asn_v4": 44869, 
+    "asn_v6": 16150, 
+    "lon": 12.5715, 
+    "address_v6": "2001:16d8:dd40:16:fa1a:67ff:fe4d:7255", 
+    "probe_id": 11289, 
+    "address_v4": "5.186.150.59"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 118.73183036881159
+    }, 
+    "tags": [
+      "fibre", 
+      "home", 
+      "nat", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.3705, 
+    "asn_v4": 44869, 
+    "asn_v6": null, 
+    "lon": 10.7595, 
+    "address_v6": null, 
+    "probe_id": 16257, 
+    "address_v4": "89.239.204.44"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 9.388870176350466
+    }, 
+    "tags": [
+      "office", 
+      "nat", 
+      "system-v2", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.7605, 
+    "asn_v4": 9158, 
+    "asn_v6": null, 
+    "lon": 12.5805, 
+    "address_v6": null, 
+    "probe_id": 2776, 
+    "address_v4": "212.242.149.168"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 4.939902379452159
+    }, 
+    "tags": [
+      "nat", 
+      "ipv6-tunnel", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.7195, 
+    "asn_v4": 9158, 
+    "asn_v6": 6939, 
+    "lon": 12.5495, 
+    "address_v6": "2001:470:28:8b2:6666:b3ff:feb0:ef80", 
+    "probe_id": 14355, 
+    "address_v4": "85.81.112.102"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 122.4857053436256
+    }, 
+    "tags": [
+      "fibre", 
+      "datacentre", 
+      "no-nat", 
+      "ipv4", 
+      "free", 
+      "isp", 
+      "system-v3", 
+      "system-ipv4-works", 
+      "native-ipv4", 
+      "system-ipv4-capable"
+    ], 
+    "lat": 55.4575, 
+    "asn_v4": 47304, 
+    "asn_v6": null, 
+    "lon": 10.6575, 
+    "address_v6": null, 
+    "probe_id": 26910, 
+    "address_v4": "93.184.194.185"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 13.196394177275579
+    }, 
+    "tags": [
+      "home", 
+      "no-nat", 
+      "system-v2", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable"
+    ], 
+    "lat": 55.7315, 
+    "asn_v4": 12617, 
+    "asn_v6": 12617, 
+    "lon": 12.3815, 
+    "address_v6": "2a02:9d0:3000:1::21", 
+    "probe_id": 3499, 
+    "address_v4": "91.102.91.21"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 13.418658273088687
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.7315, 
+    "asn_v4": 60876, 
+    "asn_v6": 60876, 
+    "lon": 12.3775, 
+    "address_v6": "2a00:7660:202:0:c24a:ff:fe09:309e", 
+    "probe_id": 20009, 
+    "address_v4": "185.24.169.2"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 0.91659173059768
+    }, 
+    "tags": [
+      "datacentre", 
+      "nat", 
+      "system-v2", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-auto-geoip-city", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.6705, 
+    "asn_v4": 59469, 
+    "asn_v6": null, 
+    "lon": 12.5785, 
+    "address_v6": null, 
+    "probe_id": 2136, 
+    "address_v4": "94.126.177.130"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 13.251865899421357
+    }, 
+    "tags": [
+      "system-anchor", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable"
+    ], 
+    "lat": 55.7315, 
+    "asn_v4": 59469, 
+    "asn_v6": 59469, 
+    "lon": 12.3805, 
+    "address_v6": "2a03:a480:1000:3113::2", 
+    "probe_id": 6069, 
+    "address_v4": "185.27.112.25"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 4.629803994360502
+    }, 
+    "tags": [
+      "office", 
+      "nat", 
+      "system-v2", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.6595, 
+    "asn_v4": 9167, 
+    "asn_v6": null, 
+    "lon": 12.5005, 
+    "address_v6": null, 
+    "probe_id": 2175, 
+    "address_v4": "213.150.60.75"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 281.3207300387115
+    }, 
+    "tags": [
+      "dsl", 
+      "nat", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-doesnt-work", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 56.5415, 
+    "asn_v4": 3292, 
+    "asn_v6": null, 
+    "lon": 8.3005, 
+    "address_v6": "2002:c3d7:3102:1:6666:b3ff:feb0:f066", 
+    "probe_id": 14379, 
+    "address_v4": "80.161.105.170"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 0.24575661479330213
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.6785, 
+    "asn_v4": 3292, 
+    "asn_v6": null, 
+    "lon": 12.5685, 
+    "address_v6": null, 
+    "probe_id": 22022, 
+    "address_v4": "2.107.72.122"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 10.31639156388228
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.7585, 
+    "asn_v4": 3301, 
+    "asn_v6": null, 
+    "lon": 12.4915, 
+    "address_v6": null, 
+    "probe_id": 10783, 
+    "address_v4": "78.72.23.188"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 7.242773499641018
+    }, 
+    "tags": [
+      "office", 
+      "nat", 
+      "system-v2", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.6115, 
+    "asn_v4": 44134, 
+    "asn_v6": 44134, 
+    "lon": 12.5805, 
+    "address_v6": "2a02:2190:f000:cf0f:280:a3ff:fe91:441a", 
+    "probe_id": 3468, 
+    "address_v4": "79.142.233.18"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 68.64872188127485
+    }, 
+    "tags": [
+      "nat", 
+      "native-ipv6", 
+      "vdsl", 
+      "ipv4", 
+      "ipv6", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable", 
+      "system-ipv4-rfc1918", 
+      "teliasonera", 
+      "telia"
+    ], 
+    "lat": 55.4405, 
+    "asn_v4": 3308, 
+    "asn_v6": 3308, 
+    "lon": 11.5585, 
+    "address_v6": "2001:2012:3ec6:9cec:c66e:1fff:fe5b:caa6", 
+    "probe_id": 25337, 
+    "address_v4": "62.198.156.236"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 181.15153808455312
+    }, 
+    "tags": [
+      "nat", 
+      "system-v2", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.8085, 
+    "asn_v4": 3308, 
+    "asn_v6": null, 
+    "lon": 9.6815, 
+    "address_v6": null, 
+    "probe_id": 3083, 
+    "address_v4": "46.32.128.61"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 8.146854415013577
+    }, 
+    "tags": [
+      "no-nat", 
+      "system-v2", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable"
+    ], 
+    "lat": 55.6705, 
+    "asn_v4": 25384, 
+    "asn_v6": null, 
+    "lon": 12.4385, 
+    "address_v6": null, 
+    "probe_id": 3337, 
+    "address_v4": "85.89.228.92"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 229.81258338371316
+    }, 
+    "tags": [
+      "office", 
+      "nat", 
+      "system-v2", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-doesnt-work", 
+      "system-auto-geoip-city", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 56.1385, 
+    "asn_v4": 49010, 
+    "asn_v6": null, 
+    "lon": 8.9715, 
+    "address_v6": "2001:67c:2174::2", 
+    "probe_id": 2792, 
+    "address_v4": "109.232.72.250"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 201.5000388258113
+    }, 
+    "tags": [
+      "nat", 
+      "system-v2", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-doesnt-work", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 56.2605, 
+    "asn_v4": 49010, 
+    "asn_v6": 49010, 
+    "lon": 9.5005, 
+    "address_v6": "2a00:19f8:10:50:220:4aff:fee0:22a5", 
+    "probe_id": 2577, 
+    "address_v4": "109.232.72.250"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 213.42003194299917
+    }, 
+    "tags": [
+      "cable", 
+      "home", 
+      "nat", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 57.0085, 
+    "asn_v4": 42355, 
+    "asn_v6": null, 
+    "lon": 10.0715, 
+    "address_v6": null, 
+    "probe_id": 13392, 
+    "address_v4": "195.95.241.59"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 253.15011482873362
+    }, 
+    "tags": [
+      "nat", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 57.4615, 
+    "asn_v4": 42355, 
+    "asn_v6": null, 
+    "lon": 9.9985, 
+    "address_v6": null, 
+    "probe_id": 10239, 
+    "address_v4": "77.68.246.87"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 1.2664980729329005
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 55.6795, 
+    "asn_v4": 16245, 
+    "asn_v6": null, 
+    "lon": 12.5875, 
+    "address_v6": null, 
+    "probe_id": 21315, 
+    "address_v4": "89.186.160.1"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 13.418658273088687
+    }, 
+    "tags": [
+      "system-anchor", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv6-works", 
+      "system-ipv4-capable", 
+      "system-ipv6-capable"
+    ], 
+    "lat": 55.7315, 
+    "asn_v4": 197495, 
+    "asn_v6": 197495, 
+    "lon": 12.3775, 
+    "address_v6": "2001:67c:3c0:13::188", 
+    "probe_id": 6109, 
+    "address_v4": "91.221.196.188"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 10.59235664712912
+    }, 
+    "tags": [
+      "no-nat", 
+      "system-v3", 
+      "system-resolves-a-correctly", 
+      "system-resolves-aaaa-correctly", 
+      "system-ipv4-works", 
+      "system-ipv4-capable"
+    ], 
+    "lat": 55.6695, 
+    "asn_v4": 199289, 
+    "asn_v6": null, 
+    "lon": 12.3995, 
+    "address_v6": null, 
+    "probe_id": 10954, 
+    "address_v4": "185.21.234.16"
+  }, 
+  {
+    "country_code": "DK", 
+    "dists": {
+      "Copenhagen,DK": 261.4158318826296
+    }, 
+    "tags": [
+      "system-v3", 
+      "system-ipv4-works", 
+      "system-ipv4-capable", 
+      "system-ipv4-rfc1918"
+    ], 
+    "lat": 56.4715, 
+    "asn_v4": 29695, 
+    "asn_v6": null, 
+    "lon": 8.6005, 
+    "address_v6": null, 
+    "probe_id": 21479, 
+    "address_v4": "188.228.89.252"
+  }
+]
