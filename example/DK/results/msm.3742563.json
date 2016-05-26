@@ -26,7 +26,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742563 prb_id:11289 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:08:52 -00:00\n1 (AS16150) 2001:16d8:dd40:16::1 [0.838, 0.89, 2.821] ||\n2 (AS16150) gw-110.cph-01.dk.sixxs.net [4.296, 4.823, 8.854] |Copenhagen,Capital Region,DK|\n3 (AS16150) sixxs-cph-demarc0.cust.ip6.p80.net [4.508, 4.642, 9.106] |Copenhagen,Capital Region,DK|\n4 (AS16150) vl3229.dk.cph.sydv.cr0.port80.se [7.592, 8.445, 9.081] |Copenhagen,Capital Region,DK|\n5 (AS16150) 2001:16d8:1:136a::1 [5.943, 8.97, 9.613] ||\n6 (AS12552) 2a01:2b0:0:2f::1 [30.055, 47.431, 53.821] ||\n7 (AS12552) 2a01:2b0:2000:43::5 [26.927, 27.402, 30.313] ||\n8 () 2001:7f8:d:200::187 [23.265, 29.852, 31.315] ||\n9 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [24.071, 25.756, 29.366] ||\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n13 err:{u'x': u'*'}\n14 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:11289 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:08:52 -00:00\n1 (AS16150) 2001:16d8:dd40:16::1 [0.838, 0.89, 2.821] ||\n2 (AS16150) gw-110.cph-01.dk.sixxs.net [4.296, 4.823, 8.854] |Copenhagen,Capital Region,DK|\n3 (AS16150) sixxs-cph-demarc0.cust.ip6.p80.net [4.508, 4.642, 9.106] |Copenhagen,Capital Region,DK|\n4 (AS16150) vl3229.dk.cph.sydv.cr0.port80.se [7.592, 8.445, 9.081] |Copenhagen,Capital Region,DK|\n5 (AS16150) 2001:16d8:1:136a::1 [5.943, 8.97, 9.613] ||\n6 (AS12552) 2a01:2b0:0:2f::1 [30.055, 47.431, 53.821] ||\n7 (AS12552) 2a01:2b0:2000:43::5 [26.927, 27.402, 30.313] ||\n8 () 2001:7f8:d:200::187 [23.265, 29.852, 31.315] ||\n9 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [24.071, 25.756, 29.366] ||\n10 * * *\n11 * * *\n12 * * *\n13 * * *\n14 * * *\n14 * * *\n", 
     "result": [
       {
         "result": [
@@ -389,7 +389,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742563 prb_id:11420 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:08:57 -00:00\n1 (AS42541) 2a03:5440:100:42::1 [0.627, 0.638, 0.654] ||\n2 err:{u'x': u'*'}\n2 (AS42541) 2a03:5440:1:1613::1 [0.705, 24.738] ||\n3 (AS42541) 2a03:5440:1:1607::1 [0.53, 0.532, 0.589] ||\n4 (AS42541) 2a03:5440:1:1603::1 [0.685, 0.809, 0.851] ||\n5 (AS42541) 2a03:5440:1:1601::2 [0.786, 0.805, 3.945] ||\n6 () 2001:7f8:d:200::187 [1.032, 3.236, 5.299] ||\n7 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [2.707, 4.891, 6.96] ||\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:11420 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:08:57 -00:00\n1 (AS42541) 2a03:5440:100:42::1 [0.627, 0.638, 0.654] ||\n2 (AS42541) 2a03:5440:1:1613::1 [0.705, 24.738, '*'] ||\n3 (AS42541) 2a03:5440:1:1607::1 [0.53, 0.532, 0.589] ||\n4 (AS42541) 2a03:5440:1:1603::1 [0.685, 0.809, 0.851] ||\n5 (AS42541) 2a03:5440:1:1601::2 [0.786, 0.805, 3.945] ||\n6 () 2001:7f8:d:200::187 [1.032, 3.236, 5.299] ||\n7 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [2.707, 4.891, 6.96] ||\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n12 * * *\n12 * * *\n", 
     "result": [
       {
         "result": [
@@ -691,7 +691,7 @@
       "Stockholm,Stockholm,SE", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742563 prb_id:339 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:08:49 -00:00\n1 (AS21060) 2a02:7c00::1 [3.329, 5.224, 5.64] ||\n2 (AS31027) 2a02:188:100:10::1 [5.349, 5.368, 6.681] ||\n3 () 10gigabitethernet1-2.core1.sto1.he.net [15.633, 17.951, 27.063] |Stockholm,Stockholm,SE|\n4 (AS6939) 10ge3-1.core1.cph1.he.net [15.232, 15.699, 22.616] |Copenhagen,Capital Region,DK|\n5 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [17.988, 18.32, 86.372] ||\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:339 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:08:49 -00:00\n1 (AS21060) 2a02:7c00::1 [3.329, 5.224, 5.64] ||\n2 (AS31027) 2a02:188:100:10::1 [5.349, 5.368, 6.681] ||\n3 () 10gigabitethernet1-2.core1.sto1.he.net [15.633, 17.951, 27.063] |Stockholm,Stockholm,SE|\n4 (AS6939) 10ge3-1.core1.cph1.he.net [15.232, 15.699, 22.616] |Copenhagen,Capital Region,DK|\n5 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [17.988, 18.32, 86.372] ||\n6 * * *\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n10 * * *\n", 
     "result": [
       {
         "result": [
@@ -991,7 +991,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742563 prb_id:474 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:08:52 -00:00\n1 () fe80::c671:feff:fe02:3600 [3.378, 3.38, 199.513] ||\n2 (AS1835) 2001:878:0:e000:82:e1:f4:fe [2.87, 3.583, 3.756] ||\n3 (AS1835) 10g-aau.or0.core.fsknet.dk [3.451, 3.594, 24.086] ||\n4 (AS1835) po2.ly0.core.fsknet.dk [2.858, 3.123, 3.842] ||\n5 (AS1835) 2001:7f8:1f::6939:38:0 [3.25, 3.574, 3.818] |Copenhagen,Capital Region,DK|\n6 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [5.041, 7.197, 8.34] ||\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:474 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:08:52 -00:00\n1 () fe80::c671:feff:fe02:3600 [3.378, 3.38, 199.513] ||\n2 (AS1835) 2001:878:0:e000:82:e1:f4:fe [2.87, 3.583, 3.756] ||\n3 (AS1835) 10g-aau.or0.core.fsknet.dk [3.451, 3.594, 24.086] ||\n4 (AS1835) po2.ly0.core.fsknet.dk [2.858, 3.123, 3.842] ||\n5 (AS1835) 2001:7f8:1f::6939:38:0 [3.25, 3.574, 3.818] |Copenhagen,Capital Region,DK|\n6 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [5.041, 7.197, 8.34] ||\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n11 * * *\n", 
     "result": [
       {
         "result": [
@@ -1295,7 +1295,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742563 prb_id:6069 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:08:50 -00:00\n1 (AS59469) 2a03:a480:1000:3113::1 [0.26, 0.284, 0.297] ||\n2 (AS1835) 2001:7f8:1f::6939:38:0 [1.117, 1.121, 8.383] |Copenhagen,Capital Region,DK|\n3 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [4.385, 4.6, 6.143] ||\n4 err:{u'x': u'*'}\n5 err:{u'x': u'*'}\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:6069 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:08:50 -00:00\n1 (AS59469) 2a03:a480:1000:3113::1 [0.26, 0.284, 0.297] ||\n2 (AS1835) 2001:7f8:1f::6939:38:0 [1.117, 1.121, 8.383] |Copenhagen,Capital Region,DK|\n3 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [4.385, 4.6, 6.143] ||\n4 * * *\n5 * * *\n6 * * *\n7 * * *\n8 * * *\n8 * * *\n", 
     "result": [
       {
         "result": [
@@ -1522,7 +1522,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742563 prb_id:6109 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:08:50 -00:00\n1 (AS197495) 2001:67c:3c0:13::2 [0.222, 0.269, 0.371] ||\n2 (AS6939) gigabitethernet2-2.core1.cph1.he.net [0.485, 1.383, 4.121] ||\n3 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [3.426, 4.816, 4.897] ||\n4 err:{u'x': u'*'}\n5 err:{u'x': u'*'}\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:6109 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:08:50 -00:00\n1 (AS197495) 2001:67c:3c0:13::2 [0.222, 0.269, 0.371] ||\n2 (AS6939) gigabitethernet2-2.core1.cph1.he.net [0.485, 1.383, 4.121] ||\n3 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [3.426, 4.816, 4.897] ||\n4 * * *\n5 * * *\n6 * * *\n7 * * *\n8 * * *\n8 * * *\n", 
     "result": [
       {
         "result": [
@@ -1704,7 +1704,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742563 prb_id:690 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:08:50 -00:00\n1 (AS3292) eskv-gw1-inet.lyngbol.dk [3.014, 4.747, 82.975] ||\n2 (AS3292) gr-1-0-0-10.aegnqe10.dk.ip.tdc.net [9.42, 10.674, 13.272] ||\n3 (AS3292) alb2nqe10.dk.ip.tdc.net [17.056, 18.243, 20.519] ||\n4 (AS3292) 2001:6c8:41:100:0:94:8000:2 [20.558, 22.912, 38.589] ||\n5 (AS60876) unassigned.gigabit.dk [18.908, 21.663, 29.391] ||\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:690 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:08:50 -00:00\n1 (AS3292) eskv-gw1-inet.lyngbol.dk [3.014, 4.747, 82.975] ||\n2 (AS3292) gr-1-0-0-10.aegnqe10.dk.ip.tdc.net [9.42, 10.674, 13.272] ||\n3 (AS3292) alb2nqe10.dk.ip.tdc.net [17.056, 18.243, 20.519] ||\n4 (AS3292) 2001:6c8:41:100:0:94:8000:2 [20.558, 22.912, 38.589] ||\n5 (AS60876) unassigned.gigabit.dk [18.908, 21.663, 29.391] ||\n6 * * *\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n10 * * *\n", 
     "result": [
       {
         "result": [
@@ -1948,7 +1948,7 @@
       "Stockholm,Stockholm,SE", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742563 prb_id:14355 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:18 -00:00\n1 (AS6939) 2001:470:28:8b2::ac10:ff [0.333, 0.398] ||\n2 (AS6939) stderr-2.tunnel.tserv24.sto1.ipv6.he.net [34.566, 34.662, 35.919] |Stockholm,Stockholm,SE|\n3 (AS6939) ge2-20.core1.sto1.he.net [30.199, 30.246, 39.065] |Stockholm,Stockholm,SE|\n4 (AS6939) 10ge3-1.core1.cph1.he.net [39.467, 40.085, 48.685] |Copenhagen,Capital Region,DK|\n5 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [39.835, 41.665, 43.712] ||\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:14355 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:18 -00:00\n1 (AS6939) 2001:470:28:8b2::ac10:ff [0.333, 0.398, '*'] ||\n2 (AS6939) stderr-2.tunnel.tserv24.sto1.ipv6.he.net [34.566, 34.662, 35.919] |Stockholm,Stockholm,SE|\n3 (AS6939) ge2-20.core1.sto1.he.net [30.199, 30.246, 39.065] |Stockholm,Stockholm,SE|\n4 (AS6939) 10ge3-1.core1.cph1.he.net [39.467, 40.085, 48.685] |Copenhagen,Capital Region,DK|\n5 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [39.835, 41.665, 43.712] ||\n6 * * *\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n10 * * *\n", 
     "result": [
       {
         "result": [
@@ -2245,7 +2245,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742563 prb_id:14380 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:07 -00:00\n1 (AS16150) 2001:16d8:dd6f:1::1 [0.492, 0.495, 0.901] ||\n2 (AS16150) gw-214.cph-01.dk.sixxs.net [36.726, 38.239, 39.704] ||\n3 (AS16150) sixxs-cph-demarc0.cust.ip6.p80.net [37.615, 37.672, 37.94] |Copenhagen,Capital Region,DK|\n4 (AS16150) vl3229.dk.cph.sydv.cr0.port80.se [38.19, 39.289, 39.524] |Copenhagen,Capital Region,DK|\n5 (AS16150) 2001:16d8:1:136a::1 [39.692, 40.357, 41.791] ||\n6 (AS12552) 2a01:2b0:0:2f::1 [64.702, 67.787, 71.427] ||\n7 (AS12552) 2a01:2b0:2000:43::5 [58.478, 60.073, 60.258] ||\n8 () 2001:7f8:d:200::187 [53.058, 53.438, 61.047] ||\n9 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [54.172, 57.95, 58.185] ||\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n13 err:{u'x': u'*'}\n14 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:14380 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:07 -00:00\n1 (AS16150) 2001:16d8:dd6f:1::1 [0.492, 0.495, 0.901] ||\n2 (AS16150) gw-214.cph-01.dk.sixxs.net [36.726, 38.239, 39.704] ||\n3 (AS16150) sixxs-cph-demarc0.cust.ip6.p80.net [37.615, 37.672, 37.94] |Copenhagen,Capital Region,DK|\n4 (AS16150) vl3229.dk.cph.sydv.cr0.port80.se [38.19, 39.289, 39.524] |Copenhagen,Capital Region,DK|\n5 (AS16150) 2001:16d8:1:136a::1 [39.692, 40.357, 41.791] ||\n6 (AS12552) 2a01:2b0:0:2f::1 [64.702, 67.787, 71.427] ||\n7 (AS12552) 2a01:2b0:2000:43::5 [58.478, 60.073, 60.258] ||\n8 () 2001:7f8:d:200::187 [53.058, 53.438, 61.047] ||\n9 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [54.172, 57.95, 58.185] ||\n10 * * *\n11 * * *\n12 * * *\n13 * * *\n14 * * *\n14 * * *\n", 
     "result": [
       {
         "result": [
@@ -2618,7 +2618,7 @@
       "Amsterdam,North Holland,NL", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742563 prb_id:18747 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:01 -00:00\n1 (AS42525) 2a01:7e8:48:1337::1 [0.455, 0.542] ||\n2 (AS42525) 2a01:7e8:1:800::1b9 [1.998, 2.114, 8.869] ||\n3 (AS42525) 2a01:7e8:1:200::165 [2.026, 2.382, 4.639] ||\n4 (AS42525) ae1-0.ipv6.kold1cr2dk.gc-net.eu [1.939, 1.975, 2.055] ||\n5 (AS42525) ae1-0.ipv6.hamb1cr1de.gc-net.eu [5.165, 5.172, 5.259] ||\n6 (AS42525) ae3.ipv6.cr1.hamb.gc-net.eu [5.323, 7.272, 11.102] ||\n7 (AS1200) 30gigabitethernet1-3.core1.ams1.he.net [18.155, 18.292, 21.516] |Amsterdam,North Holland,NL|\n8 (AS6939) 10ge15-1.core1.ham1.he.net [16.537, 27.594, 48.941] |Hamburg,Hamburg,DE|\n9 (AS6939) 10ge1-4.core1.cph1.he.net [19.793, 20.47, 26.846] |Copenhagen,Capital Region,DK|\n10 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [21.383, 23.02, 25.478] ||\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n13 err:{u'x': u'*'}\n14 err:{u'x': u'*'}\n15 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:18747 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:01 -00:00\n1 (AS42525) 2a01:7e8:48:1337::1 [0.455, 0.542, '*'] ||\n2 (AS42525) 2a01:7e8:1:800::1b9 [1.998, 2.114, 8.869] ||\n3 (AS42525) 2a01:7e8:1:200::165 [2.026, 2.382, 4.639] ||\n4 (AS42525) ae1-0.ipv6.kold1cr2dk.gc-net.eu [1.939, 1.975, 2.055] ||\n5 (AS42525) ae1-0.ipv6.hamb1cr1de.gc-net.eu [5.165, 5.172, 5.259] ||\n6 (AS42525) ae3.ipv6.cr1.hamb.gc-net.eu [5.323, 7.272, 11.102] ||\n7 (AS1200) 30gigabitethernet1-3.core1.ams1.he.net [18.155, 18.292, 21.516] |Amsterdam,North Holland,NL|\n8 (AS6939) 10ge15-1.core1.ham1.he.net [16.537, 27.594, 48.941] |Hamburg,Hamburg,DE|\n9 (AS6939) 10ge1-4.core1.cph1.he.net [19.793, 20.47, 26.846] |Copenhagen,Capital Region,DK|\n10 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [21.383, 23.02, 25.478] ||\n11 * * *\n12 * * *\n13 * * *\n14 * * *\n15 * * *\n15 * * *\n", 
     "result": [
       {
         "result": [
@@ -3059,7 +3059,7 @@
       "Amsterdam,North Holland,NL", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742563 prb_id:19378 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:01 -00:00\n1 (AS60422) 2a00:b920:2:1337::1 [1.158, 1.404, 1.738] ||\n2 (AS42525) xe-0-2-1-0.ipv6.hoer1cr1dk.gc-net.eu [2.367, 2.467, 2.548] ||\n3 (AS42525) 2a01:7e8:1:200::51 [11.781, 11.873, 37.127] ||\n4 (AS42525) ae1-0.ipv6.taas1cr2dk.gc-net.eu [11.791, 11.799, 12.214] ||\n5 (AS42525) ae5.ipv6.cr1.hamb.gc-net.eu [15.675, 15.786, 25.278] ||\n6 (AS1200) 30gigabitethernet1-3.core1.ams1.he.net [30.817, 38.736, 39.359] |Amsterdam,North Holland,NL|\n7 (AS6939) 10ge15-1.core1.ham1.he.net [25.228, 25.244, 36.161] |Hamburg,Hamburg,DE|\n8 (AS6939) 10ge1-4.core1.cph1.he.net [26.837, 26.997, 30.716] |Copenhagen,Capital Region,DK|\n9 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [28.347, 31.013, 31.034] ||\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n13 err:{u'x': u'*'}\n14 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:19378 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:01 -00:00\n1 (AS60422) 2a00:b920:2:1337::1 [1.158, 1.404, 1.738] ||\n2 (AS42525) xe-0-2-1-0.ipv6.hoer1cr1dk.gc-net.eu [2.367, 2.467, 2.548] ||\n3 (AS42525) 2a01:7e8:1:200::51 [11.781, 11.873, 37.127] ||\n4 (AS42525) ae1-0.ipv6.taas1cr2dk.gc-net.eu [11.791, 11.799, 12.214] ||\n5 (AS42525) ae5.ipv6.cr1.hamb.gc-net.eu [15.675, 15.786, 25.278] ||\n6 (AS1200) 30gigabitethernet1-3.core1.ams1.he.net [30.817, 38.736, 39.359] |Amsterdam,North Holland,NL|\n7 (AS6939) 10ge15-1.core1.ham1.he.net [25.228, 25.244, 36.161] |Hamburg,Hamburg,DE|\n8 (AS6939) 10ge1-4.core1.cph1.he.net [26.837, 26.997, 30.716] |Copenhagen,Capital Region,DK|\n9 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [28.347, 31.013, 31.034] ||\n10 * * *\n11 * * *\n12 * * *\n13 * * *\n14 * * *\n14 * * *\n", 
     "result": [
       {
         "result": [
@@ -3474,7 +3474,7 @@
       "Amsterdam,North Holland,NL", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742563 prb_id:19820 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:25 -00:00\n1 (AS31027) 2a02:188:2503:10::2 [0.513, 0.564, 0.604] ||\n2 err:{u'x': u'*'}\n3 () ::ffff:93.176.90.3 [11.378, 11.635, 11.779] ||\n4 (AS1200) 30gigabitethernet1-3.core1.ams1.he.net [13.844, 14.451, 46.892] |Amsterdam,North Holland,NL|\n5 (AS6939) 10ge15-1.core1.ham1.he.net [14.479, 14.897, 21.112] |Hamburg,Hamburg,DE|\n6 (AS6939) 10ge1-4.core1.cph1.he.net [14.163, 15.292, 15.511] |Copenhagen,Capital Region,DK|\n7 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [38.312, 40.084, 47.72] ||\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:19820 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:25 -00:00\n1 (AS31027) 2a02:188:2503:10::2 [0.513, 0.564, 0.604] ||\n2 * * *\n3 () ::ffff:93.176.90.3 [11.378, 11.635, 11.779] ||\n4 (AS1200) 30gigabitethernet1-3.core1.ams1.he.net [13.844, 14.451, 46.892] |Amsterdam,North Holland,NL|\n5 (AS6939) 10ge15-1.core1.ham1.he.net [14.479, 14.897, 21.112] |Hamburg,Hamburg,DE|\n6 (AS6939) 10ge1-4.core1.cph1.he.net [14.163, 15.292, 15.511] |Copenhagen,Capital Region,DK|\n7 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [38.312, 40.084, 47.72] ||\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n12 * * *\n12 * * *\n", 
     "result": [
       {
         "result": [
@@ -3848,7 +3848,7 @@
       "Stockholm,Stockholm,SE", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742563 prb_id:2517 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:37 -00:00\n1 (AS6939) 2001:470:28:321::1 [5.838, 8.857, 8.979] ||\n2 (AS6939) kralian-2.tunnel.tserv24.sto1.ipv6.he.net [21.79, 22.056, 24.541] |Stockholm,Stockholm,SE|\n3 (AS6939) ge2-20.core1.sto1.he.net [17.634, 17.966, 28.017] |Stockholm,Stockholm,SE|\n4 (AS6939) 10ge3-1.core1.cph1.he.net [20.817, 21.052, 24.86] |Copenhagen,Capital Region,DK|\n5 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [29.176, 34.425, 69.102] ||\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:2517 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:37 -00:00\n1 (AS6939) 2001:470:28:321::1 [5.838, 8.857, 8.979] ||\n2 (AS6939) kralian-2.tunnel.tserv24.sto1.ipv6.he.net [21.79, 22.056, 24.541] |Stockholm,Stockholm,SE|\n3 (AS6939) ge2-20.core1.sto1.he.net [17.634, 17.966, 28.017] |Stockholm,Stockholm,SE|\n4 (AS6939) 10ge3-1.core1.cph1.he.net [20.817, 21.052, 24.86] |Copenhagen,Capital Region,DK|\n5 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [29.176, 34.425, 69.102] ||\n6 * * *\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n10 * * *\n", 
     "result": [
       {
         "result": [
@@ -4148,7 +4148,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742563 prb_id:25337 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:14 -00:00\n1 (AS3308) 2001:2012:3ec6:9cec::1 [0.696, 0.746, 0.985] ||\n2 err:{u'x': u'*'}\n2 (AS3308) 2001:2000:1080:16::2 [11.005, 11.721] ||\n3 (AS3308) 2001:2000:1080:16::1 [11.189, 11.227, 12.132] ||\n4 (AS1299) kbn-b3-link.telia.net [11.401, 12.038, 16.709] |Copenhagen,Capital Region,DK|\n5 (AS174) hu0-5-0-0.rcr21.cph01.atlas.cogentco.com [13.1, 13.654, 14.248] |Copenhagen,Capital Region,DK|\n6 (AS174) te0-0-1-0.nr11.b015758-1.cph01.atlas.cogentco.com [12.718, 14.078, 14.118] |Copenhagen,Capital Region,DK|\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:25337 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:14 -00:00\n1 (AS3308) 2001:2012:3ec6:9cec::1 [0.696, 0.746, 0.985] ||\n2 (AS3308) 2001:2000:1080:16::2 [11.005, 11.721, '*'] ||\n3 (AS3308) 2001:2000:1080:16::1 [11.189, 11.227, 12.132] ||\n4 (AS1299) kbn-b3-link.telia.net [11.401, 12.038, 16.709] |Copenhagen,Capital Region,DK|\n5 (AS174) hu0-5-0-0.rcr21.cph01.atlas.cogentco.com [13.1, 13.654, 14.248] |Copenhagen,Capital Region,DK|\n6 (AS174) te0-0-1-0.nr11.b015758-1.cph01.atlas.cogentco.com [12.718, 14.078, 14.118] |Copenhagen,Capital Region,DK|\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n11 * * *\n", 
     "result": [
       {
         "result": [
@@ -4447,7 +4447,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742563 prb_id:3468 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:19 -00:00\n1 (AS65101) 2a02:2190:f000:cf0f::1 [3.704, 3.722, 244.027] ||\n2 err:{u'x': u'*'}\n2 (AS65101) 2a02:2190:1004:da::1 [4.636] ||\n3 (AS65101) 2a02:2190:1:1::1 [5.52, 7.621, 7.674] ||\n4 (AS1835) 2001:7f8:1f::6939:38:0 [9.472, 9.82, 13.161] |Copenhagen,Capital Region,DK|\n5 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [6.653, 10.25, 10.333] ||\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:3468 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:19 -00:00\n1 (AS65101) 2a02:2190:f000:cf0f::1 [3.704, 3.722, 244.027] ||\n2 (AS65101) 2a02:2190:1004:da::1 [4.636, '*', '*'] ||\n3 (AS65101) 2a02:2190:1:1::1 [5.52, 7.621, 7.674] ||\n4 (AS1835) 2001:7f8:1f::6939:38:0 [9.472, 9.82, 13.161] |Copenhagen,Capital Region,DK|\n5 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [6.653, 10.25, 10.333] ||\n6 * * *\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n10 * * *\n", 
     "result": [
       {
         "result": [
@@ -4714,7 +4714,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742563 prb_id:6103 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:06 -00:00\n1 (AS39839) 2a01:630:0:80::2 [0.336, 0.356, 0.434] ||\n2 () 2001:7f8:d:200::187 [0.452, 2.046, 9.166] ||\n3 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [1.444, 4.488, 5.341] ||\n4 err:{u'x': u'*'}\n5 err:{u'x': u'*'}\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:6103 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:09:06 -00:00\n1 (AS39839) 2a01:630:0:80::2 [0.336, 0.356, 0.434] ||\n2 () 2001:7f8:d:200::187 [0.452, 2.046, 9.166] ||\n3 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [1.444, 4.488, 5.341] ||\n4 * * *\n5 * * *\n6 * * *\n7 * * *\n8 * * *\n8 * * *\n", 
     "result": [
       {
         "result": [
@@ -4904,7 +4904,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742563 prb_id:19933 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:10:09 -00:00\n1 (AS59469) 2a01:4260:28:4201::1 [0.563, 0.659, 7.228] ||\n2 err:{u'x': u'*'}\n3 err:{u'x': u'*'}\n4 (AS59469) 2a03:a480:1000:3713::1 [20.884] ||\n5 err:{u'x': u'*'}\n6 err:{u'x': u'*'}\n6 (AS1835) 2001:7f8:1f::6939:38:0 [28.204] |Copenhagen,Capital Region,DK|\n7 err:{u'x': u'*'}\n7 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [25.844] ||\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:19933 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:10:09 -00:00\n1 (AS59469) 2a01:4260:28:4201::1 [0.563, 0.659, 7.228] ||\n2 * * *\n3 * * *\n4 (AS59469) 2a03:a480:1000:3713::1 [20.884, '*', '*'] ||\n5 * * *\n6 (AS1835) 2001:7f8:1f::6939:38:0 [28.204, '*', '*'] |Copenhagen,Capital Region,DK|\n7 (AS6939) gigabit-aps.10gigabitethernet1-2.core1.cph1.he.net [25.844, '*', '*'] ||\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n12 * * *\n12 * * *\n", 
     "result": [
       {
         "result": [
@@ -5178,7 +5178,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742563 prb_id:3499 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:10:58 -00:00\n1 (AS12617) gw3000.solido.net [4.128, 4.769, 4.978] ||\n2 (AS12617) 2a02:9d0:93::1 [4.659, 6.016, 6.146] ||\n3 (AS59469) 2a03:a480:ffff:ff50::1 [4.504, 5.282, 5.941] ||\n4 err:{u'x': u'*'}\n5 err:{u'x': u'*'}\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742563 prb_id:3499 dst:2a00:7660:202:0:c24a:ff:fe09:309e ts:2016-05-02 07:10:58 -00:00\n1 (AS12617) gw3000.solido.net [4.128, 4.769, 4.978] ||\n2 (AS12617) 2a02:9d0:93::1 [4.659, 6.016, 6.146] ||\n3 (AS59469) 2a03:a480:ffff:ff50::1 [4.504, 5.282, 5.941] ||\n4 * * *\n5 * * *\n6 * * *\n7 * * *\n8 * * *\n8 * * *\n", 
     "result": [
       {
         "result": [

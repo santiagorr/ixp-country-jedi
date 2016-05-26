@@ -37,7 +37,7 @@
       "Ballerup,Capital Region,DK", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742553 prb_id:11289 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:32 -00:00\n1 (AS16150) 2001:16d8:dd40:16::1 [0.803, 1.016, 2.921] ||\n2 (AS16150) gw-110.cph-01.dk.sixxs.net [4.188, 4.788, 6.817] |Copenhagen,Capital Region,DK|\n3 (AS16150) sixxs-cph-demarc0.cust.ip6.p80.net [4.467, 5.232, 6.475] |Copenhagen,Capital Region,DK|\n4 (AS16150) vl3229.dk.cph.sydv.cr0.port80.se [6.259, 8.946, 9.989] |Copenhagen,Capital Region,DK|\n5 (AS16150) 2001:16d8:1:136a::1 [7.543, 9.436, 9.55] ||\n6 (AS12552) 2a01:2b0:0:2f::1 [32.622, 45.857, 51.419] ||\n7 (AS1835) dix.ip.nianet.net [25.385, 26.32, 27.96] |Copenhagen,Capital Region,DK|\n8 err:{u'x': u'*'}\n9 (AS39839) anchor.dk-hostmaster.dk [23.938, 25.187, 25.493] |Ballerup,Capital Region,DK|\n", 
+    "tracetxt": "## msm_id:3742553 prb_id:11289 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:32 -00:00\n1 (AS16150) 2001:16d8:dd40:16::1 [0.803, 1.016, 2.921] ||\n2 (AS16150) gw-110.cph-01.dk.sixxs.net [4.188, 4.788, 6.817] |Copenhagen,Capital Region,DK|\n3 (AS16150) sixxs-cph-demarc0.cust.ip6.p80.net [4.467, 5.232, 6.475] |Copenhagen,Capital Region,DK|\n4 (AS16150) vl3229.dk.cph.sydv.cr0.port80.se [6.259, 8.946, 9.989] |Copenhagen,Capital Region,DK|\n5 (AS16150) 2001:16d8:1:136a::1 [7.543, 9.436, 9.55] ||\n6 (AS12552) 2a01:2b0:0:2f::1 [32.622, 45.857, 51.419] ||\n7 (AS1835) dix.ip.nianet.net [25.385, 26.32, 27.96] |Copenhagen,Capital Region,DK|\n8 * * *\n9 (AS39839) anchor.dk-hostmaster.dk [23.938, 25.187, 25.493] |Ballerup,Capital Region,DK|\n", 
     "result": [
       {
         "result": [
@@ -577,7 +577,7 @@
       "Stockholm,Stockholm,SE", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742553 prb_id:14355 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:52 -00:00\n1 (AS6939) 2001:470:28:8b2::ac10:ff [0.377, 0.421] ||\n2 (AS6939) stderr-2.tunnel.tserv24.sto1.ipv6.he.net [33.464, 33.685, 34.677] |Stockholm,Stockholm,SE|\n3 (AS6939) ge2-20.core1.sto1.he.net [30.588, 35.34, 40.535] |Stockholm,Stockholm,SE|\n4 (AS6939) 10ge3-1.core1.cph1.he.net [38.542, 39.179, 48.121] |Copenhagen,Capital Region,DK|\n5 () 2001:7f8:d:200::244 [38.142, 38.539, 41.316] ||\n6 (AS39839) anchor.dk-hostmaster.dk [38.096, 38.15, 38.517] |Ballerup,Capital Region,DK|\n", 
+    "tracetxt": "## msm_id:3742553 prb_id:14355 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:52 -00:00\n1 (AS6939) 2001:470:28:8b2::ac10:ff [0.377, 0.421, '*'] ||\n2 (AS6939) stderr-2.tunnel.tserv24.sto1.ipv6.he.net [33.464, 33.685, 34.677] |Stockholm,Stockholm,SE|\n3 (AS6939) ge2-20.core1.sto1.he.net [30.588, 35.34, 40.535] |Stockholm,Stockholm,SE|\n4 (AS6939) 10ge3-1.core1.cph1.he.net [38.542, 39.179, 48.121] |Copenhagen,Capital Region,DK|\n5 () 2001:7f8:d:200::244 [38.142, 38.539, 41.316] ||\n6 (AS39839) anchor.dk-hostmaster.dk [38.096, 38.15, 38.517] |Ballerup,Capital Region,DK|\n", 
     "result": [
       {
         "result": [
@@ -845,7 +845,7 @@
       "Ballerup,Capital Region,DK", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742553 prb_id:14380 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:46 -00:00\n1 (AS16150) 2001:16d8:dd6f:1::1 [0.326, 0.381, 0.492] ||\n2 (AS16150) gw-214.cph-01.dk.sixxs.net [36.653, 37.342, 37.375] ||\n3 (AS16150) sixxs-cph-demarc0.cust.ip6.p80.net [36.966, 37.167, 38.024] |Copenhagen,Capital Region,DK|\n4 (AS16150) vl3229.dk.cph.sydv.cr0.port80.se [38.969, 39.194, 39.442] |Copenhagen,Capital Region,DK|\n5 (AS16150) 2001:16d8:1:136a::1 [37.46, 38.196, 38.724] ||\n6 (AS12552) 2a01:2b0:0:2f::1 [62.981, 71.443, 87.732] ||\n7 (AS1835) dix.ip.nianet.net [56.186, 58.61] |Copenhagen,Capital Region,DK|\n8 err:{u'x': u'*'}\n9 (AS39839) anchor.dk-hostmaster.dk [55.974, 56.487, 56.977] |Ballerup,Capital Region,DK|\n", 
+    "tracetxt": "## msm_id:3742553 prb_id:14380 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:46 -00:00\n1 (AS16150) 2001:16d8:dd6f:1::1 [0.326, 0.381, 0.492] ||\n2 (AS16150) gw-214.cph-01.dk.sixxs.net [36.653, 37.342, 37.375] ||\n3 (AS16150) sixxs-cph-demarc0.cust.ip6.p80.net [36.966, 37.167, 38.024] |Copenhagen,Capital Region,DK|\n4 (AS16150) vl3229.dk.cph.sydv.cr0.port80.se [38.969, 39.194, 39.442] |Copenhagen,Capital Region,DK|\n5 (AS16150) 2001:16d8:1:136a::1 [37.46, 38.196, 38.724] ||\n6 (AS12552) 2a01:2b0:0:2f::1 [62.981, 71.443, 87.732] ||\n7 (AS1835) dix.ip.nianet.net [56.186, 58.61, '*'] |Copenhagen,Capital Region,DK|\n8 * * *\n9 (AS39839) anchor.dk-hostmaster.dk [55.974, 56.487, 56.977] |Ballerup,Capital Region,DK|\n", 
     "result": [
       {
         "result": [
@@ -1141,7 +1141,7 @@
     "locations": [
       "Ballerup,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742553 prb_id:18747 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:36 -00:00\n1 err:{u'x': u'*'}\n1 (AS42525) 2a01:7e8:48:1337::1 [0.392, 0.486] ||\n2 (AS42525) 2a01:7e8:1:800::1b9 [2.132, 2.506, 12.296] ||\n3 (AS42525) 2a01:7e8:1:200::165 [2.101, 3.168, 3.697] ||\n4 err:{u'x': u'*'}\n5 (AS39839) anchor.dk-hostmaster.dk [5.591, 5.646, 5.814] |Ballerup,Capital Region,DK|\n", 
+    "tracetxt": "## msm_id:3742553 prb_id:18747 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:36 -00:00\n1 (AS42525) 2a01:7e8:48:1337::1 [0.392, 0.486, '*'] ||\n2 (AS42525) 2a01:7e8:1:800::1b9 [2.132, 2.506, 12.296] ||\n3 (AS42525) 2a01:7e8:1:200::165 [2.101, 3.168, 3.697] ||\n4 * * *\n5 (AS39839) anchor.dk-hostmaster.dk [5.591, 5.646, 5.814] |Ballerup,Capital Region,DK|\n", 
     "result": [
       {
         "result": [
@@ -1328,7 +1328,7 @@
     "locations": [
       "Ballerup,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742553 prb_id:19378 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:35 -00:00\n1 (AS60422) 2a00:b920:2:1337::1 [1.087, 1.206, 1.996] ||\n2 (AS42525) xe-0-2-1-0.ipv6.hoer1cr1dk.gc-net.eu [2.211, 2.248, 2.301] ||\n3 (AS42525) ae2-0.ipv6.cr1.kold.gc-net.eu [3.133, 3.225, 11.903] ||\n4 err:{u'x': u'*'}\n5 (AS39839) anchor.dk-hostmaster.dk [9.802, 9.831, 10.244] |Ballerup,Capital Region,DK|\n", 
+    "tracetxt": "## msm_id:3742553 prb_id:19378 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:35 -00:00\n1 (AS60422) 2a00:b920:2:1337::1 [1.087, 1.206, 1.996] ||\n2 (AS42525) xe-0-2-1-0.ipv6.hoer1cr1dk.gc-net.eu [2.211, 2.248, 2.301] ||\n3 (AS42525) ae2-0.ipv6.cr1.kold.gc-net.eu [3.133, 3.225, 11.903] ||\n4 * * *\n5 (AS39839) anchor.dk-hostmaster.dk [9.802, 9.831, 10.244] |Ballerup,Capital Region,DK|\n", 
     "result": [
       {
         "result": [
@@ -1512,7 +1512,7 @@
     "locations": [
       "Ballerup,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742553 prb_id:19820 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:51 -00:00\n1 (AS31027) 2a02:188:2503:10::2 [0.504, 0.512, 1.359] ||\n2 (AS31027) 2a02:188:12e:4::1 [1.422, 1.551] ||\n3 () ::ffff:93.176.90.112 [1.702, 1.737, 2.311] ||\n4 (AS31027) 2a02:188:100:3::2 [2.48, 2.595, 2.661] ||\n5 (AS39839) anchor.dk-hostmaster.dk [2.147, 2.161, 2.285] |Ballerup,Capital Region,DK|\n", 
+    "tracetxt": "## msm_id:3742553 prb_id:19820 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:51 -00:00\n1 (AS31027) 2a02:188:2503:10::2 [0.504, 0.512, 1.359] ||\n2 (AS31027) 2a02:188:12e:4::1 [1.422, 1.551, '*'] ||\n3 () ::ffff:93.176.90.112 [1.702, 1.737, 2.311] ||\n4 (AS31027) 2a02:188:100:3::2 [2.48, 2.595, 2.661] ||\n5 (AS39839) anchor.dk-hostmaster.dk [2.147, 2.161, 2.285] |Ballerup,Capital Region,DK|\n", 
     "result": [
       {
         "result": [
@@ -2189,7 +2189,7 @@
     "locations": [
       "Ballerup,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742553 prb_id:3468 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:56 -00:00\n1 (AS65101) 2a02:2190:f000:cf0f::1 [4.314, 4.818, 4.867] ||\n2 err:{u'x': u'*'}\n2 (AS65101) 2a02:2190:1004:da::1 [6.423, 6.586] ||\n3 (AS65101) 2a02:2190:1:1::1 [3.482, 3.702, 3.834] ||\n4 (AS31027) gw-bolignet.ip.nianet.dk [5.408, 6.679, 764.568] ||\n5 (AS31027) 2a02:188:100:3::2 [5.602, 6.418, 9.502] ||\n6 (AS39839) anchor.dk-hostmaster.dk [5.556, 5.803, 8.831] |Ballerup,Capital Region,DK|\n", 
+    "tracetxt": "## msm_id:3742553 prb_id:3468 dst:2a01:630:0:80::206 ts:2016-05-02 07:08:56 -00:00\n1 (AS65101) 2a02:2190:f000:cf0f::1 [4.314, 4.818, 4.867] ||\n2 (AS65101) 2a02:2190:1004:da::1 [6.423, 6.586, '*'] ||\n3 (AS65101) 2a02:2190:1:1::1 [3.482, 3.702, 3.834] ||\n4 (AS31027) gw-bolignet.ip.nianet.dk [5.408, 6.679, 764.568] ||\n5 (AS31027) 2a02:188:100:3::2 [5.602, 6.418, 9.502] ||\n6 (AS39839) anchor.dk-hostmaster.dk [5.556, 5.803, 8.831] |Ballerup,Capital Region,DK|\n", 
     "result": [
       {
         "result": [
@@ -3314,7 +3314,7 @@
     "locations": [
       "Ballerup,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742553 prb_id:19933 dst:2a01:630:0:80::206 ts:2016-05-02 07:09:08 -00:00\n1 (AS59469) 2a01:4260:28:4201::1 [0.534, 0.541, 0.58] ||\n2 (AS59469) 2a01:4260:28:fffe::1 [21.195, 21.283, 21.369] ||\n3 err:{u'x': u'*'}\n4 err:{u'x': u'*'}\n5 err:{u'x': u'*'}\n5 (AS59469) 2a03:a480:ffff:ff35::1 [21.471] ||\n6 err:{u'x': u'*'}\n6 (AS3292) xe-4-3-0-0.alb2nqp7.dk.ip.tdc.net [44.829] ||\n7 err:{u'x': u'*'}\n7 (AS3292) 2001:6c8:81:100::7 [22.705] ||\n8 err:{u'x': u'*'}\n8 (AS16245) 2001:1448:0:102::57 [21.975] ||\n9 (AS39839) anchor.dk-hostmaster.dk [21.698, 22.048] |Ballerup,Capital Region,DK|\n", 
+    "tracetxt": "## msm_id:3742553 prb_id:19933 dst:2a01:630:0:80::206 ts:2016-05-02 07:09:08 -00:00\n1 (AS59469) 2a01:4260:28:4201::1 [0.534, 0.541, 0.58] ||\n2 (AS59469) 2a01:4260:28:fffe::1 [21.195, 21.283, 21.369] ||\n3 * * *\n4 * * *\n5 (AS59469) 2a03:a480:ffff:ff35::1 [21.471, '*', '*'] ||\n6 (AS3292) xe-4-3-0-0.alb2nqp7.dk.ip.tdc.net [44.829, '*', '*'] ||\n7 (AS3292) 2001:6c8:81:100::7 [22.705, '*', '*'] ||\n8 (AS16245) 2001:1448:0:102::57 [21.975, '*', '*'] ||\n9 (AS39839) anchor.dk-hostmaster.dk [21.698, 22.048, '*'] |Ballerup,Capital Region,DK|\n", 
     "result": [
       {
         "result": [
@@ -3826,7 +3826,7 @@
     "locations": [
       "Ballerup,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742553 prb_id:3499 dst:2a01:630:0:80::206 ts:2016-05-02 07:10:22 -00:00\n1 (AS12617) gw3000.solido.net [21.326, 53.404, 422.973] ||\n2 (AS12617) 2a02:9d0:93::1 [7.029, 30.595, 90.211] ||\n3 (AS59469) 2a03:a480:ffff:ff50::1 [4.386, 5.503, 33.251] ||\n4 err:{u'x': u'*'}\n5 err:{u'x': u'*'}\n6 err:{u'x': u'*'}\n7 (AS16245) 2001:1448:0:102::57 [6.398, 6.463, 14.628] ||\n8 (AS39839) anchor.dk-hostmaster.dk [4.391, 5.458, 53.135] |Ballerup,Capital Region,DK|\n", 
+    "tracetxt": "## msm_id:3742553 prb_id:3499 dst:2a01:630:0:80::206 ts:2016-05-02 07:10:22 -00:00\n1 (AS12617) gw3000.solido.net [21.326, 53.404, 422.973] ||\n2 (AS12617) 2a02:9d0:93::1 [7.029, 30.595, 90.211] ||\n3 (AS59469) 2a03:a480:ffff:ff50::1 [4.386, 5.503, 33.251] ||\n4 * * *\n5 * * *\n6 * * *\n7 (AS16245) 2001:1448:0:102::57 [6.398, 6.463, 14.628] ||\n8 (AS39839) anchor.dk-hostmaster.dk [4.391, 5.458, 53.135] |Ballerup,Capital Region,DK|\n", 
     "result": [
       {
         "result": [

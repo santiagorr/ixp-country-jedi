@@ -35,7 +35,7 @@
       "Holstebro,Central Jutland,DK", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:19378 dst:62.198.156.236 ts:2016-05-02 07:07:58 -00:00\n1 (AS60422) 185.31.76.1 [1.139, 1.559, 1.801] ||\n2 (AS42525) xe-0-2-1-0.hoer1cr1dk.gc-net.eu [2.368, 2.383, 3.807] |Holstebro,Central Jutland,DK|\n3 (AS42525) ae2-0.cr1.kold.gc-net.eu [3.364, 6.609, 9.528] |Kolding,South Denmark,DK|\n4 (AS42525) ae1-0.kold1cr2dk.gc-net.eu [3.148, 3.173, 3.177] |Kolding,South Denmark,DK|\n5 (AS42525) ae1-0.hamb1cr1de.gc-net.eu [6.272, 6.526, 6.614] |Hamburg,Hamburg,DE|\n6 (AS1299) hbg-b1-link.telia.net [6.361, 6.444, 6.484] |Hamburg,Hamburg,DE|\n7 (AS1299) hbg-bb4-link.telia.net [6.358, 6.417, 7.066] |Hamburg,Hamburg,DE|\n8 (AS1299) kbn-bb4-link.telia.net [8.86, 9.023, 10.576] |Copenhagen,Capital Region,DK|\n9 (AS1299) kbn-b3-link.telia.net [8.944, 9.055, 9.066] |Copenhagen,Capital Region,DK|\n10 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [8.985, 9.066, 14.186] |Copenhagen,Capital Region,DK|\n11 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [9.535, 9.715, 10.598] ||\n12 err:{u'x': u'*'}\n13 err:{u'x': u'*'}\n14 err:{u'x': u'*'}\n15 err:{u'x': u'*'}\n16 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:19378 dst:62.198.156.236 ts:2016-05-02 07:07:58 -00:00\n1 (AS60422) 185.31.76.1 [1.139, 1.559, 1.801] ||\n2 (AS42525) xe-0-2-1-0.hoer1cr1dk.gc-net.eu [2.368, 2.383, 3.807] |Holstebro,Central Jutland,DK|\n3 (AS42525) ae2-0.cr1.kold.gc-net.eu [3.364, 6.609, 9.528] |Kolding,South Denmark,DK|\n4 (AS42525) ae1-0.kold1cr2dk.gc-net.eu [3.148, 3.173, 3.177] |Kolding,South Denmark,DK|\n5 (AS42525) ae1-0.hamb1cr1de.gc-net.eu [6.272, 6.526, 6.614] |Hamburg,Hamburg,DE|\n6 (AS1299) hbg-b1-link.telia.net [6.361, 6.444, 6.484] |Hamburg,Hamburg,DE|\n7 (AS1299) hbg-bb4-link.telia.net [6.358, 6.417, 7.066] |Hamburg,Hamburg,DE|\n8 (AS1299) kbn-bb4-link.telia.net [8.86, 9.023, 10.576] |Copenhagen,Capital Region,DK|\n9 (AS1299) kbn-b3-link.telia.net [8.944, 9.055, 9.066] |Copenhagen,Capital Region,DK|\n10 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [8.985, 9.066, 14.186] |Copenhagen,Capital Region,DK|\n11 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [9.535, 9.715, 10.598] ||\n12 * * *\n13 * * *\n14 * * *\n15 * * *\n16 * * *\n16 * * *\n", 
     "result": [
       {
         "result": [
@@ -527,7 +527,7 @@
       "Aalborg,North Denmark,DK", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:10239 dst:62.198.156.236 ts:2016-05-02 07:08:08 -00:00\n1 err:{u'x': u'*'}\n1 () 192.168.152.225 [3.893, 16.776] ||\n2 () 172.28.60.1 [3.659, 3.73, 5.557] ||\n3 (AS42355) hjo0101-mpls-pe-01_hjo0401-accn-as-02.bbnnet.dk [3.516, 3.902, 4.13] ||\n4 (AS42355) aalbo02-pi-01.bbnnet.dk [4.299, 5.409, 6.302] |Aalborg,North Denmark,DK|\n5 (AS42355) 77.68.255.118 [3.917, 4.429, 4.621] ||\n6 (AS42355) 77.68.255.101 [5.672, 5.801, 5.818] ||\n7 (AS42525) 10ge5-2.cr1.kold.gc-net.eu [11.487, 14.254, 14.333] ||\n8 (AS42525) ae1-0.kold1cr2dk.gc-net.eu [7.285, 7.854, 8.083] |Kolding,South Denmark,DK|\n9 (AS42525) ae1-0.hamb1cr1de.gc-net.eu [10.96, 11.044, 11.068] |Hamburg,Hamburg,DE|\n10 (AS1299) hbg-b1-link.telia.net [10.995, 11.009, 31.078] |Hamburg,Hamburg,DE|\n11 (AS1299) hbg-bb4-link.telia.net [10.726, 11.079, 11.294] |Hamburg,Hamburg,DE|\n12 (AS1299) kbn-bb4-link.telia.net [12.599, 12.623, 13.047] |Copenhagen,Capital Region,DK|\n13 (AS1299) kbn-b3-link.telia.net [13.301, 14.785, 14.863] |Copenhagen,Capital Region,DK|\n14 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [13.567, 13.63] |Copenhagen,Capital Region,DK|\n15 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [14.179, 14.365, 14.4] ||\n16 err:{u'x': u'*'}\n17 err:{u'x': u'*'}\n18 err:{u'x': u'*'}\n19 err:{u'x': u'*'}\n20 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:10239 dst:62.198.156.236 ts:2016-05-02 07:08:08 -00:00\n1 () 192.168.152.225 [3.893, 16.776, '*'] ||\n2 () 172.28.60.1 [3.659, 3.73, 5.557] ||\n3 (AS42355) hjo0101-mpls-pe-01_hjo0401-accn-as-02.bbnnet.dk [3.516, 3.902, 4.13] ||\n4 (AS42355) aalbo02-pi-01.bbnnet.dk [4.299, 5.409, 6.302] |Aalborg,North Denmark,DK|\n5 (AS42355) 77.68.255.118 [3.917, 4.429, 4.621] ||\n6 (AS42355) 77.68.255.101 [5.672, 5.801, 5.818] ||\n7 (AS42525) 10ge5-2.cr1.kold.gc-net.eu [11.487, 14.254, 14.333] ||\n8 (AS42525) ae1-0.kold1cr2dk.gc-net.eu [7.285, 7.854, 8.083] |Kolding,South Denmark,DK|\n9 (AS42525) ae1-0.hamb1cr1de.gc-net.eu [10.96, 11.044, 11.068] |Hamburg,Hamburg,DE|\n10 (AS1299) hbg-b1-link.telia.net [10.995, 11.009, 31.078] |Hamburg,Hamburg,DE|\n11 (AS1299) hbg-bb4-link.telia.net [10.726, 11.079, 11.294] |Hamburg,Hamburg,DE|\n12 (AS1299) kbn-bb4-link.telia.net [12.599, 12.623, 13.047] |Copenhagen,Capital Region,DK|\n13 (AS1299) kbn-b3-link.telia.net [13.301, 14.785, 14.863] |Copenhagen,Capital Region,DK|\n14 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [13.567, 13.63, '*'] |Copenhagen,Capital Region,DK|\n15 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [14.179, 14.365, 14.4] ||\n16 * * *\n17 * * *\n18 * * *\n19 * * *\n20 * * *\n20 * * *\n", 
     "result": [
       {
         "result": [
@@ -1100,7 +1100,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:10954 dst:62.198.156.236 ts:2016-05-02 07:08:13 -00:00\n1 (AS199289) 185.21.235.1 [0.546, 0.584, 0.712] ||\n2 (AS16095) 86.58.240.193 [0.889, 0.895, 0.936] ||\n3 (AS16095) te0-1-0-1.core.asr-2.glo.jay.net [1.06, 1.061, 1.289] ||\n4 (AS16095) te0-1-0-0.core.alb-1.jay.net [1.312, 1.451, 1.746] ||\n5 (AS3292) xe-3-0-0-0.alb2nqp7.dk.ip.tdc.net [1.035, 1.066, 10.042] ||\n6 (AS3308) 194.19.204.22 [1.519, 1.538, 1.715] ||\n7 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [2.249, 2.276, 2.585] ||\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:10954 dst:62.198.156.236 ts:2016-05-02 07:08:13 -00:00\n1 (AS199289) 185.21.235.1 [0.546, 0.584, 0.712] ||\n2 (AS16095) 86.58.240.193 [0.889, 0.895, 0.936] ||\n3 (AS16095) te0-1-0-1.core.asr-2.glo.jay.net [1.06, 1.061, 1.289] ||\n4 (AS16095) te0-1-0-0.core.alb-1.jay.net [1.312, 1.451, 1.746] ||\n5 (AS3292) xe-3-0-0-0.alb2nqp7.dk.ip.tdc.net [1.035, 1.066, 10.042] ||\n6 (AS3308) 194.19.204.22 [1.519, 1.538, 1.715] ||\n7 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [2.249, 2.276, 2.585] ||\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n12 * * *\n12 * * *\n", 
     "result": [
       {
         "result": [
@@ -1399,7 +1399,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:11266 dst:62.198.156.236 ts:2016-05-02 07:08:01 -00:00\n1 err:{u'x': u'*'}\n1 () 10.0.0.1 [0.885, 5.804] ||\n2 () 172.27.28.34 [2.192, 2.45, 2.538] ||\n3 () 192.168.241.69 [4.688, 5.111, 6.136] ||\n4 (AS3292) ae10-0.arcnqp7.dk.ip.tdc.net [5.276, 5.732, 5.804] ||\n5 (AS3308) 194.19.204.20 [5.037, 5.905, 6.45] ||\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [8.0, 8.622, 8.685] ||\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:11266 dst:62.198.156.236 ts:2016-05-02 07:08:01 -00:00\n1 () 10.0.0.1 [0.885, 5.804, '*'] ||\n2 () 172.27.28.34 [2.192, 2.45, 2.538] ||\n3 () 192.168.241.69 [4.688, 5.111, 6.136] ||\n4 (AS3292) ae10-0.arcnqp7.dk.ip.tdc.net [5.276, 5.732, 5.804] ||\n5 (AS3308) 194.19.204.20 [5.037, 5.905, 6.45] ||\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [8.0, 8.622, 8.685] ||\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n11 * * *\n", 
     "result": [
       {
         "result": [
@@ -1687,7 +1687,7 @@
       "Taastrup,Capital Region,DK", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:11289 dst:62.198.156.236 ts:2016-05-02 07:08:04 -00:00\n1 () 10.1.16.1 [0.625, 0.903, 0.998] ||\n2 (AS44869) 5.103.23.108 [4.392, 5.874, 10.52] ||\n3 (AS44869) 46.21.38.164 [4.221, 4.248, 4.329] ||\n4 (AS44869) 46.21.35.239 [4.111, 4.411, 4.589] ||\n5 (AS44869) ten0-1-0-0.dist01.kbhn1.seas-nve.net [4.485, 4.511, 4.756] |Copenhagen,Capital Region,DK|\n6 (AS44869) ten0-3-1-3.core01.taa4.seas-nve.net [2.582, 4.383, 6.367] |Taastrup,Capital Region,DK|\n7 (AS44869) hu0-0-0-0.bord01.taa4.seas-nve.net [4.359, 4.508, 4.637] |Taastrup,Capital Region,DK|\n8 (AS31027) seas-nve-gw.taas.cust.ip.nianet.dk [4.393, 4.475, 4.605] |Taastrup,Capital Region,DK|\n9 (AS1299) kbn-b3-link.telia.net [4.008, 4.034, 4.312] |Copenhagen,Capital Region,DK|\n10 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [4.469, 4.686] |Copenhagen,Capital Region,DK|\n11 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [4.029, 4.043, 5.546] ||\n12 err:{u'x': u'*'}\n13 err:{u'x': u'*'}\n14 err:{u'x': u'*'}\n15 err:{u'x': u'*'}\n16 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:11289 dst:62.198.156.236 ts:2016-05-02 07:08:04 -00:00\n1 () 10.1.16.1 [0.625, 0.903, 0.998] ||\n2 (AS44869) 5.103.23.108 [4.392, 5.874, 10.52] ||\n3 (AS44869) 46.21.38.164 [4.221, 4.248, 4.329] ||\n4 (AS44869) 46.21.35.239 [4.111, 4.411, 4.589] ||\n5 (AS44869) ten0-1-0-0.dist01.kbhn1.seas-nve.net [4.485, 4.511, 4.756] |Copenhagen,Capital Region,DK|\n6 (AS44869) ten0-3-1-3.core01.taa4.seas-nve.net [2.582, 4.383, 6.367] |Taastrup,Capital Region,DK|\n7 (AS44869) hu0-0-0-0.bord01.taa4.seas-nve.net [4.359, 4.508, 4.637] |Taastrup,Capital Region,DK|\n8 (AS31027) seas-nve-gw.taas.cust.ip.nianet.dk [4.393, 4.475, 4.605] |Taastrup,Capital Region,DK|\n9 (AS1299) kbn-b3-link.telia.net [4.008, 4.034, 4.312] |Copenhagen,Capital Region,DK|\n10 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [4.469, 4.686, '*'] |Copenhagen,Capital Region,DK|\n11 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [4.029, 4.043, 5.546] ||\n12 * * *\n13 * * *\n14 * * *\n15 * * *\n16 * * *\n16 * * *\n", 
     "result": [
       {
         "result": [
@@ -2153,7 +2153,7 @@
       "Stockholm,Stockholm,SE", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:11420 dst:62.198.156.236 ts:2016-05-02 07:08:14 -00:00\n1 (AS42541) 4135057-cl69.boa.fiberby.dk [0.623, 0.692, 0.8] |Copenhagen,Capital Region,DK|\n2 err:{u'x': u'*'}\n2 (AS42541) ve615.vbrpr1.ip.fiberby.net [1.038, 1.051] ||\n3 (AS42541) ve608.boapr1.ip.fiberby.net [0.801, 0.887, 31.354] ||\n4 (AS42541) ve605.inxpr1.ip.fiberby.net [0.904, 0.907, 1.017] ||\n5 (AS42541) ve614.tgccr1.ip.fiberby.net [1.044, 6.572, 35.333] ||\n6 (AS3356) fiberby.bar1.copenhagen1.level3.net [0.871, 0.898, 0.91] |Copenhagen,Capital Region,DK|\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 (AS3356) aol-level3-1g.losangeles.level3.net [8.886, 8.893, 9.118] ||\n10 (AS1299) s-bb3-link.telia.net [8.975, 9.006, 9.331] |Stockholm,Stockholm,SE|\n11 (AS1299) kbn-bb3-link.telia.net [9.992, 10.035, 10.764] |Copenhagen,Capital Region,DK|\n12 (AS1299) kbn-b3-link.telia.net [9.983, 9.994, 10.162] |Copenhagen,Capital Region,DK|\n13 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [10.157, 10.209] |Copenhagen,Capital Region,DK|\n14 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [10.736, 11.071, 13.568] ||\n15 err:{u'x': u'*'}\n16 err:{u'x': u'*'}\n17 err:{u'x': u'*'}\n18 err:{u'x': u'*'}\n19 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:11420 dst:62.198.156.236 ts:2016-05-02 07:08:14 -00:00\n1 (AS42541) 4135057-cl69.boa.fiberby.dk [0.623, 0.692, 0.8] |Copenhagen,Capital Region,DK|\n2 (AS42541) ve615.vbrpr1.ip.fiberby.net [1.038, 1.051, '*'] ||\n3 (AS42541) ve608.boapr1.ip.fiberby.net [0.801, 0.887, 31.354] ||\n4 (AS42541) ve605.inxpr1.ip.fiberby.net [0.904, 0.907, 1.017] ||\n5 (AS42541) ve614.tgccr1.ip.fiberby.net [1.044, 6.572, 35.333] ||\n6 (AS3356) fiberby.bar1.copenhagen1.level3.net [0.871, 0.898, 0.91] |Copenhagen,Capital Region,DK|\n7 * * *\n8 * * *\n9 (AS3356) aol-level3-1g.losangeles.level3.net [8.886, 8.893, 9.118] ||\n10 (AS1299) s-bb3-link.telia.net [8.975, 9.006, 9.331] |Stockholm,Stockholm,SE|\n11 (AS1299) kbn-bb3-link.telia.net [9.992, 10.035, 10.764] |Copenhagen,Capital Region,DK|\n12 (AS1299) kbn-b3-link.telia.net [9.983, 9.994, 10.162] |Copenhagen,Capital Region,DK|\n13 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [10.157, 10.209, '*'] |Copenhagen,Capital Region,DK|\n14 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [10.736, 11.071, 13.568] ||\n15 * * *\n16 * * *\n17 * * *\n18 * * *\n19 * * *\n19 * * *\n", 
     "result": [
       {
         "result": [
@@ -2660,7 +2660,7 @@
     "locations": [
       "Albertslund,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:116 dst:62.198.156.236 ts:2016-05-02 07:08:27 -00:00\n1 err:{u'x': u'*'}\n1 (AS15516) 87.73.96.1 [5.001] ||\n2 (AS15516) ve4031.albcr2.ip.cxnet.dk [4.818, 5.891, 6.176] ||\n3 (AS3292) xe-3-2-0-0.alb2nqp7.dk.ip.tdc.net [5.0, 5.453, 5.718] |Albertslund,Capital Region,DK|\n4 (AS3308) 194.19.204.22 [4.951, 6.036, 6.4] ||\n5 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [7.564, 7.95, 10.09] ||\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:116 dst:62.198.156.236 ts:2016-05-02 07:08:27 -00:00\n1 (AS15516) 87.73.96.1 [5.001, '*', '*'] ||\n2 (AS15516) ve4031.albcr2.ip.cxnet.dk [4.818, 5.891, 6.176] ||\n3 (AS3292) xe-3-2-0-0.alb2nqp7.dk.ip.tdc.net [5.0, 5.453, 5.718] |Albertslund,Capital Region,DK|\n4 (AS3308) 194.19.204.22 [4.951, 6.036, 6.4] ||\n5 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [7.564, 7.95, 10.09] ||\n6 * * *\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n10 * * *\n", 
     "result": [
       {
         "result": [
@@ -2944,7 +2944,7 @@
       "Hamburg,Hamburg,DE", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:13392 dst:62.198.156.236 ts:2016-05-02 07:08:29 -00:00\n1 () 192.168.1.1 [0.369, 0.392, 0.611] ||\n2 err:{u'x': u'*'}\n2 (AS42355) 195.95.241.1 [1.793] ||\n3 () 172.28.0.200 [2.109, 3.243] ||\n4 (AS42355) 77.233.226.122 [2.688, 3.149, 3.938] ||\n5 (AS42355) aalbo02-pn-01.bbnnet.dk [4.28, 4.82, 5.129] ||\n6 () 192.168.248.22 [4.682, 4.818, 4.96] ||\n7 (AS42355) hobro02-pi-01.bbnnet.dk [4.554, 4.854, 5.03] ||\n8 (AS42525) ae-0-0.hoer1cr1dk.gc-net.eu [4.967, 5.622, 6.826] ||\n9 (AS42525) ae2-0.cr1.kold.gc-net.eu [13.598, 13.65, 14.608] |Kolding,South Denmark,DK|\n10 (AS42525) ae1-0.kold1cr2dk.gc-net.eu [6.591, 6.653, 6.909] |Kolding,South Denmark,DK|\n11 (AS42525) ae1-0.hamb1cr1de.gc-net.eu [9.854, 9.903, 122.285] |Hamburg,Hamburg,DE|\n12 (AS1299) hbg-b1-link.telia.net [9.168, 10.27, 10.324] |Hamburg,Hamburg,DE|\n13 (AS1299) hbg-bb1-link.telia.net [9.198, 10.298, 56.009] |Hamburg,Hamburg,DE|\n14 (AS1299) kbn-bb3-link.telia.net [13.542, 16.807, 31.593] |Copenhagen,Capital Region,DK|\n15 (AS1299) kbn-b3-link.telia.net [12.565, 12.89, 13.005] |Copenhagen,Capital Region,DK|\n16 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [13.91, 15.065] |Copenhagen,Capital Region,DK|\n17 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [13.295, 15.091, 15.125] ||\n18 err:{u'x': u'*'}\n19 err:{u'x': u'*'}\n20 err:{u'x': u'*'}\n21 err:{u'x': u'*'}\n22 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:13392 dst:62.198.156.236 ts:2016-05-02 07:08:29 -00:00\n1 () 192.168.1.1 [0.369, 0.392, 0.611] ||\n2 (AS42355) 195.95.241.1 [1.793, '*', '*'] ||\n3 () 172.28.0.200 [2.109, 3.243, '*'] ||\n4 (AS42355) 77.233.226.122 [2.688, 3.149, 3.938] ||\n5 (AS42355) aalbo02-pn-01.bbnnet.dk [4.28, 4.82, 5.129] ||\n6 () 192.168.248.22 [4.682, 4.818, 4.96] ||\n7 (AS42355) hobro02-pi-01.bbnnet.dk [4.554, 4.854, 5.03] ||\n8 (AS42525) ae-0-0.hoer1cr1dk.gc-net.eu [4.967, 5.622, 6.826] ||\n9 (AS42525) ae2-0.cr1.kold.gc-net.eu [13.598, 13.65, 14.608] |Kolding,South Denmark,DK|\n10 (AS42525) ae1-0.kold1cr2dk.gc-net.eu [6.591, 6.653, 6.909] |Kolding,South Denmark,DK|\n11 (AS42525) ae1-0.hamb1cr1de.gc-net.eu [9.854, 9.903, 122.285] |Hamburg,Hamburg,DE|\n12 (AS1299) hbg-b1-link.telia.net [9.168, 10.27, 10.324] |Hamburg,Hamburg,DE|\n13 (AS1299) hbg-bb1-link.telia.net [9.198, 10.298, 56.009] |Hamburg,Hamburg,DE|\n14 (AS1299) kbn-bb3-link.telia.net [13.542, 16.807, 31.593] |Copenhagen,Capital Region,DK|\n15 (AS1299) kbn-b3-link.telia.net [12.565, 12.89, 13.005] |Copenhagen,Capital Region,DK|\n16 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [13.91, 15.065, '*'] |Copenhagen,Capital Region,DK|\n17 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [13.295, 15.091, 15.125] ||\n18 * * *\n19 * * *\n20 * * *\n21 * * *\n22 * * *\n22 * * *\n", 
     "result": [
       {
         "result": [
@@ -3604,7 +3604,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:14087 dst:62.198.156.236 ts:2016-05-02 07:08:30 -00:00\n1 () 192.168.1.1 [0.479, 0.695, 0.943] ||\n2 () 10.84.100.1 [0.512, 0.655, 0.901] ||\n3 (AS28717) 97.84.120.188.andels.net [1.413, 1.559, 1.973] ||\n4 (AS28717) 91.143.118.217 [0.905, 1.13, 1.325] ||\n5 (AS31027) 152.115.64.72 [1.787, 1.881, 2.083] ||\n6 (AS31027) 93.176.95.10 [1.873, 1.912, 2.04] ||\n7 (AS1299) kbn-b3-link.telia.net [2.448, 2.516, 22.761] |Copenhagen,Capital Region,DK|\n8 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [2.046] |Copenhagen,Capital Region,DK|\n9 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [2.52, 2.905, 3.005] ||\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n13 err:{u'x': u'*'}\n14 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:14087 dst:62.198.156.236 ts:2016-05-02 07:08:30 -00:00\n1 () 192.168.1.1 [0.479, 0.695, 0.943] ||\n2 () 10.84.100.1 [0.512, 0.655, 0.901] ||\n3 (AS28717) 97.84.120.188.andels.net [1.413, 1.559, 1.973] ||\n4 (AS28717) 91.143.118.217 [0.905, 1.13, 1.325] ||\n5 (AS31027) 152.115.64.72 [1.787, 1.881, 2.083] ||\n6 (AS31027) 93.176.95.10 [1.873, 1.912, 2.04] ||\n7 (AS1299) kbn-b3-link.telia.net [2.448, 2.516, 22.761] |Copenhagen,Capital Region,DK|\n8 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [2.046, '*', '*'] |Copenhagen,Capital Region,DK|\n9 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [2.52, 2.905, 3.005] ||\n10 * * *\n11 * * *\n12 * * *\n13 * * *\n14 * * *\n14 * * *\n", 
     "result": [
       {
         "result": [
@@ -3964,7 +3964,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:14355 dst:62.198.156.236 ts:2016-05-02 07:08:17 -00:00\n1 err:{u'x': u'*'}\n1 () 172.16.0.3 [0.945, 4.98] ||\n2 (AS9158) lo0-1.bb02-sj538.ip.telenor.dk [6.44, 7.019, 7.373] ||\n3 (AS9158) ae15-0.dr01-sj538.ip.telenor.dk [12.578, 12.781, 13.025] ||\n4 (AS9158) ge-2-0-0.br1-soex.ip.cybercity.dk [6.381, 6.551, 6.893] ||\n5 err:{u'x': u'*'}\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [10.33, 10.66, 10.766] ||\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:14355 dst:62.198.156.236 ts:2016-05-02 07:08:17 -00:00\n1 () 172.16.0.3 [0.945, 4.98, '*'] ||\n2 (AS9158) lo0-1.bb02-sj538.ip.telenor.dk [6.44, 7.019, 7.373] ||\n3 (AS9158) ae15-0.dr01-sj538.ip.telenor.dk [12.578, 12.781, 13.025] ||\n4 (AS9158) ge-2-0-0.br1-soex.ip.cybercity.dk [6.381, 6.551, 6.893] ||\n5 * * *\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [10.33, 10.66, 10.766] ||\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n11 * * *\n", 
     "result": [
       {
         "result": [
@@ -4228,7 +4228,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:14379 dst:62.198.156.236 ts:2016-05-02 07:08:09 -00:00\n1 () 192.168.110.1 [0.883, 0.895, 11.684] ||\n2 (AS3292) 161.128-255.105.161.80.in-addr.arpa [1.429, 1.558, 2.288] ||\n3 (AS3292) ge-1-3-0-1109.strnqu1.dk.ip.tdc.net [19.906, 20.055, 40.331] ||\n4 (AS3292) ae3-0.hrnxu40.dk.ip.tdc.net [25.763, 29.383, 39.237] ||\n5 (AS3292) ae0-0.arcnqp7.dk.ip.tdc.net [26.58, 33.108, 39.841] ||\n6 (AS3308) 194.19.204.20 [29.777, 44.845, 47.173] ||\n7 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [29.524, 39.727, 55.727] ||\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:14379 dst:62.198.156.236 ts:2016-05-02 07:08:09 -00:00\n1 () 192.168.110.1 [0.883, 0.895, 11.684] ||\n2 (AS3292) 161.128-255.105.161.80.in-addr.arpa [1.429, 1.558, 2.288] ||\n3 (AS3292) ge-1-3-0-1109.strnqu1.dk.ip.tdc.net [19.906, 20.055, 40.331] ||\n4 (AS3292) ae3-0.hrnxu40.dk.ip.tdc.net [25.763, 29.383, 39.237] ||\n5 (AS3292) ae0-0.arcnqp7.dk.ip.tdc.net [26.58, 33.108, 39.841] ||\n6 (AS3308) 194.19.204.20 [29.777, 44.845, 47.173] ||\n7 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [29.524, 39.727, 55.727] ||\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n12 * * *\n12 * * *\n", 
     "result": [
       {
         "result": [
@@ -4533,7 +4533,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:14380 dst:62.198.156.236 ts:2016-05-02 07:08:16 -00:00\n1 () fake-gw.ripe.net [0.312, 0.407, 1.05] ||\n2 (AS39554) 89.150.163.1 [23.587, 24.419, 24.618] ||\n3 (AS39554) ge1-0-4.mr1.abc.dk.ip.fullrate.dk [23.131, 23.348, 23.557] ||\n4 (AS3292) xe-2-1-1-103.abnqe10.dk.ip.tdc.net [22.343, 22.86, 23.887] ||\n5 (AS3292) ae1-0.arcnqp7.dk.ip.tdc.net [24.311, 24.601, 49.371] ||\n6 (AS3308) 194.19.204.20 [25.134, 25.557, 25.593] ||\n7 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [27.309, 27.375, 27.876] ||\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:14380 dst:62.198.156.236 ts:2016-05-02 07:08:16 -00:00\n1 () fake-gw.ripe.net [0.312, 0.407, 1.05] ||\n2 (AS39554) 89.150.163.1 [23.587, 24.419, 24.618] ||\n3 (AS39554) ge1-0-4.mr1.abc.dk.ip.fullrate.dk [23.131, 23.348, 23.557] ||\n4 (AS3292) xe-2-1-1-103.abnqe10.dk.ip.tdc.net [22.343, 22.86, 23.887] ||\n5 (AS3292) ae1-0.arcnqp7.dk.ip.tdc.net [24.311, 24.601, 49.371] ||\n6 (AS3308) 194.19.204.20 [25.134, 25.557, 25.593] ||\n7 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [27.309, 27.375, 27.876] ||\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n12 * * *\n12 * * *\n", 
     "result": [
       {
         "result": [
@@ -4857,7 +4857,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:16257 dst:62.198.156.236 ts:2016-05-02 07:08:16 -00:00\n1 err:{u'x': u'*'}\n1 () 192.168.1.1 [0.692] ||\n2 (AS44869) dhcp-89-239-204-1.seas-nve.net [0.559, 0.661, 0.674] ||\n3 (AS44869) 80.71.78.182 [1.3, 1.303, 1.361] ||\n4 (AS203646) 185.128.73.151 [1.271, 1.291, 1.378] ||\n5 (AS203646) 185.128.73.153 [2.139, 2.143, 2.197] ||\n6 (AS203646) 185.128.73.155 [2.128, 2.144, 2.184] ||\n7 (AS203646) 185.128.73.157 [1.777, 1.858, 2.005] ||\n8 (AS44869) be2.core01.gl3.seas-nve.net [4.518, 4.572, 4.629] ||\n9 (AS44869) hu0-0-0-0.bord01.gl3.seas-nve.net [4.586, 4.605, 5.303] ||\n10 (AS31027) 5.56.159.245 [4.902, 5.118, 5.224] ||\n11 (AS31027) 93.176.94.95 [4.73, 4.905, 4.954] ||\n12 (AS1299) kbn-b3-link.telia.net [4.542, 4.564, 4.668] |Copenhagen,Capital Region,DK|\n13 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [4.863, 4.883] |Copenhagen,Capital Region,DK|\n14 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [5.434, 5.586, 6.414] ||\n15 err:{u'x': u'*'}\n16 err:{u'x': u'*'}\n17 err:{u'x': u'*'}\n18 err:{u'x': u'*'}\n19 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:16257 dst:62.198.156.236 ts:2016-05-02 07:08:16 -00:00\n1 () 192.168.1.1 [0.692, '*', '*'] ||\n2 (AS44869) dhcp-89-239-204-1.seas-nve.net [0.559, 0.661, 0.674] ||\n3 (AS44869) 80.71.78.182 [1.3, 1.303, 1.361] ||\n4 (AS203646) 185.128.73.151 [1.271, 1.291, 1.378] ||\n5 (AS203646) 185.128.73.153 [2.139, 2.143, 2.197] ||\n6 (AS203646) 185.128.73.155 [2.128, 2.144, 2.184] ||\n7 (AS203646) 185.128.73.157 [1.777, 1.858, 2.005] ||\n8 (AS44869) be2.core01.gl3.seas-nve.net [4.518, 4.572, 4.629] ||\n9 (AS44869) hu0-0-0-0.bord01.gl3.seas-nve.net [4.586, 4.605, 5.303] ||\n10 (AS31027) 5.56.159.245 [4.902, 5.118, 5.224] ||\n11 (AS31027) 93.176.94.95 [4.73, 4.905, 4.954] ||\n12 (AS1299) kbn-b3-link.telia.net [4.542, 4.564, 4.668] |Copenhagen,Capital Region,DK|\n13 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [4.863, 4.883, '*'] |Copenhagen,Capital Region,DK|\n14 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [5.434, 5.586, 6.414] ||\n15 * * *\n16 * * *\n17 * * *\n18 * * *\n19 * * *\n19 * * *\n", 
     "result": [
       {
         "result": [
@@ -5343,7 +5343,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:17784 dst:62.198.156.236 ts:2016-05-02 07:08:09 -00:00\n1 () 192.168.1.1 [1.25, 1.282, 7.205] ||\n2 (AS43557) 178.157.200.1 [1.843, 1.846, 1.929] ||\n3 () 10.10.2.49 [2.519, 2.732, 2.847] ||\n4 () 10.10.0.1 [3.017, 3.103, 12.345] ||\n5 (AS31027) 87.116.38.121 [2.855, 3.007, 3.317] ||\n6 (AS31027) 93.176.95.180 [6.409, 6.617, 7.198] ||\n7 (AS31027) 93.176.95.116 [5.985, 6.094, 6.733] ||\n8 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [7.111] |Copenhagen,Capital Region,DK|\n9 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [6.833, 7.001, 7.453] ||\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n13 err:{u'x': u'*'}\n14 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:17784 dst:62.198.156.236 ts:2016-05-02 07:08:09 -00:00\n1 () 192.168.1.1 [1.25, 1.282, 7.205] ||\n2 (AS43557) 178.157.200.1 [1.843, 1.846, 1.929] ||\n3 () 10.10.2.49 [2.519, 2.732, 2.847] ||\n4 () 10.10.0.1 [3.017, 3.103, 12.345] ||\n5 (AS31027) 87.116.38.121 [2.855, 3.007, 3.317] ||\n6 (AS31027) 93.176.95.180 [6.409, 6.617, 7.198] ||\n7 (AS31027) 93.176.95.116 [5.985, 6.094, 6.733] ||\n8 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [7.111, '*', '*'] |Copenhagen,Capital Region,DK|\n9 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [6.833, 7.001, 7.453] ||\n10 * * *\n11 * * *\n12 * * *\n13 * * *\n14 * * *\n14 * * *\n", 
     "result": [
       {
         "result": [
@@ -5799,7 +5799,7 @@
       "Taastrup,Capital Region,DK", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:18315 dst:62.198.156.236 ts:2016-05-02 07:08:07 -00:00\n1 () 10.231.254.1 [0.731] ||\n2 (AS42525) ge1-10.ar5.taas.gc-net.eu [0.869, 7.551, 12.414] |Taastrup,Capital Region,DK|\n3 (AS42525) ae4-0.cr1.taas.gc-net.eu [0.807, 0.957, 2.122] ||\n4 (AS42525) 10ge8-3.taas11cr2dk.gc-net.eu [0.819, 0.82, 3.509] ||\n5 (AS1299) kbn-b3-link.telia.net [0.962, 1.011, 1.032] |Copenhagen,Capital Region,DK|\n6 err:{u'x': u'*'}\n7 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [1.808, 1.86, 2.279] ||\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:18315 dst:62.198.156.236 ts:2016-05-02 07:08:07 -00:00\n1 () 10.231.254.1 [0.731, '*', '*'] ||\n2 (AS42525) ge1-10.ar5.taas.gc-net.eu [0.869, 7.551, 12.414] |Taastrup,Capital Region,DK|\n3 (AS42525) ae4-0.cr1.taas.gc-net.eu [0.807, 0.957, 2.122] ||\n4 (AS42525) 10ge8-3.taas11cr2dk.gc-net.eu [0.819, 0.82, 3.509] ||\n5 (AS1299) kbn-b3-link.telia.net [0.962, 1.011, 1.032] |Copenhagen,Capital Region,DK|\n6 * * *\n7 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [1.808, 1.86, 2.279] ||\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n12 * * *\n12 * * *\n", 
     "result": [
       {
         "result": [
@@ -6135,7 +6135,7 @@
       "Hamburg,Hamburg,DE", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:18747 dst:62.198.156.236 ts:2016-05-02 07:08:05 -00:00\n1 () 192.168.1.1 [0.355, 0.393, 0.583] ||\n2 (AS42525) 212.98.103.121 [1.945, 2.046, 6.513] ||\n3 (AS42525) ge1-15.cr1.kold.gc-net.eu [1.953, 1.996, 4.411] ||\n4 (AS42525) ae1-0.kold1cr2dk.gc-net.eu [1.936, 1.944, 2.552] |Kolding,South Denmark,DK|\n5 (AS42525) ae1-0.hamb1cr1de.gc-net.eu [5.089, 5.123, 5.193] |Hamburg,Hamburg,DE|\n6 (AS1299) hbg-b1-link.telia.net [5.158, 5.171, 5.195] |Hamburg,Hamburg,DE|\n7 (AS1299) hbg-bb4-link.telia.net [5.169, 5.221, 5.225] |Hamburg,Hamburg,DE|\n8 (AS1299) kbn-bb4-link.telia.net [7.424, 7.455, 7.49] |Copenhagen,Capital Region,DK|\n9 (AS1299) kbn-b3-link.telia.net [7.422, 7.442, 7.523] |Copenhagen,Capital Region,DK|\n10 err:{u'x': u'*'}\n11 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [8.472, 8.486, 8.765] ||\n12 err:{u'x': u'*'}\n13 err:{u'x': u'*'}\n14 err:{u'x': u'*'}\n15 err:{u'x': u'*'}\n16 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:18747 dst:62.198.156.236 ts:2016-05-02 07:08:05 -00:00\n1 () 192.168.1.1 [0.355, 0.393, 0.583] ||\n2 (AS42525) 212.98.103.121 [1.945, 2.046, 6.513] ||\n3 (AS42525) ge1-15.cr1.kold.gc-net.eu [1.953, 1.996, 4.411] ||\n4 (AS42525) ae1-0.kold1cr2dk.gc-net.eu [1.936, 1.944, 2.552] |Kolding,South Denmark,DK|\n5 (AS42525) ae1-0.hamb1cr1de.gc-net.eu [5.089, 5.123, 5.193] |Hamburg,Hamburg,DE|\n6 (AS1299) hbg-b1-link.telia.net [5.158, 5.171, 5.195] |Hamburg,Hamburg,DE|\n7 (AS1299) hbg-bb4-link.telia.net [5.169, 5.221, 5.225] |Hamburg,Hamburg,DE|\n8 (AS1299) kbn-bb4-link.telia.net [7.424, 7.455, 7.49] |Copenhagen,Capital Region,DK|\n9 (AS1299) kbn-b3-link.telia.net [7.422, 7.442, 7.523] |Copenhagen,Capital Region,DK|\n10 * * *\n11 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [8.472, 8.486, 8.765] ||\n12 * * *\n13 * * *\n14 * * *\n15 * * *\n16 * * *\n16 * * *\n", 
     "result": [
       {
         "result": [
@@ -6588,7 +6588,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:19820 dst:62.198.156.236 ts:2016-05-02 07:08:18 -00:00\n1 () 192.168.213.1 [0.658, 0.871] ||\n2 (AS31027) 77.233.238.129 [1.345, 1.449, 1.516] ||\n3 (AS31027) 93.176.95.8 [1.639, 1.732, 1.755] ||\n4 (AS1299) kbn-b3-link.telia.net [1.828, 1.989, 2.03] |Copenhagen,Capital Region,DK|\n5 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [1.744] |Copenhagen,Capital Region,DK|\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [2.367, 2.383, 2.827] ||\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:19820 dst:62.198.156.236 ts:2016-05-02 07:08:18 -00:00\n1 () 192.168.213.1 [0.658, 0.871, '*'] ||\n2 (AS31027) 77.233.238.129 [1.345, 1.449, 1.516] ||\n3 (AS31027) 93.176.95.8 [1.639, 1.732, 1.755] ||\n4 (AS1299) kbn-b3-link.telia.net [1.828, 1.989, 2.03] |Copenhagen,Capital Region,DK|\n5 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [1.744, '*', '*'] |Copenhagen,Capital Region,DK|\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [2.367, 2.383, 2.827] ||\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n11 * * *\n", 
     "result": [
       {
         "result": [
@@ -6882,7 +6882,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:19933 dst:62.198.156.236 ts:2016-05-02 07:08:18 -00:00\n1 err:{u'x': u'*'}\n1 () 10.42.1.1 [0.467, 0.671] ||\n2 (AS39554) 90.184.72.1 [20.381, 23.191, 23.433] ||\n3 (AS39554) ae2.mr1.vby.dk.ip.fullrate.dk [19.765, 19.828, 19.97] ||\n4 (AS3292) xe-2-0-0-105.vbynqe10.dk.ip.tdc.net [19.737, 19.789, 20.088] ||\n5 (AS3292) ae0-0.boanqp7.dk.ip.tdc.net [20.152, 20.258, 20.49] ||\n6 (AS3292) telia.xe-7-3-1-10.boanqp7.dk.ip.tdc.net [20.77, 21.128, 21.289] ||\n7 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [20.481, 20.966, 21.155] ||\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:19933 dst:62.198.156.236 ts:2016-05-02 07:08:18 -00:00\n1 () 10.42.1.1 [0.467, 0.671, '*'] ||\n2 (AS39554) 90.184.72.1 [20.381, 23.191, 23.433] ||\n3 (AS39554) ae2.mr1.vby.dk.ip.fullrate.dk [19.765, 19.828, 19.97] ||\n4 (AS3292) xe-2-0-0-105.vbynqe10.dk.ip.tdc.net [19.737, 19.789, 20.088] ||\n5 (AS3292) ae0-0.boanqp7.dk.ip.tdc.net [20.152, 20.258, 20.49] ||\n6 (AS3292) telia.xe-7-3-1-10.boanqp7.dk.ip.tdc.net [20.77, 21.128, 21.289] ||\n7 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [20.481, 20.966, 21.155] ||\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n12 * * *\n12 * * *\n", 
     "result": [
       {
         "result": [
@@ -7187,7 +7187,7 @@
       "Albertslund,Capital Region,DK", 
       "Ballerup,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:20009 dst:62.198.156.236 ts:2016-05-02 07:08:14 -00:00\n1 err:{u'x': u'*'}\n2 (AS60876) ballerup-core1-v201-ballerup.net.gigabit.dk [5.012, 5.614, 6.158] |Ballerup,Capital Region,DK|\n3 (AS60876) 185.24.168.229.ip4.gigabit.dk [3.65, 5.362, 7.264] ||\n4 (AS3292) xe-3-1-0-100.alb2nqe10.dk.ip.tdc.net [1.61, 1.867, 11.149] |Albertslund,Capital Region,DK|\n5 (AS3292) ae1-0.alb2nqp7.dk.ip.tdc.net [1.645, 1.648, 1.732] |Albertslund,Capital Region,DK|\n6 (AS3308) 194.19.204.22 [9.288, 9.36, 9.415] ||\n7 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [9.607, 9.806, 10.051] ||\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:20009 dst:62.198.156.236 ts:2016-05-02 07:08:14 -00:00\n1 * * *\n2 (AS60876) ballerup-core1-v201-ballerup.net.gigabit.dk [5.012, 5.614, 6.158] |Ballerup,Capital Region,DK|\n3 (AS60876) 185.24.168.229.ip4.gigabit.dk [3.65, 5.362, 7.264] ||\n4 (AS3292) xe-3-1-0-100.alb2nqe10.dk.ip.tdc.net [1.61, 1.867, 11.149] |Albertslund,Capital Region,DK|\n5 (AS3292) ae1-0.alb2nqp7.dk.ip.tdc.net [1.645, 1.648, 1.732] |Albertslund,Capital Region,DK|\n6 (AS3308) 194.19.204.22 [9.288, 9.36, 9.415] ||\n7 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [9.607, 9.806, 10.051] ||\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n12 * * *\n12 * * *\n", 
     "result": [
       {
         "result": [
@@ -7534,7 +7534,7 @@
       "Taastrup,Capital Region,DK", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:20693 dst:62.198.156.236 ts:2016-05-02 07:08:23 -00:00\n1 (AS25352) 195.190.128.5 [0.393, 0.481] ||\n2 (AS42525) 212-98-69-65.cr1.taas.gc-net.eu [0.655, 0.66, 8.275] |Taastrup,Capital Region,DK|\n3 (AS42525) 10ge6-3.taas11cr2dk.gc-net.eu [0.649, 6.484, 7.682] |Taastrup,Capital Region,DK|\n4 (AS1299) kbn-b3-link.telia.net [0.977, 1.578, 11.702] |Copenhagen,Capital Region,DK|\n5 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [1.081, 1.106, 1.153] |Copenhagen,Capital Region,DK|\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [1.697, 1.705, 2.077] ||\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:20693 dst:62.198.156.236 ts:2016-05-02 07:08:23 -00:00\n1 (AS25352) 195.190.128.5 [0.393, 0.481, '*'] ||\n2 (AS42525) 212-98-69-65.cr1.taas.gc-net.eu [0.655, 0.66, 8.275] |Taastrup,Capital Region,DK|\n3 (AS42525) 10ge6-3.taas11cr2dk.gc-net.eu [0.649, 6.484, 7.682] |Taastrup,Capital Region,DK|\n4 (AS1299) kbn-b3-link.telia.net [0.977, 1.578, 11.702] |Copenhagen,Capital Region,DK|\n5 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [1.081, 1.106, 1.153] |Copenhagen,Capital Region,DK|\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [1.697, 1.705, 2.077] ||\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n11 * * *\n", 
     "result": [
       {
         "result": [
@@ -7857,7 +7857,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:21315 dst:62.198.156.236 ts:2016-05-02 07:08:17 -00:00\n1 () 10.12.8.254 [0.728, 0.744, 1.093] ||\n2 (AS16245) 89.186.160.0 [1.614, 1.628, 1.684] ||\n3 (AS16245) te0-0-0-5.asr0.taa.cph.ngdc.net [1.9, 2.031, 2.132] |Copenhagen,Capital Region,DK|\n4 (AS1299) kbn-b4-link.telia.net [2.117, 2.22, 5.065] |Copenhagen,Capital Region,DK|\n5 (AS1299) telia-dk-106842-kbn-b1.c.telia.net [2.323, 4.215, 7.482] |Copenhagen,Capital Region,DK|\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [2.329, 2.437, 2.734] ||\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:21315 dst:62.198.156.236 ts:2016-05-02 07:08:17 -00:00\n1 () 10.12.8.254 [0.728, 0.744, 1.093] ||\n2 (AS16245) 89.186.160.0 [1.614, 1.628, 1.684] ||\n3 (AS16245) te0-0-0-5.asr0.taa.cph.ngdc.net [1.9, 2.031, 2.132] |Copenhagen,Capital Region,DK|\n4 (AS1299) kbn-b4-link.telia.net [2.117, 2.22, 5.065] |Copenhagen,Capital Region,DK|\n5 (AS1299) telia-dk-106842-kbn-b1.c.telia.net [2.323, 4.215, 7.482] |Copenhagen,Capital Region,DK|\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [2.329, 2.437, 2.734] ||\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n11 * * *\n", 
     "result": [
       {
         "result": [
@@ -8162,7 +8162,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:2136 dst:62.198.156.236 ts:2016-05-02 07:08:09 -00:00\n1 () 10.100.100.253 [4.543, 6.079, 7.078] ||\n2 (AS59469) 94.126.177.134 [14.306, 15.284, 15.635] ||\n3 (AS1299) kbn-b3-link.telia.net [13.587, 14.27, 14.531] |Copenhagen,Capital Region,DK|\n4 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [3.779] |Copenhagen,Capital Region,DK|\n5 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [3.873, 4.173, 4.31] ||\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:2136 dst:62.198.156.236 ts:2016-05-02 07:08:09 -00:00\n1 () 10.100.100.253 [4.543, 6.079, 7.078] ||\n2 (AS59469) 94.126.177.134 [14.306, 15.284, 15.635] ||\n3 (AS1299) kbn-b3-link.telia.net [13.587, 14.27, 14.531] |Copenhagen,Capital Region,DK|\n4 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [3.779, '*', '*'] |Copenhagen,Capital Region,DK|\n5 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [3.873, 4.173, 4.31] ||\n6 * * *\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n10 * * *\n", 
     "result": [
       {
         "result": [
@@ -8438,7 +8438,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:2140 dst:62.198.156.236 ts:2016-05-02 07:08:21 -00:00\n1 err:{u'x': u'*'}\n1 () 192.168.10.1 [3.752] ||\n2 () 10.0.50.11 [21.338, 22.409, 22.436] ||\n3 () 10.0.50.185 [21.603, 21.708, 22.3] ||\n4 () 10.0.50.130 [21.48, 22.462, 30.883] ||\n5 (AS42525) xe-2-0-4-0.taas1cr2dk.gc-net.eu [23.257, 26.303, 423.216] ||\n6 (AS42525) ae1.taas11cr2dk.gc-net.eu [27.435, 28.124, 34.368] ||\n7 (AS1299) kbn-b3-link.telia.net [21.722, 21.937, 22.31] |Copenhagen,Capital Region,DK|\n8 err:{u'x': u'*'}\n9 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [23.932, 27.098, 28.038] ||\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n13 err:{u'x': u'*'}\n14 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:2140 dst:62.198.156.236 ts:2016-05-02 07:08:21 -00:00\n1 () 192.168.10.1 [3.752, '*', '*'] ||\n2 () 10.0.50.11 [21.338, 22.409, 22.436] ||\n3 () 10.0.50.185 [21.603, 21.708, 22.3] ||\n4 () 10.0.50.130 [21.48, 22.462, 30.883] ||\n5 (AS42525) xe-2-0-4-0.taas1cr2dk.gc-net.eu [23.257, 26.303, 423.216] ||\n6 (AS42525) ae1.taas11cr2dk.gc-net.eu [27.435, 28.124, 34.368] ||\n7 (AS1299) kbn-b3-link.telia.net [21.722, 21.937, 22.31] |Copenhagen,Capital Region,DK|\n8 * * *\n9 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [23.932, 27.098, 28.038] ||\n10 * * *\n11 * * *\n12 * * *\n13 * * *\n14 * * *\n14 * * *\n", 
     "result": [
       {
         "result": [
@@ -8797,7 +8797,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:21479 dst:62.198.156.236 ts:2016-05-02 07:08:21 -00:00\n1 err:{u'x': u'*'}\n1 () 10.124.0.1 [6.634] ||\n2 (AS29695) 188.228.33.1.dynamic.altibox.net [0.738, 0.784, 0.852] ||\n3 (AS29695) 188.228.32.4.dynamic.altibox.net [0.93, 0.939, 0.963] ||\n4 (AS29695) 188.228.0.49.dynamic.altibox.net [2.207, 2.297, 2.369] ||\n5 (AS29695) 244.79-160-112.customer.lyse.net [6.754, 6.772, 7.186] ||\n6 (AS29695) 112.81-166-123.customer.lyse.net [8.717, 8.751, 8.757] ||\n7 (AS1299) kbn-b3-link.telia.net [9.035, 9.079, 9.232] |Copenhagen,Capital Region,DK|\n8 err:{u'x': u'*'}\n9 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [9.287, 9.449, 9.755] ||\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n13 err:{u'x': u'*'}\n14 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:21479 dst:62.198.156.236 ts:2016-05-02 07:08:21 -00:00\n1 () 10.124.0.1 [6.634, '*', '*'] ||\n2 (AS29695) 188.228.33.1.dynamic.altibox.net [0.738, 0.784, 0.852] ||\n3 (AS29695) 188.228.32.4.dynamic.altibox.net [0.93, 0.939, 0.963] ||\n4 (AS29695) 188.228.0.49.dynamic.altibox.net [2.207, 2.297, 2.369] ||\n5 (AS29695) 244.79-160-112.customer.lyse.net [6.754, 6.772, 7.186] ||\n6 (AS29695) 112.81-166-123.customer.lyse.net [8.717, 8.751, 8.757] ||\n7 (AS1299) kbn-b3-link.telia.net [9.035, 9.079, 9.232] |Copenhagen,Capital Region,DK|\n8 * * *\n9 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [9.287, 9.449, 9.755] ||\n10 * * *\n11 * * *\n12 * * *\n13 * * *\n14 * * *\n14 * * *\n", 
     "result": [
       {
         "result": [
@@ -9150,7 +9150,7 @@
     "locations": [
       "Albertslund,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:22022 dst:62.198.156.236 ts:2016-05-02 07:08:13 -00:00\n1 () 10.161.29.126 [0.593, 0.685, 0.892] ||\n2 (AS3292) ge-1-1-0-1109.bynqu1.dk.ip.tdc.net [21.484, 61.095, 72.312] ||\n3 (AS3292) ae3-0.bynxu50.dk.ip.tdc.net [21.457, 21.62, 21.864] ||\n4 (AS3292) ae0-0.alb2nqp7.dk.ip.tdc.net [20.977, 21.228, 21.448] |Albertslund,Capital Region,DK|\n5 (AS3308) 194.19.204.22 [24.542, 24.677, 24.969] ||\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [24.631, 25.148, 25.244] ||\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:22022 dst:62.198.156.236 ts:2016-05-02 07:08:13 -00:00\n1 () 10.161.29.126 [0.593, 0.685, 0.892] ||\n2 (AS3292) ge-1-1-0-1109.bynqu1.dk.ip.tdc.net [21.484, 61.095, 72.312] ||\n3 (AS3292) ae3-0.bynxu50.dk.ip.tdc.net [21.457, 21.62, 21.864] ||\n4 (AS3292) ae0-0.alb2nqp7.dk.ip.tdc.net [20.977, 21.228, 21.448] |Albertslund,Capital Region,DK|\n5 (AS3308) 194.19.204.22 [24.542, 24.677, 24.969] ||\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [24.631, 25.148, 25.244] ||\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n11 * * *\n", 
     "result": [
       {
         "result": [
@@ -9462,7 +9462,7 @@
       "Taastrup,Capital Region,DK", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:22029 dst:62.198.156.236 ts:2016-05-02 07:08:27 -00:00\n1 () 10.42.112.1 [1.956, 2.231, 6.879] ||\n2 err:{u'x': u'*'}\n2 () 192.168.42.1 [3.059] ||\n3 () 192.168.0.8 [0.486, 0.932] ||\n4 err:{u'x': u'*'}\n4 (AS197301) br1-taastrup-xchg.parknet.dk [2.266] |Taastrup,Capital Region,DK|\n5 (AS42525) ae6-0.taas1cr2dk.gc-net.eu [1.269, 1.459, 1.69] ||\n6 (AS42525) ae1.taas11cr2dk.gc-net.eu [1.303, 1.488, 5.054] ||\n7 (AS1299) kbn-b3-link.telia.net [1.321, 1.507, 1.524] |Copenhagen,Capital Region,DK|\n8 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [1.829, 1.951, 2.609] |Copenhagen,Capital Region,DK|\n9 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [2.339, 2.485, 2.92] ||\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n13 err:{u'x': u'*'}\n14 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:22029 dst:62.198.156.236 ts:2016-05-02 07:08:27 -00:00\n1 () 10.42.112.1 [1.956, 2.231, 6.879] ||\n2 () 192.168.42.1 [3.059, '*', '*'] ||\n3 () 192.168.0.8 [0.486, 0.932, '*'] ||\n4 (AS197301) br1-taastrup-xchg.parknet.dk [2.266, '*', '*'] |Taastrup,Capital Region,DK|\n5 (AS42525) ae6-0.taas1cr2dk.gc-net.eu [1.269, 1.459, 1.69] ||\n6 (AS42525) ae1.taas11cr2dk.gc-net.eu [1.303, 1.488, 5.054] ||\n7 (AS1299) kbn-b3-link.telia.net [1.321, 1.507, 1.524] |Copenhagen,Capital Region,DK|\n8 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [1.829, 1.951, 2.609] |Copenhagen,Capital Region,DK|\n9 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [2.339, 2.485, 2.92] ||\n10 * * *\n11 * * *\n12 * * *\n13 * * *\n14 * * *\n14 * * *\n", 
     "result": [
       {
         "result": [
@@ -9849,7 +9849,7 @@
       "Stockholm,Stockholm,SE", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:22030 dst:62.198.156.236 ts:2016-05-02 07:08:03 -00:00\n1 () 192.168.1.1 [0.856, 0.94] ||\n2 (AS42541) 6165001-cl69.boa.fiberby.dk [1.185, 1.28, 1.453] ||\n3 (AS42541) ve615.vbrpr1.ip.fiberby.net [1.492, 1.561, 1.575] ||\n4 (AS42541) ve609.vgcpr1.ip.fiberby.net [1.362, 1.431, 24.617] ||\n5 (AS42541) ve607.vbypr1.ip.fiberby.net [1.331, 1.388, 1.389] ||\n6 (AS42541) ve603.tgcpr1.ip.fiberby.net [25.23, 41.559, 388.257] ||\n7 (AS42541) ve601.tgccr1.ip.fiberby.net [1.577, 5.942, 35.876] ||\n8 (AS3356) fiberby.bar1.copenhagen1.level3.net [1.531, 1.533, 1.555] |Copenhagen,Capital Region,DK|\n9 (AS3356) ae-2-3610.ear1.stockholm2.level3.net [9.427] |Stockholm,Stockholm,SE|\n10 (AS3356) ae-2-3610.ear1.stockholm2.level3.net [9.325, 9.345, 9.409] |Stockholm,Stockholm,SE|\n11 (AS3356) telia-level3-100g.stockholm.level3.net [9.49, 9.696, 9.845] |Stockholm,Stockholm,SE|\n12 (AS1299) s-bb3-link.telia.net [9.536, 9.574, 10.015] |Stockholm,Stockholm,SE|\n13 (AS1299) kbn-bb3-link.telia.net [10.51, 10.597, 10.665] |Copenhagen,Capital Region,DK|\n14 (AS1299) kbn-b3-link.telia.net [10.502, 10.527, 10.699] |Copenhagen,Capital Region,DK|\n15 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [10.791, 10.874, 11.077] |Copenhagen,Capital Region,DK|\n16 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [11.515, 11.528, 11.899] ||\n17 err:{u'x': u'*'}\n18 err:{u'x': u'*'}\n19 err:{u'x': u'*'}\n20 err:{u'x': u'*'}\n21 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:22030 dst:62.198.156.236 ts:2016-05-02 07:08:03 -00:00\n1 () 192.168.1.1 [0.856, 0.94, '*'] ||\n2 (AS42541) 6165001-cl69.boa.fiberby.dk [1.185, 1.28, 1.453] ||\n3 (AS42541) ve615.vbrpr1.ip.fiberby.net [1.492, 1.561, 1.575] ||\n4 (AS42541) ve609.vgcpr1.ip.fiberby.net [1.362, 1.431, 24.617] ||\n5 (AS42541) ve607.vbypr1.ip.fiberby.net [1.331, 1.388, 1.389] ||\n6 (AS42541) ve603.tgcpr1.ip.fiberby.net [25.23, 41.559, 388.257] ||\n7 (AS42541) ve601.tgccr1.ip.fiberby.net [1.577, 5.942, 35.876] ||\n8 (AS3356) fiberby.bar1.copenhagen1.level3.net [1.531, 1.533, 1.555] |Copenhagen,Capital Region,DK|\n9 (AS3356) ae-2-3610.ear1.stockholm2.level3.net [9.427, '*', '*'] |Stockholm,Stockholm,SE|\n10 (AS3356) ae-2-3610.ear1.stockholm2.level3.net [9.325, 9.345, 9.409] |Stockholm,Stockholm,SE|\n11 (AS3356) telia-level3-100g.stockholm.level3.net [9.49, 9.696, 9.845] |Stockholm,Stockholm,SE|\n12 (AS1299) s-bb3-link.telia.net [9.536, 9.574, 10.015] |Stockholm,Stockholm,SE|\n13 (AS1299) kbn-bb3-link.telia.net [10.51, 10.597, 10.665] |Copenhagen,Capital Region,DK|\n14 (AS1299) kbn-b3-link.telia.net [10.502, 10.527, 10.699] |Copenhagen,Capital Region,DK|\n15 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [10.791, 10.874, 11.077] |Copenhagen,Capital Region,DK|\n16 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [11.515, 11.528, 11.899] ||\n17 * * *\n18 * * *\n19 * * *\n20 * * *\n21 * * *\n21 * * *\n", 
     "result": [
       {
         "result": [
@@ -10417,7 +10417,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:22997 dst:62.198.156.236 ts:2016-05-02 07:08:25 -00:00\n1 err:{u'x': u'*'}\n1 () 10.0.0.1 [7.843] ||\n2 () 10.6.255.254 [6.398, 7.283, 7.522] ||\n3 (AS197288) d40a0db0.rev.stofanet.dk [13.421, 13.456, 13.874] ||\n4 (AS197288) d40a0dc1.rev.stofanet.dk [13.436, 13.722, 14.961] ||\n5 (AS197288) b29bfe8d.rev.stofanet.dk [13.386, 15.104, 15.834] ||\n6 (AS197288) d40a0f6d.rev.stofanet.dk [13.458, 13.679, 14.045] ||\n7 (AS197288) d40a0f72.rev.stofanet.dk [17.375, 19.281, 20.85] ||\n8 (AS197288) b29bfeb3.rev.stofanet.dk [13.213, 18.418, 24.086] ||\n9 (AS197288) b29bfed5.rev.stofanet.dk [14.385, 16.138, 17.134] ||\n10 (AS174) be4496.rcr21.cph01.atlas.cogentco.com [20.0, 20.205, 22.919] ||\n11 (AS174) telia.cph01.atlas.cogentco.com [25.176, 26.062, 28.1] |Copenhagen,Capital Region,DK|\n12 err:{u'x': u'*'}\n13 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [27.172, 27.427, 27.492] ||\n14 err:{u'x': u'*'}\n15 err:{u'x': u'*'}\n16 err:{u'x': u'*'}\n17 err:{u'x': u'*'}\n18 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:22997 dst:62.198.156.236 ts:2016-05-02 07:08:25 -00:00\n1 () 10.0.0.1 [7.843, '*', '*'] ||\n2 () 10.6.255.254 [6.398, 7.283, 7.522] ||\n3 (AS197288) d40a0db0.rev.stofanet.dk [13.421, 13.456, 13.874] ||\n4 (AS197288) d40a0dc1.rev.stofanet.dk [13.436, 13.722, 14.961] ||\n5 (AS197288) b29bfe8d.rev.stofanet.dk [13.386, 15.104, 15.834] ||\n6 (AS197288) d40a0f6d.rev.stofanet.dk [13.458, 13.679, 14.045] ||\n7 (AS197288) d40a0f72.rev.stofanet.dk [17.375, 19.281, 20.85] ||\n8 (AS197288) b29bfeb3.rev.stofanet.dk [13.213, 18.418, 24.086] ||\n9 (AS197288) b29bfed5.rev.stofanet.dk [14.385, 16.138, 17.134] ||\n10 (AS174) be4496.rcr21.cph01.atlas.cogentco.com [20.0, 20.205, 22.919] ||\n11 (AS174) telia.cph01.atlas.cogentco.com [25.176, 26.062, 28.1] |Copenhagen,Capital Region,DK|\n12 * * *\n13 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [27.172, 27.427, 27.492] ||\n14 * * *\n15 * * *\n16 * * *\n17 * * *\n18 * * *\n18 * * *\n", 
     "result": [
       {
         "result": [
@@ -11235,7 +11235,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:24509 dst:62.198.156.236 ts:2016-05-02 07:08:20 -00:00\n1 err:{u'x': u'*'}\n1 (AS15516) 87.72.229.1 [0.974] ||\n2 (AS15516) 87.72.140.129 [1.5, 1.804, 1.814] ||\n3 (AS3292) xe-7-2-0-0.alb2nqp7.dk.ip.tdc.net [1.065, 1.127, 30.064] ||\n4 (AS3308) 194.19.204.22 [1.595, 1.607, 1.62] ||\n5 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [2.258, 2.263, 2.641] ||\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:24509 dst:62.198.156.236 ts:2016-05-02 07:08:20 -00:00\n1 (AS15516) 87.72.229.1 [0.974, '*', '*'] ||\n2 (AS15516) 87.72.140.129 [1.5, 1.804, 1.814] ||\n3 (AS3292) xe-7-2-0-0.alb2nqp7.dk.ip.tdc.net [1.065, 1.127, 30.064] ||\n4 (AS3308) 194.19.204.22 [1.595, 1.607, 1.62] ||\n5 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [2.258, 2.263, 2.641] ||\n6 * * *\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n10 * * *\n", 
     "result": [
       {
         "result": [
@@ -11497,7 +11497,7 @@
       "Taastrup,Capital Region,DK", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:2517 dst:62.198.156.236 ts:2016-05-02 07:08:39 -00:00\n1 err:{u'x': u'*'}\n1 () 192.168.40.9 [196.407] ||\n2 (AS198455) 95.128.31.249 [7.182, 7.921] ||\n3 (AS42525) ge2-13-cr1.taas.gc-net.eu [4.952, 6.301, 6.842] |Taastrup,Capital Region,DK|\n4 (AS42525) 10ge6-3.taas11cr2dk.gc-net.eu [11.735, 14.155, 48.177] |Taastrup,Capital Region,DK|\n5 (AS1299) kbn-b3-link.telia.net [4.868, 5.434, 6.943] |Copenhagen,Capital Region,DK|\n6 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [19.038] |Copenhagen,Capital Region,DK|\n7 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [5.577, 7.032, 11.931] ||\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:2517 dst:62.198.156.236 ts:2016-05-02 07:08:39 -00:00\n1 () 192.168.40.9 [196.407, '*', '*'] ||\n2 (AS198455) 95.128.31.249 [7.182, 7.921, '*'] ||\n3 (AS42525) ge2-13-cr1.taas.gc-net.eu [4.952, 6.301, 6.842] |Taastrup,Capital Region,DK|\n4 (AS42525) 10ge6-3.taas11cr2dk.gc-net.eu [11.735, 14.155, 48.177] |Taastrup,Capital Region,DK|\n5 (AS1299) kbn-b3-link.telia.net [4.868, 5.434, 6.943] |Copenhagen,Capital Region,DK|\n6 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [19.038, '*', '*'] |Copenhagen,Capital Region,DK|\n7 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [5.577, 7.032, 11.931] ||\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n12 * * *\n12 * * *\n", 
     "result": [
       {
         "result": [
@@ -11837,7 +11837,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:26627 dst:62.198.156.236 ts:2016-05-02 07:08:51 -00:00\n1 () 192.168.1.1 [0.718, 0.872, 1.181] ||\n2 err:{u'x': u'*'}\n3 (AS197288) d40a0fc8.rev.stofanet.dk [11.147, 11.274, 11.39] ||\n4 (AS197288) b29bfe8d.rev.stofanet.dk [9.473, 10.974, 11.413] ||\n5 (AS197288) d40a0f71.rev.stofanet.dk [9.588, 9.647, 11.37] ||\n6 (AS197288) b29bfec2.rev.stofanet.dk [13.552, 15.529, 15.677] ||\n7 (AS197288) b29bfeb3.rev.stofanet.dk [13.565, 13.77, 17.019] ||\n8 (AS197288) d40a0dc2.rev.stofanet.dk [13.563, 13.639, 14.823] ||\n9 (AS174) be4496.rcr21.cph01.atlas.cogentco.com [16.272, 16.299, 18.428] ||\n10 (AS174) telia.cph01.atlas.cogentco.com [21.807, 23.527, 23.694] |Copenhagen,Capital Region,DK|\n11 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [23.323, 26.448] |Copenhagen,Capital Region,DK|\n12 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [23.26, 23.772, 24.457] ||\n13 err:{u'x': u'*'}\n14 err:{u'x': u'*'}\n15 err:{u'x': u'*'}\n16 err:{u'x': u'*'}\n17 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:26627 dst:62.198.156.236 ts:2016-05-02 07:08:51 -00:00\n1 () 192.168.1.1 [0.718, 0.872, 1.181] ||\n2 * * *\n3 (AS197288) d40a0fc8.rev.stofanet.dk [11.147, 11.274, 11.39] ||\n4 (AS197288) b29bfe8d.rev.stofanet.dk [9.473, 10.974, 11.413] ||\n5 (AS197288) d40a0f71.rev.stofanet.dk [9.588, 9.647, 11.37] ||\n6 (AS197288) b29bfec2.rev.stofanet.dk [13.552, 15.529, 15.677] ||\n7 (AS197288) b29bfeb3.rev.stofanet.dk [13.565, 13.77, 17.019] ||\n8 (AS197288) d40a0dc2.rev.stofanet.dk [13.563, 13.639, 14.823] ||\n9 (AS174) be4496.rcr21.cph01.atlas.cogentco.com [16.272, 16.299, 18.428] ||\n10 (AS174) telia.cph01.atlas.cogentco.com [21.807, 23.527, 23.694] |Copenhagen,Capital Region,DK|\n11 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [23.323, 26.448, '*'] |Copenhagen,Capital Region,DK|\n12 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [23.26, 23.772, 24.457] ||\n13 * * *\n14 * * *\n15 * * *\n16 * * *\n17 * * *\n17 * * *\n", 
     "result": [
       {
         "result": [
@@ -12573,7 +12573,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:26631 dst:62.198.156.236 ts:2016-05-02 07:08:08 -00:00\n1 (AS31027) 62-116-194-3-static.equipment.wnb.dk [1.312, 1.384, 1.563] ||\n2 (AS39642) 89.184.134.58 [3.659, 3.739, 4.857] ||\n3 (AS31027) 77.233.240.50 [2.042, 2.126, 2.177] ||\n4 (AS31027) 77.233.240.49 [2.854, 2.927, 2.958] ||\n5 (AS31027) 93.176.95.163 [6.971, 7.032, 27.852] ||\n6 (AS1299) kbn-b3-link.telia.net [6.632, 6.74, 7.524] |Copenhagen,Capital Region,DK|\n7 err:{u'x': u'*'}\n7 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [11.624, 17.792] |Copenhagen,Capital Region,DK|\n8 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [7.588, 7.694, 7.968] ||\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n13 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:26631 dst:62.198.156.236 ts:2016-05-02 07:08:08 -00:00\n1 (AS31027) 62-116-194-3-static.equipment.wnb.dk [1.312, 1.384, 1.563] ||\n2 (AS39642) 89.184.134.58 [3.659, 3.739, 4.857] ||\n3 (AS31027) 77.233.240.50 [2.042, 2.126, 2.177] ||\n4 (AS31027) 77.233.240.49 [2.854, 2.927, 2.958] ||\n5 (AS31027) 93.176.95.163 [6.971, 7.032, 27.852] ||\n6 (AS1299) kbn-b3-link.telia.net [6.632, 6.74, 7.524] |Copenhagen,Capital Region,DK|\n7 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [11.624, 17.792, '*'] |Copenhagen,Capital Region,DK|\n8 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [7.588, 7.694, 7.968] ||\n9 * * *\n10 * * *\n11 * * *\n12 * * *\n13 * * *\n13 * * *\n", 
     "result": [
       {
         "result": [
@@ -13056,7 +13056,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:26910 dst:62.198.156.236 ts:2016-05-02 07:08:04 -00:00\n1 (AS47304) fhrp1.vlan31a.ker1.nefnet.dk [1.169, 2.278, 12.983] ||\n2 (AS31027) vlan191.ten7-2.dr1.odef7.man.nianet.dk [1.458, 1.631, 1.971] ||\n3 (AS31027) 93.176.95.163 [6.44, 6.47, 6.511] ||\n4 (AS1299) kbn-b3-link.telia.net [5.997, 6.018, 6.725] |Copenhagen,Capital Region,DK|\n5 err:{u'x': u'*'}\n5 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [9.94] |Copenhagen,Capital Region,DK|\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [6.775, 6.799, 7.183] ||\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:26910 dst:62.198.156.236 ts:2016-05-02 07:08:04 -00:00\n1 (AS47304) fhrp1.vlan31a.ker1.nefnet.dk [1.169, 2.278, 12.983] ||\n2 (AS31027) vlan191.ten7-2.dr1.odef7.man.nianet.dk [1.458, 1.631, 1.971] ||\n3 (AS31027) 93.176.95.163 [6.44, 6.47, 6.511] ||\n4 (AS1299) kbn-b3-link.telia.net [5.997, 6.018, 6.725] |Copenhagen,Capital Region,DK|\n5 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [9.94, '*', '*'] |Copenhagen,Capital Region,DK|\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [6.775, 6.799, 7.183] ||\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n11 * * *\n", 
     "result": [
       {
         "result": [
@@ -13347,7 +13347,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:2776 dst:62.198.156.236 ts:2016-05-02 07:08:24 -00:00\n1 () 10.0.0.1 [6.216, 249.26] ||\n2 (AS9158) lo0-1.bb01-sj011.ip.telenor.dk [9.393, 10.78, 11.247] ||\n3 (AS9158) aa15-0.dr01-sj011.ip.telenor.dk [14.581, 14.727, 15.517] ||\n4 (AS9158) ge-2-0-0.br1-soex.ip.cybercity.dk [8.69, 10.164, 10.419] ||\n5 err:{u'x': u'*'}\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [12.228, 12.399, 12.955] ||\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:2776 dst:62.198.156.236 ts:2016-05-02 07:08:24 -00:00\n1 () 10.0.0.1 [6.216, 249.26, '*'] ||\n2 (AS9158) lo0-1.bb01-sj011.ip.telenor.dk [9.393, 10.78, 11.247] ||\n3 (AS9158) aa15-0.dr01-sj011.ip.telenor.dk [14.581, 14.727, 15.517] ||\n4 (AS9158) ge-2-0-0.br1-soex.ip.cybercity.dk [8.69, 10.164, 10.419] ||\n5 * * *\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [12.228, 12.399, 12.955] ||\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n11 * * *\n", 
     "result": [
       {
         "result": [
@@ -13617,7 +13617,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:3337 dst:62.198.156.236 ts:2016-05-02 07:08:10 -00:00\n1 (AS25384) 85.89.228.90 [1.71, 2.294, 3.529] ||\n2 (AS25384) gi0-1.ir21.prv2.ip.as25384.net [2.786, 3.437, 8.108] ||\n3 (AS3292) xe-3-0-0-652.vbrnqe10.dk.ip.tdc.net [3.109, 3.521, 5.245] ||\n4 (AS3292) ae1-0.boanqp7.dk.ip.tdc.net [3.687, 3.747, 37.683] ||\n5 (AS3292) telia.xe-7-3-1-10.boanqp7.dk.ip.tdc.net [3.396, 4.106, 9.006] ||\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [2.887, 3.201, 3.633] ||\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:3337 dst:62.198.156.236 ts:2016-05-02 07:08:10 -00:00\n1 (AS25384) 85.89.228.90 [1.71, 2.294, 3.529] ||\n2 (AS25384) gi0-1.ir21.prv2.ip.as25384.net [2.786, 3.437, 8.108] ||\n3 (AS3292) xe-3-0-0-652.vbrnqe10.dk.ip.tdc.net [3.109, 3.521, 5.245] ||\n4 (AS3292) ae1-0.boanqp7.dk.ip.tdc.net [3.687, 3.747, 37.683] ||\n5 (AS3292) telia.xe-7-3-1-10.boanqp7.dk.ip.tdc.net [3.396, 4.106, 9.006] ||\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [2.887, 3.201, 3.633] ||\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n11 * * *\n", 
     "result": [
       {
         "result": [
@@ -13907,7 +13907,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:339 dst:62.198.156.236 ts:2016-05-02 07:08:07 -00:00\n1 (AS21060) 91.195.58.3 [7.857, 9.053, 258.355] ||\n2 (AS31027) 83.136.89.253 [6.681, 7.708, 8.385] ||\n3 (AS1299) kbn-b3-link.telia.net [6.75, 16.335, 70.173] |Copenhagen,Capital Region,DK|\n4 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [4.328] |Copenhagen,Capital Region,DK|\n5 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [4.827, 5.285, 5.744] ||\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:339 dst:62.198.156.236 ts:2016-05-02 07:08:07 -00:00\n1 (AS21060) 91.195.58.3 [7.857, 9.053, 258.355] ||\n2 (AS31027) 83.136.89.253 [6.681, 7.708, 8.385] ||\n3 (AS1299) kbn-b3-link.telia.net [6.75, 16.335, 70.173] |Copenhagen,Capital Region,DK|\n4 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [4.328, '*', '*'] |Copenhagen,Capital Region,DK|\n5 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [4.827, 5.285, 5.744] ||\n6 * * *\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n10 * * *\n", 
     "result": [
       {
         "result": [
@@ -14195,7 +14195,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:3468 dst:62.198.156.236 ts:2016-05-02 07:08:23 -00:00\n1 () 10.0.42.1 [2.317, 2.872, 2.926] ||\n2 (AS44134) 79.142.233.17.static.router4.bolignet.dk [3.699, 3.958] ||\n3 err:{u'x': u'*'}\n3 (AS44134) bgp1-dix.prod.bolignet.dk [4.02, 4.57] ||\n4 (AS28717) bolignet.crt01.dix.zensystems.net [3.625, 4.259, 4.431] ||\n5 (AS31027) 152.115.64.75 [4.056, 4.218, 4.746] ||\n6 (AS31027) 152.115.64.74 [5.268, 5.348, 6.067] ||\n7 (AS31027) 93.176.95.20 [5.79, 5.914, 6.243] ||\n8 (AS1299) kbn-b3-link.telia.net [5.343, 5.698, 16.71] |Copenhagen,Capital Region,DK|\n9 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [5.102, 195.995] |Copenhagen,Capital Region,DK|\n10 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [5.606, 7.014, 15.522] ||\n11 err:{u'x': u'*'}\n12 err:{u'x': u'*'}\n13 err:{u'x': u'*'}\n14 err:{u'x': u'*'}\n15 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:3468 dst:62.198.156.236 ts:2016-05-02 07:08:23 -00:00\n1 () 10.0.42.1 [2.317, 2.872, 2.926] ||\n2 (AS44134) 79.142.233.17.static.router4.bolignet.dk [3.699, 3.958, '*'] ||\n3 (AS44134) bgp1-dix.prod.bolignet.dk [4.02, 4.57, '*'] ||\n4 (AS28717) bolignet.crt01.dix.zensystems.net [3.625, 4.259, 4.431] ||\n5 (AS31027) 152.115.64.75 [4.056, 4.218, 4.746] ||\n6 (AS31027) 152.115.64.74 [5.268, 5.348, 6.067] ||\n7 (AS31027) 93.176.95.20 [5.79, 5.914, 6.243] ||\n8 (AS1299) kbn-b3-link.telia.net [5.343, 5.698, 16.71] |Copenhagen,Capital Region,DK|\n9 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [5.102, 195.995, '*'] |Copenhagen,Capital Region,DK|\n10 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [5.606, 7.014, 15.522] ||\n11 * * *\n12 * * *\n13 * * *\n14 * * *\n15 * * *\n15 * * *\n", 
     "result": [
       {
         "result": [
@@ -14575,7 +14575,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:3499 dst:62.198.156.236 ts:2016-05-02 07:08:48 -00:00\n1 (AS12617) 91.102.91.30 [2.726, 3.306, 8.814] ||\n2 (AS12617) 109.238.49.105 [3.925, 4.661, 5.53] ||\n3 (AS59469) 94.126.176.28 [3.222, 3.925, 3.975] ||\n4 err:{u'x': u'*'}\n5 err:{u'x': u'*'}\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:3499 dst:62.198.156.236 ts:2016-05-02 07:08:48 -00:00\n1 (AS12617) 91.102.91.30 [2.726, 3.306, 8.814] ||\n2 (AS12617) 109.238.49.105 [3.925, 4.661, 5.53] ||\n3 (AS59469) 94.126.176.28 [3.222, 3.925, 3.975] ||\n4 * * *\n5 * * *\n6 * * *\n7 * * *\n8 * * *\n8 * * *\n", 
     "result": [
       {
         "result": [
@@ -14779,7 +14779,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:474 dst:62.198.156.236 ts:2016-05-02 07:08:05 -00:00\n1 (AS1835) 130.226.100.1 [5.335, 5.633, 197.484] ||\n2 (AS1835) 10g-ly2.ly0.core.fsknet.dk [5.094, 5.473, 6.05] ||\n3 (AS3308) 0xc2ffba7d.linknet.dk.telia.net [6.91, 7.39, 20.964] ||\n4 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [4.159, 5.166, 8.182] ||\n5 err:{u'x': u'*'}\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:474 dst:62.198.156.236 ts:2016-05-02 07:08:05 -00:00\n1 (AS1835) 130.226.100.1 [5.335, 5.633, 197.484] ||\n2 (AS1835) 10g-ly2.ly0.core.fsknet.dk [5.094, 5.473, 6.05] ||\n3 (AS3308) 0xc2ffba7d.linknet.dk.telia.net [6.91, 7.39, 20.964] ||\n4 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [4.159, 5.166, 8.182] ||\n5 * * *\n6 * * *\n7 * * *\n8 * * *\n9 * * *\n9 * * *\n", 
     "result": [
       {
         "result": [
@@ -15017,7 +15017,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:6069 dst:62.198.156.236 ts:2016-05-02 07:08:08 -00:00\n1 (AS59469) 185.27.112.30 [0.308, 0.693, 1.268] ||\n2 (AS59469) 94.126.176.27 [0.401, 0.419, 0.429] ||\n3 (AS1299) kbn-b3-link.telia.net [0.554, 0.739, 1.56] |Copenhagen,Capital Region,DK|\n4 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [0.763] |Copenhagen,Capital Region,DK|\n5 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [1.316, 1.367, 1.656] ||\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:6069 dst:62.198.156.236 ts:2016-05-02 07:08:08 -00:00\n1 (AS59469) 185.27.112.30 [0.308, 0.693, 1.268] ||\n2 (AS59469) 94.126.176.27 [0.401, 0.419, 0.429] ||\n3 (AS1299) kbn-b3-link.telia.net [0.554, 0.739, 1.56] |Copenhagen,Capital Region,DK|\n4 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [0.763, '*', '*'] |Copenhagen,Capital Region,DK|\n5 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [1.316, 1.367, 1.656] ||\n6 * * *\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n10 * * *\n", 
     "result": [
       {
         "result": [
@@ -15300,7 +15300,7 @@
       "Taastrup,Capital Region,DK", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:6103 dst:62.198.156.236 ts:2016-05-02 07:08:19 -00:00\n1 (AS39839) 193.3.157.1 [0.497, 0.514, 0.7] ||\n2 (AS42525) ge2-19.cr1.taas.gc-net.eu [0.833, 0.837, 3.182] ||\n3 (AS42525) 10ge6-3.taas11cr2dk.gc-net.eu [0.668, 1.218, 10.593] |Taastrup,Capital Region,DK|\n4 (AS1299) kbn-b3-link.telia.net [0.901, 0.926, 0.932] |Copenhagen,Capital Region,DK|\n5 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [1.16] |Copenhagen,Capital Region,DK|\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [5.176, 5.247, 5.472] ||\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:6103 dst:62.198.156.236 ts:2016-05-02 07:08:19 -00:00\n1 (AS39839) 193.3.157.1 [0.497, 0.514, 0.7] ||\n2 (AS42525) ge2-19.cr1.taas.gc-net.eu [0.833, 0.837, 3.182] ||\n3 (AS42525) 10ge6-3.taas11cr2dk.gc-net.eu [0.668, 1.218, 10.593] |Taastrup,Capital Region,DK|\n4 (AS1299) kbn-b3-link.telia.net [0.901, 0.926, 0.932] |Copenhagen,Capital Region,DK|\n5 (AS1299) tsd-ic-310075-kbn-b3.c.telia.net [1.16, '*', '*'] |Copenhagen,Capital Region,DK|\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [5.176, 5.247, 5.472] ||\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n11 * * *\n", 
     "result": [
       {
         "result": [
@@ -15626,7 +15626,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:6109 dst:62.198.156.236 ts:2016-05-02 07:08:10 -00:00\n1 (AS197495) challenger.contix.dk [0.251, 0.256, 0.33] |Copenhagen,Capital Region,DK|\n2 (AS59469) 94.126.177.134 [0.415, 0.467, 0.477] ||\n3 (AS1299) kbn-b3-link.telia.net [0.548, 0.633, 1.252] |Copenhagen,Capital Region,DK|\n4 err:{u'x': u'*'}\n5 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [1.601, 1.703, 1.871] ||\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:6109 dst:62.198.156.236 ts:2016-05-02 07:08:10 -00:00\n1 (AS197495) challenger.contix.dk [0.251, 0.256, 0.33] |Copenhagen,Capital Region,DK|\n2 (AS59469) 94.126.177.134 [0.415, 0.467, 0.477] ||\n3 (AS1299) kbn-b3-link.telia.net [0.548, 0.633, 1.252] |Copenhagen,Capital Region,DK|\n4 * * *\n5 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [1.601, 1.703, 1.871] ||\n6 * * *\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n10 * * *\n", 
     "result": [
       {
         "result": [
@@ -15897,7 +15897,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:690 dst:62.198.156.236 ts:2016-05-02 07:08:00 -00:00\n1 (AS2109) eskv-gw1-0-0-0-900.lyngbol.dk [4.183, 4.956, 453.901] ||\n2 (AS3292) gr-1-0-0-10.aegnqe10.dk.ip.tdc.net [9.837, 11.558, 13.447] ||\n3 (AS3292) ae1-0.arcnqp7.dk.ip.tdc.net [10.425, 10.456, 10.456] ||\n4 (AS3308) 194.19.204.20 [10.039, 11.25, 12.842] ||\n5 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [13.548, 15.094, 17.252] ||\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:690 dst:62.198.156.236 ts:2016-05-02 07:08:00 -00:00\n1 (AS2109) eskv-gw1-0-0-0-900.lyngbol.dk [4.183, 4.956, 453.901] ||\n2 (AS3292) gr-1-0-0-10.aegnqe10.dk.ip.tdc.net [9.837, 11.558, 13.447] ||\n3 (AS3292) ae1-0.arcnqp7.dk.ip.tdc.net [10.425, 10.456, 10.456] ||\n4 (AS3308) 194.19.204.20 [10.039, 11.25, 12.842] ||\n5 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [13.548, 15.094, 17.252] ||\n6 * * *\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n10 * * *\n", 
     "result": [
       {
         "result": [
@@ -16150,7 +16150,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:796 dst:62.198.156.236 ts:2016-05-02 07:08:09 -00:00\n1 () 172.25.23.254 [7.687, 9.175, 14.733] ||\n2 (AS1835) te2-3.aau-core2.aau.dk [2.249, 2.964] ||\n3 (AS1835) te0-2-0.edge2.aau.dk [2.243, 2.513, 28.567] ||\n4 (AS1835) 130.226.249.121 [9.832, 10.027, 10.128] ||\n5 (AS3308) 0xc2ffba7d.linknet.dk.telia.net [11.385, 11.541, 11.764] ||\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [11.461, 11.597, 11.836] ||\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:796 dst:62.198.156.236 ts:2016-05-02 07:08:09 -00:00\n1 () 172.25.23.254 [7.687, 9.175, 14.733] ||\n2 (AS1835) te2-3.aau-core2.aau.dk [2.249, 2.964, '*'] ||\n3 (AS1835) te0-2-0.edge2.aau.dk [2.243, 2.513, 28.567] ||\n4 (AS1835) 130.226.249.121 [9.832, 10.027, 10.128] ||\n5 (AS3308) 0xc2ffba7d.linknet.dk.telia.net [11.385, 11.541, 11.764] ||\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [11.461, 11.597, 11.836] ||\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n11 * * *\n", 
     "result": [
       {
         "result": [
@@ -16423,7 +16423,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:982 dst:62.198.156.236 ts:2016-05-02 07:08:18 -00:00\n1 () 192.168.168.1 [4.045, 4.192, 197.196] ||\n2 (AS47527) 46.30.120.2 [2.104, 2.971, 4.377] ||\n3 (AS3308) 194.255.42.65 [4.216, 4.56, 4.594] ||\n4 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [6.712, 7.384, 7.385] ||\n5 err:{u'x': u'*'}\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:982 dst:62.198.156.236 ts:2016-05-02 07:08:18 -00:00\n1 () 192.168.168.1 [4.045, 4.192, 197.196] ||\n2 (AS47527) 46.30.120.2 [2.104, 2.971, 4.377] ||\n3 (AS3308) 194.255.42.65 [4.216, 4.56, 4.594] ||\n4 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [6.712, 7.384, 7.385] ||\n5 * * *\n6 * * *\n7 * * *\n8 * * *\n9 * * *\n9 * * *\n", 
     "result": [
       {
         "result": [
@@ -16659,7 +16659,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:20788 dst:62.198.156.236 ts:2016-05-02 07:09:12 -00:00\n1 err:{u'x': u'*'}\n2 (AS35376) ten1-1-101.arcen-core-a-pe-01.profibernet.dk [0.606, 0.617, 0.677] ||\n3 err:{u'x': u'*'}\n4 (AS3292) ae10-0.arcnqp7.dk.ip.tdc.net [2.621, 2.657, 2.659] ||\n5 (AS3308) 194.19.204.20 [3.265, 3.286, 3.453] ||\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [5.824, 5.861, 6.194] ||\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n11 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:20788 dst:62.198.156.236 ts:2016-05-02 07:09:12 -00:00\n1 * * *\n2 (AS35376) ten1-1-101.arcen-core-a-pe-01.profibernet.dk [0.606, 0.617, 0.677] ||\n3 * * *\n4 (AS3292) ae10-0.arcnqp7.dk.ip.tdc.net [2.621, 2.657, 2.659] ||\n5 (AS3308) 194.19.204.20 [3.265, 3.286, 3.453] ||\n6 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [5.824, 5.861, 6.194] ||\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n11 * * *\n11 * * *\n", 
     "result": [
       {
         "result": [
@@ -16908,7 +16908,7 @@
       "links": []
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:19298 dst:62.198.156.236 ts:2016-05-02 07:10:11 -00:00\n1 () 192.168.110.1 [0.608, 0.649, 0.849] ||\n2 err:{u'x': u'*'}\n3 err:{u'x': u'*'}\n4 err:{u'x': u'*'}\n5 err:{u'x': u'*'}\n6 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:19298 dst:62.198.156.236 ts:2016-05-02 07:10:11 -00:00\n1 () 192.168.110.1 [0.608, 0.649, 0.849] ||\n2 * * *\n3 * * *\n4 * * *\n5 * * *\n6 * * *\n6 * * *\n", 
     "result": [
       {
         "result": [
@@ -17057,7 +17057,7 @@
       "links": []
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:2175 dst:62.198.156.236 ts:2016-05-02 07:10:35 -00:00\n1 err:{u'x': u'*'}\n2 err:{u'x': u'*'}\n3 err:{u'x': u'*'}\n4 err:{u'x': u'*'}\n5 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:2175 dst:62.198.156.236 ts:2016-05-02 07:10:35 -00:00\n1 * * *\n2 * * *\n3 * * *\n4 * * *\n5 * * *\n5 * * *\n", 
     "result": [
       {
         "result": [
@@ -17183,7 +17183,7 @@
       "links": []
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:2577 dst:62.198.156.236 ts:2016-05-02 07:10:41 -00:00\n1 () 10.10.50.1 [1.91, 2.907, 2.971] ||\n2 (AS49010) ethernet1-3.n7k-1-absalonsvej.herning.dk [2.498, 2.804, 4.439] ||\n3 err:{u'x': u'*'}\n4 err:{u'x': u'*'}\n5 err:{u'x': u'*'}\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:2577 dst:62.198.156.236 ts:2016-05-02 07:10:41 -00:00\n1 () 10.10.50.1 [1.91, 2.907, 2.971] ||\n2 (AS49010) ethernet1-3.n7k-1-absalonsvej.herning.dk [2.498, 2.804, 4.439] ||\n3 * * *\n4 * * *\n5 * * *\n6 * * *\n7 * * *\n7 * * *\n", 
     "result": [
       {
         "result": [
@@ -17412,7 +17412,7 @@
       "links": []
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:2792 dst:62.198.156.236 ts:2016-05-02 07:10:40 -00:00\n1 () 10.10.50.1 [3.388, 3.623, 4.682] ||\n2 (AS49010) ethernet1-3.n7k-1-absalonsvej.herning.dk [3.744, 4.374, 4.802] ||\n3 err:{u'x': u'*'}\n4 err:{u'x': u'*'}\n5 err:{u'x': u'*'}\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:2792 dst:62.198.156.236 ts:2016-05-02 07:10:40 -00:00\n1 () 10.10.50.1 [3.388, 3.623, 4.682] ||\n2 (AS49010) ethernet1-3.n7k-1-absalonsvej.herning.dk [3.744, 4.374, 4.802] ||\n3 * * *\n4 * * *\n5 * * *\n6 * * *\n7 * * *\n7 * * *\n", 
     "result": [
       {
         "result": [
@@ -17641,7 +17641,7 @@
       "links": []
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742538 prb_id:3083 dst:62.198.156.236 ts:2016-05-02 07:10:36 -00:00\n1 (AS3308) 128.57.customer.kjaergaard.dk [4.14, 4.83, 6.828] ||\n2 (AS3308) 128.22.customer.kjaergaard.dk [3.493, 3.709, 4.424] ||\n3 err:{u'x': u'*'}\n4 err:{u'x': u'*'}\n5 err:{u'x': u'*'}\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:3083 dst:62.198.156.236 ts:2016-05-02 07:10:36 -00:00\n1 (AS3308) 128.57.customer.kjaergaard.dk [4.14, 4.83, 6.828] ||\n2 (AS3308) 128.22.customer.kjaergaard.dk [3.493, 3.709, 4.424] ||\n3 * * *\n4 * * *\n5 * * *\n6 * * *\n7 * * *\n7 * * *\n", 
     "result": [
       {
         "result": [
@@ -17830,7 +17830,7 @@
     "locations": [
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742538 prb_id:10783 dst:62.198.156.236 ts:2016-05-02 07:11:17 -00:00\n1 () 192.168.1.1 [0.841, 0.996, 1.375] ||\n2 (AS3301) gw2-no191.tbcn.telia.com [18.507, 19.714, 37.662] ||\n3 (AS1299) kbn-b4-link.telia.net [21.046, 21.125, 22.195] |Copenhagen,Capital Region,DK|\n4 err:{u'x': u'*'}\n5 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [20.979, 21.012, 22.486] ||\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n9 err:{u'x': u'*'}\n10 err:{u'x': u'*'}\n255 err:{u'x': u'*'}\n", 
+    "tracetxt": "## msm_id:3742538 prb_id:10783 dst:62.198.156.236 ts:2016-05-02 07:11:17 -00:00\n1 () 192.168.1.1 [0.841, 0.996, 1.375] ||\n2 (AS3301) gw2-no191.tbcn.telia.com [18.507, 19.714, 37.662] ||\n3 (AS1299) kbn-b4-link.telia.net [21.046, 21.125, 22.195] |Copenhagen,Capital Region,DK|\n4 * * *\n5 (AS3308) 0x3ec69001.inet.dsl.telianet.dk [20.979, 21.012, 22.486] ||\n6 * * *\n7 * * *\n8 * * *\n9 * * *\n10 * * *\n10 * * *\n", 
     "result": [
       {
         "result": [

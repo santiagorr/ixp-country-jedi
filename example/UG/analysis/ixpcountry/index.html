@@ -108,7 +108,7 @@ path.domain {
   <div class="col-xs-12 col-md-5">
 
   <div id="details" style="margin-top:20px;">
-  Hover over cells in the matrix on the left to get detailed information in this window.
+  Click over cells in the matrix on the left to get detailed information in this window.
   </div>
 </div>
   </div>
@@ -213,7 +213,6 @@ path.domain {
         {
           if (! d.data.via_ixp && ! d.data.in_country) { return "red";}
           if (! d.data.via_ixp &&   d.data.in_country) { return "orange";}
-
           return "purple";
         }
 
@@ -244,8 +243,8 @@ path.domain {
          .attr('y', function(d) { return d.y } )
          .attr('width', Math.floor(( width - border_width) / col_count ) -1)
          .attr('height', Math.ceil(( height - border_width) / col_count ) -1) 
-         .on('mouseover', function (d) { jedi_cell_detail_to_jquery_elt( proto, d.row, d.col , $("#details") ) } ) 
-         .style('fill', cellcolor );
+         .on('click', function (d) { jedi_cell_detail_to_jquery_elt( proto, d.row, d.col , $("#details") ) } ) 
+         .style('fill', cellcolor);
          //.style('stroke-width', function(d) { return d.data.in_country ? 0 : 0.5 } )
          //.style('stroke', function(d) { return d.data.in_country ? "grey" : "red" } );
       things_viz.append('title').text( text_from_datacell );

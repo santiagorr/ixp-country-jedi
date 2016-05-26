@@ -716,7 +716,7 @@
       "Hamburg,Hamburg,DE", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742561 prb_id:18747 dst:2001:470:28:8b2:6666:b3ff:feb0:ef80 ts:2016-05-02 07:08:55 -00:00\n1 (AS42525) 2a01:7e8:48:1337::1 [0.63, 0.678] ||\n2 (AS42525) 2a01:7e8:1:800::1b9 [2.041, 2.222, 12.458] ||\n3 (AS42525) 2a01:7e8:1:200::165 [2.031, 2.122, 4.71] ||\n4 (AS42525) ae1-0.ipv6.kold1cr2dk.gc-net.eu [2.075, 2.078, 2.113] ||\n5 (AS42525) ae1-0.ipv6.hamb1cr1de.gc-net.eu [5.217, 5.219, 5.889] ||\n6 (AS42525) ae3.ipv6.cr1.hamb.gc-net.eu [5.303, 11.967, 12.415] ||\n7 () 10ge15-8.core1.ham1.he.net [12.831, 17.864, 17.866] |Hamburg,Hamburg,DE|\n8 (AS6939) 10ge1-4.core1.cph1.he.net [13.4, 14.143, 17.77] |Copenhagen,Capital Region,DK|\n9 (AS6939) 10ge1-1.core1.sto1.he.net [16.208, 16.267, 16.28] |Stockholm,Stockholm,SE|\n10 (AS6939) tserv1.sto1.he.net [19.584, 19.818, 19.926] |Stockholm,Stockholm,SE|\n11 (AS6939) remote.stderr-2.tunnel.tserv24.sto1.ipv6.he.net [45.76, 46.07, 46.622] ||\n12 (AS6939) 2001:470:28:8b2:6666:b3ff:feb0:ef80 [45.643, 45.858, 46.941] ||\n", 
+    "tracetxt": "## msm_id:3742561 prb_id:18747 dst:2001:470:28:8b2:6666:b3ff:feb0:ef80 ts:2016-05-02 07:08:55 -00:00\n1 (AS42525) 2a01:7e8:48:1337::1 [0.63, 0.678, '*'] ||\n2 (AS42525) 2a01:7e8:1:800::1b9 [2.041, 2.222, 12.458] ||\n3 (AS42525) 2a01:7e8:1:200::165 [2.031, 2.122, 4.71] ||\n4 (AS42525) ae1-0.ipv6.kold1cr2dk.gc-net.eu [2.075, 2.078, 2.113] ||\n5 (AS42525) ae1-0.ipv6.hamb1cr1de.gc-net.eu [5.217, 5.219, 5.889] ||\n6 (AS42525) ae3.ipv6.cr1.hamb.gc-net.eu [5.303, 11.967, 12.415] ||\n7 () 10ge15-8.core1.ham1.he.net [12.831, 17.864, 17.866] |Hamburg,Hamburg,DE|\n8 (AS6939) 10ge1-4.core1.cph1.he.net [13.4, 14.143, 17.77] |Copenhagen,Capital Region,DK|\n9 (AS6939) 10ge1-1.core1.sto1.he.net [16.208, 16.267, 16.28] |Stockholm,Stockholm,SE|\n10 (AS6939) tserv1.sto1.he.net [19.584, 19.818, 19.926] |Stockholm,Stockholm,SE|\n11 (AS6939) remote.stderr-2.tunnel.tserv24.sto1.ipv6.he.net [45.76, 46.07, 46.622] ||\n12 (AS6939) 2001:470:28:8b2:6666:b3ff:feb0:ef80 [45.643, 45.858, 46.941] ||\n", 
     "result": [
       {
         "result": [
@@ -3216,7 +3216,7 @@
       "Stockholm,Stockholm,SE", 
       "Amsterdam,North Holland,NL"
     ], 
-    "tracetxt": "## msm_id:3742561 prb_id:19820 dst:2001:470:28:8b2:6666:b3ff:feb0:ef80 ts:2016-05-02 07:09:19 -00:00\n1 (AS31027) 2a02:188:2503:10::2 [0.453, 0.559, 0.567] ||\n2 err:{u'x': u'*'}\n3 () ::ffff:93.176.90.3 [11.277, 11.406, 11.521] ||\n4 (AS1200) 30gigabitethernet1-3.core1.ams1.he.net [11.516, 12.147, 24.965] |Amsterdam,North Holland,NL|\n5 (AS6939) 10ge4-1.core1.sto1.he.net [22.401, 25.36, 31.739] |Stockholm,Stockholm,SE|\n6 (AS6939) tserv1.sto1.he.net [26.188, 26.212, 26.727] |Stockholm,Stockholm,SE|\n7 (AS6939) remote.stderr-2.tunnel.tserv24.sto1.ipv6.he.net [52.183, 52.561, 52.82] ||\n8 (AS6939) 2001:470:28:8b2:6666:b3ff:feb0:ef80 [51.916, 52.747, 56.566] ||\n", 
+    "tracetxt": "## msm_id:3742561 prb_id:19820 dst:2001:470:28:8b2:6666:b3ff:feb0:ef80 ts:2016-05-02 07:09:19 -00:00\n1 (AS31027) 2a02:188:2503:10::2 [0.453, 0.559, 0.567] ||\n2 * * *\n3 () ::ffff:93.176.90.3 [11.277, 11.406, 11.521] ||\n4 (AS1200) 30gigabitethernet1-3.core1.ams1.he.net [11.516, 12.147, 24.965] |Amsterdam,North Holland,NL|\n5 (AS6939) 10ge4-1.core1.sto1.he.net [22.401, 25.36, 31.739] |Stockholm,Stockholm,SE|\n6 (AS6939) tserv1.sto1.he.net [26.188, 26.212, 26.727] |Stockholm,Stockholm,SE|\n7 (AS6939) remote.stderr-2.tunnel.tserv24.sto1.ipv6.he.net [52.183, 52.561, 52.82] ||\n8 (AS6939) 2001:470:28:8b2:6666:b3ff:feb0:ef80 [51.916, 52.747, 56.566] ||\n", 
     "result": [
       {
         "result": [
@@ -3526,7 +3526,7 @@
       "Stockholm,Stockholm,SE", 
       "Copenhagen,Capital Region,DK"
     ], 
-    "tracetxt": "## msm_id:3742561 prb_id:19933 dst:2001:470:28:8b2:6666:b3ff:feb0:ef80 ts:2016-05-02 07:09:55 -00:00\n1 (AS59469) 2a01:4260:28:4201::1 [0.554, 0.584, 0.776] ||\n2 err:{u'x': u'*'}\n3 (AS59469) 2a01:4260:28:ffff::1 [21.397, 21.622] ||\n4 err:{u'x': u'*'}\n4 (AS59469) 2a03:a480:1000:3713::1 [21.402, 21.412] ||\n5 err:{u'x': u'*'}\n5 (AS59469) 2a03:a480:ffff:ff35::1 [21.39, 22.22] ||\n6 (AS1835) 2001:7f8:1f::6939:38:0 [22.69, 26.981] |Copenhagen,Capital Region,DK|\n7 err:{u'x': u'*'}\n7 (AS6939) 10ge1-1.core1.sto1.he.net [33.146] |Stockholm,Stockholm,SE|\n8 (AS6939) tserv1.sto1.he.net [37.267, 50.581] |Stockholm,Stockholm,SE|\n9 (AS6939) remote.stderr-2.tunnel.tserv24.sto1.ipv6.he.net [63.15, 63.836] ||\n10 (AS6939) 2001:470:28:8b2:6666:b3ff:feb0:ef80 [63.149, 63.238] ||\n", 
+    "tracetxt": "## msm_id:3742561 prb_id:19933 dst:2001:470:28:8b2:6666:b3ff:feb0:ef80 ts:2016-05-02 07:09:55 -00:00\n1 (AS59469) 2a01:4260:28:4201::1 [0.554, 0.584, 0.776] ||\n2 * * *\n3 (AS59469) 2a01:4260:28:ffff::1 [21.397, 21.622, '*'] ||\n4 (AS59469) 2a03:a480:1000:3713::1 [21.402, 21.412, '*'] ||\n5 (AS59469) 2a03:a480:ffff:ff35::1 [21.39, 22.22, '*'] ||\n6 (AS1835) 2001:7f8:1f::6939:38:0 [22.69, 26.981, '*'] |Copenhagen,Capital Region,DK|\n7 (AS6939) 10ge1-1.core1.sto1.he.net [33.146, '*', '*'] |Stockholm,Stockholm,SE|\n8 (AS6939) tserv1.sto1.he.net [37.267, 50.581, '*'] |Stockholm,Stockholm,SE|\n9 (AS6939) remote.stderr-2.tunnel.tserv24.sto1.ipv6.he.net [63.15, 63.836, '*'] ||\n10 (AS6939) 2001:470:28:8b2:6666:b3ff:feb0:ef80 [63.149, 63.238, '*'] ||\n", 
     "result": [
       {
         "result": [
@@ -3990,7 +3990,7 @@
       "Copenhagen,Capital Region,DK", 
       "Frankfurt am Main,Hesse,DE"
     ], 
-    "tracetxt": "## msm_id:3742561 prb_id:25337 dst:2001:470:28:8b2:6666:b3ff:feb0:ef80 ts:2016-05-02 07:09:08 -00:00\n1 (AS3308) 2001:2012:3ec6:9cec::1 [0.901, 0.97, 5.013] ||\n2 (AS3308) 2001:2000:1080:16::2 [10.951, 11.918] ||\n3 (AS3308) 2001:2000:1080:16::1 [11.163, 11.291, 12.106] ||\n4 (AS1299) kbn-b3-link.telia.net [12.078, 12.336, 12.351] |Copenhagen,Capital Region,DK|\n5 (AS1299) ffm-b2-v6.telia.net [25.724, 26.033, 26.552] |Frankfurt am Main,Hesse,DE|\n6 (AS6939) 10gigabitethernet9.switch2.fra1.he.net [33.571, 66.503, 88.562] |Frankfurt am Main,Hesse,DE|\n7 (AS6939) 10ge3-4.core1.sto1.he.net [45.833, 46.458, 55.743] |Stockholm,Stockholm,SE|\n8 (AS6939) tserv1.sto1.he.net [49.734, 49.993, 50.021] |Stockholm,Stockholm,SE|\n9 (AS6939) remote.stderr-2.tunnel.tserv24.sto1.ipv6.he.net [75.545, 76.045, 76.073] ||\n10 (AS6939) 2001:470:28:8b2:6666:b3ff:feb0:ef80 [74.249, 74.942, 75.253] ||\n", 
+    "tracetxt": "## msm_id:3742561 prb_id:25337 dst:2001:470:28:8b2:6666:b3ff:feb0:ef80 ts:2016-05-02 07:09:08 -00:00\n1 (AS3308) 2001:2012:3ec6:9cec::1 [0.901, 0.97, 5.013] ||\n2 (AS3308) 2001:2000:1080:16::2 [10.951, 11.918, '*'] ||\n3 (AS3308) 2001:2000:1080:16::1 [11.163, 11.291, 12.106] ||\n4 (AS1299) kbn-b3-link.telia.net [12.078, 12.336, 12.351] |Copenhagen,Capital Region,DK|\n5 (AS1299) ffm-b2-v6.telia.net [25.724, 26.033, 26.552] |Frankfurt am Main,Hesse,DE|\n6 (AS6939) 10gigabitethernet9.switch2.fra1.he.net [33.571, 66.503, 88.562] |Frankfurt am Main,Hesse,DE|\n7 (AS6939) 10ge3-4.core1.sto1.he.net [45.833, 46.458, 55.743] |Stockholm,Stockholm,SE|\n8 (AS6939) tserv1.sto1.he.net [49.734, 49.993, 50.021] |Stockholm,Stockholm,SE|\n9 (AS6939) remote.stderr-2.tunnel.tserv24.sto1.ipv6.he.net [75.545, 76.045, 76.073] ||\n10 (AS6939) 2001:470:28:8b2:6666:b3ff:feb0:ef80 [74.249, 74.942, 75.253] ||\n", 
     "result": [
       {
         "result": [
@@ -4849,7 +4849,7 @@
       ]
     }, 
     "locations": [], 
-    "tracetxt": "## msm_id:3742561 prb_id:3499 dst:2001:470:28:8b2:6666:b3ff:feb0:ef80 ts:2016-05-02 07:10:57 -00:00\n1 (AS12617) gw3000.solido.net [7.42, 7.45, 204.095] ||\n2 (AS12617) 2a02:9d0:93::1 [5.729, 5.779, 45.936] ||\n3 (AS59469) 2a03:a480:ffff:ff50::1 [4.195, 4.305, 5.656] ||\n4 err:{u'x': u'*'}\n5 err:{u'x': u'*'}\n6 err:{u'x': u'*'}\n7 err:{u'x': u'*'}\n8 err:{u'x': u'*'}\n255 (AS6939) 2001:470:28:8b2:6666:b3ff:feb0:ef80 [210.422, 230.822, 231.548] ||\n", 
+    "tracetxt": "## msm_id:3742561 prb_id:3499 dst:2001:470:28:8b2:6666:b3ff:feb0:ef80 ts:2016-05-02 07:10:57 -00:00\n1 (AS12617) gw3000.solido.net [7.42, 7.45, 204.095] ||\n2 (AS12617) 2a02:9d0:93::1 [5.729, 5.779, 45.936] ||\n3 (AS59469) 2a03:a480:ffff:ff50::1 [4.195, 4.305, 5.656] ||\n4 * * *\n5 * * *\n6 * * *\n7 * * *\n8 * * *\n8 * * *\n", 
     "result": [
       {
         "result": [

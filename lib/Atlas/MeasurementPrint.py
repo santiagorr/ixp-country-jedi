@@ -77,9 +77,11 @@ def trace2txt( data, **kwargs ):
 
    for hop in res:
       ips = {}
+      flag = True
       if not 'result' in hop:
          continue
       for hr in hop['result']:
+         if hop['hop'] == 255: continue
          err_set = set()
          if 'from' in hr and 'rtt' in hr:
             if hr['from'] not in ips:
@@ -87,10 +89,8 @@ def trace2txt( data, **kwargs ):
             else:
                ips[ hr['from'] ].append( hr['rtt'] )
          else:
-            err_set.add( "%s err:%s\n" % ( hop['hop'] , hr ) )
-      if len(err_set) > 0:
-         txt += '\n'.join(list(err_set))
-
+            err_set.add( "%s * * *\n" % ( hop['hop'] ) )
+      
       for ip in ips:
          ipinfo = getipinfo(ip)
          host = ''
@@ -109,5 +109,14 @@ def trace2txt( data, **kwargs ):
             host = ip
          if loc == None:
             loc = ''
+
+         while len(ips[ip]) != 3:
+            ips[ip].append('*')
+
          txt += "%s (%s) %s %s |%s|\n" % ( hop['hop'], asn, host , sorted(ips[ip]), loc.encode('ascii','replace') )
+         flag = False
+
+      if flag and len(err_set) > 0:
+         txt += '\n'.join(list(err_set))
+
    return txt 

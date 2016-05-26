@@ -25,7 +25,17 @@ function jedi_cell_detail_to_jquery_elt(proto, src_id, dst_id, jquery_elt) {
             for (var k = 0; k < data['traixroute'].length; k++) {
                 txt += '<pre>Name of IXP: <b>{0}</b></br>'.format(data['traixroute'][k]['name']);
                 txt += 'IXP on hop: <b>{0}</b></br>'.format(data['traixroute'][k]['hop']);
-                txt += 'IXP on the same country? <b>{0}</b></pre>'.format(data['traixroute'][k]['in_country']);
+                txt += 'IXP on the same country? <b>{0}</b></br>'.format(data['traixroute'][k]['in_country']);
+                var h = parseInt(data['traixroute'][k]['hop'])
+                if(data['traixroute'][k]['link'] == 0)
+                    txt += 'Crossing Link: <b>{0}->{1}</b></br>'.format(h,h+1);
+                else if(data['traixroute'][k]['link'] == 1)
+                    txt += 'Crossing Link: <b>{0}->{1}</b></br>'.format(h+1,h+2);
+                else if(data['traixroute'][k]['link'] == 3)
+                    txt += 'Crossing Link: <b>{0}->{1}->{2}</b></br>'.format(h,h+1,h+2);
+                else 
+                    txt += 'Crossing Link: <b>Cannot be determined.</b></br>'
+                txt += 'Rule: <b>{0}</b></pre>'.format(data['traixroute'][k]['rule'])
             }
         }
         jquery_elt.html(txt);

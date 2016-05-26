@@ -1,52 +1,25 @@
 [
   {
-    "src_prb_id": 10843,
-    "as_links": {
-      "links": [
-        {
-          "type": "d",
-          "src": "AS30844",
-          "dst": "AS37100"
-        },
-        {
-          "type": "d",
-          "src": "AS29032",
-          "dst": "AS36997"
-        },
-        {
-          "type": "d",
-          "src": "AS36997",
-          "dst": "AS30844"
-        }
-      ],
-      "nodes": [
-        "AS29032",
-        "AS30844",
-        "AS37100",
-        "AS36997"
-      ]
-    },
-    "ixps": [],
     "result": [
       {
         "result": [
           {
-            "rtt": 0.943,
-            "from": "192.168.200.1",
             "ttl": 64,
-            "size": 76
+            "from": "192.168.200.1",
+            "size": 76,
+            "rtt": 0.943
           },
           {
-            "rtt": 0.682,
-            "from": "192.168.200.1",
             "ttl": 64,
-            "size": 76
+            "from": "192.168.200.1",
+            "size": 76,
+            "rtt": 0.682
           },
           {
-            "rtt": 0.673,
-            "from": "192.168.200.1",
             "ttl": 64,
-            "size": 76
+            "from": "192.168.200.1",
+            "size": 76,
+            "rtt": 0.673
           }
         ],
         "hop": 1
@@ -54,22 +27,22 @@
       {
         "result": [
           {
-            "rtt": 1.258,
-            "from": "41.220.10.73",
             "ttl": 63,
-            "size": 28
+            "from": "41.220.10.73",
+            "size": 28,
+            "rtt": 1.258
           },
           {
-            "rtt": 1.106,
-            "from": "41.220.10.73",
             "ttl": 63,
-            "size": 28
+            "from": "41.220.10.73",
+            "size": 28,
+            "rtt": 1.106
           },
           {
-            "rtt": 1.024,
-            "from": "41.220.10.73",
             "ttl": 63,
-            "size": 28
+            "from": "41.220.10.73",
+            "size": 28,
+            "rtt": 1.024
           }
         ],
         "hop": 2
@@ -77,22 +50,22 @@
       {
         "result": [
           {
-            "rtt": 17.283,
-            "from": "41.220.213.1",
             "ttl": 62,
-            "size": 28
+            "from": "41.220.213.1",
+            "size": 28,
+            "rtt": 17.283
           },
           {
-            "rtt": 21.925,
-            "from": "41.220.213.1",
             "ttl": 62,
-            "size": 28
+            "from": "41.220.213.1",
+            "size": 28,
+            "rtt": 21.925
           },
           {
-            "rtt": 19.446,
-            "from": "41.220.213.1",
             "ttl": 62,
-            "size": 28
+            "from": "41.220.213.1",
+            "size": 28,
+            "rtt": 19.446
           }
         ],
         "hop": 3
@@ -100,22 +73,22 @@
       {
         "result": [
           {
-            "rtt": 18.881,
-            "from": "192.168.11.1",
             "ttl": 252,
-            "size": 28
+            "from": "192.168.11.1",
+            "size": 28,
+            "rtt": 18.881
           },
           {
-            "rtt": 18.003,
-            "from": "192.168.11.1",
             "ttl": 252,
-            "size": 28
+            "from": "192.168.11.1",
+            "size": 28,
+            "rtt": 18.003
           },
           {
-            "rtt": 14.649,
-            "from": "192.168.11.1",
             "ttl": 252,
-            "size": 28
+            "from": "192.168.11.1",
+            "size": 28,
+            "rtt": 14.649
           }
         ],
         "hop": 4
@@ -123,22 +96,22 @@
       {
         "result": [
           {
-            "rtt": 20.992,
-            "from": "192.168.198.1",
             "ttl": 251,
-            "size": 28
+            "from": "192.168.198.1",
+            "size": 28,
+            "rtt": 20.992
           },
           {
-            "rtt": 20.244,
-            "from": "192.168.198.1",
             "ttl": 251,
-            "size": 28
+            "from": "192.168.198.1",
+            "size": 28,
+            "rtt": 20.244
           },
           {
-            "rtt": 19.99,
-            "from": "192.168.198.1",
             "ttl": 251,
-            "size": 28
+            "from": "192.168.198.1",
+            "size": 28,
+            "rtt": 19.99
           }
         ],
         "hop": 5
@@ -146,22 +119,22 @@
       {
         "result": [
           {
-            "rtt": 19.31,
-            "from": "41.220.12.225",
             "ttl": 250,
-            "size": 28
+            "from": "41.220.12.225",
+            "size": 28,
+            "rtt": 19.31
           },
           {
-            "rtt": 21.872,
-            "from": "41.220.12.225",
             "ttl": 250,
-            "size": 28
+            "from": "41.220.12.225",
+            "size": 28,
+            "rtt": 21.872
           },
           {
-            "rtt": 19.838,
-            "from": "41.220.12.225",
             "ttl": 250,
-            "size": 28
+            "from": "41.220.12.225",
+            "size": 28,
+            "rtt": 19.838
           }
         ],
         "hop": 6
@@ -169,22 +142,22 @@
       {
         "result": [
           {
-            "rtt": 13.598,
-            "from": "41.220.12.41",
             "ttl": 249,
-            "size": 28
+            "from": "41.220.12.41",
+            "size": 28,
+            "rtt": 13.598
           },
           {
-            "rtt": 17.47,
-            "from": "41.220.12.41",
             "ttl": 249,
-            "size": 28
+            "from": "41.220.12.41",
+            "size": 28,
+            "rtt": 17.47
           },
           {
-            "rtt": 22.139,
-            "from": "41.220.12.41",
             "ttl": 249,
-            "size": 28
+            "from": "41.220.12.41",
+            "size": 28,
+            "rtt": 22.139
           }
         ],
         "hop": 7
@@ -192,22 +165,22 @@
       {
         "result": [
           {
-            "rtt": 14.014,
-            "from": "41.222.1.49",
             "ttl": 248,
-            "size": 68
+            "from": "41.222.1.49",
+            "size": 68,
+            "rtt": 14.014
           },
           {
-            "rtt": 24.557,
-            "from": "41.222.1.49",
             "ttl": 248,
-            "size": 68
+            "from": "41.222.1.49",
+            "size": 68,
+            "rtt": 24.557
           },
           {
-            "rtt": 19.408,
-            "from": "41.222.1.49",
             "ttl": 248,
-            "size": 68
+            "from": "41.222.1.49",
+            "size": 68,
+            "rtt": 19.408
           }
         ],
         "hop": 8
@@ -215,22 +188,22 @@
       {
         "result": [
           {
-            "rtt": 24.982,
-            "from": "197.155.94.22",
             "ttl": 243,
-            "size": 140
+            "from": "197.155.94.22",
+            "size": 140,
+            "rtt": 24.982
           },
           {
-            "rtt": 27.655,
-            "from": "197.155.94.22",
             "ttl": 243,
-            "size": 140
+            "from": "197.155.94.22",
+            "size": 140,
+            "rtt": 27.655
           },
           {
-            "rtt": 24.698,
-            "from": "197.155.94.22",
             "ttl": 243,
-            "size": 140
+            "from": "197.155.94.22",
+            "size": 140,
+            "rtt": 24.698
           }
         ],
         "hop": 9
@@ -238,25 +211,25 @@
       {
         "result": [
           {
-            "rtt": 18.959,
-            "from": "197.155.94.68",
             "ttl": 244,
+            "from": "197.155.94.68",
             "size": 140,
-            "ittl": 2
+            "ittl": 2,
+            "rtt": 18.959
           },
           {
-            "rtt": 22.556,
-            "from": "197.155.94.68",
             "ttl": 244,
+            "from": "197.155.94.68",
             "size": 140,
-            "ittl": 2
+            "ittl": 2,
+            "rtt": 22.556
           },
           {
-            "rtt": 25.969,
-            "from": "197.155.94.68",
             "ttl": 244,
+            "from": "197.155.94.68",
             "size": 140,
-            "ittl": 2
+            "ittl": 2,
+            "rtt": 25.969
           }
         ],
         "hop": 10
@@ -264,22 +237,22 @@
       {
         "result": [
           {
-            "rtt": 27.816,
-            "from": "197.155.94.7",
             "ttl": 245,
-            "size": 68
+            "from": "197.155.94.7",
+            "size": 68,
+            "rtt": 27.816
           },
           {
-            "rtt": 19.635,
-            "from": "197.155.94.7",
             "ttl": 245,
-            "size": 68
+            "from": "197.155.94.7",
+            "size": 68,
+            "rtt": 19.635
           },
           {
-            "rtt": 30.082,
-            "from": "197.155.94.7",
             "ttl": 245,
-            "size": 68
+            "from": "197.155.94.7",
+            "size": 68,
+            "rtt": 30.082
           }
         ],
         "hop": 11
@@ -287,22 +260,22 @@
       {
         "result": [
           {
-            "rtt": 27.737,
-            "from": "105.16.6.17",
             "ttl": 244,
-            "size": 28
+            "from": "105.16.6.17",
+            "size": 28,
+            "rtt": 27.737
           },
           {
-            "rtt": 25.051,
-            "from": "105.16.6.17",
             "ttl": 244,
-            "size": 28
+            "from": "105.16.6.17",
+            "size": 28,
+            "rtt": 25.051
           },
           {
-            "rtt": 456.611,
-            "from": "105.16.6.17",
             "ttl": 244,
-            "size": 28
+            "from": "105.16.6.17",
+            "size": 28,
+            "rtt": 456.611
           }
         ],
         "hop": 12
@@ -310,22 +283,22 @@
       {
         "result": [
           {
-            "rtt": 40.189,
-            "from": "105.16.19.1",
             "ttl": 241,
-            "size": 140
+            "from": "105.16.19.1",
+            "size": 140,
+            "rtt": 40.189
           },
           {
-            "rtt": 37.851,
-            "from": "105.16.19.1",
             "ttl": 241,
-            "size": 140
+            "from": "105.16.19.1",
+            "size": 140,
+            "rtt": 37.851
           },
           {
-            "rtt": 35.024,
-            "from": "105.16.19.1",
             "ttl": 241,
-            "size": 140
+            "from": "105.16.19.1",
+            "size": 140,
+            "rtt": 35.024
           }
         ],
         "hop": 13
@@ -333,22 +306,22 @@
       {
         "result": [
           {
-            "rtt": 35.381,
-            "from": "105.16.10.1",
             "ttl": 242,
-            "size": 28
+            "from": "105.16.10.1",
+            "size": 28,
+            "rtt": 35.381
           },
           {
-            "rtt": 36.756,
-            "from": "105.16.10.1",
             "ttl": 242,
-            "size": 28
+            "from": "105.16.10.1",
+            "size": 28,
+            "rtt": 36.756
           },
           {
-            "rtt": 55.247,
-            "from": "105.16.10.1",
             "ttl": 242,
-            "size": 28
+            "from": "105.16.10.1",
+            "size": 28,
+            "rtt": 55.247
           }
         ],
         "hop": 14
@@ -356,42 +329,78 @@
       {
         "result": [
           {
-            "rtt": 43.332,
-            "from": "105.21.64.46",
             "ttl": 50,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 43.332
           },
           {
-            "rtt": 36.79,
-            "from": "105.21.64.46",
             "ttl": 50,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 36.79
           },
           {
-            "rtt": 29.103,
-            "from": "105.21.64.46",
             "ttl": 50,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 29.103
           }
         ],
         "hop": 15
       }
     ],
+    "msm_id": 3749230,
+    "dst_prb_id": 24600,
+    "via_ixp": false,
+    "ixps": [],
+    "dst_rtts": [
+      43.332,
+      36.79,
+      29.103
+    ],
+    "src_prb_id": 10843,
+    "as_links": {
+      "nodes": [
+        "AS29032",
+        "AS30844",
+        "AS37100",
+        "AS36997"
+      ],
+      "links": [
+        {
+          "dst": "AS37100",
+          "type": "d",
+          "src": "AS30844"
+        },
+        {
+          "dst": "AS36997",
+          "type": "d",
+          "src": "AS29032"
+        },
+        {
+          "dst": "AS30844",
+          "type": "d",
+          "src": "AS36997"
+        }
+      ]
+    },
     "in_country": true,
+    "tracetxt": "## msm_id:3749230 prb_id:10843 dst:105.21.64.46 ts:2016-05-03 12:12:51 -00:00\n1 () 192.168.200.1 [0.673, 0.682, 0.943] ||\n2 (AS29032) 41.220.10.73 [1.024, 1.106, 1.258] ||\n3 (AS29032) datanet.co.ug [17.283, 19.446, 21.925] ||\n4 () 192.168.11.1 [14.649, 18.003, 18.881] ||\n5 () 192.168.198.1 [19.99, 20.244, 20.992] ||\n6 (AS29032) 41.220.12.225 [19.31, 19.838, 21.872] ||\n7 (AS29032) 41.220.12.41 [13.598, 17.47, 22.139] ||\n8 (AS36997) static-41-222-1-49.metronet.imul.com [14.014, 19.408, 24.557] ||\n9 (AS30844) teng0-0-1-0-p1-kpl.liquidtelecom.net [24.698, 24.982, 27.655] |Kampala,Central Region,UG|\n10 (AS30844) teng0-1-1-1.lke-p1-nbi.liquidtelecom.net [18.959, 22.556, 25.969] ||\n11 (AS30844) teng0-0-1-0-pe1-nbi.liquidtelecom.net [19.635, 27.816, 30.082] ||\n12 (AS37100) ge-0-0-0.pp-01-nbo.ke.seacomnet.com [25.051, 27.737, 456.611] ||\n13 () ae-2.cr-01-nbo.ke.seacomnet.com [35.024, 37.851, 40.189] ||\n14 () ge-1-1-2-0.er-01-ebb.ug.seacomnet.com [35.381, 36.756, 55.247] ||\n15 (AS37100) pb-01-ebb.ug.seacomnet.com [29.103, 36.79, 43.332] ||\n",
+    "ts": 1462277571,
     "locations": [
       "Kampala,Central Region,UG"
     ],
     "protocol": 4,
     "geojson": [
       {
-        "type": "LineString",
         "properties": {
-          "is_direct": false,
           "dasn": "30844",
+          "is_direct": false,
           "asn": null,
           "sasn": "29032",
-          "dloc": "Kampala,Central Region,UG",
-          "sloc": "Probe"
+          "sloc": "Probe",
+          "dloc": "Kampala,Central Region,UG"
         },
         "coordinates": [
           [
@@ -402,17 +411,17 @@
             "32.58219",
             "0.31628"
           ]
-        ]
+        ],
+        "type": "LineString"
       },
       {
-        "type": "LineString",
         "properties": {
-          "is_direct": false,
           "dasn": 37100,
+          "is_direct": false,
           "asn": null,
           "sasn": "30844",
-          "dloc": "Probe",
-          "sloc": "Kampala,Central Region,UG"
+          "sloc": "Kampala,Central Region,UG",
+          "dloc": "Probe"
         },
         "coordinates": [
           [
@@ -423,62 +432,32 @@
             32.5775,
             0.3475
           ]
-        ]
+        ],
+        "type": "LineString"
       }
-    ],
-    "dst_prb_id": 24600,
-    "dst_rtts": [
-      43.332,
-      36.79,
-      29.103
-    ],
-    "ts": 1462277571,
-    "msm_id": 3749230,
-    "via_ixp": false,
-    "tracetxt": "## msm_id:3749230 prb_id:10843 dst:105.21.64.46 ts:2016-05-03 12:12:51 -00:00\n1 () 192.168.200.1 [0.673, 0.682, 0.943] ||\n2 (AS29032) 41.220.10.73 [1.024, 1.106, 1.258] ||\n3 (AS29032) datanet.co.ug [17.283, 19.446, 21.925] ||\n4 () 192.168.11.1 [14.649, 18.003, 18.881] ||\n5 () 192.168.198.1 [19.99, 20.244, 20.992] ||\n6 (AS29032) 41.220.12.225 [19.31, 19.838, 21.872] ||\n7 (AS29032) 41.220.12.41 [13.598, 17.47, 22.139] ||\n8 (AS36997) static-41-222-1-49.metronet.imul.com [14.014, 19.408, 24.557] ||\n9 (AS30844) teng0-0-1-0-p1-kpl.liquidtelecom.net [24.698, 24.982, 27.655] |Kampala,Central Region,UG|\n10 (AS30844) teng0-1-1-1.lke-p1-nbi.liquidtelecom.net [18.959, 22.556, 25.969] ||\n11 (AS30844) teng0-0-1-0-pe1-nbi.liquidtelecom.net [19.635, 27.816, 30.082] ||\n12 (AS37100) ge-0-0-0.pp-01-nbo.ke.seacomnet.com [25.051, 27.737, 456.611] ||\n13 () ae-2.cr-01-nbo.ke.seacomnet.com [35.024, 37.851, 40.189] ||\n14 () ge-1-1-2-0.er-01-ebb.ug.seacomnet.com [35.381, 36.756, 55.247] ||\n15 (AS37100) pb-01-ebb.ug.seacomnet.com [29.103, 36.79, 43.332] ||\n"
+    ]
   },
   {
-    "src_prb_id": 10855,
-    "as_links": {
-      "links": [
-        {
-          "type": "d",
-          "src": "AS30844",
-          "dst": "AS37100"
-        },
-        {
-          "type": "d",
-          "src": "AS36997",
-          "dst": "AS30844"
-        }
-      ],
-      "nodes": [
-        "AS37100",
-        "AS30844",
-        "AS36997"
-      ]
-    },
-    "ixps": [],
     "result": [
       {
         "result": [
           {
-            "rtt": 1.109,
-            "from": "41.222.0.1",
             "ttl": 255,
-            "size": 28
+            "from": "41.222.0.1",
+            "size": 28,
+            "rtt": 1.109
           },
           {
-            "rtt": 0.921,
-            "from": "41.222.0.1",
             "ttl": 255,
-            "size": 28
+            "from": "41.222.0.1",
+            "size": 28,
+            "rtt": 0.921
           },
           {
-            "rtt": 1.572,
-            "from": "41.222.0.1",
             "ttl": 255,
-            "size": 28
+            "from": "41.222.0.1",
+            "size": 28,
+            "rtt": 1.572
           }
         ],
         "hop": 1
@@ -486,22 +465,22 @@
       {
         "result": [
           {
-            "rtt": 1.089,
-            "from": "41.222.0.10",
             "ttl": 255,
-            "size": 28
+            "from": "41.222.0.10",
+            "size": 28,
+            "rtt": 1.089
           },
           {
-            "rtt": 0.758,
-            "from": "41.222.0.10",
             "ttl": 255,
-            "size": 28
+            "from": "41.222.0.10",
+            "size": 28,
+            "rtt": 0.758
           },
           {
-            "rtt": 0.69,
-            "from": "41.222.0.10",
             "ttl": 255,
-            "size": 28
+            "from": "41.222.0.10",
+            "size": 28,
+            "rtt": 0.69
           }
         ],
         "hop": 2
@@ -509,22 +488,22 @@
       {
         "result": [
           {
-            "rtt": 1.333,
-            "from": "41.222.1.54",
             "ttl": 254,
-            "size": 68
+            "from": "41.222.1.54",
+            "size": 68,
+            "rtt": 1.333
           },
           {
-            "rtt": 1.776,
-            "from": "41.222.1.54",
             "ttl": 254,
-            "size": 68
+            "from": "41.222.1.54",
+            "size": 68,
+            "rtt": 1.776
           },
           {
-            "rtt": 1.197,
-            "from": "41.222.1.54",
             "ttl": 254,
-            "size": 68
+            "from": "41.222.1.54",
+            "size": 68,
+            "rtt": 1.197
           }
         ],
         "hop": 3
@@ -532,22 +511,22 @@
       {
         "result": [
           {
-            "rtt": 8.929,
-            "from": "197.155.94.22",
             "ttl": 249,
-            "size": 140
+            "from": "197.155.94.22",
+            "size": 140,
+            "rtt": 8.929
           },
           {
-            "rtt": 8.861,
-            "from": "197.155.94.22",
             "ttl": 249,
-            "size": 140
+            "from": "197.155.94.22",
+            "size": 140,
+            "rtt": 8.861
           },
           {
-            "rtt": 8.58,
-            "from": "197.155.94.22",
             "ttl": 249,
-            "size": 140
+            "from": "197.155.94.22",
+            "size": 140,
+            "rtt": 8.58
           }
         ],
         "hop": 4
@@ -555,25 +534,25 @@
       {
         "result": [
           {
-            "rtt": 12.25,
-            "from": "197.155.94.68",
             "ttl": 250,
+            "from": "197.155.94.68",
             "size": 140,
-            "ittl": 2
+            "ittl": 2,
+            "rtt": 12.25
           },
           {
-            "rtt": 8.734,
-            "from": "197.155.94.68",
             "ttl": 250,
+            "from": "197.155.94.68",
             "size": 140,
-            "ittl": 2
+            "ittl": 2,
+            "rtt": 8.734
           },
           {
-            "rtt": 8.92,
-            "from": "197.155.94.68",
             "ttl": 250,
+            "from": "197.155.94.68",
             "size": 140,
-            "ittl": 2
+            "ittl": 2,
+            "rtt": 8.92
           }
         ],
         "hop": 5
@@ -581,22 +560,22 @@
       {
         "result": [
           {
-            "rtt": 8.757,
-            "from": "197.155.94.7",
             "ttl": 251,
-            "size": 68
+            "from": "197.155.94.7",
+            "size": 68,
+            "rtt": 8.757
           },
           {
-            "rtt": 9.048,
-            "from": "197.155.94.7",
             "ttl": 251,
-            "size": 68
+            "from": "197.155.94.7",
+            "size": 68,
+            "rtt": 9.048
           },
           {
-            "rtt": 8.945,
-            "from": "197.155.94.7",
             "ttl": 251,
-            "size": 68
+            "from": "197.155.94.7",
+            "size": 68,
+            "rtt": 8.945
           }
         ],
         "hop": 6
@@ -604,22 +583,22 @@
       {
         "result": [
           {
-            "rtt": 9.032,
-            "from": "105.16.6.17",
             "ttl": 250,
-            "size": 28
+            "from": "105.16.6.17",
+            "size": 28,
+            "rtt": 9.032
           },
           {
-            "rtt": 8.584,
-            "from": "105.16.6.17",
             "ttl": 250,
-            "size": 28
+            "from": "105.16.6.17",
+            "size": 28,
+            "rtt": 8.584
           },
           {
-            "rtt": 8.585,
-            "from": "105.16.6.17",
             "ttl": 250,
-            "size": 28
+            "from": "105.16.6.17",
+            "size": 28,
+            "rtt": 8.585
           }
         ],
         "hop": 7
@@ -630,16 +609,16 @@
             "x": "*"
           },
           {
-            "rtt": 19.895,
-            "from": "105.16.19.2",
             "ttl": 247,
-            "size": 140
+            "from": "105.16.19.2",
+            "size": 140,
+            "rtt": 19.895
           },
           {
-            "rtt": 17.691,
-            "from": "105.16.19.2",
             "ttl": 247,
-            "size": 140
+            "from": "105.16.19.2",
+            "size": 140,
+            "rtt": 17.691
           }
         ],
         "hop": 8
@@ -647,22 +626,22 @@
       {
         "result": [
           {
-            "rtt": 17.11,
-            "from": "105.16.8.42",
             "ttl": 248,
-            "size": 28
+            "from": "105.16.8.42",
+            "size": 28,
+            "rtt": 17.11
           },
           {
-            "rtt": 27.494,
-            "from": "105.16.8.42",
             "ttl": 248,
-            "size": 28
+            "from": "105.16.8.42",
+            "size": 28,
+            "rtt": 27.494
           },
           {
-            "rtt": 17.259,
-            "from": "105.16.8.42",
             "ttl": 248,
-            "size": 28
+            "from": "105.16.8.42",
+            "size": 28,
+            "rtt": 17.259
           }
         ],
         "hop": 9
@@ -670,42 +649,72 @@
       {
         "result": [
           {
-            "rtt": 17.111,
-            "from": "105.21.64.46",
             "ttl": 56,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 17.111
           },
           {
-            "rtt": 17.429,
-            "from": "105.21.64.46",
             "ttl": 56,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 17.429
           },
           {
-            "rtt": 17.046,
-            "from": "105.21.64.46",
             "ttl": 56,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 17.046
           }
         ],
         "hop": 10
       }
     ],
+    "msm_id": 3749230,
+    "dst_prb_id": 24600,
+    "via_ixp": false,
+    "ixps": [],
+    "dst_rtts": [
+      17.111,
+      17.429,
+      17.046
+    ],
+    "src_prb_id": 10855,
+    "as_links": {
+      "nodes": [
+        "AS37100",
+        "AS30844",
+        "AS36997"
+      ],
+      "links": [
+        {
+          "dst": "AS37100",
+          "type": "d",
+          "src": "AS30844"
+        },
+        {
+          "dst": "AS30844",
+          "type": "d",
+          "src": "AS36997"
+        }
+      ]
+    },
     "in_country": true,
+    "tracetxt": "## msm_id:3749230 prb_id:10855 dst:105.21.64.46 ts:2016-05-03 12:12:50 -00:00\n1 (AS36997) 41.222.0.1 [0.921, 1.109, 1.572] ||\n2 (AS36997) bb-rtr-cont.imul.com [0.69, 0.758, 1.089] ||\n3 (AS36997) static-41-222-1-54.metronet.imul.com [1.197, 1.333, 1.776] ||\n4 (AS30844) teng0-0-1-0-p1-kpl.liquidtelecom.net [8.58, 8.861, 8.929] |Kampala,Central Region,UG|\n5 (AS30844) teng0-1-1-1.lke-p1-nbi.liquidtelecom.net [8.734, 8.92, 12.25] ||\n6 (AS30844) teng0-0-1-0-pe1-nbi.liquidtelecom.net [8.757, 8.945, 9.048] ||\n7 (AS37100) ge-0-0-0.pp-01-nbo.ke.seacomnet.com [8.584, 8.585, 9.032] ||\n8 (AS37100) ae-1.cr-02-nbo.ke.seacomnet.com [17.691, 19.895, '*'] ||\n9 (AS37100) ge-1-1-0-0.er-01-ebb.ug.seacomnet.com [17.11, 17.259, 27.494] ||\n10 (AS37100) pb-01-ebb.ug.seacomnet.com [17.046, 17.111, 17.429] ||\n",
+    "ts": 1462277570,
     "locations": [
       "Kampala,Central Region,UG"
     ],
     "protocol": 4,
     "geojson": [
       {
-        "type": "LineString",
         "properties": {
-          "is_direct": false,
           "dasn": "30844",
+          "is_direct": false,
           "asn": null,
           "sasn": "36997",
-          "dloc": "Kampala,Central Region,UG",
-          "sloc": "Probe"
+          "sloc": "Probe",
+          "dloc": "Kampala,Central Region,UG"
         },
         "coordinates": [
           [
@@ -716,17 +725,17 @@
             "32.58219",
             "0.31628"
           ]
-        ]
+        ],
+        "type": "LineString"
       },
       {
-        "type": "LineString",
         "properties": {
-          "is_direct": false,
           "dasn": 37100,
+          "is_direct": false,
           "asn": null,
           "sasn": "30844",
-          "dloc": "Probe",
-          "sloc": "Kampala,Central Region,UG"
+          "sloc": "Kampala,Central Region,UG",
+          "dloc": "Probe"
         },
         "coordinates": [
           [
@@ -737,56 +746,32 @@
             32.5775,
             0.3475
           ]
-        ]
+        ],
+        "type": "LineString"
       }
-    ],
-    "dst_prb_id": 24600,
-    "dst_rtts": [
-      17.111,
-      17.429,
-      17.046
-    ],
-    "ts": 1462277570,
-    "msm_id": 3749230,
-    "via_ixp": false,
-    "tracetxt": "## msm_id:3749230 prb_id:10855 dst:105.21.64.46 ts:2016-05-03 12:12:50 -00:00\n1 (AS36997) 41.222.0.1 [0.921, 1.109, 1.572] ||\n2 (AS36997) bb-rtr-cont.imul.com [0.69, 0.758, 1.089] ||\n3 (AS36997) static-41-222-1-54.metronet.imul.com [1.197, 1.333, 1.776] ||\n4 (AS30844) teng0-0-1-0-p1-kpl.liquidtelecom.net [8.58, 8.861, 8.929] |Kampala,Central Region,UG|\n5 (AS30844) teng0-1-1-1.lke-p1-nbi.liquidtelecom.net [8.734, 8.92, 12.25] ||\n6 (AS30844) teng0-0-1-0-pe1-nbi.liquidtelecom.net [8.757, 8.945, 9.048] ||\n7 (AS37100) ge-0-0-0.pp-01-nbo.ke.seacomnet.com [8.584, 8.585, 9.032] ||\n8 (AS37100) ae-1.cr-02-nbo.ke.seacomnet.com [17.691, 19.895] ||\n9 (AS37100) ge-1-1-0-0.er-01-ebb.ug.seacomnet.com [17.11, 17.259, 27.494] ||\n10 (AS37100) pb-01-ebb.ug.seacomnet.com [17.046, 17.111, 17.429] ||\n"
+    ]
   },
   {
-    "src_prb_id": 12168,
-    "as_links": {
-      "links": [
-        {
-          "type": "d",
-          "src": "AS37063",
-          "dst": "AS37100"
-        }
-      ],
-      "nodes": [
-        "AS37063",
-        "AS37100"
-      ]
-    },
-    "ixps": [],
     "result": [
       {
         "result": [
           {
-            "rtt": 0.589,
-            "from": "10.20.21.253",
             "ttl": 64,
-            "size": 76
+            "from": "10.20.21.253",
+            "size": 76,
+            "rtt": 0.589
           },
           {
-            "rtt": 0.369,
-            "from": "10.20.21.253",
             "ttl": 64,
-            "size": 76
+            "from": "10.20.21.253",
+            "size": 76,
+            "rtt": 0.369
           },
           {
-            "rtt": 0.312,
-            "from": "10.20.21.253",
             "ttl": 64,
-            "size": 76
+            "from": "10.20.21.253",
+            "size": 76,
+            "rtt": 0.312
           }
         ],
         "hop": 1
@@ -794,22 +779,22 @@
       {
         "result": [
           {
-            "rtt": 3.205,
-            "from": "41.77.73.209",
             "ttl": 254,
-            "size": 28
+            "from": "41.77.73.209",
+            "size": 28,
+            "rtt": 3.205
           },
           {
-            "rtt": 2.126,
-            "from": "41.77.73.209",
             "ttl": 254,
-            "size": 28
+            "from": "41.77.73.209",
+            "size": 28,
+            "rtt": 2.126
           },
           {
-            "rtt": 2.516,
-            "from": "41.77.73.209",
             "ttl": 254,
-            "size": 28
+            "from": "41.77.73.209",
+            "size": 28,
+            "rtt": 2.516
           }
         ],
         "hop": 2
@@ -817,22 +802,22 @@
       {
         "result": [
           {
-            "rtt": 2.234,
-            "from": "154.0.142.246",
             "ttl": 253,
-            "size": 28
+            "from": "154.0.142.246",
+            "size": 28,
+            "rtt": 2.234
           },
           {
-            "rtt": 1.919,
-            "from": "154.0.142.246",
             "ttl": 253,
-            "size": 28
+            "from": "154.0.142.246",
+            "size": 28,
+            "rtt": 1.919
           },
           {
-            "rtt": 2.022,
-            "from": "154.0.142.246",
             "ttl": 253,
-            "size": 28
+            "from": "154.0.142.246",
+            "size": 28,
+            "rtt": 2.022
           }
         ],
         "hop": 3
@@ -840,75 +825,75 @@
       {
         "result": [
           {
+            "ttl": 252,
+            "from": "154.0.142.227",
+            "size": 140,
             "rtt": 2.411,
-            "from": "154.0.142.227",
-            "size": 140,
-            "ttl": 252,
             "icmpext": {
-              "version": 2,
+              "rfc4884": 0,
               "obj": [
                 {
+                  "class": 1,
                   "type": 1,
                   "mpls": [
                     {
-                      "exp": 0,
-                      "label": 308368,
                       "ttl": 1,
-                      "s": 1
+                      "exp": 0,
+                      "s": 1,
+                      "label": 308368
                     }
-                  ],
-                  "class": 1
+                  ]
                 }
               ],
-              "rfc4884": 0
+              "version": 2
             }
           },
           {
+            "ttl": 252,
+            "from": "154.0.142.227",
+            "size": 140,
             "rtt": 2.299,
-            "from": "154.0.142.227",
-            "size": 140,
-            "ttl": 252,
             "icmpext": {
-              "version": 2,
+              "rfc4884": 0,
               "obj": [
                 {
+                  "class": 1,
                   "type": 1,
                   "mpls": [
                     {
-                      "exp": 0,
-                      "label": 308368,
                       "ttl": 1,
-                      "s": 1
+                      "exp": 0,
+                      "s": 1,
+                      "label": 308368
                     }
-                  ],
-                  "class": 1
+                  ]
                 }
               ],
-              "rfc4884": 0
+              "version": 2
             }
           },
           {
-            "rtt": 1.995,
+            "ttl": 252,
             "from": "154.0.142.227",
             "size": 140,
-            "ttl": 252,
+            "rtt": 1.995,
             "icmpext": {
-              "version": 2,
+              "rfc4884": 0,
               "obj": [
                 {
+                  "class": 1,
                   "type": 1,
                   "mpls": [
                     {
-                      "exp": 0,
-                      "label": 308368,
                       "ttl": 1,
-                      "s": 1
+                      "exp": 0,
+                      "s": 1,
+                      "label": 308368
                     }
-                  ],
-                  "class": 1
+                  ]
                 }
               ],
-              "rfc4884": 0
+              "version": 2
             }
           }
         ],
@@ -917,22 +902,22 @@
       {
         "result": [
           {
-            "rtt": 2.178,
-            "from": "154.0.142.236",
             "ttl": 251,
-            "size": 28
+            "from": "154.0.142.236",
+            "size": 28,
+            "rtt": 2.178
           },
           {
-            "rtt": 2.108,
-            "from": "154.0.142.236",
             "ttl": 251,
-            "size": 28
+            "from": "154.0.142.236",
+            "size": 28,
+            "rtt": 2.108
           },
           {
-            "rtt": 1.872,
-            "from": "154.0.142.236",
             "ttl": 251,
-            "size": 28
+            "from": "154.0.142.236",
+            "size": 28,
+            "rtt": 1.872
           }
         ],
         "hop": 5
@@ -940,22 +925,22 @@
       {
         "result": [
           {
-            "rtt": 1.598,
-            "from": "105.21.72.17",
             "ttl": 250,
-            "size": 28
+            "from": "105.21.72.17",
+            "size": 28,
+            "rtt": 1.598
           },
           {
-            "rtt": 2.173,
-            "from": "105.21.72.17",
             "ttl": 250,
-            "size": 28
+            "from": "105.21.72.17",
+            "size": 28,
+            "rtt": 2.173
           },
           {
-            "rtt": 2.202,
-            "from": "105.21.72.17",
             "ttl": 250,
-            "size": 28
+            "from": "105.21.72.17",
+            "size": 28,
+            "rtt": 2.202
           }
         ],
         "hop": 6
@@ -963,22 +948,22 @@
       {
         "result": [
           {
-            "rtt": 1.933,
-            "from": "105.16.8.101",
             "ttl": 249,
-            "size": 28
+            "from": "105.16.8.101",
+            "size": 28,
+            "rtt": 1.933
           },
           {
-            "rtt": 1.718,
-            "from": "105.16.8.101",
             "ttl": 249,
-            "size": 28
+            "from": "105.16.8.101",
+            "size": 28,
+            "rtt": 1.718
           },
           {
-            "rtt": 2.0,
-            "from": "105.16.8.101",
             "ttl": 249,
-            "size": 28
+            "from": "105.16.8.101",
+            "size": 28,
+            "rtt": 2.0
           }
         ],
         "hop": 7
@@ -986,28 +971,53 @@
       {
         "result": [
           {
-            "rtt": 2.096,
-            "from": "105.21.64.46",
             "ttl": 57,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 2.096
           },
           {
-            "rtt": 1.902,
-            "from": "105.21.64.46",
             "ttl": 57,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 1.902
           },
           {
-            "rtt": 1.81,
-            "from": "105.21.64.46",
             "ttl": 57,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 1.81
           }
         ],
         "hop": 8
       }
     ],
+    "msm_id": 3749230,
+    "dst_prb_id": 24600,
+    "via_ixp": false,
+    "ixps": [],
+    "dst_rtts": [
+      2.096,
+      1.902,
+      1.81
+    ],
+    "src_prb_id": 12168,
+    "as_links": {
+      "nodes": [
+        "AS37063",
+        "AS37100"
+      ],
+      "links": [
+        {
+          "dst": "AS37100",
+          "type": "d",
+          "src": "AS37063"
+        }
+      ]
+    },
     "in_country": true,
+    "tracetxt": "## msm_id:3749230 prb_id:12168 dst:105.21.64.46 ts:2016-05-03 12:12:50 -00:00\n1 () 10.20.21.253 [0.312, 0.369, 0.589] ||\n2 (AS37063) 41.77.73.209 [2.126, 2.516, 3.205] ||\n3 (AS37063) rh-dce-1.ug-int--rh-dce-1.ug-sub-1.roketelkom.net [1.919, 2.022, 2.234] |Kampala,Central Region,UG|\n4 (AS37063) 154.0.142.227 [1.995, 2.299, 2.411] ||\n5 (AS37063) 154.0.142.236 [1.872, 2.108, 2.178] ||\n6 (AS37100) ae-2-25.er-02-ebb.ug.seacomnet.com [1.598, 2.173, 2.202] |Entebbe,Central Region,UG|\n7 (AS37100) ae-3-0.er-01-ebb.ug.seacomnet.com [1.718, 1.933, 2.0] ||\n8 (AS37100) pb-01-ebb.ug.seacomnet.com [1.81, 1.902, 2.096] ||\n",
+    "ts": 1462277570,
     "locations": [
       "Entebbe,Central Region,UG",
       "Kampala,Central Region,UG"
@@ -1015,14 +1025,13 @@
     "protocol": 4,
     "geojson": [
       {
-        "type": "LineString",
         "properties": {
-          "is_direct": false,
           "dasn": "37063",
+          "is_direct": false,
           "asn": "37063",
           "sasn": "37063",
-          "dloc": "Kampala,Central Region,UG",
-          "sloc": "Probe"
+          "sloc": "Probe",
+          "dloc": "Kampala,Central Region,UG"
         },
         "coordinates": [
           [
@@ -1033,17 +1042,17 @@
             "32.58219",
             "0.31628"
           ]
-        ]
+        ],
+        "type": "LineString"
       },
       {
-        "type": "LineString",
         "properties": {
-          "is_direct": false,
           "dasn": "37100",
+          "is_direct": false,
           "asn": null,
           "sasn": "37063",
-          "dloc": "Entebbe,Central Region,UG",
-          "sloc": "Kampala,Central Region,UG"
+          "sloc": "Kampala,Central Region,UG",
+          "dloc": "Entebbe,Central Region,UG"
         },
         "coordinates": [
           [
@@ -1054,17 +1063,17 @@
             "32.44694",
             "0.06444"
           ]
-        ]
+        ],
+        "type": "LineString"
       },
       {
-        "type": "LineString",
         "properties": {
-          "is_direct": false,
           "dasn": 37100,
+          "is_direct": false,
           "asn": null,
           "sasn": "37100",
-          "dloc": "Probe",
-          "sloc": "Entebbe,Central Region,UG"
+          "sloc": "Entebbe,Central Region,UG",
+          "dloc": "Probe"
         },
         "coordinates": [
           [
@@ -1075,68 +1084,32 @@
             32.5775,
             0.3475
           ]
-        ]
+        ],
+        "type": "LineString"
       }
-    ],
-    "dst_prb_id": 24600,
-    "dst_rtts": [
-      2.096,
-      1.902,
-      1.81
-    ],
-    "ts": 1462277570,
-    "msm_id": 3749230,
-    "via_ixp": false,
-    "tracetxt": "## msm_id:3749230 prb_id:12168 dst:105.21.64.46 ts:2016-05-03 12:12:50 -00:00\n1 () 10.20.21.253 [0.312, 0.369, 0.589] ||\n2 (AS37063) 41.77.73.209 [2.126, 2.516, 3.205] ||\n3 (AS37063) rh-dce-1.ug-int--rh-dce-1.ug-sub-1.roketelkom.net [1.919, 2.022, 2.234] |Kampala,Central Region,UG|\n4 (AS37063) 154.0.142.227 [1.995, 2.299, 2.411] ||\n5 (AS37063) 154.0.142.236 [1.872, 2.108, 2.178] ||\n6 (AS37100) ae-2-25.er-02-ebb.ug.seacomnet.com [1.598, 2.173, 2.202] |Entebbe,Central Region,UG|\n7 (AS37100) ae-3-0.er-01-ebb.ug.seacomnet.com [1.718, 1.933, 2.0] ||\n8 (AS37100) pb-01-ebb.ug.seacomnet.com [1.81, 1.902, 2.096] ||\n"
+    ]
   },
   {
-    "src_prb_id": 14900,
-    "as_links": {
-      "links": [
-        {
-          "type": "i",
-          "src": "AS36944",
-          "dst": "AS10474"
-        },
-        {
-          "type": "d",
-          "src": "AS327687",
-          "dst": "AS36944"
-        },
-        {
-          "type": "d",
-          "src": "AS10474",
-          "dst": "AS37100"
-        }
-      ],
-      "nodes": [
-        "AS10474",
-        "AS36944",
-        "AS327687",
-        "AS37100"
-      ]
-    },
-    "ixps": [],
     "result": [
       {
         "result": [
           {
-            "rtt": 0.676,
-            "from": "10.1.0.1",
             "ttl": 255,
-            "size": 28
+            "from": "10.1.0.1",
+            "size": 28,
+            "rtt": 0.676
           },
           {
-            "rtt": 0.55,
-            "from": "10.1.0.1",
             "ttl": 255,
-            "size": 28
+            "from": "10.1.0.1",
+            "size": 28,
+            "rtt": 0.55
           },
           {
-            "rtt": 0.425,
-            "from": "10.1.0.1",
             "ttl": 255,
-            "size": 28
+            "from": "10.1.0.1",
+            "size": 28,
+            "rtt": 0.425
           }
         ],
         "hop": 1
@@ -1144,22 +1117,22 @@
       {
         "result": [
           {
-            "rtt": 0.425,
-            "from": "196.43.134.206",
             "ttl": 254,
-            "size": 28
+            "from": "196.43.134.206",
+            "size": 28,
+            "rtt": 0.425
           },
           {
-            "rtt": 0.437,
-            "from": "196.43.134.206",
             "ttl": 254,
-            "size": 28
+            "from": "196.43.134.206",
+            "size": 28,
+            "rtt": 0.437
           },
           {
-            "rtt": 0.394,
-            "from": "196.43.134.206",
             "ttl": 254,
-            "size": 28
+            "from": "196.43.134.206",
+            "size": 28,
+            "rtt": 0.394
           }
         ],
         "hop": 2
@@ -1167,22 +1140,22 @@
       {
         "result": [
           {
-            "rtt": 0.8,
-            "from": "196.43.189.17",
             "ttl": 253,
-            "size": 28
+            "from": "196.43.189.17",
+            "size": 28,
+            "rtt": 0.8
           },
           {
-            "rtt": 0.937,
-            "from": "196.43.189.17",
             "ttl": 253,
-            "size": 28
+            "from": "196.43.189.17",
+            "size": 28,
+            "rtt": 0.937
           },
           {
-            "rtt": 0.643,
-            "from": "196.43.189.17",
             "ttl": 253,
-            "size": 28
+            "from": "196.43.189.17",
+            "size": 28,
+            "rtt": 0.643
           }
         ],
         "hop": 3
@@ -1190,22 +1163,22 @@
       {
         "result": [
           {
-            "rtt": 0.606,
-            "from": "196.43.190.225",
             "ttl": 252,
-            "size": 28
+            "from": "196.43.190.225",
+            "size": 28,
+            "rtt": 0.606
           },
           {
-            "rtt": 0.596,
-            "from": "196.43.190.225",
             "ttl": 252,
-            "size": 28
+            "from": "196.43.190.225",
+            "size": 28,
+            "rtt": 0.596
           },
           {
-            "rtt": 0.653,
-            "from": "196.43.190.225",
             "ttl": 252,
-            "size": 28
+            "from": "196.43.190.225",
+            "size": 28,
+            "rtt": 0.653
           }
         ],
         "hop": 4
@@ -1213,22 +1186,22 @@
       {
         "result": [
           {
-            "rtt": 0.645,
-            "from": "196.43.190.246",
             "ttl": 251,
-            "size": 28
+            "from": "196.43.190.246",
+            "size": 28,
+            "rtt": 0.645
           },
           {
-            "rtt": 0.762,
-            "from": "196.43.190.246",
             "ttl": 251,
-            "size": 28
+            "from": "196.43.190.246",
+            "size": 28,
+            "rtt": 0.762
           },
           {
-            "rtt": 0.743,
-            "from": "196.43.190.246",
             "ttl": 251,
-            "size": 28
+            "from": "196.43.190.246",
+            "size": 28,
+            "rtt": 0.743
           }
         ],
         "hop": 5
@@ -1236,22 +1209,22 @@
       {
         "result": [
           {
-            "rtt": 0.787,
-            "from": "196.32.209.141",
             "ttl": 250,
-            "size": 28
+            "from": "196.32.209.141",
+            "size": 28,
+            "rtt": 0.787
           },
           {
-            "rtt": 0.747,
-            "from": "196.32.209.141",
             "ttl": 250,
-            "size": 28
+            "from": "196.32.209.141",
+            "size": 28,
+            "rtt": 0.747
           },
           {
-            "rtt": 0.741,
-            "from": "196.32.209.141",
             "ttl": 250,
-            "size": 28
+            "from": "196.32.209.141",
+            "size": 28,
+            "rtt": 0.741
           }
         ],
         "hop": 6
@@ -1259,75 +1232,75 @@
       {
         "result": [
           {
+            "ttl": 249,
+            "from": "196.32.210.17",
+            "size": 140,
             "rtt": 10.105,
-            "from": "196.32.210.17",
-            "size": 140,
-            "ttl": 249,
             "icmpext": {
-              "version": 2,
+              "rfc4884": 0,
               "obj": [
                 {
+                  "class": 1,
                   "type": 1,
                   "mpls": [
                     {
-                      "exp": 0,
-                      "label": 299968,
                       "ttl": 1,
-                      "s": 1
+                      "exp": 0,
+                      "s": 1,
+                      "label": 299968
                     }
-                  ],
-                  "class": 1
+                  ]
                 }
               ],
-              "rfc4884": 0
+              "version": 2
             }
           },
           {
+            "ttl": 249,
+            "from": "196.32.210.17",
+            "size": 140,
             "rtt": 9.915,
-            "from": "196.32.210.17",
-            "size": 140,
-            "ttl": 249,
             "icmpext": {
-              "version": 2,
+              "rfc4884": 0,
               "obj": [
                 {
+                  "class": 1,
                   "type": 1,
                   "mpls": [
                     {
-                      "exp": 0,
-                      "label": 299968,
                       "ttl": 1,
-                      "s": 1
+                      "exp": 0,
+                      "s": 1,
+                      "label": 299968
                     }
-                  ],
-                  "class": 1
+                  ]
                 }
               ],
-              "rfc4884": 0
+              "version": 2
             }
           },
           {
-            "rtt": 11.769,
+            "ttl": 249,
             "from": "196.32.210.17",
             "size": 140,
-            "ttl": 249,
+            "rtt": 11.769,
             "icmpext": {
-              "version": 2,
+              "rfc4884": 0,
               "obj": [
                 {
+                  "class": 1,
                   "type": 1,
                   "mpls": [
                     {
-                      "exp": 0,
-                      "label": 299968,
                       "ttl": 1,
-                      "s": 1
+                      "exp": 0,
+                      "s": 1,
+                      "label": 299968
                     }
-                  ],
-                  "class": 1
+                  ]
                 }
               ],
-              "rfc4884": 0
+              "version": 2
             }
           }
         ],
@@ -1336,75 +1309,75 @@
       {
         "result": [
           {
+            "ttl": 248,
+            "from": "196.32.210.2",
+            "size": 140,
             "rtt": 62.793,
-            "from": "196.32.210.2",
-            "size": 140,
-            "ttl": 248,
             "icmpext": {
-              "version": 2,
+              "rfc4884": 0,
               "obj": [
                 {
+                  "class": 1,
                   "type": 1,
                   "mpls": [
                     {
-                      "exp": 0,
-                      "label": 299792,
                       "ttl": 1,
-                      "s": 1
+                      "exp": 0,
+                      "s": 1,
+                      "label": 299792
                     }
-                  ],
-                  "class": 1
+                  ]
                 }
               ],
-              "rfc4884": 0
+              "version": 2
             }
           },
           {
+            "ttl": 248,
+            "from": "196.32.210.2",
+            "size": 140,
             "rtt": 62.822,
-            "from": "196.32.210.2",
-            "size": 140,
-            "ttl": 248,
             "icmpext": {
-              "version": 2,
+              "rfc4884": 0,
               "obj": [
                 {
+                  "class": 1,
                   "type": 1,
                   "mpls": [
                     {
-                      "exp": 0,
-                      "label": 299792,
                       "ttl": 1,
-                      "s": 1
+                      "exp": 0,
+                      "s": 1,
+                      "label": 299792
                     }
-                  ],
-                  "class": 1
+                  ]
                 }
               ],
-              "rfc4884": 0
+              "version": 2
             }
           },
           {
-            "rtt": 65.101,
+            "ttl": 248,
             "from": "196.32.210.2",
             "size": 140,
-            "ttl": 248,
+            "rtt": 65.101,
             "icmpext": {
-              "version": 2,
+              "rfc4884": 0,
               "obj": [
                 {
+                  "class": 1,
                   "type": 1,
                   "mpls": [
                     {
-                      "exp": 0,
-                      "label": 299792,
                       "ttl": 1,
-                      "s": 1
+                      "exp": 0,
+                      "s": 1,
+                      "label": 299792
                     }
-                  ],
-                  "class": 1
+                  ]
                 }
               ],
-              "rfc4884": 0
+              "version": 2
             }
           }
         ],
@@ -1413,22 +1386,22 @@
       {
         "result": [
           {
-            "rtt": 62.699,
-            "from": "196.32.210.250",
             "ttl": 247,
-            "size": 28
+            "from": "196.32.210.250",
+            "size": 28,
+            "rtt": 62.699
           },
           {
-            "rtt": 62.573,
-            "from": "196.32.210.250",
             "ttl": 247,
-            "size": 28
+            "from": "196.32.210.250",
+            "size": 28,
+            "rtt": 62.573
           },
           {
-            "rtt": 62.594,
-            "from": "196.32.210.250",
             "ttl": 247,
-            "size": 28
+            "from": "196.32.210.250",
+            "size": 28,
+            "rtt": 62.594
           }
         ],
         "hop": 9
@@ -1436,22 +1409,22 @@
       {
         "result": [
           {
-            "rtt": 76.638,
-            "from": "196.46.25.145",
             "ttl": 246,
-            "size": 68
+            "from": "196.46.25.145",
+            "size": 68,
+            "rtt": 76.638
           },
           {
-            "rtt": 76.473,
-            "from": "196.46.25.145",
             "ttl": 246,
-            "size": 68
+            "from": "196.46.25.145",
+            "size": 68,
+            "rtt": 76.473
           },
           {
-            "rtt": 76.731,
-            "from": "196.46.25.145",
             "ttl": 246,
-            "size": 68
+            "from": "196.46.25.145",
+            "size": 68,
+            "rtt": 76.731
           }
         ],
         "hop": 10
@@ -1459,22 +1432,22 @@
       {
         "result": [
           {
-            "rtt": 76.689,
-            "from": "197.80.7.4",
             "ttl": 242,
-            "size": 68
+            "from": "197.80.7.4",
+            "size": 68,
+            "rtt": 76.689
           },
           {
-            "rtt": 76.426,
-            "from": "197.80.7.4",
             "ttl": 242,
-            "size": 68
+            "from": "197.80.7.4",
+            "size": 68,
+            "rtt": 76.426
           },
           {
-            "rtt": 76.555,
-            "from": "197.80.7.4",
             "ttl": 242,
-            "size": 68
+            "from": "197.80.7.4",
+            "size": 68,
+            "rtt": 76.555
           }
         ],
         "hop": 11
@@ -1482,22 +1455,22 @@
       {
         "result": [
           {
-            "rtt": 74.019,
-            "from": "197.80.4.170",
             "ttl": 241,
-            "size": 28
+            "from": "197.80.4.170",
+            "size": 28,
+            "rtt": 74.019
           },
           {
-            "rtt": 74.057,
-            "from": "197.80.4.170",
             "ttl": 241,
-            "size": 28
+            "from": "197.80.4.170",
+            "size": 28,
+            "rtt": 74.057
           },
           {
-            "rtt": 73.887,
-            "from": "197.80.4.170",
             "ttl": 241,
-            "size": 28
+            "from": "197.80.4.170",
+            "size": 28,
+            "rtt": 73.887
           }
         ],
         "hop": 12
@@ -1505,22 +1478,22 @@
       {
         "result": [
           {
-            "rtt": 220.863,
-            "from": "105.16.28.2",
             "ttl": 237,
-            "size": 140
+            "from": "105.16.28.2",
+            "size": 140,
+            "rtt": 220.863
           },
           {
-            "rtt": 221.415,
-            "from": "105.16.28.2",
             "ttl": 237,
-            "size": 140
+            "from": "105.16.28.2",
+            "size": 140,
+            "rtt": 221.415
           },
           {
-            "rtt": 221.49,
-            "from": "105.16.28.2",
             "ttl": 237,
-            "size": 140
+            "from": "105.16.28.2",
+            "size": 140,
+            "rtt": 221.49
           }
         ],
         "hop": 13
@@ -1528,25 +1501,25 @@
       {
         "result": [
           {
-            "rtt": 218.327,
-            "from": "105.16.10.210",
             "ttl": 238,
+            "from": "105.16.10.210",
             "size": 140,
-            "ittl": 2
+            "ittl": 2,
+            "rtt": 218.327
           },
           {
-            "rtt": 221.955,
-            "from": "105.16.10.210",
             "ttl": 238,
+            "from": "105.16.10.210",
             "size": 140,
-            "ittl": 2
+            "ittl": 2,
+            "rtt": 221.955
           },
           {
-            "rtt": 553.094,
-            "from": "105.16.10.210",
             "ttl": 238,
+            "from": "105.16.10.210",
             "size": 140,
-            "ittl": 2
+            "ittl": 2,
+            "rtt": 553.094
           }
         ],
         "hop": 14
@@ -1554,25 +1527,25 @@
       {
         "result": [
           {
-            "rtt": 220.293,
-            "from": "105.16.9.201",
             "ttl": 239,
+            "from": "105.16.9.201",
             "size": 140,
-            "ittl": 3
+            "ittl": 3,
+            "rtt": 220.293
           },
           {
-            "rtt": 221.242,
-            "from": "105.16.9.201",
             "ttl": 239,
+            "from": "105.16.9.201",
             "size": 140,
-            "ittl": 3
+            "ittl": 3,
+            "rtt": 221.242
           },
           {
-            "rtt": 221.432,
-            "from": "105.16.9.201",
             "ttl": 239,
+            "from": "105.16.9.201",
             "size": 140,
-            "ittl": 3
+            "ittl": 3,
+            "rtt": 221.432
           }
         ],
         "hop": 15
@@ -1580,25 +1553,25 @@
       {
         "result": [
           {
-            "rtt": 237.241,
-            "from": "105.16.8.38",
             "ttl": 240,
+            "from": "105.16.8.38",
             "size": 140,
-            "ittl": 4
+            "ittl": 4,
+            "rtt": 237.241
           },
           {
-            "rtt": 237.05,
-            "from": "105.16.8.38",
             "ttl": 240,
+            "from": "105.16.8.38",
             "size": 140,
-            "ittl": 4
+            "ittl": 4,
+            "rtt": 237.05
           },
           {
-            "rtt": 237.782,
-            "from": "105.16.8.38",
             "ttl": 240,
+            "from": "105.16.8.38",
             "size": 140,
-            "ittl": 4
+            "ittl": 4,
+            "rtt": 237.782
           }
         ],
         "hop": 16
@@ -1606,22 +1579,22 @@
       {
         "result": [
           {
-            "rtt": 217.602,
-            "from": "105.16.8.42",
             "ttl": 241,
-            "size": 28
+            "from": "105.16.8.42",
+            "size": 28,
+            "rtt": 217.602
           },
           {
-            "rtt": 218.872,
-            "from": "105.16.8.42",
             "ttl": 241,
-            "size": 28
+            "from": "105.16.8.42",
+            "size": 28,
+            "rtt": 218.872
           },
           {
-            "rtt": 218.253,
-            "from": "105.16.8.42",
             "ttl": 241,
-            "size": 28
+            "from": "105.16.8.42",
+            "size": 28,
+            "rtt": 218.253
           }
         ],
         "hop": 17
@@ -1629,50 +1602,87 @@
       {
         "result": [
           {
-            "rtt": 219.788,
-            "from": "105.21.64.46",
             "ttl": 49,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 219.788
           },
           {
-            "rtt": 220.273,
-            "from": "105.21.64.46",
             "ttl": 49,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 220.273
           },
           {
-            "rtt": 220.491,
-            "from": "105.21.64.46",
             "ttl": 49,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 220.491
           }
         ],
         "hop": 18
       }
     ],
+    "msm_id": 3749230,
+    "dst_prb_id": 24600,
+    "via_ixp": false,
+    "ixps": [],
+    "dst_rtts": [
+      219.788,
+      220.273,
+      220.491
+    ],
+    "src_prb_id": 14900,
+    "as_links": {
+      "nodes": [
+        "AS10474",
+        "AS36944",
+        "AS327687",
+        "AS37100"
+      ],
+      "links": [
+        {
+          "dst": "AS10474",
+          "type": "i",
+          "src": "AS36944"
+        },
+        {
+          "dst": "AS36944",
+          "type": "d",
+          "src": "AS327687"
+        },
+        {
+          "dst": "AS37100",
+          "type": "d",
+          "src": "AS10474"
+        }
+      ]
+    },
+    "traixroute": [
+      {
+        "hop": "9",
+        "in_country": false,
+        "rule": "1",
+        "name": "NAPAfrica IX Johannesburg",
+        "link": 0
+      }
+    ],
     "in_country": false,
+    "tracetxt": "## msm_id:3749230 prb_id:14900 dst:105.21.64.46 ts:2016-05-03 12:12:50 -00:00\n1 () 10.1.0.1 [0.425, 0.55, 0.676] ||\n2 (AS327687) 196.43.134.206 [0.394, 0.425, 0.437] ||\n3 (AS327687) 196.43.189.17 [0.643, 0.8, 0.937] ||\n4 (AS327687) stat.kla1.pe.renu.ac.ug [0.596, 0.606, 0.653] ||\n5 (AS327687) stat.kla1.peer.renu.ac.ug [0.645, 0.743, 0.762] ||\n6 (AS36944) unknown.uni.net.za [0.741, 0.747, 0.787] ||\n7 (AS36944) 196.32.210.17 [9.915, 10.105, 11.769] ||\n8 (AS36944) 196.32.210.2 [62.793, 62.822, 65.101] ||\n9 (AS36944) 196.32.210.250 [62.573, 62.594, 62.699] ||\n10 () mweb.jb1.napafrica.net [76.473, 76.638, 76.731] |Johannesburg,Gauteng,ZA|\n11 (AS10474) 101.te0-0-2-0.vic-tr-1.optinet.net [76.426, 76.555, 76.689] ||\n12 (AS10474) 197-80-4-170.jhb.mweb.co.za [73.887, 74.019, 74.057] |Johannesburg,Gauteng,ZA|\n13 (AS37100) ae-2.cr-02-jnb.za.seacomnet.com [220.863, 221.415, 221.49] |Johannesburg,Gauteng,ZA|\n14 () xe-0-0-0-3.cr-02-emg.za.seacomnet.com [218.327, 221.955, 553.094] ||\n15 (AS37100) xe-0-0-0-1.cr-02-mba.ke.seacomnet.com [220.293, 221.242, 221.432] ||\n16 () xe-0-0-0-0.cr-02-nbo.ke.seacomnet.com [237.05, 237.241, 237.782] ||\n17 (AS37100) ge-1-1-0-0.er-01-ebb.ug.seacomnet.com [217.602, 218.253, 218.872] ||\n18 (AS37100) pb-01-ebb.ug.seacomnet.com [219.788, 220.273, 220.491] ||\n",
+    "ts": 1462277570,
     "locations": [
       "Johannesburg,Gauteng,ZA"
     ],
     "protocol": 4,
-    "traixroute": [
-      {
-        "link": 0,
-        "in_country": false,
-        "name": "NAPAfrica IX Johannesburg",
-        "hop": "9"
-      }
-    ],
     "geojson": [
       {
-        "type": "LineString",
         "properties": {
-          "is_direct": false,
           "dasn": "",
+          "is_direct": false,
           "asn": null,
           "sasn": "327687",
-          "dloc": "Johannesburg,Gauteng,ZA",
-          "sloc": "Probe"
+          "sloc": "Probe",
+          "dloc": "Johannesburg,Gauteng,ZA"
         },
         "coordinates": [
           [
@@ -1683,17 +1693,17 @@
             "28.04363",
             "-26.20227"
           ]
-        ]
+        ],
+        "type": "LineString"
       },
       {
-        "type": "LineString",
         "properties": {
-          "is_direct": false,
           "dasn": 37100,
+          "is_direct": false,
           "asn": null,
           "sasn": "37100",
-          "dloc": "Probe",
-          "sloc": "Johannesburg,Gauteng,ZA"
+          "sloc": "Johannesburg,Gauteng,ZA",
+          "dloc": "Probe"
         },
         "coordinates": [
           [
@@ -1704,56 +1714,32 @@
             32.5775,
             0.3475
           ]
-        ]
+        ],
+        "type": "LineString"
       }
-    ],
-    "dst_prb_id": 24600,
-    "dst_rtts": [
-      219.788,
-      220.273,
-      220.491
-    ],
-    "ts": 1462277570,
-    "msm_id": 3749230,
-    "via_ixp": false,
-    "tracetxt": "## msm_id:3749230 prb_id:14900 dst:105.21.64.46 ts:2016-05-03 12:12:50 -00:00\n1 () 10.1.0.1 [0.425, 0.55, 0.676] ||\n2 (AS327687) 196.43.134.206 [0.394, 0.425, 0.437] ||\n3 (AS327687) 196.43.189.17 [0.643, 0.8, 0.937] ||\n4 (AS327687) stat.kla1.pe.renu.ac.ug [0.596, 0.606, 0.653] ||\n5 (AS327687) stat.kla1.peer.renu.ac.ug [0.645, 0.743, 0.762] ||\n6 (AS36944) unknown.uni.net.za [0.741, 0.747, 0.787] ||\n7 (AS36944) 196.32.210.17 [9.915, 10.105, 11.769] ||\n8 (AS36944) 196.32.210.2 [62.793, 62.822, 65.101] ||\n9 (AS36944) 196.32.210.250 [62.573, 62.594, 62.699] ||\n10 () mweb.jb1.napafrica.net [76.473, 76.638, 76.731] |Johannesburg,Gauteng,ZA|\n11 (AS10474) 101.te0-0-2-0.vic-tr-1.optinet.net [76.426, 76.555, 76.689] ||\n12 (AS10474) 197-80-4-170.jhb.mweb.co.za [73.887, 74.019, 74.057] |Johannesburg,Gauteng,ZA|\n13 (AS37100) ae-2.cr-02-jnb.za.seacomnet.com [220.863, 221.415, 221.49] |Johannesburg,Gauteng,ZA|\n14 () xe-0-0-0-3.cr-02-emg.za.seacomnet.com [218.327, 221.955, 553.094] ||\n15 (AS37100) xe-0-0-0-1.cr-02-mba.ke.seacomnet.com [220.293, 221.242, 221.432] ||\n16 () xe-0-0-0-0.cr-02-nbo.ke.seacomnet.com [237.05, 237.241, 237.782] ||\n17 (AS37100) ge-1-1-0-0.er-01-ebb.ug.seacomnet.com [217.602, 218.253, 218.872] ||\n18 (AS37100) pb-01-ebb.ug.seacomnet.com [219.788, 220.273, 220.491] ||\n"
+    ]
   },
   {
-    "src_prb_id": 14951,
-    "as_links": {
-      "links": [
-        {
-          "type": "i",
-          "src": "AS3491",
-          "dst": "AS37100"
-        }
-      ],
-      "nodes": [
-        "AS37100",
-        "AS3491"
-      ]
-    },
-    "ixps": [],
     "result": [
       {
         "result": [
           {
-            "rtt": 0.52,
-            "from": "63.223.24.73",
             "ttl": 255,
-            "size": 28
+            "from": "63.223.24.73",
+            "size": 28,
+            "rtt": 0.52
           },
           {
-            "rtt": 0.394,
-            "from": "63.223.24.73",
             "ttl": 255,
-            "size": 28
+            "from": "63.223.24.73",
+            "size": 28,
+            "rtt": 0.394
           },
           {
-            "rtt": 0.352,
-            "from": "63.223.24.73",
             "ttl": 255,
-            "size": 28
+            "from": "63.223.24.73",
+            "size": 28,
+            "rtt": 0.352
           }
         ],
         "hop": 1
@@ -1761,22 +1747,22 @@
       {
         "result": [
           {
-            "rtt": 72.578,
-            "from": "63.218.150.106",
             "ttl": 254,
-            "size": 68
+            "from": "63.218.150.106",
+            "size": 68,
+            "rtt": 72.578
           },
           {
-            "rtt": 72.153,
-            "from": "63.218.150.106",
             "ttl": 254,
-            "size": 68
+            "from": "63.218.150.106",
+            "size": 68,
+            "rtt": 72.153
           },
           {
-            "rtt": 72.84,
-            "from": "63.218.150.106",
             "ttl": 254,
-            "size": 68
+            "from": "63.218.150.106",
+            "size": 68,
+            "rtt": 72.84
           }
         ],
         "hop": 2
@@ -1798,22 +1784,22 @@
       {
         "result": [
           {
-            "rtt": 227.76,
-            "from": "105.16.28.2",
             "ttl": 243,
-            "size": 140
+            "from": "105.16.28.2",
+            "size": 140,
+            "rtt": 227.76
           },
           {
-            "rtt": 225.447,
-            "from": "105.16.28.2",
             "ttl": 243,
-            "size": 140
+            "from": "105.16.28.2",
+            "size": 140,
+            "rtt": 225.447
           },
           {
-            "rtt": 226.356,
-            "from": "105.16.28.2",
             "ttl": 243,
-            "size": 140
+            "from": "105.16.28.2",
+            "size": 140,
+            "rtt": 226.356
           }
         ],
         "hop": 4
@@ -1821,25 +1807,25 @@
       {
         "result": [
           {
-            "rtt": 227.061,
-            "from": "105.16.8.210",
             "ttl": 244,
+            "from": "105.16.8.210",
             "size": 140,
-            "ittl": 2
+            "ittl": 2,
+            "rtt": 227.061
           },
           {
-            "rtt": 225.564,
-            "from": "105.16.8.210",
             "ttl": 244,
+            "from": "105.16.8.210",
             "size": 140,
-            "ittl": 2
+            "ittl": 2,
+            "rtt": 225.564
           },
           {
-            "rtt": 225.729,
-            "from": "105.16.8.210",
             "ttl": 244,
+            "from": "105.16.8.210",
             "size": 140,
-            "ittl": 2
+            "ittl": 2,
+            "rtt": 225.729
           }
         ],
         "hop": 5
@@ -1847,25 +1833,25 @@
       {
         "result": [
           {
-            "rtt": 224.241,
-            "from": "105.16.9.201",
             "ttl": 245,
+            "from": "105.16.9.201",
             "size": 140,
-            "ittl": 3
+            "ittl": 3,
+            "rtt": 224.241
           },
           {
-            "rtt": 225.459,
-            "from": "105.16.9.201",
             "ttl": 245,
+            "from": "105.16.9.201",
             "size": 140,
-            "ittl": 3
+            "ittl": 3,
+            "rtt": 225.459
           },
           {
-            "rtt": 225.654,
-            "from": "105.16.9.201",
             "ttl": 245,
+            "from": "105.16.9.201",
             "size": 140,
-            "ittl": 3
+            "ittl": 3,
+            "rtt": 225.654
           }
         ],
         "hop": 6
@@ -1873,25 +1859,25 @@
       {
         "result": [
           {
-            "rtt": 228.101,
-            "from": "105.16.9.233",
             "ttl": 246,
+            "from": "105.16.9.233",
             "size": 140,
-            "ittl": 4
+            "ittl": 4,
+            "rtt": 228.101
           },
           {
-            "rtt": 225.209,
-            "from": "105.16.9.233",
             "ttl": 246,
+            "from": "105.16.9.233",
             "size": 140,
-            "ittl": 4
+            "ittl": 4,
+            "rtt": 225.209
           },
           {
-            "rtt": 225.801,
-            "from": "105.16.9.233",
             "ttl": 246,
+            "from": "105.16.9.233",
             "size": 140,
-            "ittl": 4
+            "ittl": 4,
+            "rtt": 225.801
           }
         ],
         "hop": 7
@@ -1899,22 +1885,22 @@
       {
         "result": [
           {
-            "rtt": 231.304,
-            "from": "105.16.8.42",
             "ttl": 247,
-            "size": 28
+            "from": "105.16.8.42",
+            "size": 28,
+            "rtt": 231.304
           },
           {
-            "rtt": 223.85,
-            "from": "105.16.8.42",
             "ttl": 247,
-            "size": 28
+            "from": "105.16.8.42",
+            "size": 28,
+            "rtt": 223.85
           },
           {
-            "rtt": 223.826,
-            "from": "105.16.8.42",
             "ttl": 247,
-            "size": 28
+            "from": "105.16.8.42",
+            "size": 28,
+            "rtt": 223.826
           }
         ],
         "hop": 8
@@ -1922,28 +1908,53 @@
       {
         "result": [
           {
-            "rtt": 223.98,
-            "from": "105.21.64.46",
             "ttl": 55,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 223.98
           },
           {
-            "rtt": 224.678,
-            "from": "105.21.64.46",
             "ttl": 55,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 224.678
           },
           {
-            "rtt": 223.934,
-            "from": "105.21.64.46",
             "ttl": 55,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 223.934
           }
         ],
         "hop": 9
       }
     ],
+    "msm_id": 3749230,
+    "dst_prb_id": 24600,
+    "via_ixp": false,
+    "ixps": [],
+    "dst_rtts": [
+      223.98,
+      224.678,
+      223.934
+    ],
+    "src_prb_id": 14951,
+    "as_links": {
+      "nodes": [
+        "AS37100",
+        "AS3491"
+      ],
+      "links": [
+        {
+          "dst": "AS37100",
+          "type": "i",
+          "src": "AS3491"
+        }
+      ]
+    },
     "in_country": false,
+    "tracetxt": "## msm_id:3749230 prb_id:14951 dst:105.21.64.46 ts:2016-05-03 12:12:50 -00:00\n1 (AS3491) 63-223-24-73.static.pccwglobal.net [0.352, 0.394, 0.52] ||\n2 (AS3491) ge0-0-1-6.br01.jnb01.pccwbtn.net [72.153, 72.578, 72.84] ||\n3 * * *\n4 (AS37100) ae-2.cr-02-jnb.za.seacomnet.com [225.447, 226.356, 227.76] |Johannesburg,Gauteng,ZA|\n5 (AS37100) xe-0-0-0-0.cr-02-emg.za.seacomnet.com [225.564, 225.729, 227.061] |Empangeni,KwaZulu-Natal,ZA|\n6 (AS37100) xe-0-0-0-1.cr-02-mba.ke.seacomnet.com [224.241, 225.459, 225.654] ||\n7 (AS37100) so-0-7-1-0.cr-02-nbo.ke.seacomnet.com [225.209, 225.801, 228.101] ||\n8 (AS37100) ge-1-1-0-0.er-01-ebb.ug.seacomnet.com [223.826, 223.85, 231.304] ||\n9 (AS37100) pb-01-ebb.ug.seacomnet.com [223.934, 223.98, 224.678] ||\n",
+    "ts": 1462277570,
     "locations": [
       "Empangeni,KwaZulu-Natal,ZA",
       "Johannesburg,Gauteng,ZA"
@@ -1951,14 +1962,13 @@
     "protocol": 4,
     "geojson": [
       {
-        "type": "LineString",
         "properties": {
-          "is_direct": false,
           "dasn": "37100",
+          "is_direct": false,
           "asn": null,
           "sasn": "3491",
-          "dloc": "Johannesburg,Gauteng,ZA",
-          "sloc": "Probe"
+          "sloc": "Probe",
+          "dloc": "Johannesburg,Gauteng,ZA"
         },
         "coordinates": [
           [
@@ -1969,17 +1979,17 @@
             "28.04363",
             "-26.20227"
           ]
-        ]
+        ],
+        "type": "LineString"
       },
       {
-        "type": "LineString",
         "properties": {
-          "is_direct": true,
           "dasn": "37100",
+          "is_direct": true,
           "asn": "37100",
           "sasn": "37100",
-          "dloc": "Empangeni,KwaZulu-Natal,ZA",
-          "sloc": "Johannesburg,Gauteng,ZA"
+          "sloc": "Johannesburg,Gauteng,ZA",
+          "dloc": "Empangeni,KwaZulu-Natal,ZA"
         },
         "coordinates": [
           [
@@ -1990,17 +2000,17 @@
             "31.89329",
             "-28.76197"
           ]
-        ]
+        ],
+        "type": "LineString"
       },
       {
-        "type": "LineString",
         "properties": {
-          "is_direct": false,
           "dasn": 37100,
+          "is_direct": false,
           "asn": null,
           "sasn": "37100",
-          "dloc": "Probe",
-          "sloc": "Empangeni,KwaZulu-Natal,ZA"
+          "sloc": "Empangeni,KwaZulu-Natal,ZA",
+          "dloc": "Probe"
         },
         "coordinates": [
           [
@@ -2011,56 +2021,32 @@
             32.5775,
             0.3475
           ]
-        ]
+        ],
+        "type": "LineString"
       }
-    ],
-    "dst_prb_id": 24600,
-    "dst_rtts": [
-      223.98,
-      224.678,
-      223.934
-    ],
-    "ts": 1462277570,
-    "msm_id": 3749230,
-    "via_ixp": false,
-    "tracetxt": "## msm_id:3749230 prb_id:14951 dst:105.21.64.46 ts:2016-05-03 12:12:50 -00:00\n1 (AS3491) 63-223-24-73.static.pccwglobal.net [0.352, 0.394, 0.52] ||\n2 (AS3491) ge0-0-1-6.br01.jnb01.pccwbtn.net [72.153, 72.578, 72.84] ||\n3 err:{u'x': u'*'}\n4 (AS37100) ae-2.cr-02-jnb.za.seacomnet.com [225.447, 226.356, 227.76] |Johannesburg,Gauteng,ZA|\n5 (AS37100) xe-0-0-0-0.cr-02-emg.za.seacomnet.com [225.564, 225.729, 227.061] |Empangeni,KwaZulu-Natal,ZA|\n6 (AS37100) xe-0-0-0-1.cr-02-mba.ke.seacomnet.com [224.241, 225.459, 225.654] ||\n7 (AS37100) so-0-7-1-0.cr-02-nbo.ke.seacomnet.com [225.209, 225.801, 228.101] ||\n8 (AS37100) ge-1-1-0-0.er-01-ebb.ug.seacomnet.com [223.826, 223.85, 231.304] ||\n9 (AS37100) pb-01-ebb.ug.seacomnet.com [223.934, 223.98, 224.678] ||\n"
+    ]
   },
   {
-    "src_prb_id": 23471,
-    "as_links": {
-      "links": [
-        {
-          "type": "d",
-          "src": "AS37063",
-          "dst": "AS37100"
-        }
-      ],
-      "nodes": [
-        "AS37063",
-        "AS37100"
-      ]
-    },
-    "ixps": [],
     "result": [
       {
         "result": [
           {
-            "rtt": 2.509,
-            "from": "10.20.21.253",
             "ttl": 64,
-            "size": 76
+            "from": "10.20.21.253",
+            "size": 76,
+            "rtt": 2.509
           },
           {
-            "rtt": 2.02,
-            "from": "10.20.21.253",
             "ttl": 64,
-            "size": 76
+            "from": "10.20.21.253",
+            "size": 76,
+            "rtt": 2.02
           },
           {
-            "rtt": 1.863,
-            "from": "10.20.21.253",
             "ttl": 64,
-            "size": 76
+            "from": "10.20.21.253",
+            "size": 76,
+            "rtt": 1.863
           }
         ],
         "hop": 1
@@ -2068,22 +2054,22 @@
       {
         "result": [
           {
-            "rtt": 5.759,
-            "from": "41.77.73.209",
             "ttl": 254,
-            "size": 28
+            "from": "41.77.73.209",
+            "size": 28,
+            "rtt": 5.759
           },
           {
-            "rtt": 9.989,
-            "from": "41.77.73.209",
             "ttl": 254,
-            "size": 28
+            "from": "41.77.73.209",
+            "size": 28,
+            "rtt": 9.989
           },
           {
-            "rtt": 30.006,
-            "from": "41.77.73.209",
             "ttl": 254,
-            "size": 28
+            "from": "41.77.73.209",
+            "size": 28,
+            "rtt": 30.006
           }
         ],
         "hop": 2
@@ -2091,22 +2077,22 @@
       {
         "result": [
           {
-            "rtt": 6.081,
-            "from": "154.0.142.246",
             "ttl": 253,
-            "size": 28
+            "from": "154.0.142.246",
+            "size": 28,
+            "rtt": 6.081
           },
           {
-            "rtt": 6.02,
-            "from": "154.0.142.246",
             "ttl": 253,
-            "size": 28
+            "from": "154.0.142.246",
+            "size": 28,
+            "rtt": 6.02
           },
           {
-            "rtt": 5.823,
-            "from": "154.0.142.246",
             "ttl": 253,
-            "size": 28
+            "from": "154.0.142.246",
+            "size": 28,
+            "rtt": 5.823
           }
         ],
         "hop": 3
@@ -2114,75 +2100,75 @@
       {
         "result": [
           {
+            "ttl": 252,
+            "from": "154.0.142.227",
+            "size": 140,
             "rtt": 6.332,
-            "from": "154.0.142.227",
-            "size": 140,
-            "ttl": 252,
             "icmpext": {
-              "version": 2,
+              "rfc4884": 0,
               "obj": [
                 {
+                  "class": 1,
                   "type": 1,
                   "mpls": [
                     {
-                      "exp": 0,
-                      "label": 308368,
                       "ttl": 1,
-                      "s": 1
+                      "exp": 0,
+                      "s": 1,
+                      "label": 308368
                     }
-                  ],
-                  "class": 1
+                  ]
                 }
               ],
-              "rfc4884": 0
+              "version": 2
             }
           },
           {
+            "ttl": 252,
+            "from": "154.0.142.227",
+            "size": 140,
             "rtt": 6.238,
-            "from": "154.0.142.227",
-            "size": 140,
-            "ttl": 252,
             "icmpext": {
-              "version": 2,
+              "rfc4884": 0,
               "obj": [
                 {
+                  "class": 1,
                   "type": 1,
                   "mpls": [
                     {
-                      "exp": 0,
-                      "label": 308368,
                       "ttl": 1,
-                      "s": 1
+                      "exp": 0,
+                      "s": 1,
+                      "label": 308368
                     }
-                  ],
-                  "class": 1
+                  ]
                 }
               ],
-              "rfc4884": 0
+              "version": 2
             }
           },
           {
-            "rtt": 6.003,
+            "ttl": 252,
             "from": "154.0.142.227",
             "size": 140,
-            "ttl": 252,
+            "rtt": 6.003,
             "icmpext": {
-              "version": 2,
+              "rfc4884": 0,
               "obj": [
                 {
+                  "class": 1,
                   "type": 1,
                   "mpls": [
                     {
-                      "exp": 0,
-                      "label": 308368,
                       "ttl": 1,
-                      "s": 1
+                      "exp": 0,
+                      "s": 1,
+                      "label": 308368
                     }
-                  ],
-                  "class": 1
+                  ]
                 }
               ],
-              "rfc4884": 0
+              "version": 2
             }
           }
         ],
@@ -2191,22 +2177,22 @@
       {
         "result": [
           {
-            "rtt": 5.922,
-            "from": "154.0.142.236",
             "ttl": 251,
-            "size": 28
+            "from": "154.0.142.236",
+            "size": 28,
+            "rtt": 5.922
           },
           {
-            "rtt": 6.062,
-            "from": "154.0.142.236",
             "ttl": 251,
-            "size": 28
+            "from": "154.0.142.236",
+            "size": 28,
+            "rtt": 6.062
           },
           {
-            "rtt": 5.812,
-            "from": "154.0.142.236",
             "ttl": 251,
-            "size": 28
+            "from": "154.0.142.236",
+            "size": 28,
+            "rtt": 5.812
           }
         ],
         "hop": 5
@@ -2214,22 +2200,22 @@
       {
         "result": [
           {
-            "rtt": 6.053,
-            "from": "105.21.72.17",
             "ttl": 250,
-            "size": 28
+            "from": "105.21.72.17",
+            "size": 28,
+            "rtt": 6.053
           },
           {
-            "rtt": 6.295,
-            "from": "105.21.72.17",
             "ttl": 250,
-            "size": 28
+            "from": "105.21.72.17",
+            "size": 28,
+            "rtt": 6.295
           },
           {
-            "rtt": 6.075,
-            "from": "105.21.72.17",
             "ttl": 250,
-            "size": 28
+            "from": "105.21.72.17",
+            "size": 28,
+            "rtt": 6.075
           }
         ],
         "hop": 6
@@ -2237,22 +2223,22 @@
       {
         "result": [
           {
-            "rtt": 5.78,
-            "from": "105.16.8.101",
             "ttl": 249,
-            "size": 28
+            "from": "105.16.8.101",
+            "size": 28,
+            "rtt": 5.78
           },
           {
-            "rtt": 7.629,
-            "from": "105.16.8.101",
             "ttl": 249,
-            "size": 28
+            "from": "105.16.8.101",
+            "size": 28,
+            "rtt": 7.629
           },
           {
-            "rtt": 2.391,
-            "from": "105.16.8.101",
             "ttl": 249,
-            "size": 28
+            "from": "105.16.8.101",
+            "size": 28,
+            "rtt": 2.391
           }
         ],
         "hop": 7
@@ -2260,28 +2246,53 @@
       {
         "result": [
           {
-            "rtt": 6.067,
-            "from": "105.21.64.46",
             "ttl": 57,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 6.067
           },
           {
-            "rtt": 9.479,
-            "from": "105.21.64.46",
             "ttl": 57,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 9.479
           },
           {
-            "rtt": 5.974,
-            "from": "105.21.64.46",
             "ttl": 57,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 5.974
           }
         ],
         "hop": 8
       }
     ],
+    "msm_id": 3749230,
+    "dst_prb_id": 24600,
+    "via_ixp": false,
+    "ixps": [],
+    "dst_rtts": [
+      6.067,
+      9.479,
+      5.974
+    ],
+    "src_prb_id": 23471,
+    "as_links": {
+      "nodes": [
+        "AS37063",
+        "AS37100"
+      ],
+      "links": [
+        {
+          "dst": "AS37100",
+          "type": "d",
+          "src": "AS37063"
+        }
+      ]
+    },
     "in_country": true,
+    "tracetxt": "## msm_id:3749230 prb_id:23471 dst:105.21.64.46 ts:2016-05-03 12:12:49 -00:00\n1 () 10.20.21.253 [1.863, 2.02, 2.509] ||\n2 (AS37063) 41.77.73.209 [5.759, 9.989, 30.006] ||\n3 (AS37063) rh-dce-1.ug-int--rh-dce-1.ug-sub-1.roketelkom.net [5.823, 6.02, 6.081] |Kampala,Central Region,UG|\n4 (AS37063) 154.0.142.227 [6.003, 6.238, 6.332] ||\n5 (AS37063) 154.0.142.236 [5.812, 5.922, 6.062] ||\n6 (AS37100) ae-2-25.er-02-ebb.ug.seacomnet.com [6.053, 6.075, 6.295] |Entebbe,Central Region,UG|\n7 (AS37100) ae-3-0.er-01-ebb.ug.seacomnet.com [2.391, 5.78, 7.629] ||\n8 (AS37100) pb-01-ebb.ug.seacomnet.com [5.974, 6.067, 9.479] ||\n",
+    "ts": 1462277569,
     "locations": [
       "Entebbe,Central Region,UG",
       "Kampala,Central Region,UG"
@@ -2289,14 +2300,13 @@
     "protocol": 4,
     "geojson": [
       {
-        "type": "LineString",
         "properties": {
-          "is_direct": false,
           "dasn": "37063",
+          "is_direct": false,
           "asn": "37063",
           "sasn": "37063",
-          "dloc": "Kampala,Central Region,UG",
-          "sloc": "Probe"
+          "sloc": "Probe",
+          "dloc": "Kampala,Central Region,UG"
         },
         "coordinates": [
           [
@@ -2307,17 +2317,17 @@
             "32.58219",
             "0.31628"
           ]
-        ]
+        ],
+        "type": "LineString"
       },
       {
-        "type": "LineString",
         "properties": {
-          "is_direct": false,
           "dasn": "37100",
+          "is_direct": false,
           "asn": null,
           "sasn": "37063",
-          "dloc": "Entebbe,Central Region,UG",
-          "sloc": "Kampala,Central Region,UG"
+          "sloc": "Kampala,Central Region,UG",
+          "dloc": "Entebbe,Central Region,UG"
         },
         "coordinates": [
           [
@@ -2328,17 +2338,17 @@
             "32.44694",
             "0.06444"
           ]
-        ]
+        ],
+        "type": "LineString"
       },
       {
-        "type": "LineString",
         "properties": {
-          "is_direct": false,
           "dasn": 37100,
+          "is_direct": false,
           "asn": null,
           "sasn": "37100",
-          "dloc": "Probe",
-          "sloc": "Entebbe,Central Region,UG"
+          "sloc": "Entebbe,Central Region,UG",
+          "dloc": "Probe"
         },
         "coordinates": [
           [
@@ -2349,62 +2359,32 @@
             32.5775,
             0.3475
           ]
-        ]
+        ],
+        "type": "LineString"
       }
-    ],
-    "dst_prb_id": 24600,
-    "dst_rtts": [
-      6.067,
-      9.479,
-      5.974
-    ],
-    "ts": 1462277569,
-    "msm_id": 3749230,
-    "via_ixp": false,
-    "tracetxt": "## msm_id:3749230 prb_id:23471 dst:105.21.64.46 ts:2016-05-03 12:12:49 -00:00\n1 () 10.20.21.253 [1.863, 2.02, 2.509] ||\n2 (AS37063) 41.77.73.209 [5.759, 9.989, 30.006] ||\n3 (AS37063) rh-dce-1.ug-int--rh-dce-1.ug-sub-1.roketelkom.net [5.823, 6.02, 6.081] |Kampala,Central Region,UG|\n4 (AS37063) 154.0.142.227 [6.003, 6.238, 6.332] ||\n5 (AS37063) 154.0.142.236 [5.812, 5.922, 6.062] ||\n6 (AS37100) ae-2-25.er-02-ebb.ug.seacomnet.com [6.053, 6.075, 6.295] |Entebbe,Central Region,UG|\n7 (AS37100) ae-3-0.er-01-ebb.ug.seacomnet.com [2.391, 5.78, 7.629] ||\n8 (AS37100) pb-01-ebb.ug.seacomnet.com [5.974, 6.067, 9.479] ||\n"
+    ]
   },
   {
-    "src_prb_id": 24311,
-    "as_links": {
-      "links": [
-        {
-          "type": "d",
-          "src": "AS30844",
-          "dst": "AS37100"
-        },
-        {
-          "type": "d",
-          "src": "AS36997",
-          "dst": "AS30844"
-        }
-      ],
-      "nodes": [
-        "AS37100",
-        "AS30844",
-        "AS36997"
-      ]
-    },
-    "ixps": [],
     "result": [
       {
         "result": [
           {
-            "rtt": 0.642,
-            "from": "192.168.88.1",
             "ttl": 64,
-            "size": 76
+            "from": "192.168.88.1",
+            "size": 76,
+            "rtt": 0.642
           },
           {
-            "rtt": 0.428,
-            "from": "192.168.88.1",
             "ttl": 64,
-            "size": 76
+            "from": "192.168.88.1",
+            "size": 76,
+            "rtt": 0.428
           },
           {
-            "rtt": 0.391,
-            "from": "192.168.88.1",
             "ttl": 64,
-            "size": 76
+            "from": "192.168.88.1",
+            "size": 76,
+            "rtt": 0.391
           }
         ],
         "hop": 1
@@ -2412,22 +2392,22 @@
       {
         "result": [
           {
-            "rtt": 12.483,
-            "from": "41.190.131.53",
             "ttl": 254,
-            "size": 28
+            "from": "41.190.131.53",
+            "size": 28,
+            "rtt": 12.483
           },
           {
-            "rtt": 14.432,
-            "from": "41.190.131.53",
             "ttl": 254,
-            "size": 28
+            "from": "41.190.131.53",
+            "size": 28,
+            "rtt": 14.432
           },
           {
-            "rtt": 12.359,
-            "from": "41.190.131.53",
             "ttl": 254,
-            "size": 28
+            "from": "41.190.131.53",
+            "size": 28,
+            "rtt": 12.359
           }
         ],
         "hop": 2
@@ -2435,22 +2415,22 @@
       {
         "result": [
           {
-            "rtt": 12.082,
-            "from": "41.222.0.10",
             "ttl": 253,
-            "size": 28
+            "from": "41.222.0.10",
+            "size": 28,
+            "rtt": 12.082
           },
           {
-            "rtt": 12.215,
-            "from": "41.222.0.10",
             "ttl": 253,
-            "size": 28
+            "from": "41.222.0.10",
+            "size": 28,
+            "rtt": 12.215
           },
           {
-            "rtt": 12.354,
-            "from": "41.222.0.10",
             "ttl": 253,
-            "size": 28
+            "from": "41.222.0.10",
+            "size": 28,
+            "rtt": 12.354
           }
         ],
         "hop": 3
@@ -2458,22 +2438,22 @@
       {
         "result": [
           {
-            "rtt": 12.875,
-            "from": "41.222.1.54",
             "ttl": 252,
-            "size": 68
+            "from": "41.222.1.54",
+            "size": 68,
+            "rtt": 12.875
           },
           {
-            "rtt": 12.769,
-            "from": "41.222.1.54",
             "ttl": 252,
-            "size": 68
+            "from": "41.222.1.54",
+            "size": 68,
+            "rtt": 12.769
           },
           {
-            "rtt": 12.357,
-            "from": "41.222.1.54",
             "ttl": 252,
-            "size": 68
+            "from": "41.222.1.54",
+            "size": 68,
+            "rtt": 12.357
           }
         ],
         "hop": 4
@@ -2481,22 +2461,22 @@
       {
         "result": [
           {
-            "rtt": 20.388,
-            "from": "197.155.94.22",
             "ttl": 247,
-            "size": 140
+            "from": "197.155.94.22",
+            "size": 140,
+            "rtt": 20.388
           },
           {
-            "rtt": 21.89,
-            "from": "197.155.94.22",
             "ttl": 247,
-            "size": 140
+            "from": "197.155.94.22",
+            "size": 140,
+            "rtt": 21.89
           },
           {
-            "rtt": 20.46,
-            "from": "197.155.94.22",
             "ttl": 247,
-            "size": 140
+            "from": "197.155.94.22",
+            "size": 140,
+            "rtt": 20.46
           }
         ],
         "hop": 5
@@ -2504,25 +2484,25 @@
       {
         "result": [
           {
-            "rtt": 20.77,
-            "from": "197.155.94.68",
             "ttl": 248,
+            "from": "197.155.94.68",
             "size": 140,
-            "ittl": 2
+            "ittl": 2,
+            "rtt": 20.77
           },
           {
-            "rtt": 20.689,
-            "from": "197.155.94.68",
             "ttl": 248,
+            "from": "197.155.94.68",
             "size": 140,
-            "ittl": 2
+            "ittl": 2,
+            "rtt": 20.689
           },
           {
-            "rtt": 20.53,
-            "from": "197.155.94.68",
             "ttl": 248,
+            "from": "197.155.94.68",
             "size": 140,
-            "ittl": 2
+            "ittl": 2,
+            "rtt": 20.53
           }
         ],
         "hop": 6
@@ -2530,22 +2510,22 @@
       {
         "result": [
           {
-            "rtt": 20.449,
-            "from": "197.155.94.7",
             "ttl": 249,
-            "size": 68
+            "from": "197.155.94.7",
+            "size": 68,
+            "rtt": 20.449
           },
           {
-            "rtt": 20.241,
-            "from": "197.155.94.7",
             "ttl": 249,
-            "size": 68
+            "from": "197.155.94.7",
+            "size": 68,
+            "rtt": 20.241
           },
           {
-            "rtt": 21.404,
-            "from": "197.155.94.7",
             "ttl": 249,
-            "size": 68
+            "from": "197.155.94.7",
+            "size": 68,
+            "rtt": 21.404
           }
         ],
         "hop": 7
@@ -2553,22 +2533,22 @@
       {
         "result": [
           {
-            "rtt": 20.806,
-            "from": "105.16.6.17",
             "ttl": 248,
-            "size": 28
+            "from": "105.16.6.17",
+            "size": 28,
+            "rtt": 20.806
           },
           {
-            "rtt": 19.817,
-            "from": "105.16.6.17",
             "ttl": 248,
-            "size": 28
+            "from": "105.16.6.17",
+            "size": 28,
+            "rtt": 19.817
           },
           {
-            "rtt": 20.0,
-            "from": "105.16.6.17",
             "ttl": 248,
-            "size": 28
+            "from": "105.16.6.17",
+            "size": 28,
+            "rtt": 20.0
           }
         ],
         "hop": 8
@@ -2576,22 +2556,22 @@
       {
         "result": [
           {
-            "rtt": 32.377,
-            "from": "105.16.19.2",
             "ttl": 245,
-            "size": 140
+            "from": "105.16.19.2",
+            "size": 140,
+            "rtt": 32.377
           },
           {
-            "rtt": 30.219,
-            "from": "105.16.19.2",
             "ttl": 245,
-            "size": 140
+            "from": "105.16.19.2",
+            "size": 140,
+            "rtt": 30.219
           },
           {
-            "rtt": 28.851,
-            "from": "105.16.19.2",
             "ttl": 245,
-            "size": 140
+            "from": "105.16.19.2",
+            "size": 140,
+            "rtt": 28.851
           }
         ],
         "hop": 9
@@ -2599,22 +2579,22 @@
       {
         "result": [
           {
-            "rtt": 29.325,
-            "from": "105.16.8.42",
             "ttl": 246,
-            "size": 28
+            "from": "105.16.8.42",
+            "size": 28,
+            "rtt": 29.325
           },
           {
-            "rtt": 28.319,
-            "from": "105.16.8.42",
             "ttl": 246,
-            "size": 28
+            "from": "105.16.8.42",
+            "size": 28,
+            "rtt": 28.319
           },
           {
-            "rtt": 28.44,
-            "from": "105.16.8.42",
             "ttl": 246,
-            "size": 28
+            "from": "105.16.8.42",
+            "size": 28,
+            "rtt": 28.44
           }
         ],
         "hop": 10
@@ -2622,42 +2602,72 @@
       {
         "result": [
           {
-            "rtt": 28.61,
-            "from": "105.21.64.46",
             "ttl": 54,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 28.61
           },
           {
-            "rtt": 28.48,
-            "from": "105.21.64.46",
             "ttl": 54,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 28.48
           },
           {
-            "rtt": 28.472,
-            "from": "105.21.64.46",
             "ttl": 54,
-            "size": 48
+            "from": "105.21.64.46",
+            "size": 48,
+            "rtt": 28.472
           }
         ],
         "hop": 11
       }
     ],
+    "msm_id": 3749230,
+    "dst_prb_id": 24600,
+    "via_ixp": false,
+    "ixps": [],
+    "dst_rtts": [
+      28.61,
+      28.48,
+      28.472
+    ],
+    "src_prb_id": 24311,
+    "as_links": {
+      "nodes": [
+        "AS37100",
+        "AS30844",
+        "AS36997"
+      ],
+      "links": [
+        {
+          "dst": "AS37100",
+          "type": "d",
+          "src": "AS30844"
+        },
+        {
+          "dst": "AS30844",
+          "type": "d",
+          "src": "AS36997"
+        }
+      ]
+    },
     "in_country": true,
+    "tracetxt": "## msm_id:3749230 prb_id:24311 dst:105.21.64.46 ts:2016-05-03 12:12:48 -00:00\n1 () 192.168.88.1 [0.391, 0.428, 0.642] ||\n2 (AS36997) static-41-190-131-53.metronet.imul.com [12.359, 12.483, 14.432] ||\n3 (AS36997) bb-rtr-cont.imul.com [12.082, 12.215, 12.354] ||\n4 (AS36997) static-41-222-1-54.metronet.imul.com [12.357, 12.769, 12.875] ||\n5 (AS30844) teng0-0-1-0-p1-kpl.liquidtelecom.net [20.388, 20.46, 21.89] |Kampala,Central Region,UG|\n6 (AS30844) teng0-1-1-1.lke-p1-nbi.liquidtelecom.net [20.53, 20.689, 20.77] ||\n7 (AS30844) teng0-0-1-0-pe1-nbi.liquidtelecom.net [20.241, 20.449, 21.404] ||\n8 (AS37100) ge-0-0-0.pp-01-nbo.ke.seacomnet.com [19.817, 20.0, 20.806] ||\n9 (AS37100) ae-1.cr-02-nbo.ke.seacomnet.com [28.851, 30.219, 32.377] ||\n10 (AS37100) ge-1-1-0-0.er-01-ebb.ug.seacomnet.com [28.319, 28.44, 29.325] ||\n11 (AS37100) pb-01-ebb.ug.seacomnet.com [28.472, 28.48, 28.61] ||\n",
+    "ts": 1462277568,
     "locations": [
       "Kampala,Central Region,UG"
     ],
     "protocol": 4,
     "geojson": [
       {
-        "type": "LineString",
         "properties": {
-          "is_direct": false,
           "dasn": "30844",
+          "is_direct": false,
           "asn": null,
           "sasn": "36997",
-          "dloc": "Kampala,Central Region,UG",
-          "sloc": "Probe"
+          "sloc": "Probe",
+          "dloc": "Kampala,Central Region,UG"
         },
         "coordinates": [
           [
@@ -2668,17 +2678,17 @@
             "32.58219",
             "0.31628"
           ]
-        ]
+        ],
+        "type": "LineString"
       },
       {
-        "type": "LineString",
         "properties": {
-          "is_direct": false,
           "dasn": 37100,
+          "is_direct": false,
           "asn": null,
           "sasn": "30844",
-          "dloc": "Probe",
-          "sloc": "Kampala,Central Region,UG"
+          "sloc": "Kampala,Central Region,UG",
+          "dloc": "Probe"
         },
         "coordinates": [
           [
@@ -2689,18 +2699,9 @@
             32.5775,
             0.3475
           ]
-        ]
+        ],
+        "type": "LineString"
       }
-    ],
-    "dst_prb_id": 24600,
-    "dst_rtts": [
-      28.61,
-      28.48,
-      28.472
-    ],
-    "ts": 1462277568,
-    "msm_id": 3749230,
-    "via_ixp": false,
-    "tracetxt": "## msm_id:3749230 prb_id:24311 dst:105.21.64.46 ts:2016-05-03 12:12:48 -00:00\n1 () 192.168.88.1 [0.391, 0.428, 0.642] ||\n2 (AS36997) static-41-190-131-53.metronet.imul.com [12.359, 12.483, 14.432] ||\n3 (AS36997) bb-rtr-cont.imul.com [12.082, 12.215, 12.354] ||\n4 (AS36997) static-41-222-1-54.metronet.imul.com [12.357, 12.769, 12.875] ||\n5 (AS30844) teng0-0-1-0-p1-kpl.liquidtelecom.net [20.388, 20.46, 21.89] |Kampala,Central Region,UG|\n6 (AS30844) teng0-1-1-1.lke-p1-nbi.liquidtelecom.net [20.53, 20.689, 20.77] ||\n7 (AS30844) teng0-0-1-0-pe1-nbi.liquidtelecom.net [20.241, 20.449, 21.404] ||\n8 (AS37100) ge-0-0-0.pp-01-nbo.ke.seacomnet.com [19.817, 20.0, 20.806] ||\n9 (AS37100) ae-1.cr-02-nbo.ke.seacomnet.com [28.851, 30.219, 32.377] ||\n10 (AS37100) ge-1-1-0-0.er-01-ebb.ug.seacomnet.com [28.319, 28.44, 29.325] ||\n11 (AS37100) pb-01-ebb.ug.seacomnet.com [28.472, 28.48, 28.61] ||\n"
+    ]
   }
 ]

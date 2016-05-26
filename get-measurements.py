@@ -75,7 +75,6 @@ def filter_cruft( data ):
         for hop_idx, hop in enumerate( res ):
             if 'result' in hop:
                 hop['result'] = [hr for hr in hop['result'] if 'edst' not in hr]
-
                 #for hr_idx, hr in enumerate( hop['result'] ):
                 #    if 'edst' in hr:
                 #        print >>sys.stderr, "EE %s" % hop
